@@ -1,0 +1,54 @@
+{
+    "105": {
+        "1": {
+            "chapterid": 105,
+            "verse_id": 1,
+            "verse": {
+                "id": "Tidakkah engkau (Nabi Muhammad) memperhatikan bagaimana Tuhanmu telah bertindak terhadap pasukan bergajah?"
+            },
+            "labels": {
+                "id": "Tidakkah/O engkau/O (/O Nabi/O Muhammad/Messenger )/O memperhatikan/O bagaimana/O Tuhanmu/O telah/O bertindak/O terhadap/O pasukan/O bergajah/O?/O"
+            }
+        },
+        "2": {
+            "chapterid": 105,
+            "verse_id": 2,
+            "verse": {
+                "id": "Bukankah Dia telah menjadikan tipu daya mereka itu sia-sia?"
+            },
+            "labels": {
+                "id": "Bukankah/O Dia/O telah/O menjadikan/O tipu/O daya/O mereka/O itu/O sia-sia/O?/O"
+            }
+        },
+        "3": {
+            "chapterid": 105,
+            "verse_id": 3,
+            "verse": {
+                "id": "Dia mengirimkan kepada mereka burung yang berbondong-bondong"
+            },
+            "labels": {
+                "id": "Dia/O mengirimkan/O kepada/O mereka/O burung/O yang/O berbondong-bondong/O"
+            }
+        },
+        "4": {
+            "chapterid": 105,
+            "verse_id": 4,
+            "verse": {
+                "id": "yang melempari mereka dengan batu dari tanah liat yang dibakar,"
+            },
+            "labels": {
+                "id": "yang/O melempari/O mereka/O dengan/O batu/O dari/O tanah/O liat/O yang/O dibakar/O,/O"
+            }
+        },
+        "5": {
+            "chapterid": 105,
+            "verse_id": 5,
+            "verse": {
+                "id": "sehingga Dia menjadikan mereka seperti daun-daun yang dimakan (ulat)."
+            },
+            "labels": {
+                "id": "sehingga/O Dia/O menjadikan/O mereka/O seperti/O daun-daun/O yang/O dimakan/O (/O ulat/O )/O./O"
+            }
+        }
+    }
+}

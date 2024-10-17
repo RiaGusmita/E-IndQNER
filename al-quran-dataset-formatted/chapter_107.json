@@ -1,0 +1,74 @@
+{
+    "107": {
+        "1": {
+            "chapterid": 107,
+            "verse_id": 1,
+            "verse": {
+                "id": "Tahukah kamu (orang) yang mendustakan agama?"
+            },
+            "labels": {
+                "id": "Tahukah/O kamu/O (/O orang/O )/O yang/O mendustakan/O agama/O?/O"
+            }
+        },
+        "2": {
+            "chapterid": 107,
+            "verse_id": 2,
+            "verse": {
+                "id": "Itulah orang yang menghardik anak yatim"
+            },
+            "labels": {
+                "id": "Itulah/O orang/O yang/O menghardik/O anak/O yatim/O"
+            }
+        },
+        "3": {
+            "chapterid": 107,
+            "verse_id": 3,
+            "verse": {
+                "id": "dan tidak menganjurkan untuk memberi makan orang miskin."
+            },
+            "labels": {
+                "id": "dan/O tidak/O menganjurkan/O untuk/O memberi/O makan/O orang/O miskin/O./O"
+            }
+        },
+        "4": {
+            "chapterid": 107,
+            "verse_id": 4,
+            "verse": {
+                "id": "Celakalah orang-orang yang melaksanakan salat,"
+            },
+            "labels": {
+                "id": "Celakalah/O orang-orang/O yang/O melaksanakan/O salat/O,/O"
+            }
+        },
+        "5": {
+            "chapterid": 107,
+            "verse_id": 5,
+            "verse": {
+                "id": "(yaitu) yang lalai terhadap salatnya,"
+            },
+            "labels": {
+                "id": "(/O yaitu/O )/O yang/O lalai/O terhadap/O salatnya/O,/O"
+            }
+        },
+        "6": {
+            "chapterid": 107,
+            "verse_id": 6,
+            "verse": {
+                "id": "yang berbuat riya,"
+            },
+            "labels": {
+                "id": "yang/O berbuat/O riya/O,/O"
+            }
+        },
+        "7": {
+            "chapterid": 107,
+            "verse_id": 7,
+            "verse": {
+                "id": "dan enggan (memberi) bantuan."
+            },
+            "labels": {
+                "id": "dan/O enggan/O (/O memberi/O )/O bantuan/O./O"
+            }
+        }
+    }
+}

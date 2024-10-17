@@ -1,0 +1,44 @@
+{
+    "106": {
+        "1": {
+            "chapterid": 106,
+            "verse_id": 1,
+            "verse": {
+                "id": "Disebabkan oleh kebiasaan orang-orang Quraisy,"
+            },
+            "labels": {
+                "id": "Disebabkan/O oleh/O kebiasaan/O orang-orang/O Quraisy/Person,/O"
+            }
+        },
+        "2": {
+            "chapterid": 106,
+            "verse_id": 2,
+            "verse": {
+                "id": "(yaitu) kebiasaan mereka bepergian pada musim dingin dan musim panas (sehingga mendapatkan banyak keuntungan),"
+            },
+            "labels": {
+                "id": "(/O yaitu/O )/O kebiasaan/O mereka/O bepergian/O pada/O musim/O dingin/O dan/O musim/O panas/O (/O sehingga/O mendapatkan/O banyak/O keuntungan/O )/O,/O"
+            }
+        },
+        "3": {
+            "chapterid": 106,
+            "verse_id": 3,
+            "verse": {
+                "id": "maka hendaklah mereka menyembah Tuhan (pemilik) rumah ini (Ka\u2018bah)"
+            },
+            "labels": {
+                "id": "maka/O hendaklah/O mereka/O menyembah/O Tuhan/O (/O pemilik/O )/O rumah/O ini/O (/O Ka\u2018bah/Artifact )/O"
+            }
+        },
+        "4": {
+            "chapterid": 106,
+            "verse_id": 4,
+            "verse": {
+                "id": "yang telah memberi mereka makanan untuk menghilangkan lapar dan mengamankan mereka dari rasa takut."
+            },
+            "labels": {
+                "id": "yang/O telah/O memberi/O mereka/O makanan/O untuk/O menghilangkan/O lapar/O dan/O mengamankan/O mereka/O dari/O rasa/O takut/O./O"
+            }
+        }
+    }
+}
