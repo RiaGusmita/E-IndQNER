@@ -49,8 +49,9 @@ def create_input_prompt(system_message, user_prompt):
             {"role": "user", "content": user_prompt},
         ]
     }
-base_model_name = "meta-llama/Meta-Llama-3-70B-Instruct"
+#base_model_name = "meta-llama/Meta-Llama-3-70B-Instruct"
 #base_model_name = "meta-llama/Llama-3.1-70B-Instruct"
+base_model_name = "results/llama-3.1-70B-finetune-model/checkpoint-1247"
 
 tokenizer = AutoTokenizer.from_pretrained(base_model_name, trust_remote_code=True)
 tokenizer.pad_token = tokenizer.eos_token
@@ -77,7 +78,8 @@ model.config.use_cache = False
 # More info: https://github.com/huggingface/transformers/pull/24906
 model.config.pretraining_tp = 1
 
-f = open("../new-datasets/test.txt", "r")
+#f = open("../new-datasets/test.txt", "r")
+f = open("../al-quran/112-Al_Ikhlas.txt", "r")
 sentences = f.readlines()
 for sentence in sentences:
     print(sentence.strip())
@@ -92,8 +94,10 @@ print(named_entity_classes_dict)
 named_entity_classes = [named_entity_class for named_entity_class in named_entity_classes_dict]
 print(named_entity_classes)
 
-predict_dict = dict()
+chapter_dict = dict()
 num = 0
+chapter_id = 112
+verses = dict()
 for sentence in sentences:
     num +=1
     system_message = f"""
@@ -120,8 +124,14 @@ for sentence in sentences:
     print(num)
     print(select_outputs)
     print("###############")
-    predict_dict[num] = select_outputs
+    verses[num] = {
+        "chapterid": chapter_id,
+        "verse_id": num,
+        "verse": {"id": sentence},
+        "labels": {"id": select_outputs}
+    }
+chapter_dict[chapter_id] = verses
 
 # Save the dictionary to a JSON file
-with open("results-zeroshot-attempt-1.json", "w") as json_file:
-    json.dump(predict_dict, json_file, indent=4)  # 'indent' adds formatting for readability
+with open(f"../al-quran-dataset-formatted/chapter_{chapter_id}.json", "w") as json_file:
+    json.dump(chapter_dict, json_file, indent=4)  # 'indent' adds formatting for readability
