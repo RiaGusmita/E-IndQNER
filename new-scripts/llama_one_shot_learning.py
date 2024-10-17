@@ -79,7 +79,7 @@ model.config.use_cache = False
 model.config.pretraining_tp = 1
 
 #f = open("../new-datasets/test.txt", "r")
-f = open("../al-quran/112-Al_Ikhlas.txt", "r")
+f = open("../al-quran/110-An_Nasr.txt", "r")
 sentences = f.readlines()
 for sentence in sentences:
     print(sentence.strip())
@@ -96,7 +96,7 @@ print(named_entity_classes)
 
 chapter_dict = dict()
 num = 0
-chapter_id = 112
+chapter_id = 110
 verses = dict()
 for sentence in sentences:
     num +=1
@@ -127,7 +127,7 @@ for sentence in sentences:
     verses[num] = {
         "chapterid": chapter_id,
         "verse_id": num,
-        "verse": {"id": sentence},
+        "verse": {"id": sentence.strip()},
         "labels": {"id": select_outputs}
     }
 chapter_dict[chapter_id] = verses
