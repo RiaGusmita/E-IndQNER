@@ -27,7 +27,7 @@
                 "id": "Tahukah kamu apakah al-\u1e24\u0101qqah itu?"
             },
             "labels": {
-                "id": "Tahukah/O kamu/O apakah/O al-\u1e24\u0101qqah/AfterlifeLocation itu/O?/O"
+                "id": "Tahukah/O kamu/O apakah/O al-\u1e24\u0101qqah/GeographicalLocation itu/O?/O"
             }
         },
         "4": {
@@ -127,7 +127,7 @@
                 "id": "Apabila sangkakala ditiup dengan sekali tiupan"
             },
             "labels": {
-                "id": "Apabila/O sangkakala/O ditiup/O dengan/O sekali/O tiupan/O (/O Sangkakala/O )/O./O"
+                "id": "Apabila/O sangkakala/O ditiup/O dengan/O sekali/O tiupan/O (/O Event/Event )/O"
             }
         },
         "14": {
@@ -207,7 +207,7 @@
                 "id": "Maka, ia berada dalam kehidupan yang menyenangkan"
             },
             "labels": {
-                "id": "Maka/O,/O ia/O berada/O dalam/O kehidupan/O yang/O menyenangkan/O./O"
+                "id": "Maka/O,/O ia/O berada/O dalam/O kehidupan/O yang/O menyenangkan/O"
             }
         },
         "22": {
@@ -247,7 +247,7 @@
                 "id": "Adapun orang yang diberi catatan amalnya di tangan kirinya berkata, \u201cSeandainya saja aku tidak diberi catatan amalku"
             },
             "labels": {
-                "id": "Adapun/O orang/O yang/O diberi/O catatan/O amalnya/O di/O tangan/O kirinya/O berkata/O,/O \u201c/O Seandainya/O saja/O aku/O tidak/O diberi/O catatan/O amalku/O./O"
+                "id": "Adapun/O orang/O yang/O diberi/O catatan/O amalnya/O di/O tangan/O kirinya/O berkata/O,/O \u201c/O Seandainya/O saja/O aku/O tidak/O diberi/O catatan/O amalku/O./O \u201d/O"
             }
         },
         "26": {
@@ -477,22 +477,12 @@
                 "id": "Sesungguhnya ia (Al-Qur\u2019an itu) benar-benar suatu pelajaran bagi orang-orang yang bertakwa."
             },
             "labels": {
-                "id": "Sesungguhnya/O ia/O (/O Al-Qur\u2019an/HolyBook itu/O )/O"
+                "id": "Sesungguhnya/O ia/O (/O Al-Qur\u2019an/HolyBook itu/O )/O benar-benar/O suatu/O pelajaran/O bagi/O orang-orang/O yang/O bertakwa/O./O"
             }
         },
         "49": {
             "chapterid": "069",
             "verse_id": 49,
-            "verse": {
-                "id": "benar-benar suatu pelajaran bagi orang-orang yang bertakwa."
-            },
-            "labels": {
-                "id": "benar-benar/O suatu/O pelajaran/O bagi/O orang-orang/O yang/O bertakwa/O./O"
-            }
-        },
-        "50": {
-            "chapterid": "069",
-            "verse_id": 50,
             "verse": {
                 "id": "Sesungguhnya Kami benar-benar mengetahui bahwa di antara kamu ada para pendusta."
             },
@@ -500,9 +490,9 @@
                 "id": "Sesungguhnya/O Kami/O benar-benar/O mengetahui/O bahwa/O di/O antara/O kamu/O ada/O para/O pendusta/O./O"
             }
         },
-        "51": {
+        "50": {
             "chapterid": "069",
-            "verse_id": 51,
+            "verse_id": 50,
             "verse": {
                 "id": "Sesungguhnya ia (pendustaan terhadap Al-Qur\u2019an) benar-benar menjadi penyesalan bagi orang-orang kafir (di akhirat)."
             },
@@ -510,9 +500,9 @@
                 "id": "Sesungguhnya/O ia/O (/O pendustaan/O terhadap/O Al-Qur\u2019an/HolyBook )/O benar-benar/O menjadi/O penyesalan/O bagi/O orang-orang/O kafir/O (/O di/O akhirat/O )/O./O"
             }
         },
-        "52": {
+        "51": {
             "chapterid": "069",
-            "verse_id": 52,
+            "verse_id": 51,
             "verse": {
                 "id": "Sesungguhnya ia (Al-Qur\u2019an itu) adalah kebenaran yang meyakinkan."
             },
@@ -520,14 +510,14 @@
                 "id": "Sesungguhnya/O ia/O (/O Al-Qur\u2019an/HolyBook itu/O )/O adalah/O kebenaran/O yang/O meyakinkan/O./O"
             }
         },
-        "53": {
+        "52": {
             "chapterid": "069",
-            "verse_id": 53,
+            "verse_id": 52,
             "verse": {
-                "id": "Maka, bertasbihlah dengan (menyebut) nama Tuhanmu Yang Mahaagung."
+                "id": "Maka, bertasbihlah dengan (menyebut) nama Tuhanmu Yang Maha Agung."
             },
             "labels": {
-                "id": "Maka/O,/O bertasbihlah/O dengan/O (/O menyebut/O )/O nama/O Tuhanmu/O Yang Mahaagung/Allah./O"
+                "id": "Maka/O,/O bertasbihlah/O dengan/O (/O menyebut/O )/O nama/O Tuhanmu/O Yang Maha Agung/Allah./O"
             }
         }
     }

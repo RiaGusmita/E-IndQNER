@@ -124,25 +124,15 @@
             "chapterid": "082",
             "verse_id": 13,
             "verse": {
-                "id": "Sesungguhnya orang-orang yang"
+                "id": "Sesungguhnya orang-orang yang berbakti benar-benar berada dalam (surga yang penuh) kenikmatan."
             },
             "labels": {
-                "id": "Sesungguhnya/O orang-orang/O yang/O"
+                "id": "Sesungguhnya/O orang-orang/O yang/O berbakti/O benar-benar/O berada/O dalam/O (/O surga/O yang/O penuh/O )/O kenikmatan/O./O"
             }
         },
         "14": {
             "chapterid": "082",
             "verse_id": 14,
-            "verse": {
-                "id": "berbakti benar-benar berada dalam (surga yang penuh) kenikmatan."
-            },
-            "labels": {
-                "id": "berbakti/O benar-benar/O berada/O dalam/O (/O surga/O yang/O penuh/O )/O kenikmatan/O./O"
-            }
-        },
-        "15": {
-            "chapterid": "082",
-            "verse_id": 15,
             "verse": {
                 "id": "Sesungguhnya orang-orang yang durhaka benar-benar berada dalam (neraka) Jahim."
             },
@@ -150,9 +140,9 @@
                 "id": "Sesungguhnya/O orang-orang/O yang/O durhaka/O benar-benar/O berada/O dalam/O (/O neraka/O )/O Jahim/AfterlifeLocation./O"
             }
         },
-        "16": {
+        "15": {
             "chapterid": "082",
-            "verse_id": 16,
+            "verse_id": 15,
             "verse": {
                 "id": "Mereka memasukinya pada hari Pembalasan."
             },
@@ -160,9 +150,9 @@
                 "id": "Mereka/O memasukinya/O pada/O hari/O Pembalasan/Event./O"
             }
         },
-        "17": {
+        "16": {
             "chapterid": "082",
-            "verse_id": 17,
+            "verse_id": 16,
             "verse": {
                 "id": "Mereka tidak mungkin keluar dari (neraka) itu."
             },
@@ -170,9 +160,9 @@
                 "id": "Mereka/O tidak/O mungkin/O keluar/O dari/O (/O neraka/O )/O itu/O./O"
             }
         },
-        "18": {
+        "17": {
             "chapterid": "082",
-            "verse_id": 18,
+            "verse_id": 17,
             "verse": {
                 "id": "Tahukah engkau apakah hari Pembalasan itu?"
             },
@@ -180,9 +170,9 @@
                 "id": "Tahukah/O engkau/O apakah/O hari/O Pembalasan/O itu/O?/O"
             }
         },
-        "19": {
+        "18": {
             "chapterid": "082",
-            "verse_id": 19,
+            "verse_id": 18,
             "verse": {
                 "id": "Kemudian, tahukah engkau apakah hari Pembalasan itu?"
             },
@@ -190,9 +180,9 @@
                 "id": "Kemudian/O,/O tahukah/O engkau/O apakah/O hari/O Pembalasan/O itu/O?/O"
             }
         },
-        "20": {
+        "19": {
             "chapterid": "082",
-            "verse_id": 20,
+            "verse_id": 19,
             "verse": {
                 "id": "(Itulah) hari (ketika) seseorang tidak berdaya (menolong) orang lain sedikit pun. Segala urusan pada hari itu adalah milik Allah."
             },

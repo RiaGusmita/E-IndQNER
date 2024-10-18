@@ -78,60 +78,62 @@ model.config.use_cache = False
 # More info: https://github.com/huggingface/transformers/pull/24906
 model.config.pretraining_tp = 1
 
-#f = open("../new-datasets/test.txt", "r")
-f = open("../al-quran/110-An_Nasr.txt", "r")
-sentences = f.readlines()
-for sentence in sentences:
-    print(sentence.strip())
-f.close()
+chapter_list = ["069-Al_Haqqah.txt", "068-Al_Qalam.txt", "082-Al_Infithar.txt"]
 
-# Open and read the JSON file
-with open("named_entity_class_dictionary.json", "r") as json_file:
-    named_entity_classes_dict = json.load(json_file)
-
-# Print the loaded dictionary
-print(named_entity_classes_dict)
-named_entity_classes = [named_entity_class for named_entity_class in named_entity_classes_dict]
-print(named_entity_classes)
-
-chapter_dict = dict()
-num = 0
-chapter_id = 110
-verses = dict()
-for sentence in sentences:
-    num +=1
-    system_message = f"""
-     Given the following entity classes and sentences, label entity mentions with their respective classes in sentences according to the sentences' context. 
-     In the output, only include entity mentions and their respective class in the given output format. No needed further explanation.
-     CONTEXT: entity classes: {named_entity_classes}. 
-     Example sentence: Jika kamu (tetap) dalam keraguan tentang apa (Al-Qur’an) yang Kami turunkan kepada hamba Kami (Nabi Muhammad), buatlah satu surah yang semisal dengannya dan ajaklah penolong-penolongmu selain Allah, jika kamu orang-orang yang benar.
-     Example output: Jika/O kamu/O (/O tetap/O )/O dalam/O keraguan/O tentang/O apa/O (/O Al-Qur’an/HolyBook )/O yang/O Kami/O turunkan/O kepada/O hamba/O Kami/O (/O Nabi/O Muhammad/Messenger )/O ,/O buatlah/O satu/O surah/O yang/O semisal/O dengannya/O dan/O ajaklah/O penolong-penolongmu/O selain/O Allah/Allah ,/O jika/O kamu/O orang-orang/O yang/O benar/O ./O
-    """
+for chapter in chapter_list:
+    #f = open("../new-datasets/test.txt", "r")
+    f = open(f"../al-quran/{chapter}", "r")
+    sentences = f.readlines()
+    for sentence in sentences:
+        print(sentence.strip())
+    f.close()
     
-    user_prompt = f"""
-    Test sentence: {sentence}
-    Test output:
-    """
+    # Open and read the JSON file
+    with open("named_entity_class_dictionary.json", "r") as json_file:
+        named_entity_classes_dict = json.load(json_file)
     
-    pipe = pipeline("text-generation", model=model, tokenizer=tokenizer) 
-    # Generate answers for the dataset
-    message = create_input_prompt(system_message, user_prompt)
-    results = generate_answer(pipe, message)
-    outputs = results["generated_text"]
-    select_outputs = outputs.split("\n\n")[-1]
+    # Print the loaded dictionary
+    print(named_entity_classes_dict)
+    named_entity_classes = [named_entity_class for named_entity_class in named_entity_classes_dict]
+    print(named_entity_classes)
     
-    print("##############")
-    print(num)
-    print(select_outputs)
-    print("###############")
-    verses[num] = {
-        "chapterid": chapter_id,
-        "verse_id": num,
-        "verse": {"id": sentence.strip()},
-        "labels": {"id": select_outputs}
-    }
-chapter_dict[chapter_id] = verses
-
-# Save the dictionary to a JSON file
-with open(f"../al-quran-dataset-formatted/chapter_{chapter_id}.json", "w") as json_file:
-    json.dump(chapter_dict, json_file, indent=4)  # 'indent' adds formatting for readability
+    chapter_dict = dict()
+    num = 0
+    chapter_id = chapter.split("-")[0]
+    verses = dict()
+    for sentence in sentences:
+        num +=1
+        system_message = f"""
+         Given the following entity classes and sentences, label entity mentions with their respective classes in sentences according to the sentences' context. 
+         In the output, only include entity mentions and their respective class in the given output format. No needed further explanation.
+         CONTEXT: entity classes: {named_entity_classes}. 
+         Example sentence: Jika kamu (tetap) dalam keraguan tentang apa (Al-Qur’an) yang Kami turunkan kepada hamba Kami (Nabi Muhammad), buatlah satu surah yang semisal dengannya dan ajaklah penolong-penolongmu selain Allah, jika kamu orang-orang yang benar.
+         Example output: Jika/O kamu/O (/O tetap/O )/O dalam/O keraguan/O tentang/O apa/O (/O Al-Qur’an/HolyBook )/O yang/O Kami/O turunkan/O kepada/O hamba/O Kami/O (/O Nabi/O Muhammad/Messenger )/O ,/O buatlah/O satu/O surah/O yang/O semisal/O dengannya/O dan/O ajaklah/O penolong-penolongmu/O selain/O Allah/Allah ,/O jika/O kamu/O orang-orang/O yang/O benar/O ./O
+        """
+        user_prompt = f"""
+        Test sentence: {sentence}
+        Test output:
+        """
+        
+        pipe = pipeline("text-generation", model=model, tokenizer=tokenizer) 
+        # Generate answers for the dataset
+        message = create_input_prompt(system_message, user_prompt)
+        results = generate_answer(pipe, message)
+        outputs = results["generated_text"]
+        select_outputs = outputs.split("\n\n")[-1]
+        
+        print("##############")
+        print(num)
+        print(select_outputs)
+        print("###############")
+        verses[num] = {
+            "chapterid": chapter_id,
+            "verse_id": num,
+            "verse": {"id": sentence.strip()},
+            "labels": {"id": select_outputs}
+        }
+    chapter_dict[chapter_id] = verses
+    
+    # Save the dictionary to a JSON file
+    with open(f"../al-quran-dataset-formatted/chapter_{chapter_id}.json", "w") as json_file:
+        json.dump(chapter_dict, json_file, indent=4)  # 'indent' adds formatting for readability

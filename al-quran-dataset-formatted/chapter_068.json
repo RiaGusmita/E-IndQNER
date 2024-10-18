@@ -284,25 +284,15 @@
             "chapterid": "068",
             "verse_id": 29,
             "verse": {
-                "id": "Mereka mengucapkan, \u201cMahasuci"
+                "id": "Mereka mengucapkan, \u201cMahasuci Tuhan kami. Sungguh, kami adalah orang-orang yang zalim.\u201d"
             },
             "labels": {
-                "id": "Mereka/O mengucapkan/O,/O \u201c/O Mahasuci/O Allah/Allah"
+                "id": "Mereka/O mengucapkan/O,/O \u201c/O Mahasuci/O Tuhan/O kami/O./O Sungguh/O,/O kami/O adalah/O orang-orang/O yang/O zalim/O./O \u201d/O"
             }
         },
         "30": {
             "chapterid": "068",
             "verse_id": 30,
-            "verse": {
-                "id": "Tuhan kami. Sungguh, kami adalah orang-orang yang zalim.\u201d"
-            },
-            "labels": {
-                "id": "Tuhan/O kami/O./O Sungguh/O,/O kami/O adalah/O orang-orang/O yang/O zalim/O./O \u201d/O"
-            }
-        },
-        "31": {
-            "chapterid": "068",
-            "verse_id": 31,
             "verse": {
                 "id": "Mereka saling berhadapan dengan saling mencela."
             },
@@ -310,9 +300,9 @@
                 "id": "Mereka/O saling/O berhadapan/O dengan/O saling/O mencela/O./O"
             }
         },
-        "32": {
+        "31": {
             "chapterid": "068",
-            "verse_id": 32,
+            "verse_id": 31,
             "verse": {
                 "id": "Mereka berkata, \u201cAduh celaka kita! Sesungguhnya kita adalah orang-orang yang melampaui batas."
             },
@@ -320,9 +310,9 @@
                 "id": "Mereka/O berkata/O,/O \u201c/O Aduh/O celaka/O kita/O!/O Sesungguhnya/O kita/O adalah/O orang-orang/O yang/O melampaui/O batas/O./O"
             }
         },
-        "33": {
+        "32": {
             "chapterid": "068",
-            "verse_id": 33,
+            "verse_id": 32,
             "verse": {
                 "id": "Mudah-mudahan Tuhan memberikan ganti kepada kita dengan yang lebih baik daripadanya. Sesungguhnya kita mengharapkan (ampunan dan kebaikan) Tuhan kita.\u201d"
             },
@@ -330,9 +320,9 @@
                 "id": "Mudah-mudahan/O Tuhan/O memberikan/O ganti/O kepada/O kita/O dengan/O yang/O lebih/O baik/O daripadanya/O./O Sesungguhnya/O kita/O mengharapkan/O (/O ampunan/O dan/O kebaikan/O )/O Tuhan/O kita/O./O \u201d/O"
             }
         },
-        "34": {
+        "33": {
             "chapterid": "068",
-            "verse_id": 34,
+            "verse_id": 33,
             "verse": {
                 "id": "Seperti itulah azab (di dunia). Sungguh, azab akhirat lebih besar sekiranya mereka mengetahui."
             },
@@ -340,9 +330,9 @@
                 "id": "Seperti/O itulah/O azab/O (/O di/O dunia/O )/O./O Sungguh/O,/O azab/O akhirat/O lebih/O besar/O sekiranya/O mereka/O mengetahui/O./O"
             }
         },
-        "35": {
+        "34": {
             "chapterid": "068",
-            "verse_id": 35,
+            "verse_id": 34,
             "verse": {
                 "id": "Sesungguhnya orang-orang yang bertakwa mendapatkan surga yang penuh kenikmatan di sisi Tuhannya."
             },
@@ -350,9 +340,9 @@
                 "id": "Sesungguhnya/O orang-orang/O yang/O bertakwa/O mendapatkan/O surga/O yang/O penuh/O kenikmatan/O di/O sisi/O Tuhannya/O./O"
             }
         },
-        "36": {
+        "35": {
             "chapterid": "068",
-            "verse_id": 36,
+            "verse_id": 35,
             "verse": {
                 "id": "Apakah patut Kami memperlakukan orang-orang Islam (orang yang tunduk kepada Allah) seperti orang-orang yang pendurhaka (orang kafir)?"
             },
@@ -360,9 +350,9 @@
                 "id": "Apakah/O patut/O Kami/O memperlakukan/O orang-orang/O Islam/Religion (/O orang/O yang/O tunduk/O kepada/O Allah/Allah )/O seperti/O orang-orang/O yang/O pendurhaka/O (/O orang/O kafir/O )/O?/O"
             }
         },
-        "37": {
+        "36": {
             "chapterid": "068",
-            "verse_id": 37,
+            "verse_id": 36,
             "verse": {
                 "id": "Mengapa kamu (berbuat demikian)? Bagaimana kamu mengambil putusan?"
             },
@@ -370,9 +360,9 @@
                 "id": "Mengapa/O kamu/O (/O berbuat/O demikian/O )/O?/O Bagaimana/O kamu/O mengambil/O putusan/O?/O"
             }
         },
-        "38": {
+        "37": {
             "chapterid": "068",
-            "verse_id": 38,
+            "verse_id": 37,
             "verse": {
                 "id": "Atau, apakah kamu mempunyai kitab (yang diturunkan Allah) yang kamu pelajari?"
             },
@@ -380,9 +370,9 @@
                 "id": "Atau/O,/O apakah/O kamu/O mempunyai/O kitab/O (/O yang/O diturunkan/O Allah/Allah )/O yang/O kamu/O pelajari/O?/O"
             }
         },
-        "39": {
+        "38": {
             "chapterid": "068",
-            "verse_id": 39,
+            "verse_id": 38,
             "verse": {
                 "id": "Sesungguhnya di dalamnya kamu dapat memilih apa saja yang kamu sukai."
             },
@@ -390,9 +380,9 @@
                 "id": "Sesungguhnya/O di/O dalamnya/O kamu/O dapat/O memilih/O apa/O saja/O yang/O kamu/O sukai/O./O"
             }
         },
-        "40": {
+        "39": {
             "chapterid": "068",
-            "verse_id": 40,
+            "verse_id": 39,
             "verse": {
                 "id": "Atau, apakah kamu memperoleh (janji-janji yang diperkuat dengan) sumpah dari Kami, yang tetap berlaku sampai hari Kiamat, (yakni) bahwa kamu dapat mengambil putusan (sekehendakmu)?"
             },
@@ -400,9 +390,9 @@
                 "id": "Atau/O,/O apakah/O kamu/O memperoleh/O (/O janji-janji/O yang/O diperkuat/O dengan/O )/O sumpah/O dari/O Kami/O,/O yang/O tetap/O berlaku/O sampai/O hari Kiamat/Event,/O (/O yakni/O )/O bahwa/O kamu/O dapat/O mengambil/O putusan/O (/O sekehendakmu/O )/O?/O"
             }
         },
-        "41": {
+        "40": {
             "chapterid": "068",
-            "verse_id": 41,
+            "verse_id": 40,
             "verse": {
                 "id": "Tanyakanlah kepada mereka (kaum musyrik) siapakah di antara mereka yang bertanggung jawab terhadap (putusan yang diambil itu)."
             },
@@ -410,9 +400,9 @@
                 "id": "Tanyakanlah/O kepada/O mereka/O (/O kaum/O musyrik/O )/O siapakah/O di/O antara/O mereka/O yang/O bertanggung/O jawab/O terhadap/O (/O putusan/O yang/O diambil/O itu/O )/O./O"
             }
         },
-        "42": {
+        "41": {
             "chapterid": "068",
-            "verse_id": 42,
+            "verse_id": 41,
             "verse": {
                 "id": "Atau, apakah mereka mempunyai sekutu-sekutu? Kalau begitu, hendaklah mereka mendatangkan sekutu-sekutunya jika mereka orang-orang benar."
             },
@@ -420,9 +410,9 @@
                 "id": "Atau/O,/O apakah/O mereka/O mempunyai/O sekutu-sekutu/O?/O Kalau/O begitu/O,/O hendaklah/O mereka/O mendatangkan/O sekutu-sekutunya/O jika/O mereka/O orang-orang/O benar/O./O"
             }
         },
-        "43": {
+        "42": {
             "chapterid": "068",
-            "verse_id": 43,
+            "verse_id": 42,
             "verse": {
                 "id": "(Ingatlah) pada hari ketika betis disingkapkan (yakni huru-hara di hari Kiamat) dan mereka diseru untuk bersujud. Namun, mereka tidak mampu."
             },
@@ -430,9 +420,9 @@
                 "id": "(/O Ingatlah/O )/O pada/O hari/O ketika/O betis/O disingkapkan/O (/O yakni/O huru-hara/O di/O hari/O Kiamat/Event )/O dan/O mereka/O diseru/O untuk/O bersujud/O./O Namun/O,/O mereka/O tidak/O mampu/O./O"
             }
         },
-        "44": {
+        "43": {
             "chapterid": "068",
-            "verse_id": 44,
+            "verse_id": 43,
             "verse": {
                 "id": "Pandangan mereka tertunduk dan diliputi kehinaan. Sungguh, dahulu (di dunia) mereka telah diseru untuk bersujud pada waktu mereka sehat (tetapi mereka enggan)."
             },
@@ -440,9 +430,9 @@
                 "id": "Pandangan/O mereka/O tertunduk/O dan/O diliputi/O kehinaan/O./O Sungguh/O,/O dahulu/O (/O di/O dunia/O )/O mereka/O telah/O diseru/O untuk/O bersujud/O pada/O waktu/O mereka/O sehat/O (/O tetapi/O mereka/O enggan/O )/O./O"
             }
         },
-        "45": {
+        "44": {
             "chapterid": "068",
-            "verse_id": 45,
+            "verse_id": 44,
             "verse": {
                 "id": "Biarkan Aku bersama orang-orang yang mendustakan perkataan ini (Al-Qur\u2019an). Kelak akan Kami biarkan mereka berangsur-angsur (menuju kebinasaan) dari arah yang tidak mereka ketahui."
             },
@@ -450,9 +440,9 @@
                 "id": "Biarkan/O Aku/O bersama/O orang-orang/O yang/O mendustakan/O perkataan/O ini/O (/O Al-Qur\u2019an/HolyBook )/O./O Kelak/O akan/O Kami/O biarkan/O mereka/O berangsur-angsur/O (/O menuju/O kebinasaan/O )/O dari/O arah/O yang/O tidak/O mereka/O ketahui/O./O"
             }
         },
-        "46": {
+        "45": {
             "chapterid": "068",
-            "verse_id": 46,
+            "verse_id": 45,
             "verse": {
                 "id": "Aku memberi tenggang waktu kepada mereka. Sesungguhnya rencana-Ku sangat teguh."
             },
@@ -460,9 +450,9 @@
                 "id": "Aku/O memberi/O tenggang/O waktu/O kepada/O mereka/O./O Sesungguhnya/O rencana-Ku/O sangat/O teguh/O./O"
             }
         },
-        "47": {
+        "46": {
             "chapterid": "068",
-            "verse_id": 47,
+            "verse_id": 46,
             "verse": {
                 "id": "Ataukah engkau (Nabi Muhammad) meminta imbalan kepada mereka sehingga mereka dibebani utang?"
             },
@@ -470,9 +460,9 @@
                 "id": "Ataukah/O engkau/O (/O Nabi/O Muhammad/Messenger )/O meminta/O imbalan/O kepada/O mereka/O sehingga/O mereka/O dibebani/O utang/O?/O"
             }
         },
-        "48": {
+        "47": {
             "chapterid": "068",
-            "verse_id": 48,
+            "verse_id": 47,
             "verse": {
                 "id": "Ataukah mereka mengetahui yang gaib lalu mereka menuliskannya?"
             },
@@ -480,9 +470,9 @@
                 "id": "Ataukah/O mereka/O mengetahui/O yang/O gaib/O lalu/O mereka/O menuliskannya/O?/O"
             }
         },
-        "49": {
+        "48": {
             "chapterid": "068",
-            "verse_id": 49,
+            "verse_id": 48,
             "verse": {
                 "id": "Oleh karena itu, bersabarlah (Nabi Muhammad) terhadap ketetapan Tuhanmu dan janganlah seperti orang yang berada dalam (perut) ikan (Yunus) ketika dia berdoa dengan hati sedih."
             },
@@ -490,9 +480,9 @@
                 "id": "Oleh/O karena/O itu/O,/O bersabarlah/O (/O Nabi/O Muhammad/Messenger )/O terhadap/O ketetapan/O Tuhanmu/O dan/O janganlah/O seperti/O orang/O yang/O berada/O dalam/O (/O perut/O )/O ikan/O (/O Yunus/Prophet )/O ketika/O dia/O berdoa/O dengan/O hati/O sedih/O./O"
             }
         },
-        "50": {
+        "49": {
             "chapterid": "068",
-            "verse_id": 50,
+            "verse_id": 49,
             "verse": {
                 "id": "Seandainya dia tidak segera mendapat nikmat dari Tuhannya, pastilah dia dicampakkan ke tanah tandus dalam keadaan tercela."
             },
@@ -500,9 +490,9 @@
                 "id": "Seandainya/O dia/O tidak/O segera/O mendapat/O nikmat/O dari/O Tuhannya/O,/O pastilah/O dia/O dicampakkan/O ke/O tanah/O tandus/O dalam/O keadaan/O tercela/O./O"
             }
         },
-        "51": {
+        "50": {
             "chapterid": "068",
-            "verse_id": 51,
+            "verse_id": 50,
             "verse": {
                 "id": "Tuhannya lalu memilihnya dan menjadikannya termasuk orang-orang saleh."
             },
@@ -510,9 +500,9 @@
                 "id": "Tuhannya/O lalu/O memilihnya/O dan/O menjadikannya/O termasuk/O orang-orang/O saleh/O./O"
             }
         },
-        "52": {
+        "51": {
             "chapterid": "068",
-            "verse_id": 52,
+            "verse_id": 51,
             "verse": {
                 "id": "Sesungguhnya orang-orang yang kufur itu hampir-hampir menggelincirkanmu dengan pandangan matanya ketika mereka mendengar Al-Qur\u2019an dan berkata, \u201cSesungguhnya dia (Nabi Muhammad) benar-benar orang gila.\u201d"
             },
@@ -520,9 +510,9 @@
                 "id": "Sesungguhnya/O orang-orang/O yang/O kufur/O itu/O hampir-hampir/O menggelincirkanmu/O dengan/O pandangan/O matanya/O ketika/O mereka/O mendengar/O Al-Qur\u2019an/HolyBook dan/O berkata/O,/O \u201c/O Sesungguhnya/O dia/O (/O Nabi/O Muhammad/Messenger )/O benar-benar/O orang/O gila/O./O \u201d/O"
             }
         },
-        "53": {
+        "52": {
             "chapterid": "068",
-            "verse_id": 53,
+            "verse_id": 52,
             "verse": {
                 "id": "(Al-Qur\u2019an) itu tidak lain kecuali peringatan bagi seluruh alam."
             },
