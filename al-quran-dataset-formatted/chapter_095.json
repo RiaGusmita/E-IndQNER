@@ -1,0 +1,84 @@
+{
+    "095": {
+        "1": {
+            "chapterid": "095",
+            "verse_id": 1,
+            "verse": {
+                "id": "Demi (buah) tin dan (buah) zaitun,"
+            },
+            "labels": {
+                "id": "Demi/O (/O buah/O )/O tin/O dan/O (/O buah/O )/O zaitun/O,/O"
+            }
+        },
+        "2": {
+            "chapterid": "095",
+            "verse_id": 2,
+            "verse": {
+                "id": "demi gunung Sinai,"
+            },
+            "labels": {
+                "id": "demi/O gunung/O Sinai/GeographicalLocation,/O"
+            }
+        },
+        "3": {
+            "chapterid": "095",
+            "verse_id": 3,
+            "verse": {
+                "id": "dan demi negeri (Makkah) yang aman ini,"
+            },
+            "labels": {
+                "id": "dan/O demi/O negeri/O (/O Makkah/GeographicalLocation )/O yang/O aman/O ini/O,/O"
+            }
+        },
+        "4": {
+            "chapterid": "095",
+            "verse_id": 4,
+            "verse": {
+                "id": "sungguh, Kami benar-benar telah menciptakan manusia dalam bentuk yang sebaik-baiknya."
+            },
+            "labels": {
+                "id": "sungguh/O,/O Kami/O benar-benar/O telah/O menciptakan/O manusia/O dalam/O bentuk/O yang/O sebaik-baiknya/O./O"
+            }
+        },
+        "5": {
+            "chapterid": "095",
+            "verse_id": 5,
+            "verse": {
+                "id": "Kemudian, kami kembalikan dia ke tempat yang serendah-rendahnya,"
+            },
+            "labels": {
+                "id": "Kemudian/O,/O kami/O kembalikan/O dia/O ke/O tempat/O yang/O serendah-rendahnya/O,/O"
+            }
+        },
+        "6": {
+            "chapterid": "095",
+            "verse_id": 6,
+            "verse": {
+                "id": "kecuali orang-orang yang beriman dan mengerjakan kebajikan. Maka, mereka akan mendapat pahala yang tidak putus-putusnya."
+            },
+            "labels": {
+                "id": "kecuali/O orang-orang/O yang/O beriman/O dan/O mengerjakan/O kebajikan/O./O Maka/O,/O mereka/O akan/O mendapat/O pahala/O yang/O tidak/O putus-putusnya/O./O"
+            }
+        },
+        "7": {
+            "chapterid": "095",
+            "verse_id": 7,
+            "verse": {
+                "id": "Maka, apa alasanmu (wahai orang kafir) mendustakan hari Pembalasan setelah (adanya bukti-bukti) itu?"
+            },
+            "labels": {
+                "id": "Maka/O,/O apa/O alasanmu/O (/O wahai/O orang/O kafir/O )/O mendustakan/O hari/O Pembalasan/Event setelah/O (/O adanya/O bukti-bukti/O )/O itu/O?/O"
+            }
+        },
+        "8": {
+            "chapterid": "095",
+            "verse_id": 8,
+            "verse": {
+                "id": "Bukankah Allah hakim yang paling adil?"
+            },
+            "labels": {
+                "id": "Bukankah/O Allah/Allah hakim/O yang/O paling/O adil/O?/O"
+            }
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "099": {
+        "1": {
+            "chapterid": "099",
+            "verse_id": 1,
+            "verse": {
+                "id": "Apabila bumi diguncangkan dengan guncangan yang dahsyat,"
+            },
+            "labels": {
+                "id": "Apabila/O bumi/AstronomicalBody diguncangkan/O dengan/O guncangan/O yang/O dahsyat/O,/O"
+            }
+        },
+        "2": {
+            "chapterid": "099",
+            "verse_id": 2,
+            "verse": {
+                "id": "bumi mengeluarkan isi perutnya,"
+            },
+            "labels": {
+                "id": "bumi/GeographicalLocation mengeluarkan/O isi/O perutnya/O,/O"
+            }
+        },
+        "3": {
+            "chapterid": "099",
+            "verse_id": 3,
+            "verse": {
+                "id": "dan manusia bertanya, \u201cApa yang terjadi dengannya (bumi)?\u201d"
+            },
+            "labels": {
+                "id": "dan/O manusia/O bertanya/O,/O \u201cApa/O yang/O terjadi/O dengannya/O (/O bumi/AstronomicalBody )/O?/O \u201d/O"
+            }
+        },
+        "4": {
+            "chapterid": "099",
+            "verse_id": 4,
+            "verse": {
+                "id": "Pada hari itu (bumi) menyampaikan berita (tentang apa yang diperbuat manusia di atasnya)"
+            },
+            "labels": {
+                "id": "Pada/O hari/O itu/O (/O bumi/AstronomicalBody )/O menyampaikan/O berita/O (/O tentang/O apa/O yang/O diperbuat/O manusia/O di/O atasnya/O )/O"
+            }
+        },
+        "5": {
+            "chapterid": "099",
+            "verse_id": 5,
+            "verse": {
+                "id": "karena sesungguhnya Tuhanmu telah memerintahkan (yang demikian itu) kepadanya."
+            },
+            "labels": {
+                "id": "karena/O sesungguhnya/O Tuhanmu/O telah/O memerintahkan/O (/O yang/O demikian/O itu/O )/O kepadanya/O./O"
+            }
+        },
+        "6": {
+            "chapterid": "099",
+            "verse_id": 6,
+            "verse": {
+                "id": "Pada hari itu manusia keluar (dari kuburnya) dalam keadaan terpencar untuk diperlihatkan kepada mereka (balasan) semua perbuatan mereka."
+            },
+            "labels": {
+                "id": "Pada/O hari/O itu/O manusia/O keluar/O (/O dari/O kuburnya/O )/O dalam/O keadaan/O terpencar/O untuk/O diperlihatkan/O kepada/O mereka/O (/O balasan/O )/O semua/O perbuatan/O mereka/O./O"
+            }
+        },
+        "7": {
+            "chapterid": "099",
+            "verse_id": 7,
+            "verse": {
+                "id": "Siapa yang mengerjakan kebaikan seberat zarah, dia akan melihat (balasan)-nya."
+            },
+            "labels": {
+                "id": "Siapa/O yang/O mengerjakan/O kebaikan/O seberat/O zarah/O,/O dia/O akan/O melihat/O (/O balasan/O )/O -nya/O./O"
+            }
+        },
+        "8": {
+            "chapterid": "099",
+            "verse_id": 8,
+            "verse": {
+                "id": "Siapa yang mengerjakan kejahatan seberat zarah, dia akan melihat (balasan)-nya."
+            },
+            "labels": {
+                "id": "Siapa/O yang/O mengerjakan/O kejahatan/O seberat/O zarah/O,/O dia/O akan/O melihat/O (/O balasan/O )/O -nya/O./O"
+            }
+        }
+    }
+}

@@ -1,0 +1,464 @@
+{
+    "079": {
+        "1": {
+            "chapterid": "079",
+            "verse_id": 1,
+            "verse": {
+                "id": "Demi (malaikat) yang mencabut (nyawa orang kafir) dengan keras,"
+            },
+            "labels": {
+                "id": "Demi/O (/O malaikat/O )/O yang/O mencabut/O (/O nyawa/O orang/O kafir/O )/O dengan/O keras/O,/O"
+            }
+        },
+        "2": {
+            "chapterid": "079",
+            "verse_id": 2,
+            "verse": {
+                "id": "demi (malaikat) yang mencabut (nyawa orang mukmin) dengan lemah lembut,"
+            },
+            "labels": {
+                "id": "Test sentence: demi/O (/O malaikat/O )/O yang/O mencabut/O (/O nyawa/O orang/O mukmin/O )/O dengan/O lemah/O lembut/O,/O"
+            }
+        },
+        "3": {
+            "chapterid": "079",
+            "verse_id": 3,
+            "verse": {
+                "id": "demi (malaikat) yang cepat (menunaikan tugasnya) dengan mudah,"
+            },
+            "labels": {
+                "id": "Test/O sentence/O :/O demi/O (/O malaikat/O )/O yang/O cepat/O (/O menunaikan/O tugasnya/O )/O dengan/O mudah/O,/O"
+            }
+        },
+        "4": {
+            "chapterid": "079",
+            "verse_id": 4,
+            "verse": {
+                "id": "(malaikat) yang bergegas (melaksanakan perintah Allah) dengan cepat,"
+            },
+            "labels": {
+                "id": "(/O malaikat/O )/O yang/O bergegas/O (/O melaksanakan/O perintah/O Allah/Allah )/O dengan/O cepat/O,/O"
+            }
+        },
+        "5": {
+            "chapterid": "079",
+            "verse_id": 5,
+            "verse": {
+                "id": "dan (malaikat) yang mengatur urusan (dunia),"
+            },
+            "labels": {
+                "id": "dan/O (/O malaikat/O )/O yang/O mengatur/O urusan/O (/O dunia/O )/O,/O"
+            }
+        },
+        "6": {
+            "chapterid": "079",
+            "verse_id": 6,
+            "verse": {
+                "id": "(kamu benar-benar akan dibangkitkan) pada hari ketika tiupan pertama mengguncang (alam semesta)."
+            },
+            "labels": {
+                "id": "(/O kamu/O benar-benar/O akan/O dibangkitkan/O )/O pada/O hari/O ketika/O tiupan/O pertama/O mengguncang/O (/O alam/O semesta/O )/O./O"
+            }
+        },
+        "7": {
+            "chapterid": "079",
+            "verse_id": 7,
+            "verse": {
+                "id": "(Tiupan pertama) itu diiringi oleh tiupan kedua."
+            },
+            "labels": {
+                "id": "(/O Tiupan/O pertama/O )/O itu/O diiringi/O oleh/O tiupan/O kedua/O./O"
+            }
+        },
+        "8": {
+            "chapterid": "079",
+            "verse_id": 8,
+            "verse": {
+                "id": "Hati manusia pada hari itu merasa sangat takut;"
+            },
+            "labels": {
+                "id": "Hati/O manusia/O pada/O hari/O itu/O merasa/O sangat/O takut/O ;/O"
+            }
+        },
+        "9": {
+            "chapterid": "079",
+            "verse_id": 9,
+            "verse": {
+                "id": "pandangannya tertunduk."
+            },
+            "labels": {
+                "id": "pandangannya/O tertunduk/O./O"
+            }
+        },
+        "10": {
+            "chapterid": "079",
+            "verse_id": 10,
+            "verse": {
+                "id": "Mereka (di dunia) berkata, \u201cApakah kita benar-benar akan dikembalikan pada kehidupan yang semula?"
+            },
+            "labels": {
+                "id": "Mereka/O (/O di/O dunia/O )/O berkata/O,/O \u201c/O Apakah/O kita/O benar-benar/O akan/O dikembalikan/O pada/O kehidupan/O yang/O semula/O?/O \u201d/O"
+            }
+        },
+        "11": {
+            "chapterid": "079",
+            "verse_id": 11,
+            "verse": {
+                "id": "Apabila kita telah menjadi tulang-belulang yang hancur, apakah kita (akan dibangkitkan juga)?\u201d"
+            },
+            "labels": {
+                "id": "Apabila/O kita/O telah/O menjadi/O tulang-belulang/O yang/O hancur/O,/O apakah/O kita/O (/O akan/O dibangkitkan/O juga/O )/O?/O \u201d/O"
+            }
+        },
+        "12": {
+            "chapterid": "079",
+            "verse_id": 12,
+            "verse": {
+                "id": "Mereka berkata, \u201cKalau demikian, itu suatu pengembalian yang merugikan.\u201d"
+            },
+            "labels": {
+                "id": "Mereka/O berkata/O,/O \u201c/O Kalau/O demikian/O,/O itu/O suatu/O pengembalian/O yang/O merugikan/O./O \u201d/O"
+            }
+        },
+        "13": {
+            "chapterid": "079",
+            "verse_id": 13,
+            "verse": {
+                "id": "(Jangan dianggap sulit,) pengembalian itu (dilakukan) hanyalah dengan sekali tiupan."
+            },
+            "labels": {
+                "id": "(/O Jangan/O dianggap/O sulit/O,/O )/O pengembalian/O itu/O (/O dilakukan/O )/O hanyalah/O dengan/O sekali/O tiupan/O./O"
+            }
+        },
+        "14": {
+            "chapterid": "079",
+            "verse_id": 14,
+            "verse": {
+                "id": "Seketika itu, mereka hidup kembali di bumi (yang baru)."
+            },
+            "labels": {
+                "id": "Seketika/O itu/O,/O mereka/O hidup/O kembali/O di/O bumi/AstronomicalBody (/O yang/O baru/O )/O./O"
+            }
+        },
+        "15": {
+            "chapterid": "079",
+            "verse_id": 15,
+            "verse": {
+                "id": "Sudah sampaikah kepadamu (Nabi Muhammad) kisah Musa?"
+            },
+            "labels": {
+                "id": "Sudah/O sampaikah/O kepadamu/O (/O Nabi/O Muhammad/Messenger )/O kisah/O Musa/Messenger?/O"
+            }
+        },
+        "16": {
+            "chapterid": "079",
+            "verse_id": 16,
+            "verse": {
+                "id": "(Ingatlah) ketika Tuhannya menyeru dia (Musa) di lembah suci, yaitu Lembah Tuwa,"
+            },
+            "labels": {
+                "id": "(/O Ingatlah/O )/O ketika/O Tuhannya/O menyeru/O dia/O (/O Musa/Messenger )/O di/O lembah/O suci/O,/O yaitu/O Lembah/O Tuwa/GeographicalLocation,/O"
+            }
+        },
+        "17": {
+            "chapterid": "079",
+            "verse_id": 17,
+            "verse": {
+                "id": "\u201cPergilah engkau kepada Fir\u2018aun! Sesungguhnya dia telah melampaui batas."
+            },
+            "labels": {
+                "id": "\u201c/O Pergilah/O engkau/O kepada/O Fir\u2018aun/Person!/O Sesungguhnya/O dia/O telah/O melampaui/O batas/O./O"
+            }
+        },
+        "18": {
+            "chapterid": "079",
+            "verse_id": 18,
+            "verse": {
+                "id": "Lalu, katakanlah (kepada Fir\u2018aun), \u2018Adakah keinginanmu untuk menyucikan diri (dari kesesatan)"
+            },
+            "labels": {
+                "id": "Lalu/O,/O katakanlah/O (/O kepada/O Fir\u2018aun/Person )/O,/O \u2018Adakah/O keinginanmu/O untuk/O menyucikan/O diri/O (/O dari/O kesesatan/O )/O"
+            }
+        },
+        "19": {
+            "chapterid": "079",
+            "verse_id": 19,
+            "verse": {
+                "id": "dan aku akan menunjukimu ke (jalan) Tuhanmu agar engkau takut (kepada-Nya)?\u2019\u201d"
+            },
+            "labels": {
+                "id": "dan/O aku/O akan/O menunjukimu/O ke/O (/O jalan/O )/O Tuhanmu/O agar/O engkau/O takut/O (/O kepada-Nya/O )/O?/O \u201d/O"
+            }
+        },
+        "20": {
+            "chapterid": "079",
+            "verse_id": 20,
+            "verse": {
+                "id": "Lalu, dia (Musa) memperlihatkan mukjizat yang besar kepadanya."
+            },
+            "labels": {
+                "id": "Lalu/O,/O dia/O (/O Musa/Messenger )/O memperlihatkan/O mukjizat/O yang/O besar/O kepadanya/O./O"
+            }
+        },
+        "21": {
+            "chapterid": "079",
+            "verse_id": 21,
+            "verse": {
+                "id": "Akan tetapi, dia (Fir\u2018aun) mendustakan (kerasulan) dan mendurhakai (Allah)."
+            },
+            "labels": {
+                "id": "Akan/O tetapi/O,/O dia/O (/O Fir\u2018aun/Person )/O mendustakan/O (/O kerasulan/O )/O dan/O mendurhakai/O (/O Allah/Allah )/O./O"
+            }
+        },
+        "22": {
+            "chapterid": "079",
+            "verse_id": 22,
+            "verse": {
+                "id": "Kemudian, dia berpaling seraya berusaha (menantang Musa)."
+            },
+            "labels": {
+                "id": "Kemudian/O,/O dia/O berpaling/O seraya/O berusaha/O (/O menantang/O Musa/Messenger )/O./O"
+            }
+        },
+        "23": {
+            "chapterid": "079",
+            "verse_id": 23,
+            "verse": {
+                "id": "Maka, dia mengumpulkan (pembesar-pembesarnya), lalu berseru (memanggil kaumnya)."
+            },
+            "labels": {
+                "id": "Maka/O,/O dia/O mengumpulkan/O (/O pembesar-pembesarnya/O )/O,/O lalu/O berseru/O (/O memanggil/O kaumnya/O )/O./O"
+            }
+        },
+        "24": {
+            "chapterid": "079",
+            "verse_id": 24,
+            "verse": {
+                "id": "Dia berkata, \u201cAkulah Tuhanmu yang paling tinggi.\u201d"
+            },
+            "labels": {
+                "id": "Dia/O berkata/O,/O \u201cAkulah/O Tuhanmu/O yang/O paling/O tinggi/O./O \u201d/O"
+            }
+        },
+        "25": {
+            "chapterid": "079",
+            "verse_id": 25,
+            "verse": {
+                "id": "Maka, Allah menghukumnya dengan azab di akhirat dan (siksaan) di dunia."
+            },
+            "labels": {
+                "id": "Maka/O,/O Allah/Allah menghukumnya/O dengan/O azab/O di/O akhirat/O dan/O (/O siksaan/O )/O di/O dunia/O./O"
+            }
+        },
+        "26": {
+            "chapterid": "079",
+            "verse_id": 26,
+            "verse": {
+                "id": "Sesungguhnya pada yang demikian itu benar-benar terdapat pelajaran bagi orang yang takut (kepada Allah)."
+            },
+            "labels": {
+                "id": "Sesungguhnya/O pada/O yang/O demikian/O itu/O benar-benar/O terdapat/O pelajaran/O bagi/O orang/O yang/O takut/O (/O kepada/O Allah/Allah )/O./O"
+            }
+        },
+        "27": {
+            "chapterid": "079",
+            "verse_id": 27,
+            "verse": {
+                "id": "Apakah penciptaan kamu yang lebih hebat ataukah langit yang telah dibangun-Nya?"
+            },
+            "labels": {
+                "id": "Apakah/O penciptaan/O kamu/O yang/O lebih/O hebat/O ataukah/O langit/O yang/O telah/O dibangun-Nya/O?/O"
+            }
+        },
+        "28": {
+            "chapterid": "079",
+            "verse_id": 28,
+            "verse": {
+                "id": "Dia telah meninggikan bangunannya, lalu menyempurnakannya."
+            },
+            "labels": {
+                "id": "Dia/O telah/O meninggikan/O bangunannya/O,/O lalu/O menyempurnakannya/O./O"
+            }
+        },
+        "29": {
+            "chapterid": "079",
+            "verse_id": 29,
+            "verse": {
+                "id": "Dia menjadikan malamnya (gelap gulita) dan menjadikan siangnya (terang benderang)."
+            },
+            "labels": {
+                "id": "Dia/O menjadikan/O malamnya/O (/O gelap/O gulita/O )/O dan/O menjadikan/O siangnya/O (/O terang/O benderang/O )/O./O"
+            }
+        },
+        "30": {
+            "chapterid": "079",
+            "verse_id": 30,
+            "verse": {
+                "id": "Setelah itu, bumi Dia hamparkan (untuk dihuni)."
+            },
+            "labels": {
+                "id": "Setelah/O itu/O,/O bumi/AstronomicalBody Dia/O hamparkan/O (/O untuk/O dihuni/O )/O./O"
+            }
+        },
+        "31": {
+            "chapterid": "079",
+            "verse_id": 31,
+            "verse": {
+                "id": "Darinya (bumi) Dia mengeluarkan air dan (menyediakan) tempat penggembalaan."
+            },
+            "labels": {
+                "id": "Darinya/O (/O bumi/AstronomicalBody )/O Dia/O mengeluarkan/O air/O dan/O (/O menyediakan/O )/O tempat/O penggembalaan/O./O"
+            }
+        },
+        "32": {
+            "chapterid": "079",
+            "verse_id": 32,
+            "verse": {
+                "id": "Gunung-gunung Dia pancangkan dengan kukuh."
+            },
+            "labels": {
+                "id": "Gunung-gunung/O Dia/O pancangkan/O dengan/O kukuh/O./O"
+            }
+        },
+        "33": {
+            "chapterid": "079",
+            "verse_id": 33,
+            "verse": {
+                "id": "(Semua itu disediakan) untuk kesenanganmu dan hewan ternakmu."
+            },
+            "labels": {
+                "id": "(/O Semua/O itu/O disediakan/O )/O untuk/O kesenanganmu/O dan/O hewan/O ternakmu/O./O"
+            }
+        },
+        "34": {
+            "chapterid": "079",
+            "verse_id": 34,
+            "verse": {
+                "id": "Maka, apabila malapetaka terbesar (hari Kiamat) telah datang,"
+            },
+            "labels": {
+                "id": "Maka/O,/O apabila/O malapetaka/O terbesar/O (/O hari Kiamat/Event )/O telah/O datang/O,/O"
+            }
+        },
+        "35": {
+            "chapterid": "079",
+            "verse_id": 35,
+            "verse": {
+                "id": "pada hari (itu) manusia teringat apa yang telah dikerjakannya"
+            },
+            "labels": {
+                "id": "pada/O hari/O (/O itu/O )/O manusia/O teringat/O apa/O yang/O telah/O dikerjakannya/O"
+            }
+        },
+        "36": {
+            "chapterid": "079",
+            "verse_id": 36,
+            "verse": {
+                "id": "dan (neraka) Jahim diperlihatkan dengan jelas kepada orang yang melihat(-nya)."
+            },
+            "labels": {
+                "id": "dan/O (/O neraka/O )/O Jahim/AfterlifeLocation diperlihatkan/O dengan/O jelas/O kepada/O orang/O yang/O melihat/O (/O -nya/O )/O./O"
+            }
+        },
+        "37": {
+            "chapterid": "079",
+            "verse_id": 37,
+            "verse": {
+                "id": "Adapun orang yang melampaui batas"
+            },
+            "labels": {
+                "id": "Adapun/O orang/O yang/O melampaui/O batas/O"
+            }
+        },
+        "38": {
+            "chapterid": "079",
+            "verse_id": 38,
+            "verse": {
+                "id": "dan lebih mengutamakan kehidupan dunia,"
+            },
+            "labels": {
+                "id": "dan/O lebih/O mengutamakan/O kehidupan/O dunia/O,/O"
+            }
+        },
+        "39": {
+            "chapterid": "079",
+            "verse_id": 39,
+            "verse": {
+                "id": "sesungguhnya (neraka) Jahimlah tempat tinggal(-nya)."
+            },
+            "labels": {
+                "id": "sesungguhnya/O (/O neraka/O )/O Jahim/AfterlifeLocation lah/O tempat/O tinggal/O (/O -nya/O )/O./O"
+            }
+        },
+        "40": {
+            "chapterid": "079",
+            "verse_id": 40,
+            "verse": {
+                "id": "Adapun orang-orang yang takut pada kebesaran Tuhannya dan menahan diri dari (keinginan) hawa nafsunya,"
+            },
+            "labels": {
+                "id": "Adapun/O orang-orang/O yang/O takut/O pada/O kebesaran/O Tuhannya/O dan/O menahan/O diri/O dari/O (/O keinginan/O )/O hawa/O nafsunya/O,/O"
+            }
+        },
+        "41": {
+            "chapterid": "079",
+            "verse_id": 41,
+            "verse": {
+                "id": "sesungguhnya surgalah tempat tinggal(-nya)."
+            },
+            "labels": {
+                "id": "sesungguhnya/O surgalah/O tempat/O tinggal/O (/O -nya/O )/O./O"
+            }
+        },
+        "42": {
+            "chapterid": "079",
+            "verse_id": 42,
+            "verse": {
+                "id": "Mereka (orang-orang kafir) bertanya kepadamu (Nabi Muhammad) tentang hari Kiamat, \u201cKapankah terjadinya?\u201d"
+            },
+            "labels": {
+                "id": "Mereka/O (/O orang-orang/O kafir/O )/O bertanya/O kepadamu/O (/O Nabi/O Muhammad/Messenger )/O tentang/O hari/O Kiamat/Event,/O \u201c/O Kapankah/O terjadinya/O?/O \u201d/O"
+            }
+        },
+        "43": {
+            "chapterid": "079",
+            "verse_id": 43,
+            "verse": {
+                "id": "Untuk apa engkau perlu menyebutkan (waktu)-nya?"
+            },
+            "labels": {
+                "id": "Untuk/O apa/O engkau/O perlu/O menyebutkan/O (/O waktu/O )/O -nya/O?/O"
+            }
+        },
+        "44": {
+            "chapterid": "079",
+            "verse_id": 44,
+            "verse": {
+                "id": "Kepada Tuhanmulah (dikembalikan) kesudahan (ketentuan waktu)-nya."
+            },
+            "labels": {
+                "id": "Kepada/O Tuhanmulah/O (/O dikembalikan/O )/O kesudahan/O (/O ketentuan/O waktu/O )-nya/O./O"
+            }
+        },
+        "45": {
+            "chapterid": "079",
+            "verse_id": 45,
+            "verse": {
+                "id": "Engkau (Nabi Muhammad) hanyalah pemberi peringatan kepada siapa yang takut padanya (hari Kiamat)."
+            },
+            "labels": {
+                "id": "Engkau/O (/O Nabi/O Muhammad/Messenger )/O hanyalah/O pemberi/O peringatan/O kepada/O siapa/O yang/O takut/O padanya/O (/O hari Kiamat/Event )/O./O"
+            }
+        },
+        "46": {
+            "chapterid": "079",
+            "verse_id": 46,
+            "verse": {
+                "id": "Pada hari ketika melihatnya (hari Kiamat itu), mereka merasa seakan-akan hanya (sebentar) tinggal (di dunia) pada waktu petang atau pagi."
+            },
+            "labels": {
+                "id": "Pada/O hari/O ketika/O melihatnya/O (/O hari Kiamat/Event itu/O )/O,/O mereka/O merasa/O seakan-akan/O hanya/O (/O sebentar/O )/O tinggal/O (/O di/O dunia/O )/O pada/O waktu/O petang/O atau/O pagi/O./O"
+            }
+        }
+    }
+}

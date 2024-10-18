@@ -1,0 +1,304 @@
+{
+    "089": {
+        "1": {
+            "chapterid": "089",
+            "verse_id": 1,
+            "verse": {
+                "id": "Demi waktu fajar,"
+            },
+            "labels": {
+                "id": "Demi/O waktu/O fajar/O,/O"
+            }
+        },
+        "2": {
+            "chapterid": "089",
+            "verse_id": 2,
+            "verse": {
+                "id": "demi malam yang sepuluh,"
+            },
+            "labels": {
+                "id": "Test/O sentence/O :/O demi/O malam/O yang/O sepuluh/O,/O"
+            }
+        },
+        "3": {
+            "chapterid": "089",
+            "verse_id": 3,
+            "verse": {
+                "id": "demi yang genap dan yang ganjil,"
+            },
+            "labels": {
+                "id": "demi/O yang/O genap/O dan/O yang/O ganjil/O,/O"
+            }
+        },
+        "4": {
+            "chapterid": "089",
+            "verse_id": 4,
+            "verse": {
+                "id": "dan demi malam apabila berlalu."
+            },
+            "labels": {
+                "id": "dan/O demi/O malam/O apabila/O berlalu/O./O"
+            }
+        },
+        "5": {
+            "chapterid": "089",
+            "verse_id": 5,
+            "verse": {
+                "id": "Apakah pada yang demikian itu terdapat sumpah (yang dapat diterima) oleh (orang) yang berakal?"
+            },
+            "labels": {
+                "id": "Apakah/O pada/O yang/O demikian/O itu/O terdapat/O sumpah/O (/O yang/O dapat/O diterima/O )/O oleh/O (/O orang/O )/O yang/O berakal/O?/O"
+            }
+        },
+        "6": {
+            "chapterid": "089",
+            "verse_id": 6,
+            "verse": {
+                "id": "Tidakkah engkau (Nabi Muhammad) memperhatikan bagaimana Tuhanmu berbuat terhadap (kaum) \u2018Ad,"
+            },
+            "labels": {
+                "id": "Tidakkah/O engkau/O (/O Nabi/O Muhammad/Messenger )/O memperhatikan/O bagaimana/O Tuhanmu/O berbuat/O terhadap/O (/O kaum/O )/O \u2018Ad/Person,/O"
+            }
+        },
+        "7": {
+            "chapterid": "089",
+            "verse_id": 7,
+            "verse": {
+                "id": "(yaitu) penduduk Iram (ibu kota kaum \u2018Ad) yang mempunyai bangunan-bangunan yang tinggi"
+            },
+            "labels": {
+                "id": "(/O yaitu/O )/O penduduk/O Iram/GeographicalLocation (/O ibu/O kota/O kaum/O \u2018Ad/Person )/O yang/O mempunyai/O bangunan-bangunan/O yang/O tinggi/O"
+            }
+        },
+        "8": {
+            "chapterid": "089",
+            "verse_id": 8,
+            "verse": {
+                "id": "yang sebelumnya tidak pernah dibangun (suatu kota pun) seperti itu di negeri-negeri (lain)?"
+            },
+            "labels": {
+                "id": "yang/O sebelumnya/O tidak/O pernah/O dibangun/O (/O suatu/O kota/O pun/O )/O seperti/O itu/O di/O negeri-negeri/O (/O lain/O )/O?/O"
+            }
+        },
+        "9": {
+            "chapterid": "089",
+            "verse_id": 9,
+            "verse": {
+                "id": "(Tidakkah engkau perhatikan pula kaum) Samud yang memotong batu-batu besar di lembah"
+            },
+            "labels": {
+                "id": "(/O Tidakkah/O engkau/O perhatikan/O pula/O kaum/O )/O Samud/Person yang/O memotong/O batu-batu/O besar/O di/O lembah/O (/O GeographicalLocation )/O"
+            }
+        },
+        "10": {
+            "chapterid": "089",
+            "verse_id": 10,
+            "verse": {
+                "id": "dan Fir\u2018aun yang mempunyai pasak-pasak (bangunan yang besar)"
+            },
+            "labels": {
+                "id": "dan/O Fir\u2018aun/Person yang/O mempunyai/O pasak-pasak/O (/O bangunan/O yang/O besar/O )/O"
+            }
+        },
+        "11": {
+            "chapterid": "089",
+            "verse_id": 11,
+            "verse": {
+                "id": "yang berbuat sewenang-wenang dalam negeri,"
+            },
+            "labels": {
+                "id": "yang/O berbuat/O sewenang-wenang/O dalam/O negeri/O,/O"
+            }
+        },
+        "12": {
+            "chapterid": "089",
+            "verse_id": 12,
+            "verse": {
+                "id": "lalu banyak berbuat kerusakan di dalamnya (negeri itu),"
+            },
+            "labels": {
+                "id": "lalu/O banyak/O berbuat/O kerusakan/O di/O dalamnya/O (/O negeri/O itu/O )/O,/O"
+            }
+        },
+        "13": {
+            "chapterid": "089",
+            "verse_id": 13,
+            "verse": {
+                "id": "maka Tuhanmu menimpakan cemeti azab (yang dahsyat) kepada mereka?"
+            },
+            "labels": {
+                "id": "maka/O Tuhanmu/O menimpakan/O cemeti/O azab/O (/O yang/O dahsyat/O )/O kepada/O mereka/O?/O"
+            }
+        },
+        "14": {
+            "chapterid": "089",
+            "verse_id": 14,
+            "verse": {
+                "id": "Sesungguhnya Tuhanmu benar-benar mengawasi."
+            },
+            "labels": {
+                "id": "Sesungguhnya/O Tuhanmu/O benar-benar/O mengawasi/O./O"
+            }
+        },
+        "15": {
+            "chapterid": "089",
+            "verse_id": 15,
+            "verse": {
+                "id": "Adapun manusia, apabila Tuhan mengujinya lalu memuliakannya dan memberinya kenikmatan, berkatalah dia, \u201cTuhanku telah memuliakanku.\u201d"
+            },
+            "labels": {
+                "id": "Adapun/O manusia/O,/O apabila/O Tuhan/O mengujinya/O lalu/O memuliakannya/O dan/O memberinya/O kenikmatan/O,/O berkatalah/O dia/O,/O \u201c/O Tuhanku/O telah/O memuliakanku/O./O \u201d/O"
+            }
+        },
+        "16": {
+            "chapterid": "089",
+            "verse_id": 16,
+            "verse": {
+                "id": "Sementara itu, apabila Dia mengujinya lalu membatasi rezekinya, berkatalah dia, \u201cTuhanku telah menghinaku.\u201d"
+            },
+            "labels": {
+                "id": "Sementara/O itu/O,/O apabila/O Dia/O mengujinya/O lalu/O membatasi/O rezekinya/O,/O berkatalah/O dia/O,/O \u201c/O Tuhanku/O telah/O menghinaku/O./O \u201d/O"
+            }
+        },
+        "17": {
+            "chapterid": "089",
+            "verse_id": 17,
+            "verse": {
+                "id": "Sekali-kali tidak! Sebaliknya, kamu tidak memuliakan anak yatim,"
+            },
+            "labels": {
+                "id": "Sekali-kali/O tidak/O!/O Sebaliknya/O,/O kamu/O tidak/O memuliakan/O anak/O yatim/O,/O"
+            }
+        },
+        "18": {
+            "chapterid": "089",
+            "verse_id": 18,
+            "verse": {
+                "id": "tidak saling mengajak memberi makan orang miskin,"
+            },
+            "labels": {
+                "id": "tidak/O saling/O mengajak/O memberi/O makan/O orang/O miskin/O,/O"
+            }
+        },
+        "19": {
+            "chapterid": "089",
+            "verse_id": 19,
+            "verse": {
+                "id": "memakan harta warisan dengan cara mencampurbaurkan (yang halal dan yang haram),"
+            },
+            "labels": {
+                "id": "memakan/O harta/O warisan/O dengan/O cara/O mencampurbaurkan/O (/O yang/O halal/O dan/O yang/O haram/O )/O,/O"
+            }
+        },
+        "20": {
+            "chapterid": "089",
+            "verse_id": 20,
+            "verse": {
+                "id": "dan mencintai harta dengan kecintaan yang berlebihan."
+            },
+            "labels": {
+                "id": "dan/O mencintai/O harta/O dengan/O kecintaan/O yang/O berlebihan/O./O"
+            }
+        },
+        "21": {
+            "chapterid": "089",
+            "verse_id": 21,
+            "verse": {
+                "id": "Jangan sekali-kali begitu! Apabila bumi diguncangkan berturut-turut (berbenturan),"
+            },
+            "labels": {
+                "id": "Jangan/O sekali-kali/O begitu/O!/O Apabila/O bumi/AstronomicalBody diguncangkan/O berturut-turut/O (/O berbenturan/O )/O,/O"
+            }
+        },
+        "22": {
+            "chapterid": "089",
+            "verse_id": 22,
+            "verse": {
+                "id": "Tuhanmu datang, begitu pula para malaikat (yang datang) berbaris-baris,"
+            },
+            "labels": {
+                "id": "Tuhanmu/O datang/O,/O begitu/O pula/O para/O malaikat/O (/O yang/O datang/O )/O berbaris-baris/O,/O"
+            }
+        },
+        "23": {
+            "chapterid": "089",
+            "verse_id": 23,
+            "verse": {
+                "id": "dan pada hari itu (neraka) Jahanam didatangkan, sadarlah manusia pada hari itu juga. Akan tetapi, bagaimana bisa kesadaran itu bermanfaat baginya?"
+            },
+            "labels": {
+                "id": "dan/O pada/O hari/O itu/O (/O neraka/O )/O Jahanam/AfterlifeLocation didatangkan/O,/O sadarlah/O manusia/O pada/O hari/O itu/O juga/O./O Akan/O tetapi/O,/O bagaimana/O bisa/O kesadaran/O itu/O bermanfaat/O baginya/O?/O"
+            }
+        },
+        "24": {
+            "chapterid": "089",
+            "verse_id": 24,
+            "verse": {
+                "id": "Dia berkata, \u201cOh, seandainya dahulu aku mengerjakan (kebajikan) untuk hidupku ini!\u201d"
+            },
+            "labels": {
+                "id": "Dia/O berkata/O,/O \u201c/O Oh/O,/O seandainya/O dahulu/O aku/O mengerjakan/O (/O kebajikan/O )/O untuk/O hidupku/O ini/O!\u201d/O"
+            }
+        },
+        "25": {
+            "chapterid": "089",
+            "verse_id": 25,
+            "verse": {
+                "id": "Pada hari itu tidak ada seorang pun yang mampu mengazab (seadil) azab-Nya."
+            },
+            "labels": {
+                "id": "Pada/O hari/O itu/O tidak/O ada/O seorang/O pun/O yang/O mampu/O mengazab/O (/O seadil/O )/O azab-Nya/O./O"
+            }
+        },
+        "26": {
+            "chapterid": "089",
+            "verse_id": 26,
+            "verse": {
+                "id": "Tidak ada seorang pun juga yang mampu mengikat (sekuat) ikatan-Nya."
+            },
+            "labels": {
+                "id": "Tidak/O ada/O seorang/O pun/O juga/O yang/O mampu/O mengikat/O (/O sekuat/O )/O ikatan-Nya/O./O"
+            }
+        },
+        "27": {
+            "chapterid": "089",
+            "verse_id": 27,
+            "verse": {
+                "id": "Wahai jiwa yang tenang,"
+            },
+            "labels": {
+                "id": "Wahai/O jiwa/O yang/O tenang/O,/O"
+            }
+        },
+        "28": {
+            "chapterid": "089",
+            "verse_id": 28,
+            "verse": {
+                "id": "kembalilah kepada Tuhanmu dengan rida dan diridai."
+            },
+            "labels": {
+                "id": "kembalilah/O kepada/O Tuhanmu/O dengan/O rida/O dan/O diridai/O./O"
+            }
+        },
+        "29": {
+            "chapterid": "089",
+            "verse_id": 29,
+            "verse": {
+                "id": "Lalu, masuklah ke dalam golongan hamba-hamba-Ku"
+            },
+            "labels": {
+                "id": "Lalu/O,/O masuklah/O ke/O dalam/O golongan/O hamba-hamba-Ku/O"
+            }
+        },
+        "30": {
+            "chapterid": "089",
+            "verse_id": 30,
+            "verse": {
+                "id": "dan masuklah ke dalam surga-Ku!"
+            },
+            "labels": {
+                "id": "dan/O masuklah/O ke/O dalam/O surga-Ku/O!/O"
+            }
+        }
+    }
+}
