@@ -1,0 +1,554 @@
+{
+    "054": {
+        "1": {
+            "chapterid": "054",
+            "verse_id": 1,
+            "verse": {
+                "id": "\ufeffHari Kiamat makin dekat dan bulan terbelah."
+            },
+            "labels": {
+                "id": "\ufeffHari/O Kiamat/Event makin/O dekat/O dan/O bulan/O terbelah/O./O"
+            }
+        },
+        "2": {
+            "chapterid": "054",
+            "verse_id": 2,
+            "verse": {
+                "id": "Jika mereka (kaum musyrik Makkah) melihat suatu tanda (mukjizat), mereka berpaling dan berkata, \u201c(Ini adalah) sihir yang terus-menerus.\u201d"
+            },
+            "labels": {
+                "id": "Jika/O mereka/O (/O kaum/O musyrik/O Makkah/GeographicalLocation )/O melihat/O suatu/O tanda/O (/O mukjizat/O )/O,/O mereka/O berpaling/O dan/O berkata/O,/O \u201c/O (/O Ini/O adalah/O )/O sihir/O yang/O terus-menerus/O./O \u201d/O"
+            }
+        },
+        "3": {
+            "chapterid": "054",
+            "verse_id": 3,
+            "verse": {
+                "id": "Mereka mendustakan (Nabi Muhammad) dan mengikuti keinginan mereka, padahal setiap urusan telah ada ketetapannya."
+            },
+            "labels": {
+                "id": "Mereka/O mendustakan/O (/O Nabi/O Muhammad/Messenger )/O dan/O mengikuti/O keinginan/O mereka/O,/O padahal/O setiap/O urusan/O telah/O ada/O ketetapannya/O./O"
+            }
+        },
+        "4": {
+            "chapterid": "054",
+            "verse_id": 4,
+            "verse": {
+                "id": "Sungguh, benar-benar telah datang kepada mereka beberapa berita yang di dalamnya terdapat ancaman (terhadap orang-orang kafir)."
+            },
+            "labels": {
+                "id": "Sungguh/O,/O benar-benar/O telah/O datang/O kepada/O mereka/O beberapa/O berita/O yang/O di/O dalamnya/O terdapat/O ancaman/O (/O terhadap/O orang-orang/O kafir/O )/O./O"
+            }
+        },
+        "5": {
+            "chapterid": "054",
+            "verse_id": 5,
+            "verse": {
+                "id": "(Berita-berita itu adalah) hikmah yang sempurna, tetapi peringatan-peringatan itu tidak berguna (bagi mereka)."
+            },
+            "labels": {
+                "id": "(/O Berita-berita/O itu/O adalah/O )/O hikmah/O yang/O sempurna/O,/O tetapi/O peringatan-peringatan/O itu/O tidak/O berguna/O (/O bagi/O mereka/O )/O./O"
+            }
+        },
+        "6": {
+            "chapterid": "054",
+            "verse_id": 6,
+            "verse": {
+                "id": "Maka, berpalinglah (Nabi Muhammad) dari mereka. Pada hari (ketika) penyeru (malaikat) mengajak (mereka) pada sesuatu yang tidak menyenangkan (hari Pembalasan),"
+            },
+            "labels": {
+                "id": "Maka/O,/O berpalinglah/O (/O Nabi/O Muhammad/Messenger )/O dari/O mereka/O./O Pada/O hari/O (/O ketika/O )/O penyeru/O (/O malaikat/O )/O mengajak/O (/O mereka/O )/O pada/O sesuatu/O yang/O tidak/O menyenangkan/O (/O hari/O Pembalasan/Event )/O,/O"
+            }
+        },
+        "7": {
+            "chapterid": "054",
+            "verse_id": 7,
+            "verse": {
+                "id": "pandangan mereka tertunduk. Mereka keluar (berhamburan) dari kubur seperti belalang yang beterbangan."
+            },
+            "labels": {
+                "id": "pandangan/O mereka/O tertunduk/O./O Mereka/O keluar/O (/O berhamburan/O )/O dari/O kubur/O seperti/O belalang/O yang/O beterbangan/O./O"
+            }
+        },
+        "8": {
+            "chapterid": "054",
+            "verse_id": 8,
+            "verse": {
+                "id": "Mereka bersegera datang kepada penyeru itu. Orang-orang kafir berkata, \u201cIni adalah hari yang sulit.\u201d"
+            },
+            "labels": {
+                "id": "Mereka/O bersegera/O datang/O kepada/O penyeru/O itu/O./O Orang-orang/O kafir/O berkata/O,/O \u201c/O Ini/O adalah/O hari/O yang/O sulit/O./O \u201d/O"
+            }
+        },
+        "9": {
+            "chapterid": "054",
+            "verse_id": 9,
+            "verse": {
+                "id": "Sebelum mereka, kaum Nuh juga telah mendustakan (rasul). Mereka mendustakan hamba Kami (Nuh) dan mengatakan, \u201c(Dia) orang gila!\u201d Dia pun dibentak (dengan cacian dan lainnya)."
+            },
+            "labels": {
+                "id": "Sebelum/O mereka/O,/O kaum Nuh/Person juga/O telah/O mendustakan/O (/O rasul/O )/O./O Mereka/O mendustakan/O hamba/O Kami/O (/O Nuh/Messenger )/O dan/O mengatakan/O,/O \u201c/O (/O Dia/O )/O orang/O gila/O!/O \u201d/O Dia/O pun/O dibentak/O (/O dengan/O cacian/O dan/O lainnya/O )/O./O"
+            }
+        },
+        "10": {
+            "chapterid": "054",
+            "verse_id": 10,
+            "verse": {
+                "id": "Dia (Nuh) lalu mengadu kepada Tuhannya, \u201cSesungguhnya aku telah dikalahkan, maka tolonglah (aku).\u201d"
+            },
+            "labels": {
+                "id": "Dia/O (/O Nuh/Prophet )/O lalu/O mengadu/O kepada/O Tuhannya/O,/O \u201c/O Sesungguhnya/O aku/O telah/O dikalahkan/O,/O maka/O tolonglah/O (/O aku/O )/O./O \u201d/O"
+            }
+        },
+        "11": {
+            "chapterid": "054",
+            "verse_id": 11,
+            "verse": {
+                "id": "Lalu, Kami membukakan pintu-pintu langit dengan (menurunkan) air yang tercurah."
+            },
+            "labels": {
+                "id": "Lalu/O,/O Kami/O membukakan/O pintu-pintu/O langit/O dengan/O (/O menurunkan/O )/O air/O yang/O tercurah/O./O"
+            }
+        },
+        "12": {
+            "chapterid": "054",
+            "verse_id": 12,
+            "verse": {
+                "id": "Kami pun menjadikan bumi menyemburkan banyak mata air. Maka, berkumpullah semua air itu sehingga (meluap dan menimbulkan) bencana yang telah ditetapkan."
+            },
+            "labels": {
+                "id": "Kami/O pun/O menjadikan/O bumi/AstronomicalBody menyemburkan/O banyak/O mata/O air/O./O Maka/O,/O berkumpullah/O semua/O air/O itu/O sehingga/O (/O meluap/O dan/O menimbulkan/O )/O bencana/O yang/O telah/O ditetapkan/O./O"
+            }
+        },
+        "13": {
+            "chapterid": "054",
+            "verse_id": 13,
+            "verse": {
+                "id": "Kami mengangkut dia (Nuh) ke atas (kapal) yang terbuat dari papan dan pasak"
+            },
+            "labels": {
+                "id": "Kami/O mengangkut/O dia/O (/O Nuh/Messenger )/O ke/O atas/O (/O kapal/O )/O yang/O terbuat/O dari/O papan/O dan/O pasak/O./O"
+            }
+        },
+        "14": {
+            "chapterid": "054",
+            "verse_id": 14,
+            "verse": {
+                "id": "yang berlayar dengan pengawasan Kami sebagai balasan (kebaikan) bagi orang yang telah diingkari (kaumnya)."
+            },
+            "labels": {
+                "id": "yang/O berlayar/O dengan/O pengawasan/O Kami/O sebagai/O balasan/O (/O kebaikan/O )/O bagi/O orang/O yang/O telah/O diingkari/O (/O kaumnya/O )/O./O"
+            }
+        },
+        "15": {
+            "chapterid": "054",
+            "verse_id": 15,
+            "verse": {
+                "id": "Sungguh, Kami benar-benar telah menjadikan (kapal) itu sebagai tanda (pelajaran). Maka, adakah orang yang mau mengambil pelajaran?"
+            },
+            "labels": {
+                "id": "Sungguh/O,/O Kami/O benar-benar/O telah/O menjadikan/O (/O kapal/O )/O itu/O sebagai/O tanda/O (/O pelajaran/O )/O./O Maka/O,/O adakah/O orang/O yang/O mau/O mengambil/O pelajaran/O?/O"
+            }
+        },
+        "16": {
+            "chapterid": "054",
+            "verse_id": 16,
+            "verse": {
+                "id": "Betapa dahsyatnya azab dan peringatan-Ku!"
+            },
+            "labels": {
+                "id": "Betapa/O dahsyatnya/O azab/O dan/O peringatan-Ku/O!/O"
+            }
+        },
+        "17": {
+            "chapterid": "054",
+            "verse_id": 17,
+            "verse": {
+                "id": "Sungguh, Kami benar-benar telah memudahkan Al-Qur\u2019an sebagai pelajaran. Maka, adakah orang yang mau mengambil pelajaran?"
+            },
+            "labels": {
+                "id": "Sungguh/O,/O Kami/O benar-benar/O telah/O memudahkan/O Al-Qur\u2019an/HolyBook sebagai/O pelajaran/O./O Maka/O,/O adakah/O orang/O yang/O mau/O mengambil/O pelajaran/O?/O"
+            }
+        },
+        "18": {
+            "chapterid": "054",
+            "verse_id": 18,
+            "verse": {
+                "id": "(Kaum) \u2018Ad pun telah mendustakan (rasul mereka). Maka, betapa dahsyatnya azab dan peringatan-Ku!"
+            },
+            "labels": {
+                "id": "(/O Kaum/O )/O \u2018Ad/Person pun/O telah/O mendustakan/O (/O rasul/O mereka/O )/O./O Maka/O,/O betapa/O dahsyatnya/O azab/O dan/O peringatan-Ku/O!/O"
+            }
+        },
+        "19": {
+            "chapterid": "054",
+            "verse_id": 19,
+            "verse": {
+                "id": "Sesungguhnya Kami telah mengembuskan angin yang sangat kencang kepada mereka pada hari nahas yang terus-menerus,"
+            },
+            "labels": {
+                "id": "Sesungguhnya/O Kami/O telah/O mengembuskan/O angin/O yang/O sangat/O kencang/O kepada/O mereka/O pada/O hari/O nahas/O yang/O terus-menerus/O,/O"
+            }
+        },
+        "20": {
+            "chapterid": "054",
+            "verse_id": 20,
+            "verse": {
+                "id": "yang membuat manusia bergelimpangan, seakan-akan mereka itu pohon-pohon kurma yang tumbang dengan akar-akarnya."
+            },
+            "labels": {
+                "id": "yang/O membuat/O manusia/O bergelimpangan/O,/O seakan-akan/O mereka/O itu/O pohon-pohon/O kurma/O yang/O tumbang/O dengan/O akar-akarnya/O./O"
+            }
+        },
+        "21": {
+            "chapterid": "054",
+            "verse_id": 21,
+            "verse": {
+                "id": "Maka, betapa dahsyatnya azab dan peringatan-Ku!"
+            },
+            "labels": {
+                "id": "Maka/O,/O betapa/O dahsyatnya/O azab/O dan/O peringatan-Ku/O!/O"
+            }
+        },
+        "22": {
+            "chapterid": "054",
+            "verse_id": 22,
+            "verse": {
+                "id": "Sungguh, Kami benar-benar telah memudahkan Al-Qur\u2019an sebagai pelajaran. Maka, adakah orang yang mau mengambil pelajaran?"
+            },
+            "labels": {
+                "id": "Sungguh/O,/O Kami/O benar-benar/O telah/O memudahkan/O Al-Qur\u2019an/HolyBook sebagai/O pelajaran/O./O Maka/O,/O adakah/O orang/O yang/O mau/O mengambil/O pelajaran/O?/O"
+            }
+        },
+        "23": {
+            "chapterid": "054",
+            "verse_id": 23,
+            "verse": {
+                "id": "(Kaum) Samud pun telah mendustakan peringatan-peringatan."
+            },
+            "labels": {
+                "id": "(/O Kaum/O )/O Samud/Person pun/O telah/O mendustakan/O peringatan-peringatan/O./O"
+            }
+        },
+        "24": {
+            "chapterid": "054",
+            "verse_id": 24,
+            "verse": {
+                "id": "Mereka berkata, \u201cBagaimana kita akan mengikuti seorang manusia (biasa) di antara kita? Sesungguhnya kalau begitu kita benar-benar telah sesat dan gila."
+            },
+            "labels": {
+                "id": "Mereka/O berkata/O,/O \u201cBagaimana/O kita/O akan/O mengikuti/O seorang/O manusia/O (/O biasa/O )/O di/O antara/O kita/O?/O Sesungguhnya/O kalau/O begitu/O kita/O benar-benar/O telah/O sesat/O dan/O gila/O./O"
+            }
+        },
+        "25": {
+            "chapterid": "054",
+            "verse_id": 25,
+            "verse": {
+                "id": "Apakah wahyu itu diturunkan kepadanya di antara kita? Pastilah dia (Saleh) seorang yang sangat pendusta lagi sombong.\u201d"
+            },
+            "labels": {
+                "id": "Apakah/O wahyu/O itu/O diturunkan/O kepadanya/O di/O antara/O kita/O?/O Pastilah/O dia/O (/O Saleh/Messenger )/O seorang/O yang/O sangat/O pendusta/O lagi/O sombong/O./O"
+            }
+        },
+        "26": {
+            "chapterid": "054",
+            "verse_id": 26,
+            "verse": {
+                "id": "Kelak mereka akan mengetahui siapa yang sebenarnya sangat pendusta lagi sombong itu."
+            },
+            "labels": {
+                "id": "Kelak/O mereka/O akan/O mengetahui/O siapa/O yang/O sebenarnya/O sangat/O pendusta/O lagi/O sombong/O itu/O./O"
+            }
+        },
+        "27": {
+            "chapterid": "054",
+            "verse_id": 27,
+            "verse": {
+                "id": "Sesungguhnya Kami akan mengirimkan unta betina sebagai ujian bagi mereka, maka tunggulah mereka dan bersabarlah (wahai Saleh)."
+            },
+            "labels": {
+                "id": "Sesungguhnya/O Kami/O akan/O mengirimkan/O unta/O betina/O sebagai/O ujian/O bagi/O mereka/O,/O maka/O tunggulah/O mereka/O dan/O bersabarlah/O (/O wahai/O Saleh/Messenger )/O./O"
+            }
+        },
+        "28": {
+            "chapterid": "054",
+            "verse_id": 28,
+            "verse": {
+                "id": "Beri tahulah mereka bahwa air itu dibagi di antara mereka (dengan unta betina itu). Setiap pihak berhak mendapat giliran minum."
+            },
+            "labels": {
+                "id": "Beri/O tahulah/O mereka/O bahwa/O air/O itu/O dibagi/O di/O antara/O mereka/O (/O dengan/O unta/O betina/O itu/O )/O./O Setiap/O pihak/O berhak/O mendapat/O giliran/O minum/O./O"
+            }
+        },
+        "29": {
+            "chapterid": "054",
+            "verse_id": 29,
+            "verse": {
+                "id": "Mereka memanggil kawannya, lalu dia menangkap (unta itu) dan menyembelihnya."
+            },
+            "labels": {
+                "id": "Mereka/O memanggil/O kawannya/O,/O lalu/O dia/O menangkap/O (/O unta/O itu/O )/O dan/O menyembelihnya/O./O"
+            }
+        },
+        "30": {
+            "chapterid": "054",
+            "verse_id": 30,
+            "verse": {
+                "id": "Betapa dahsyatnya azab dan peringatan-Ku!"
+            },
+            "labels": {
+                "id": "Betapa/O dahsyatnya/O azab/O dan/O peringatan-Ku/O!/O"
+            }
+        },
+        "31": {
+            "chapterid": "054",
+            "verse_id": 31,
+            "verse": {
+                "id": "Kami mengirimkan atas mereka suara menggelegar satu kali. Maka, jadilah mereka seperti batang-batang kering yang lapuk milik pembuat kandang ternak."
+            },
+            "labels": {
+                "id": "Kami/O mengirimkan/O atas/O mereka/O suara/O menggelegar/O satu/O kali/O./O Maka/O,/O jadilah/O mereka/O seperti/O batang-batang/O kering/O yang/O lapuk/O milik/O pembuat/O kandang/O ternak/O./O"
+            }
+        },
+        "32": {
+            "chapterid": "054",
+            "verse_id": 32,
+            "verse": {
+                "id": "Sungguh, Kami benar-benar telah memudahkan Al-Qur\u2019an sebagai pelajaran. Adakah orang yang mau mengambil pelajaran?"
+            },
+            "labels": {
+                "id": "Sungguh/O,/O Kami/O benar-benar/O telah/O memudahkan/O Al-Qur\u2019an/HolyBook sebagai/O pelajaran/O./O Adakah/O orang/O yang/O mau/O mengambil/O pelajaran/O?/O"
+            }
+        },
+        "33": {
+            "chapterid": "054",
+            "verse_id": 33,
+            "verse": {
+                "id": "Kaum Lut pun telah mendustakan peringatan-peringatan."
+            },
+            "labels": {
+                "id": "Kaum Lut/Person pun/O telah/O mendustakan/O peringatan-peringatan/O./O"
+            }
+        },
+        "34": {
+            "chapterid": "054",
+            "verse_id": 34,
+            "verse": {
+                "id": "Sesungguhnya Kami menimpakan atas mereka badai batu, kecuali pengikut Lut. Kami menyelamatkan mereka sebelum fajar menyingsing"
+            },
+            "labels": {
+                "id": "Sesungguhnya/O Kami/O menimpakan/O atas/O mereka/O badai/O batu/O,/O kecuali/O pengikut Lut/Person./O Kami/O menyelamatkan/O mereka/O sebelum/O fajar/O menyingsing/O./O"
+            }
+        },
+        "35": {
+            "chapterid": "054",
+            "verse_id": 35,
+            "verse": {
+                "id": "sebagai nikmat dari Kami. Demikianlah Kami memberi balasan kepada orang-orang yang bersyukur."
+            },
+            "labels": {
+                "id": "sebagai/O nikmat/O dari/O Kami/O./O Demikianlah/O Kami/O memberi/O balasan/O kepada/O orang-orang/O yang/O bersyukur/O./O"
+            }
+        },
+        "36": {
+            "chapterid": "054",
+            "verse_id": 36,
+            "verse": {
+                "id": "Sungguh, dia (Lut) benar-benar telah memperingatkan mereka akan hukuman Kami, tetapi mereka membantah peringatan itu."
+            },
+            "labels": {
+                "id": "Sungguh/O,/O dia/O (/O Lut/Messenger )/O benar-benar/O telah/O memperingatkan/O mereka/O akan/O hukuman/O Kami/O,/O tetapi/O mereka/O membantah/O peringatan/O itu/O./O"
+            }
+        },
+        "37": {
+            "chapterid": "054",
+            "verse_id": 37,
+            "verse": {
+                "id": "Sungguh, mereka benar-benar telah membujuknya berkali-kali (agar menyerahkan) tamunya (kepada mereka). Lalu, Kami butakan mata mereka. Maka, rasakanlah azab-Ku dan peringatan-peringatan-Ku!"
+            },
+            "labels": {
+                "id": "Sungguh/O,/O mereka/O benar-benar/O telah/O membujuknya/O berkali-kali/O (/O agar/O menyerahkan/O )/O tamunya/O (/O kepada/O mereka/O )/O./O Lalu/O,/O Kami/O butakan/O mata/O mereka/O./O Maka/O,/O rasakanlah/O azab-Ku/O dan/O peringatan-peringatan-Ku/O!/O"
+            }
+        },
+        "38": {
+            "chapterid": "054",
+            "verse_id": 38,
+            "verse": {
+                "id": "Sungguh, pada esok harinya mereka benar-benar ditimpa azab yang terus-menerus."
+            },
+            "labels": {
+                "id": "Sungguh/O,/O pada/O esok/O harinya/O mereka/O benar-benar/O ditimpa/O azab/O yang/O terus-menerus/O./O"
+            }
+        },
+        "39": {
+            "chapterid": "054",
+            "verse_id": 39,
+            "verse": {
+                "id": "Maka, rasakanlah azab-Ku dan peringatan-peringatan-Ku!"
+            },
+            "labels": {
+                "id": "Maka/O,/O rasakanlah/O azab-Ku/O dan/O peringatan-peringatan-Ku/O!/O"
+            }
+        },
+        "40": {
+            "chapterid": "054",
+            "verse_id": 40,
+            "verse": {
+                "id": "Sungguh, Kami benar-benar telah memudahkan Al-Qur\u2019an sebagai pelajaran. Maka, adakah orang yang mau mengambil pelajaran?"
+            },
+            "labels": {
+                "id": "Sungguh/O,/O Kami/O benar-benar/O telah/O memudahkan/O Al-Qur\u2019an/HolyBook sebagai/O pelajaran/O./O Maka/O,/O adakah/O orang/O yang/O mau/O mengambil/O pelajaran/O?/O"
+            }
+        },
+        "41": {
+            "chapterid": "054",
+            "verse_id": 41,
+            "verse": {
+                "id": "Sungguh, berbagai peringatan benar-benar telah datang kepada pengikut Fir\u2018aun."
+            },
+            "labels": {
+                "id": "Sungguh/O,/O berbagai/O peringatan/O benar-benar/O telah/O datang/O kepada/O pengikut Fir\u2018aun/Person./O"
+            }
+        },
+        "42": {
+            "chapterid": "054",
+            "verse_id": 42,
+            "verse": {
+                "id": "Mereka mendustakan semua tanda-tanda (kebesaran) Kami. Maka, Kami mengazab mereka dengan azab (Tuhan) Yang Mahaperkasa lagi Mahakuasa."
+            },
+            "labels": {
+                "id": "Mereka/O mendustakan/O semua/O tanda-tanda/O (/O kebesaran/O )/O Kami/O./O Maka/O,/O Kami/O mengazab/O mereka/O dengan/O azab/O (/O Tuhan/O )/O Yang Mahaperkasa/O lagi/O Mahakuasa/O./O"
+            }
+        },
+        "43": {
+            "chapterid": "054",
+            "verse_id": 43,
+            "verse": {
+                "id": "Apakah orang-orang kafir di lingkunganmu (kaum Quraisy) lebih baik daripada mereka (kaum terdahulu) ataukah kamu telah mempunyai (jaminan) kebebasan (dari azab) dalam kitab-kitab terdahulu?"
+            },
+            "labels": {
+                "id": "Apakah/O orang-orang/O kafir/O di/O lingkunganmu/O (/O kaum/O Quraisy/Person )/O lebih/O baik/O daripada/O mereka/O (/O kaum/O terdahulu/O )/O ataukah/O kamu/O telah/O mempunyai/O (/O jaminan/O )/O kebebasan/O (/O dari/O azab/O )/O dalam/O kitab-kitab/O terdahulu/O?/O"
+            }
+        },
+        "44": {
+            "chapterid": "054",
+            "verse_id": 44,
+            "verse": {
+                "id": "Bahkan, apakah mereka mengatakan, \u201cKami adalah golongan yang pasti menang.\u201d"
+            },
+            "labels": {
+                "id": "Bahkan/O,/O apakah/O mereka/O mengatakan/O,/O \u201c/O Kami/O adalah/O golongan/O yang/O pasti/O menang/O./O \u201d/O"
+            }
+        },
+        "45": {
+            "chapterid": "054",
+            "verse_id": 45,
+            "verse": {
+                "id": "Golongan itu pasti akan dikalahkan dan mereka berbalik ke belakang (mundur)."
+            },
+            "labels": {
+                "id": "Golongan/O itu/O pasti/O akan/O dikalahkan/O dan/O mereka/O berbalik/O ke/O belakang/O (/O mundur/O )/O./O"
+            }
+        },
+        "46": {
+            "chapterid": "054",
+            "verse_id": 46,
+            "verse": {
+                "id": "Bahkan hari Kiamat itulah hari yang dijanjikan kepada mereka. Hari Kiamat itu lebih dahsyat dan lebih pahit."
+            },
+            "labels": {
+                "id": "Bahkan/O hari/O Kiamat/Event itulah/O hari/O yang/O dijanjikan/O kepada/O mereka/O./O Hari/O Kiamat/Event itu/O lebih/O dahsyat/O dan/O lebih/O pahit/O./O"
+            }
+        },
+        "47": {
+            "chapterid": "054",
+            "verse_id": 47,
+            "verse": {
+                "id": "Sesungguhnya para pendurhaka berada dalam kesesatan dan akan berada dalam (neraka) Sa\u2018ir (yang menyala-nyala)."
+            },
+            "labels": {
+                "id": "Sesungguhnya/O para/O pendurhaka/O berada/O dalam/O kesesatan/O dan/O akan/O berada/O dalam/O (/O neraka/O )/O Sa\u2018ir/AstronomicalBody (/O yang/O menyala-nyala/O )/O./O"
+            }
+        },
+        "48": {
+            "chapterid": "054",
+            "verse_id": 48,
+            "verse": {
+                "id": "Pada hari (ketika) mereka diseret ke neraka dengan wajah (tertelungkup), (dikatakan kepada mereka,) \u201cRasakanlah sentuhan (api neraka) Saqar.\u201d"
+            },
+            "labels": {
+                "id": "Pada/O hari/O (/O ketika/O )/O mereka/O diseret/O ke/O neraka/O dengan/O wajah/O (/O tertelungkup/O )/O,/O (/O dikatakan/O kepada/O mereka/O,/O )/O \u201cRasakanlah/O sentuhan/O (/O api/O neraka/O )/O Saqar/AfterlifeLocation./O \u201d/O"
+            }
+        },
+        "49": {
+            "chapterid": "054",
+            "verse_id": 49,
+            "verse": {
+                "id": "Sesungguhnya Kami menciptakan segala sesuatu sesuai dengan ukuran."
+            },
+            "labels": {
+                "id": "Sesungguhnya/O Kami/O menciptakan/O segala/O sesuatu/O sesuai/O dengan/O ukuran/O./O"
+            }
+        },
+        "50": {
+            "chapterid": "054",
+            "verse_id": 50,
+            "verse": {
+                "id": "Perintah Kami (ketika menghendaki sesuatu) hanyalah (dengan perkataan) sekali saja seperti kejapan mata."
+            },
+            "labels": {
+                "id": "Perintah/O Kami/O (/O ketika/O menghendaki/O sesuatu/O )/O hanyalah/O (/O dengan/O perkataan/O )/O sekali/O saja/O seperti/O kejapan/O mata/O./O"
+            }
+        },
+        "51": {
+            "chapterid": "054",
+            "verse_id": 51,
+            "verse": {
+                "id": "Sungguh, Kami benar-benar telah membinasakan orang yang (kekafirannya) serupa dengan kamu. Maka, adakah orang yang mau mengambil pelajaran?"
+            },
+            "labels": {
+                "id": "Sungguh/O,/O Kami/O benar-benar/O telah/O membinasakan/O orang/O yang/O (/O kekafirannya/O )/O serupa/O dengan/O kamu/O./O Maka/O,/O adakah/O orang/O yang/O mau/O mengambil/O pelajaran/O?/O"
+            }
+        },
+        "52": {
+            "chapterid": "054",
+            "verse_id": 52,
+            "verse": {
+                "id": "Segala sesuatu yang telah mereka perbuat (tertulis) dalam buku-buku catatan (amal)."
+            },
+            "labels": {
+                "id": "Segala/O sesuatu/O yang/O telah/O mereka/O perbuat/O (/O tertulis/O )/O dalam/O buku-buku/O catatan/O (/O amal/O )/O./O"
+            }
+        },
+        "53": {
+            "chapterid": "054",
+            "verse_id": 53,
+            "verse": {
+                "id": "Segala (amalan) yang kecil atau yang besar (semuanya) tertulis (di Lauh Mahfuz)."
+            },
+            "labels": {
+                "id": "Segala/O (/O amalan/O )/O yang/O kecil/O atau/O yang/O besar/O (/O semuanya/O )/O tertulis/O (/O di/O Lauh Mahfuz/Artifact )/O./O"
+            }
+        },
+        "54": {
+            "chapterid": "054",
+            "verse_id": 54,
+            "verse": {
+                "id": "Sesungguhnya orang-orang yang bertakwa berada di taman-taman dan sungai"
+            },
+            "labels": {
+                "id": "Sesungguhnya/O orang-orang/O yang/O bertakwa/O berada/O di/O taman-taman/O dan/O sungai/O"
+            }
+        },
+        "55": {
+            "chapterid": "054",
+            "verse_id": 55,
+            "verse": {
+                "id": "di tempat yang disenangi di sisi Tuhan Yang Mahakuasa."
+            },
+            "labels": {
+                "id": "di/O tempat/O yang/O disenangi/O di/O sisi/O Tuhan Yang Mahakuasa/Allah./O"
+            }
+        }
+    }
+}

@@ -1,0 +1,964 @@
+{
+    "056": {
+        "1": {
+            "chapterid": "056",
+            "verse_id": 1,
+            "verse": {
+                "id": "\ufeffApabila terjadi hari Kiamat (yang pasti terjadi),"
+            },
+            "labels": {
+                "id": "Apabila/O terjadi/O hari Kiamat/Event (/O yang/O pasti/O terjadi/O )/O,/O"
+            }
+        },
+        "2": {
+            "chapterid": "056",
+            "verse_id": 2,
+            "verse": {
+                "id": "tidak ada seorang pun yang (dapat) mendustakan terjadinya."
+            },
+            "labels": {
+                "id": "tidak/O ada/O seorang/O pun/O yang/O (/O dapat/O )/O mendustakan/O terjadinya/O./O"
+            }
+        },
+        "3": {
+            "chapterid": "056",
+            "verse_id": 3,
+            "verse": {
+                "id": "(Kejadian itu) merendahkan (satu golongan) dan meninggikan (golongan yang lain)."
+            },
+            "labels": {
+                "id": "(/O Kejadian/O itu/O )/O merendahkan/O (/O satu/O golongan/O )/O dan/O meninggikan/O (/O golongan/O yang/O lain/O )/O./O"
+            }
+        },
+        "4": {
+            "chapterid": "056",
+            "verse_id": 4,
+            "verse": {
+                "id": "Apabila bumi diguncangkan sedahsyat-dahsyatnya"
+            },
+            "labels": {
+                "id": "Apabila/O bumi/AstronomicalBody diguncangkan/O sedahsyat-dahsyatnya/O"
+            }
+        },
+        "5": {
+            "chapterid": "056",
+            "verse_id": 5,
+            "verse": {
+                "id": "dan gunung-gunung dihancurkan sehancur-hancurnya,"
+            },
+            "labels": {
+                "id": "dan/O gunung-gunung/O dihancurkan/O sehancur-hancurnya/O,/O"
+            }
+        },
+        "6": {
+            "chapterid": "056",
+            "verse_id": 6,
+            "verse": {
+                "id": "jadilah ia debu yang beterbangan."
+            },
+            "labels": {
+                "id": "jadilah/O ia/O debu/O yang/O beterbangan/O./O"
+            }
+        },
+        "7": {
+            "chapterid": "056",
+            "verse_id": 7,
+            "verse": {
+                "id": "Kamu menjadi tiga golongan,"
+            },
+            "labels": {
+                "id": "Kamu/O menjadi/O tiga/O golongan/O,/O"
+            }
+        },
+        "8": {
+            "chapterid": "056",
+            "verse_id": 8,
+            "verse": {
+                "id": "yaitu golongan kanan, alangkah mulianya golongan kanan itu"
+            },
+            "labels": {
+                "id": "yaitu/O golongan/O kanan/O,/O alangkah/O mulianya/O golongan/O kanan/O itu/O"
+            }
+        },
+        "9": {
+            "chapterid": "056",
+            "verse_id": 9,
+            "verse": {
+                "id": "dan golongan kiri, alangkah sengsaranya golongan kiri itu."
+            },
+            "labels": {
+                "id": "dan/O golongan/O kiri/O,/O alangkah/O sengsaranya/O golongan/O kiri/O itu/O./O"
+            }
+        },
+        "10": {
+            "chapterid": "056",
+            "verse_id": 10,
+            "verse": {
+                "id": "Selain itu, (golongan ketiga adalah) orang-orang yang paling dahulu (beriman). Merekalah yang paling dahulu (masuk surga)."
+            },
+            "labels": {
+                "id": "Selain/O itu/O,/O (/O golongan/O ketiga/O adalah/O )/O orang-orang/O yang/O paling/O dahulu/O (/O beriman/O )/O./O Merekalah/O yang/O paling/O dahulu/O (/O masuk/O surga/O )/O./O"
+            }
+        },
+        "11": {
+            "chapterid": "056",
+            "verse_id": 11,
+            "verse": {
+                "id": "Mereka itulah orang-orang yang didekatkan (kepada Allah)."
+            },
+            "labels": {
+                "id": "Mereka/O itulah/O orang-orang/O yang/O didekatkan/O (/O kepada/O Allah/Allah )/O./O"
+            }
+        },
+        "12": {
+            "chapterid": "056",
+            "verse_id": 12,
+            "verse": {
+                "id": "(Mereka) berada dalam surga (yang penuh) kenikmatan."
+            },
+            "labels": {
+                "id": "(/O Mereka/O )/O berada/O dalam/O surga/O (/O yang/O penuh/O )/O kenikmatan/O./O"
+            }
+        },
+        "13": {
+            "chapterid": "056",
+            "verse_id": 13,
+            "verse": {
+                "id": "(Mereka adalah) segolongan besar dari orang-orang yang terdahulu"
+            },
+            "labels": {
+                "id": "(/O Mereka/O adalah/O )/O segolongan/O besar/O dari/O orang-orang/O yang/O terdahulu/O"
+            }
+        },
+        "14": {
+            "chapterid": "056",
+            "verse_id": 14,
+            "verse": {
+                "id": "dan sedikit dari orang-orang yang (datang) kemudian."
+            },
+            "labels": {
+                "id": "dan/O sedikit/O dari/O orang-orang/O yang/O (/O datang/O )/O kemudian/O./O"
+            }
+        },
+        "15": {
+            "chapterid": "056",
+            "verse_id": 15,
+            "verse": {
+                "id": "(Mereka berada) di atas dipan-dipan yang bertatahkan emas dan permata"
+            },
+            "labels": {
+                "id": "(/O Mereka/O berada/O )/O di/O atas/O dipan-dipan/O yang/O bertatahkan/O emas/O dan/O permata/O (/O )/O"
+            }
+        },
+        "16": {
+            "chapterid": "056",
+            "verse_id": 16,
+            "verse": {
+                "id": "seraya bersandar di atasnya saling berhadapan."
+            },
+            "labels": {
+                "id": "seraya/O bersandar/O di/O atasnya/O saling/O berhadapan/O./O"
+            }
+        },
+        "17": {
+            "chapterid": "056",
+            "verse_id": 17,
+            "verse": {
+                "id": "Mereka dikelilingi oleh anak-anak yang selalu muda"
+            },
+            "labels": {
+                "id": "Mereka/O dikelilingi/O oleh/O anak-anak/O yang/O selalu/O muda/O"
+            }
+        },
+        "18": {
+            "chapterid": "056",
+            "verse_id": 18,
+            "verse": {
+                "id": "dengan (membawa) gelas, kendi, dan seloki (berisi minuman yang diambil) dari sumber yang mengalir."
+            },
+            "labels": {
+                "id": "dengan/O (/O membawa/O )/O gelas/O,/O kendi/O,/O dan/O seloki/O (/O berisi/O minuman/O yang/O diambil/O )/O dari/O sumber/O yang/O mengalir/O./O"
+            }
+        },
+        "19": {
+            "chapterid": "056",
+            "verse_id": 19,
+            "verse": {
+                "id": "Mereka tidak pening karenanya dan tidak pula mabuk."
+            },
+            "labels": {
+                "id": "Mereka/O tidak/O pening/O karenanya/O dan/O tidak/O pula/O mabuk/O./O"
+            }
+        },
+        "20": {
+            "chapterid": "056",
+            "verse_id": 20,
+            "verse": {
+                "id": "(Mereka menyuguhkan pula) buah-buahan yang mereka pilih"
+            },
+            "labels": {
+                "id": "(/O Mereka/O menyuguhkan/O pula/O )/O buah-buahan/O yang/O mereka/O pilih/O./O"
+            }
+        },
+        "21": {
+            "chapterid": "056",
+            "verse_id": 21,
+            "verse": {
+                "id": "dan daging burung yang mereka sukai."
+            },
+            "labels": {
+                "id": "dan/O daging/O burung/O yang/O mereka/O sukai/O./O"
+            }
+        },
+        "22": {
+            "chapterid": "056",
+            "verse_id": 22,
+            "verse": {
+                "id": "Ada bidadari yang bermata indah"
+            },
+            "labels": {
+                "id": "Ada/O bidadari/O yang/O bermata/O indah/O"
+            }
+        },
+        "23": {
+            "chapterid": "056",
+            "verse_id": 23,
+            "verse": {
+                "id": "laksana mutiara yang tersimpan dengan baik"
+            },
+            "labels": {
+                "id": "laksana/O mutiara/O yang/O tersimpan/O dengan/O baik/O./O"
+            }
+        },
+        "24": {
+            "chapterid": "056",
+            "verse_id": 24,
+            "verse": {
+                "id": "sebagai balasan atas apa yang selama ini mereka kerjakan."
+            },
+            "labels": {
+                "id": "sebagai/O balasan/O atas/O apa/O yang/O selama/O ini/O mereka/O kerjakan/O./O"
+            }
+        },
+        "25": {
+            "chapterid": "056",
+            "verse_id": 25,
+            "verse": {
+                "id": "Di sana mereka tidak mendengar percakapan yang sia-sia dan tidak (pula) percakapan yang menimbulkan dosa,"
+            },
+            "labels": {
+                "id": "Di/O sana/O mereka/O tidak/O mendengar/O percakapan/O yang/O sia-sia/O dan/O tidak/O (/O pula/O )/O percakapan/O yang/O menimbulkan/O dosa/O,/O"
+            }
+        },
+        "26": {
+            "chapterid": "056",
+            "verse_id": 26,
+            "verse": {
+                "id": "kecuali (yang mereka dengar hanyalah) ucapan, \u201cSalam\u2026 salam.\u201d"
+            },
+            "labels": {
+                "id": "kecuali/O (/O yang/O mereka/O dengar/O hanyalah/O )/O \u201c/O Salam\u2026/O salam/O \u201d/O./O"
+            }
+        },
+        "27": {
+            "chapterid": "056",
+            "verse_id": 27,
+            "verse": {
+                "id": "Golongan kanan, alangkah mulianya golongan kanan itu."
+            },
+            "labels": {
+                "id": "Golongan/O kanan/O,/O alangkah/O mulianya/O golongan/O kanan/O itu/O./O"
+            }
+        },
+        "28": {
+            "chapterid": "056",
+            "verse_id": 28,
+            "verse": {
+                "id": "(Mereka) berada di antara pohon bidara yang tidak berduri,"
+            },
+            "labels": {
+                "id": "(/O Mereka/O )/O berada/O di/O antara/O pohon/O bidara/O yang/O tidak/O berduri/O,/O"
+            }
+        },
+        "29": {
+            "chapterid": "056",
+            "verse_id": 29,
+            "verse": {
+                "id": "pohon pisang yang (buahnya) bersusun-susun,"
+            },
+            "labels": {
+                "id": "pohon/O pisang/O yang/O (/O buahnya/O )/O bersusun-susun/O,/O"
+            }
+        },
+        "30": {
+            "chapterid": "056",
+            "verse_id": 30,
+            "verse": {
+                "id": "naungan yang terbentang luas,"
+            },
+            "labels": {
+                "id": "naungan/O yang/O terbentang/O luas/O,/O"
+            }
+        },
+        "31": {
+            "chapterid": "056",
+            "verse_id": 31,
+            "verse": {
+                "id": "air yang tercurah,"
+            },
+            "labels": {
+                "id": "air/O yang/O tercurah/O,/O"
+            }
+        },
+        "32": {
+            "chapterid": "056",
+            "verse_id": 32,
+            "verse": {
+                "id": "buah-buahan yang banyak"
+            },
+            "labels": {
+                "id": "buah-buahan/O yang/O banyak/O"
+            }
+        },
+        "33": {
+            "chapterid": "056",
+            "verse_id": 33,
+            "verse": {
+                "id": "yang tidak berhenti berbuah dan tidak terlarang memetiknya,"
+            },
+            "labels": {
+                "id": "yang/O tidak/O berhenti/O berbuah/O dan/O tidak/O terlarang/O memetiknya/O,/O"
+            }
+        },
+        "34": {
+            "chapterid": "056",
+            "verse_id": 34,
+            "verse": {
+                "id": "dan kasur-kasur yang tebal lagi empuk."
+            },
+            "labels": {
+                "id": "dan/O kasur-kasur/O yang/O tebal/O lagi/O empuk/O./O"
+            }
+        },
+        "35": {
+            "chapterid": "056",
+            "verse_id": 35,
+            "verse": {
+                "id": "Sesungguhnya Kami menciptakan mereka (bidadari itu) secara langsung,"
+            },
+            "labels": {
+                "id": "Sesungguhnya/O Kami/O menciptakan/O mereka/O (/O bidadari/O itu/O )/O secara/O langsung/O,/O"
+            }
+        },
+        "36": {
+            "chapterid": "056",
+            "verse_id": 36,
+            "verse": {
+                "id": "lalu Kami jadikan mereka perawan-perawan"
+            },
+            "labels": {
+                "id": "lalu/O Kami/O jadikan/O mereka/O perawan-perawan/O"
+            }
+        },
+        "37": {
+            "chapterid": "056",
+            "verse_id": 37,
+            "verse": {
+                "id": "yang penuh cinta (lagi) sebaya umurnya,"
+            },
+            "labels": {
+                "id": "yang/O penuh/O cinta/O (/O lagi/O )/O sebaya/O umurnya/O,/O"
+            }
+        },
+        "38": {
+            "chapterid": "056",
+            "verse_id": 38,
+            "verse": {
+                "id": "(diperuntukkan) bagi golongan kanan,"
+            },
+            "labels": {
+                "id": "(/O diperuntukkan/O )/O bagi/O golongan/O kanan/O,/O"
+            }
+        },
+        "39": {
+            "chapterid": "056",
+            "verse_id": 39,
+            "verse": {
+                "id": "(yaitu) segolongan besar dari orang-orang yang terdahulu"
+            },
+            "labels": {
+                "id": "(/O yaitu/O )/O segolongan/O besar/O dari/O orang-orang/O yang/O terdahulu/O"
+            }
+        },
+        "40": {
+            "chapterid": "056",
+            "verse_id": 40,
+            "verse": {
+                "id": "dan segolongan besar (pula) dari orang-orang yang kemudian."
+            },
+            "labels": {
+                "id": "dan/O segolongan/O besar/O (/O pula/O )/O dari/O orang-orang/O yang/O kemudian/O./O"
+            }
+        },
+        "41": {
+            "chapterid": "056",
+            "verse_id": 41,
+            "verse": {
+                "id": "Golongan kiri, alangkah sengsaranya golongan kiri itu."
+            },
+            "labels": {
+                "id": "Golongan/O kiri/O,/O alangkah/O sengsaranya/O golongan/O kiri/O itu/O./O"
+            }
+        },
+        "42": {
+            "chapterid": "056",
+            "verse_id": 42,
+            "verse": {
+                "id": "(Mereka berada) dalam siksaan angin yang sangat panas, air yang mendidih,"
+            },
+            "labels": {
+                "id": "(/O Mereka/O berada/O )/O dalam/O siksaan/O angin/O yang/O sangat/O panas/O,/O air/O yang/O mendidih/O,/O"
+            }
+        },
+        "43": {
+            "chapterid": "056",
+            "verse_id": 43,
+            "verse": {
+                "id": "dan naungan asap hitam"
+            },
+            "labels": {
+                "id": "dan/O naungan/O asap/O hitam/O"
+            }
+        },
+        "44": {
+            "chapterid": "056",
+            "verse_id": 44,
+            "verse": {
+                "id": "yang tidak sejuk dan tidak menyenangkan."
+            },
+            "labels": {
+                "id": "yang/O tidak/O sejuk/O dan/O tidak/O menyenangkan/O./O"
+            }
+        },
+        "45": {
+            "chapterid": "056",
+            "verse_id": 45,
+            "verse": {
+                "id": "Sesungguhnya mereka sebelum itu hidup bermewah-mewah."
+            },
+            "labels": {
+                "id": "Sesungguhnya/O mereka/O sebelum/O itu/O hidup/O bermewah-mewah/O./O"
+            }
+        },
+        "46": {
+            "chapterid": "056",
+            "verse_id": 46,
+            "verse": {
+                "id": "Mereka terus-menerus mengerjakan dosa yang besar."
+            },
+            "labels": {
+                "id": "Mereka/O terus-menerus/O mengerjakan/O dosa/O yang/O besar/O./O"
+            }
+        },
+        "47": {
+            "chapterid": "056",
+            "verse_id": 47,
+            "verse": {
+                "id": "Mereka berkata, \u201cApabila kami telah mati menjadi tanah dan tulang-belulang, apakah kami benar-benar akan dibangkitkan (kembali)?"
+            },
+            "labels": {
+                "id": "Mereka/O berkata/O,/O \u201c/O Apabila/O kami/O telah/O mati/O menjadi/O tanah/O dan/O tulang-belulang/O,/O apakah/O kami/O benar-benar/O akan/O dibangkitkan/O (/O kembali/O )/O?/O"
+            }
+        },
+        "48": {
+            "chapterid": "056",
+            "verse_id": 48,
+            "verse": {
+                "id": "Apakah nenek moyang kami yang terdahulu (akan dibangkitkan pula)?\u201d"
+            },
+            "labels": {
+                "id": "Apakah/O nenek/O moyang/O kami/O yang/O terdahulu/O (/O akan/O dibangkitkan/O pula/O )/O?/O \u201d/O"
+            }
+        },
+        "49": {
+            "chapterid": "056",
+            "verse_id": 49,
+            "verse": {
+                "id": "Katakanlah (Nabi Muhammad), \u201cSesungguhnya orang-orang yang terdahulu dan yang kemudian"
+            },
+            "labels": {
+                "id": "Katakanlah/O (/O Nabi/O Muhammad/Messenger )/O,/O \u201c/O Sesungguhnya/O orang-orang/O yang/O terdahulu/O dan/O yang/O kemudian/O (/O tidak/O berbeda/O )/O./O \u201d/O"
+            }
+        },
+        "50": {
+            "chapterid": "056",
+            "verse_id": 50,
+            "verse": {
+                "id": "benar-benar akan dikumpulkan pada waktu tertentu, yaitu hari yang sudah diketahui."
+            },
+            "labels": {
+                "id": "benar-benar/O akan/O dikumpulkan/O pada/O waktu/O tertentu/O,/O yaitu/O hari/O yang/O sudah/O diketahui/O./O"
+            }
+        },
+        "51": {
+            "chapterid": "056",
+            "verse_id": 51,
+            "verse": {
+                "id": "Kemudian, sesungguhnya kamu,"
+            },
+            "labels": {
+                "id": "Kemudian/O,/O sesungguhnya/O kamu/O,/O"
+            }
+        },
+        "52": {
+            "chapterid": "056",
+            "verse_id": 52,
+            "verse": {
+                "id": "wahai orang-orang sesat lagi pendusta,"
+            },
+            "labels": {
+                "id": "wahai/O orang-orang/O sesat/O lagi/O pendusta/O,/O"
+            }
+        },
+        "53": {
+            "chapterid": "056",
+            "verse_id": 53,
+            "verse": {
+                "id": "pasti akan memakan pohon zaqum.Lalu, kamu akan memenuhi perut-perutmu dengannya."
+            },
+            "labels": {
+                "id": "pasti/O akan/O memakan/O pohon/O zaqum/O./O Lalu/O,/O kamu/O akan/O memenuhi/O perut-perutmu/O dengannya/O./O"
+            }
+        },
+        "54": {
+            "chapterid": "056",
+            "verse_id": 54,
+            "verse": {
+                "id": "Setelah itu, untuk penawarnya (zaqum) kamu akan meminum air yang sangat panas."
+            },
+            "labels": {
+                "id": "Setelah/O itu/O,/O untuk/O penawarnya/O (/O zaqum/O )/O kamu/O akan/O meminum/O air/O yang/O sangat/O panas/O./O"
+            }
+        },
+        "55": {
+            "chapterid": "056",
+            "verse_id": 55,
+            "verse": {
+                "id": "Maka, kamu minum bagaikan unta yang sangat haus."
+            },
+            "labels": {
+                "id": "Maka/O,/O kamu/O minum/O bagaikan/O unta/O yang/O sangat/O haus/O./O"
+            }
+        },
+        "56": {
+            "chapterid": "056",
+            "verse_id": 56,
+            "verse": {
+                "id": "Inilah hidangan (untuk) mereka pada hari Pembalasan.\u201d"
+            },
+            "labels": {
+                "id": "Inilah/O hidangan/O (/O untuk/O )/O mereka/O pada/O hari/O Pembalasan/Event \u201d/O./O"
+            }
+        },
+        "57": {
+            "chapterid": "056",
+            "verse_id": 57,
+            "verse": {
+                "id": "Kami telah menciptakanmu.  Mengapa kamu tidak membenarkan (hari Kebangkitan)?"
+            },
+            "labels": {
+                "id": "Kami/O telah/O menciptakanmu/O./O Mengapa/O kamu/O tidak/O membenarkan/O (/O hari/O Kebangkitan/Event )/O?/O"
+            }
+        },
+        "58": {
+            "chapterid": "056",
+            "verse_id": 58,
+            "verse": {
+                "id": "Apakah kamu memperhatikan apa yang kamu pancarkan (sperma)?"
+            },
+            "labels": {
+                "id": "Apakah/O kamu/O memperhatikan/O apa/O yang/O kamu/O pancarkan/O (/O sperma/O )/O?/O"
+            }
+        },
+        "59": {
+            "chapterid": "056",
+            "verse_id": 59,
+            "verse": {
+                "id": "Apakah kamu yang menciptakannya atau Kami Penciptanya?"
+            },
+            "labels": {
+                "id": "Apakah/O kamu/O yang/O menciptakannya/O atau/O Kami/O Penciptanya/O?/O"
+            }
+        },
+        "60": {
+            "chapterid": "056",
+            "verse_id": 60,
+            "verse": {
+                "id": "Kami telah menentukan kematian di antara kamu dan Kami tidak lemah"
+            },
+            "labels": {
+                "id": "Kami/O telah/O menentukan/O kematian/O di/O antara/O kamu/O dan/O Kami/O tidak/O lemah/O"
+            }
+        },
+        "61": {
+            "chapterid": "056",
+            "verse_id": 61,
+            "verse": {
+                "id": "untuk mengubah bentukmu (di hari Kiamat) dan menciptakanmu kelak dalam keadaan yang tidak kamu ketahui."
+            },
+            "labels": {
+                "id": "untuk/O mengubah/O bentukmu/O (/O di/O hari Kiamat/Event )/O dan/O menciptakanmu/O kelak/O dalam/O keadaan/O yang/O tidak/O kamu/O ketahui/O./O"
+            }
+        },
+        "62": {
+            "chapterid": "056",
+            "verse_id": 62,
+            "verse": {
+                "id": "Sungguh, kamu benar-benar telah mengetahui penciptaan yang pertama. Mengapa kamu tidak mengambil pelajaran?"
+            },
+            "labels": {
+                "id": "Sungguh/O,/O kamu/O benar-benar/O telah/O mengetahui/O penciptaan/O yang/O pertama/O./O Mengapa/O kamu/O tidak/O mengambil/O pelajaran/O?/O"
+            }
+        },
+        "63": {
+            "chapterid": "056",
+            "verse_id": 63,
+            "verse": {
+                "id": "Apakah kamu memperhatikan benih yang kamu tanam?"
+            },
+            "labels": {
+                "id": "Apakah/O kamu/O memperhatikan/O benih/O yang/O kamu/O tanam/O?/O"
+            }
+        },
+        "64": {
+            "chapterid": "056",
+            "verse_id": 64,
+            "verse": {
+                "id": "Apakah kamu yang menumbuhkannya atau Kami yang menumbuhkan?"
+            },
+            "labels": {
+                "id": "Apakah/O kamu/O yang/O menumbuhkannya/O atau/O Kami/O yang/O menumbuhkan/O?/O"
+            }
+        },
+        "65": {
+            "chapterid": "056",
+            "verse_id": 65,
+            "verse": {
+                "id": "Seandainya Kami berkehendak, Kami benar-benar menjadikannya hancur sehingga kamu menjadi heran tercengang,"
+            },
+            "labels": {
+                "id": "Seandainya/O Kami/O berkehendak/O,/O Kami/O benar-benar/O menjadikannya/O hancur/O sehingga/O kamu/O menjadi/O heran/O tercengang/O,/O"
+            }
+        },
+        "66": {
+            "chapterid": "056",
+            "verse_id": 66,
+            "verse": {
+                "id": "(sambil berkata,) \u201cSesungguhnya kami benar-benar menderita kerugian."
+            },
+            "labels": {
+                "id": "(/O sambil/O berkata/O,/O )/O \u201c/O Sesungguhnya/O kami/O benar-benar/O menderita/O kerugian/O./O \u201d/O"
+            }
+        },
+        "67": {
+            "chapterid": "056",
+            "verse_id": 67,
+            "verse": {
+                "id": "Bahkan, kami tidak mendapat hasil apa pun.\u201d"
+            },
+            "labels": {
+                "id": "Bahkan/O,/O kami/O tidak/O mendapat/O hasil/O apa/O pun/O \u201d/O./O"
+            }
+        },
+        "68": {
+            "chapterid": "056",
+            "verse_id": 68,
+            "verse": {
+                "id": "Apakah kamu memperhatikan air yang kamu minum?"
+            },
+            "labels": {
+                "id": "Apakah/O kamu/O memperhatikan/O air/O yang/O kamu/O minum/O?/O"
+            }
+        },
+        "69": {
+            "chapterid": "056",
+            "verse_id": 69,
+            "verse": {
+                "id": "Apakah kamu yang menurunkannya dari awan atau Kami yang menurunkan?"
+            },
+            "labels": {
+                "id": "Apakah/O kamu/O yang/O menurunkannya/O dari/O awan/O atau/O Kami/O yang/O menurunkan/O?/O"
+            }
+        },
+        "70": {
+            "chapterid": "056",
+            "verse_id": 70,
+            "verse": {
+                "id": "Seandainya Kami berkehendak, Kami menjadikannya asin. Mengapa kamu tidak bersyukur?"
+            },
+            "labels": {
+                "id": "Seandainya/O Kami/O berkehendak/O,/O Kami/O menjadikannya/O asin/O./O Mengapa/O kamu/O tidak/O bersyukur/O?/O"
+            }
+        },
+        "71": {
+            "chapterid": "056",
+            "verse_id": 71,
+            "verse": {
+                "id": "Apakah kamu memperhatikan api yang kamu nyalakan?"
+            },
+            "labels": {
+                "id": "Apakah/O kamu/O memperhatikan/O api/O yang/O kamu/O nyalakan/O?/O"
+            }
+        },
+        "72": {
+            "chapterid": "056",
+            "verse_id": 72,
+            "verse": {
+                "id": "Apakah kamu yang menumbuhkan kayunya atau Kami yang menumbuhkan?"
+            },
+            "labels": {
+                "id": "Apakah/O kamu/O yang/O menumbuhkan/O kayunya/O atau/O Kami/O yang/O menumbuhkan/O?/O"
+            }
+        },
+        "73": {
+            "chapterid": "056",
+            "verse_id": 73,
+            "verse": {
+                "id": "Kami menjadikannya (api itu) sebagai peringatan dan manfaat bagi para musafir."
+            },
+            "labels": {
+                "id": "Kami/O menjadikannya/O (/O api/O itu/O )/O sebagai/O peringatan/O dan/O manfaat/O bagi/O para/O musafir/O./O"
+            }
+        },
+        "74": {
+            "chapterid": "056",
+            "verse_id": 74,
+            "verse": {
+                "id": "Maka, bertasbihlah dengan (menyebut) nama Tuhanmu Yang Mahaagung."
+            },
+            "labels": {
+                "id": "Maka/O,/O bertasbihlah/O dengan/O (/O menyebut/O )/O nama/O Tuhanmu/O Yang Mahaagung/Allah./O"
+            }
+        },
+        "75": {
+            "chapterid": "056",
+            "verse_id": 75,
+            "verse": {
+                "id": "Aku bersumpah demi tempat beredarnya bintang-bintang."
+            },
+            "labels": {
+                "id": "Aku/O bersumpah/O demi/O tempat/O beredarnya/O bintang-bintang/O./O"
+            }
+        },
+        "76": {
+            "chapterid": "056",
+            "verse_id": 76,
+            "verse": {
+                "id": "Sesungguhnya itu benar-benar sumpah yang sangat besar seandainya kamu mengetahui."
+            },
+            "labels": {
+                "id": "Sesungguhnya/O itu/O benar-benar/O sumpah/O yang/O sangat/O besar/O seandainya/O kamu/O mengetahui/O./O"
+            }
+        },
+        "77": {
+            "chapterid": "056",
+            "verse_id": 77,
+            "verse": {
+                "id": "Sesungguhnya ia  benar-benar Al-Qur\u2019an yang sangat mulia,"
+            },
+            "labels": {
+                "id": "Sesungguhnya/O ia/O benar-benar/O Al-Qur\u2019an/HolyBook yang/O sangat/O mulia/O,/O"
+            }
+        },
+        "78": {
+            "chapterid": "056",
+            "verse_id": 78,
+            "verse": {
+                "id": "dalam Kitab yang terpelihara."
+            },
+            "labels": {
+                "id": "dalam/O Kitab/O yang/O terpelihara/O./O"
+            }
+        },
+        "79": {
+            "chapterid": "056",
+            "verse_id": 79,
+            "verse": {
+                "id": "Tidak ada yang menyentuhnya, kecuali para hamba (Allah) yang disucikan."
+            },
+            "labels": {
+                "id": "Tidak/O ada/O yang/O menyentuhnya/O,/O kecuali/O para/O hamba/O (/O Allah/Allah )/O yang/O disucikan/O./O"
+            }
+        },
+        "80": {
+            "chapterid": "056",
+            "verse_id": 80,
+            "verse": {
+                "id": "(Al-Qur\u2019an) diturunkan dari Tuhan seluruh alam."
+            },
+            "labels": {
+                "id": "(/O Al-Qur\u2019an/HolyBook )/O diturunkan/O dari/O Tuhan/O seluruh/O alam/O./O"
+            }
+        },
+        "81": {
+            "chapterid": "056",
+            "verse_id": 81,
+            "verse": {
+                "id": "Apakah kamu menganggap remeh berita ini (Al-Qur\u2019an)"
+            },
+            "labels": {
+                "id": "Apakah/O kamu/O menganggap/O remeh/O berita/O ini/O (/O Al-Qur\u2019an/HolyBook )/O?/O"
+            }
+        },
+        "82": {
+            "chapterid": "056",
+            "verse_id": 82,
+            "verse": {
+                "id": "dan kamu menjadikan rezeki yang kamu terima (dari Allah) justru untuk mendustakan (Al-Qur\u2019an)?"
+            },
+            "labels": {
+                "id": "dan/O kamu/O menjadikan/O rezeki/O yang/O kamu/O terima/O (/O dari/O Allah/Allah )/O justru/O untuk/O mendustakan/O (/O Al-Qur\u2019an/HolyBook )/O?/O"
+            }
+        },
+        "83": {
+            "chapterid": "056",
+            "verse_id": 83,
+            "verse": {
+                "id": "Kalau begitu, mengapa (kamu) tidak (menahan nyawa) ketika telah sampai di kerongkongan,"
+            },
+            "labels": {
+                "id": "Kalau/O begitu/O,/O mengapa/O (/O kamu/O )/O tidak/O (/O menahan/O nyawa/O )/O ketika/O telah/O sampai/O di/O kerongkongan/O,/O"
+            }
+        },
+        "84": {
+            "chapterid": "056",
+            "verse_id": 84,
+            "verse": {
+                "id": "padahal kamu ketika itu melihat (orang yang sedang sekarat)?"
+            },
+            "labels": {
+                "id": "padahal/O kamu/O ketika/O itu/O melihat/O (/O orang/O yang/O sedang/O sekarat/O )/O?/O"
+            }
+        },
+        "85": {
+            "chapterid": "056",
+            "verse_id": 85,
+            "verse": {
+                "id": "Kami lebih dekat kepadanya (orang yang sedang sekarat) daripada kamu, tetapi kamu tidak melihat."
+            },
+            "labels": {
+                "id": "Kami/O lebih/O dekat/O kepadanya/O (/O orang/O yang/O sedang/O sekarat/O )/O daripada/O kamu/O,/O tetapi/O kamu/O tidak/O melihat/O./O"
+            }
+        },
+        "86": {
+            "chapterid": "056",
+            "verse_id": 86,
+            "verse": {
+                "id": "Maka, mengapa jika kamu tidak diberi balasan,"
+            },
+            "labels": {
+                "id": "Maka/O,/O mengapa/O jika/O kamu/O tidak/O diberi/O balasan/O,/O"
+            }
+        },
+        "87": {
+            "chapterid": "056",
+            "verse_id": 87,
+            "verse": {
+                "id": "kamu tidak mengembalikannya (nyawa itu) jika kamu orang-orang yang benar?"
+            },
+            "labels": {
+                "id": "kamu/O tidak/O mengembalikannya/O (/O nyawa/O itu/O )/O jika/O kamu/O orang-orang/O yang/O benar/O?/O"
+            }
+        },
+        "88": {
+            "chapterid": "056",
+            "verse_id": 88,
+            "verse": {
+                "id": "Jika dia (orang yang mati) itu termasuk yang didekatkan (kepada Allah),"
+            },
+            "labels": {
+                "id": "Jika/O dia/O (/O orang/O yang/O mati/O )/O itu/O termasuk/O yang/O didekatkan/O (/O kepada/O Allah/Allah )/O,/O"
+            }
+        },
+        "89": {
+            "chapterid": "056",
+            "verse_id": 89,
+            "verse": {
+                "id": "dia memperoleh ketenteraman, rezeki, dan surga (yang penuh) kenikmatan."
+            },
+            "labels": {
+                "id": "dia/O memperoleh/O ketenteraman/O,/O rezeki/O,/O dan/O surga/O (/O yang/O penuh/O )/O kenikmatan/O./O"
+            }
+        },
+        "90": {
+            "chapterid": "056",
+            "verse_id": 90,
+            "verse": {
+                "id": "Jika dia (termasuk) golongan kanan,"
+            },
+            "labels": {
+                "id": "Jika/O dia/O (/O termasuk/O )/O golongan/O kanan/O,/O"
+            }
+        },
+        "91": {
+            "chapterid": "056",
+            "verse_id": 91,
+            "verse": {
+                "id": "\u201cSalam bagimu\u201d dari (sahabatmu,) golongan kanan."
+            },
+            "labels": {
+                "id": "\u201c/O Salam/O bagimu/O \u201d/O dari/O (/O sahabatmu/O,/O )/O golongan/O kanan/O./O"
+            }
+        },
+        "92": {
+            "chapterid": "056",
+            "verse_id": 92,
+            "verse": {
+                "id": "Jika dia termasuk golongan para pendusta lagi sesat,"
+            },
+            "labels": {
+                "id": "Jika/O dia/O termasuk/O golongan/O para/O pendusta/O lagi/O sesat/O,/O"
+            }
+        },
+        "93": {
+            "chapterid": "056",
+            "verse_id": 93,
+            "verse": {
+                "id": "jamuannya berupa air mendidih"
+            },
+            "labels": {
+                "id": "jamuannya/O berupa/O air/O mendidih/O"
+            }
+        },
+        "94": {
+            "chapterid": "056",
+            "verse_id": 94,
+            "verse": {
+                "id": "dan dibakar oleh (neraka) Jahim."
+            },
+            "labels": {
+                "id": "dan/O dibakar/O oleh/O (/O neraka/O )/O Jahim/AfterlifeLocation./O"
+            }
+        },
+        "95": {
+            "chapterid": "056",
+            "verse_id": 95,
+            "verse": {
+                "id": "Sesungguhnya ini benar-benar merupakan hakulyakin."
+            },
+            "labels": {
+                "id": "Sesungguhnya/O ini/O benar-benar/O merupakan/O hakulyakin/O./O"
+            }
+        },
+        "96": {
+            "chapterid": "056",
+            "verse_id": 96,
+            "verse": {
+                "id": "Maka, bertasbihlah dengan (menyebut) nama Tuhanmu Yang Mahaagung."
+            },
+            "labels": {
+                "id": "Maka/O,/O bertasbihlah/O dengan/O (/O menyebut/O )/O nama/O Tuhanmu/O Yang Mahaagung/Allah./O"
+            }
+        }
+    }
+}
