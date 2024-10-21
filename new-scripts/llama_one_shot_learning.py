@@ -78,7 +78,7 @@ model.config.use_cache = False
 # More info: https://github.com/huggingface/transformers/pull/24906
 model.config.pretraining_tp = 1
 
-chapter_list = ["041-Fussilat.txt", "040-Gafir.txt"]
+chapter_list = ["036-Yasin.txt", "035-Fatir.txt", "034-Saba'.txt", "033-Al_Ahzab.txt", "032-As_Sajdah.txt", "031-Luqman.txt", "030-Ar_Rum.txt", "029-Al_Ankabut.txt", "028-Al-_Qasas.txt", "027-An_Naml.txt", "026-Asy_Syu'ara'.txt", "025-Al_Furqan.txt", "024-An_Nur.txt", "023-Al_Mu'minun.txt", "022-Al_Hajj.txt", "021-Al_Anbiya'.txt", "020-Taha.txt", "019-Maryam.txt"]
 
 for chapter in chapter_list:
     #f = open("../new-datasets/test.txt", "r")
