@@ -7,7 +7,7 @@
                 "id": "Aku bersumpah demi hari Kiamat."
             },
             "labels": {
-                "id": "Aku/O bersumpah/O demi/O hari Kiamat/Event./O"
+                "id": "Aku/O bersumpah/O demi/O hari Kiamat/O ./O"
             }
         },
         "2": {
@@ -17,7 +17,7 @@
                 "id": "Aku bersumpah demi jiwa yang sangat menyesali (dirinya sendiri)."
             },
             "labels": {
-                "id": "Aku/O bersumpah/O demi/O jiwa/O yang/O sangat/O menyesali/O (/O dirinya/O sendiri/O )/O./O"
+                "id": "Aku/O bersumpah/O demi/O jiwa/O yang/O sangat/O menyesali/O (/O dirinya/O sendiri/O )/O ./O"
             }
         },
         "3": {
@@ -27,7 +27,7 @@
                 "id": "Apakah manusia mengira bahwa Kami tidak akan mengumpulkan (kembali) tulang-belulangnya?"
             },
             "labels": {
-                "id": "Apakah/O manusia/O mengira/O bahwa/O Kami/O tidak/O akan/O mengumpulkan/O (/O kembali/O )/O tulang-belulangnya/O?/O"
+                "id": "Apakah/O manusia/O mengira/O bahwa/O Kami/O tidak/O akan/O mengumpulkan/O (/O kembali/O )/O tulang-belulangnya/O ?/O"
             }
         },
         "4": {
@@ -37,7 +37,7 @@
                 "id": "Tentu, (bahkan) Kami mampu menyusun (kembali) jari-jemarinya dengan sempurna."
             },
             "labels": {
-                "id": "Tentu/O,/O (/O bahkan/O )/O Kami/O mampu/O menyusun/O (/O kembali/O )/O jari-jemarinya/O dengan/O sempurna/O./O"
+                "id": "Tentu/O ,/O (/O bahkan/O )/O Kami/O mampu/O menyusun/O (/O kembali/O )/O jari-jemarinya/O dengan/O sempurna/O ./O"
             }
         },
         "5": {
@@ -47,17 +47,17 @@
                 "id": "Akan tetapi, manusia hendak berbuat maksiat terus-menerus."
             },
             "labels": {
-                "id": "Akan/O tetapi/O,/O manusia/O hendak/O berbuat/O maksiat/O terus-menerus/O./O"
+                "id": "Akan/O tetapi/O ,/O manusia/O hendak/O berbuat/O maksiat/O terus-menerus/O ./O"
             }
         },
         "6": {
             "chapterid": "075",
             "verse_id": 6,
             "verse": {
-                "id": "Dia bertanya, \u201cKapankah hari Kiamat itu?\u201d"
+                "id": "Dia bertanya, “Kapankah hari Kiamat itu?”"
             },
             "labels": {
-                "id": "Dia/O bertanya/O,/O \u201cKapankah/O hari Kiamat itu/Event?/O \u201d/O"
+                "id": "Dia/O bertanya/O ,/O “Kapankah/O hari Kiamat itu/O ?/O ”/O"
             }
         },
         "7": {
@@ -67,7 +67,7 @@
                 "id": "Apabila mata terbelalak (ketakutan),"
             },
             "labels": {
-                "id": "Apabila/O mata/O terbelalak/O (/O ketakutan/O )/O,/O"
+                "id": "Apabila/O mata/O terbelalak/O (/O ketakutan/O )/O ,/O"
             }
         },
         "8": {
@@ -77,7 +77,7 @@
                 "id": "bulan pun telah hilang cahayanya,"
             },
             "labels": {
-                "id": "bulan/AstronomicalBody pun/O telah/O hilang/O cahayanya/O,/O"
+                "id": "bulan/AstronomicalBody pun/O telah/O hilang/O cahayanya/O ,/O"
             }
         },
         "9": {
@@ -87,17 +87,17 @@
                 "id": "serta matahari dan bulan dikumpulkan,"
             },
             "labels": {
-                "id": "sertai/O matahari/AstronomicalBody dan/O bulan/AstronomicalBody dikumpulkan/O,/O"
+                "id": "sertai/O matahari/AstronomicalBody dan/O bulan/AstronomicalBody dikumpulkan/O ,/O"
             }
         },
         "10": {
             "chapterid": "075",
             "verse_id": 10,
             "verse": {
-                "id": "pada hari itu manusia berkata, \u201cKe mana tempat lari?\u201d"
+                "id": "pada hari itu manusia berkata, “Ke mana tempat lari?”"
             },
             "labels": {
-                "id": "pada/O hari/O itu/O manusia/O berkata/O,/O \u201c/O Ke/O mana/O tempat/O lari/O?/O \u201d/O"
+                "id": "pada/O hari/O itu/O manusia/O berkata/O ,/O “/O Ke/O mana/O tempat/O lari/O ?/O ”/O"
             }
         },
         "11": {
@@ -107,7 +107,7 @@
                 "id": "Sekali-kali tidak! Tidak ada tempat berlindung."
             },
             "labels": {
-                "id": "Sekali-kali/O tidak/O!/O Tidak/O ada/O tempat/O berlindung/O./O"
+                "id": "Sekali-kali/O tidak/O !/O Tidak/O ada/O tempat/O berlindung/O ./O"
             }
         },
         "12": {
@@ -117,7 +117,7 @@
                 "id": "(Hanya) kepada Tuhanmu tempat kembali pada hari itu."
             },
             "labels": {
-                "id": "(/O Hanya/O )/O kepada/O Tuhanmu/O tempat/O kembali/O pada/O hari/O itu/O./O"
+                "id": "(/O Hanya/O )/O kepada/O Tuhanmu/O tempat/O kembali/O pada/O hari/O itu/O ./O"
             }
         },
         "13": {
@@ -127,7 +127,7 @@
                 "id": "Pada hari itu diberitakan kepada manusia apa yang telah dia kerjakan dan apa yang telah dia lalaikan."
             },
             "labels": {
-                "id": "Pada/O hari/O itu/O diberitakan/O kepada/O manusia/O apa/O yang/O telah/O dia/O kerjakan/O dan/O apa/O yang/O telah/O dia/O lalaikan/O./O"
+                "id": "Pada/O hari/O itu/O diberitakan/O kepada/O manusia/O apa/O yang/O telah/O dia/O kerjakan/O dan/O apa/O yang/O telah/O dia/O lalaikan/O ./O"
             }
         },
         "14": {
@@ -137,7 +137,7 @@
                 "id": "Bahkan, manusia menjadi saksi atas dirinya sendiri"
             },
             "labels": {
-                "id": "Bahkan/O,/O manusia/O menjadi/O saksi/O atas/O dirinya/O sendiri/O"
+                "id": "Bahkan/O ,/O manusia/O menjadi/O saksi/O atas/O dirinya/O sendiri/O"
             }
         },
         "15": {
@@ -147,17 +147,17 @@
                 "id": "walaupun dia mengemukakan alasan-alasan(-nya)."
             },
             "labels": {
-                "id": "walaupun/O dia/O mengemukakan/O alasan-alasan/O (/O -nya/O )/O./O"
+                "id": "walaupun/O dia/O mengemukakan/O alasan-alasan/O (/O -nya/O )/O ./O"
             }
         },
         "16": {
             "chapterid": "075",
             "verse_id": 16,
             "verse": {
-                "id": "Jangan engkau (Nabi Muhammad) gerakkan lidahmu (untuk membaca Al-Qur\u2019an) karena hendak tergesa-gesa (menguasai)-nya."
+                "id": "Jangan engkau (Nabi Muhammad) gerakkan lidahmu (untuk membaca Al-Qur’an) karena hendak tergesa-gesa (menguasai)-nya."
             },
             "labels": {
-                "id": "Jangan/O engkau/O (/O Nabi/O Muhammad/Messenger )/O gerakkan/O lidahmu/O (/O untuk/O membaca/O Al-Qur\u2019an/HolyBook )/O karena/O hendak/O tergesa-gesa/O (/O menguasai/O )/O -nya/O./O"
+                "id": "Jangan/O engkau/O (/O Nabi/O Muhammad/Messenger )/O gerakkan/O lidahmu/O (/O untuk/O membaca/O Al-Qur’an/HolyBook )/O karena/O hendak/O tergesa-gesa/O (/O menguasai/O )/O -nya/O ./O"
             }
         },
         "17": {
@@ -167,7 +167,7 @@
                 "id": "Sesungguhnya tugas Kamilah untuk mengumpulkan (dalam hatimu) dan membacakannya."
             },
             "labels": {
-                "id": "Sesungguhnya/O tugas/O Kamilah/O untuk/O mengumpulkan/O (/O dalam/O hatimu/O )/O dan/O membacakannya/O./O"
+                "id": "Sesungguhnya/O tugas/O Kamilah/O untuk/O mengumpulkan/O (/O dalam/O hatimu/O )/O dan/O membacakannya/O ./O"
             }
         },
         "18": {
@@ -177,7 +177,7 @@
                 "id": "Maka, apabila Kami telah selesai membacakannya, ikutilah bacaannya itu."
             },
             "labels": {
-                "id": "Maka/O,/O apabila/O Kami/O telah/O selesai/O membacakannya/O,/O ikutilah/O bacaannya/O itu/O./O"
+                "id": "Maka/O ,/O apabila/O Kami/O telah/O selesai/O membacakannya/O ,/O ikutilah/O bacaannya/O itu/O ./O"
             }
         },
         "19": {
@@ -187,7 +187,7 @@
                 "id": "Kemudian, sesungguhnya tugas Kami (pula)-lah (untuk) menjelaskannya."
             },
             "labels": {
-                "id": "Kemudian/O,/O sesungguhnya/O tugas/O Kami/O (/O pula/O )-lah/O (/O untuk/O )/O menjelaskannya/O./O"
+                "id": "Kemudian/O ,/O sesungguhnya/O tugas/O Kami/O (/O pula/O )-lah/O (/O untuk/O )/O menjelaskannya/O ./O"
             }
         },
         "20": {
@@ -197,7 +197,7 @@
                 "id": "Sekali-kali tidak! Bahkan, kamu mencintai kehidupan dunia,"
             },
             "labels": {
-                "id": "Sekali-kali/O tidak/O!/O Bahkan/O,/O kamu/O mencintai/O kehidupan/O dunia/O,/O"
+                "id": "Sekali-kali/O tidak/O !/O Bahkan/O ,/O kamu/O mencintai/O kehidupan/O dunia/O ,/O"
             }
         },
         "21": {
@@ -207,7 +207,7 @@
                 "id": "dan mengabaikan (kehidupan) akhirat."
             },
             "labels": {
-                "id": "dan/O mengabaikan/O (/O kehidupan/O )/O akhirat/O./O"
+                "id": "dan/O mengabaikan/O (/O kehidupan/O )/O akhirat/O ./O"
             }
         },
         "22": {
@@ -227,7 +227,7 @@
                 "id": "(karena) memandang Tuhannya."
             },
             "labels": {
-                "id": "(/O karena/O )/O memandang/O Tuhannya/O./O"
+                "id": "(/O karena/O )/O memandang/O Tuhannya/O ./O"
             }
         },
         "24": {
@@ -247,7 +247,7 @@
                 "id": "(karena) mereka yakin akan ditimpakan kepadanya malapetaka yang sangat dahsyat."
             },
             "labels": {
-                "id": "(/O karena/O )/O mereka/O yakin/O akan/O ditimpakan/O kepadanya/O malapetaka/O yang/O sangat/O dahsyat/O./O"
+                "id": "(/O karena/O )/O mereka/O yakin/O akan/O ditimpakan/O kepadanya/O malapetaka/O yang/O sangat/O dahsyat/O ./O"
             }
         },
         "26": {
@@ -257,17 +257,17 @@
                 "id": "Sekali-kali tidak! Apabila (nyawa) telah sampai di kerongkongan,"
             },
             "labels": {
-                "id": "Sekali-kali/O tidak/O!/O Apabila/O (/O nyawa/O )/O telah/O sampai/O di/O kerongkongan/O,/O"
+                "id": "Sekali-kali/O tidak/O !/O Apabila/O (/O nyawa/O )/O telah/O sampai/O di/O kerongkongan/O ,/O"
             }
         },
         "27": {
             "chapterid": "075",
             "verse_id": 27,
             "verse": {
-                "id": "dan dikatakan (kepadanya), \u201cSiapa yang (dapat) menyembuhkan?\u201d"
+                "id": "dan dikatakan (kepadanya), “Siapa yang (dapat) menyembuhkan?”"
             },
             "labels": {
-                "id": "dan/O dikatakan/O (/O kepadanya/O )/O,/O \u201c/O Siapa/O yang/O (/O dapat/O )/O menyembuhkan/O?/O \u201d/O"
+                "id": "dan/O dikatakan/O (/O kepadanya/O )/O ,/O “/O Siapa/O yang/O (/O dapat/O )/O menyembuhkan/O ?/O ”/O"
             }
         },
         "28": {
@@ -277,7 +277,7 @@
                 "id": "Dia pun yakin bahwa itulah waktu perpisahan (dengan dunia),"
             },
             "labels": {
-                "id": "Dia/O pun/O yakin/O bahwa/O itulah/O waktu/O perpisahan/O (/O dengan/O dunia/O )/O,/O"
+                "id": "Dia/O pun/O yakin/O bahwa/O itulah/O waktu/O perpisahan/O (/O dengan/O dunia/O )/O ,/O"
             }
         },
         "29": {
@@ -287,7 +287,7 @@
                 "id": "dan bertautlah betis (kiri) dengan betis (kanan)."
             },
             "labels": {
-                "id": "dan/O bertautlah/O betis/O (/O kiri/O )/O dengan/O betis/O (/O kanan/O )/O./O"
+                "id": "dan/O bertautlah/O betis/O (/O kiri/O )/O dengan/O betis/O (/O kanan/O )/O ./O"
             }
         },
         "30": {
@@ -297,27 +297,27 @@
                 "id": "Kepada Tuhanmulah pada hari itu (manusia) digiring."
             },
             "labels": {
-                "id": "Kepada/O Tuhanmulah/O pada/O hari/O itu/O (/O manusia/O )/O digiring/O./O"
+                "id": "Kepada/O Tuhanmulah/O pada/O hari/O itu/O (/O manusia/O )/O digiring/O ./O"
             }
         },
         "31": {
             "chapterid": "075",
             "verse_id": 31,
             "verse": {
-                "id": "Dia tidak membenarkan (Al-Qur\u2019an dan Rasul) dan tidak melaksanakan salat."
+                "id": "Dia tidak membenarkan (Al-Qur’an dan Rasul) dan tidak melaksanakan salat."
             },
             "labels": {
-                "id": "Dia/O tidak/O membenarkan/O (/O Al-Qur\u2019an/HolyBook dan/O Rasul/O )/O dan/O tidak/O melaksanakan/O salat/O./O"
+                "id": "Dia/O tidak/O membenarkan/O (/O Al-Qur’an/HolyBook dan/O Rasul/O )/O dan/O tidak/O melaksanakan/O salat/O ./O"
             }
         },
         "32": {
             "chapterid": "075",
             "verse_id": 32,
             "verse": {
-                "id": "Akan tetapi, dia mendustakan (Al-Qur\u2019an) dan berpaling (dari kebenaran)."
+                "id": "Akan tetapi, dia mendustakan (Al-Qur’an) dan berpaling (dari kebenaran)."
             },
             "labels": {
-                "id": "Akan/O tetapi/O,/O dia/O mendustakan/O (/O Al-Qur\u2019an/HolyBook )/O dan/O berpaling/O (/O dari/O kebenaran/O )/O./O"
+                "id": "Akan/O tetapi/O ,/O dia/O mendustakan/O (/O Al-Qur’an/HolyBook )/O dan/O berpaling/O (/O dari/O kebenaran/O )/O ./O"
             }
         },
         "33": {
@@ -327,7 +327,7 @@
                 "id": "Kemudian, dia pergi kepada keluarganya dengan menyombongkan diri."
             },
             "labels": {
-                "id": "Kemudian/O,/O dia/O pergi/O kepada/O keluarganya/O dengan/O menyombongkan/O diri/O./O"
+                "id": "Kemudian/O ,/O dia/O pergi/O kepada/O keluarganya/O dengan/O menyombongkan/O diri/O ./O"
             }
         },
         "34": {
@@ -337,7 +337,7 @@
                 "id": "Celakalah kamu! Maka, celakalah!"
             },
             "labels": {
-                "id": "Celakalah/O kamu/O!/O Maka/O,/O celakalah/O!/O"
+                "id": "Celakalah/O kamu/O !/O Maka/O ,/O celakalah/O !/O"
             }
         },
         "35": {
@@ -347,7 +347,7 @@
                 "id": "Kemudian, celakalah kamu! Maka, celakalah!"
             },
             "labels": {
-                "id": "Kemudian/O,/O celakalah/O kamu/O!/O Maka/O,/O celakalah/O!/O"
+                "id": "Kemudian/O ,/O celakalah/O kamu/O !/O Maka/O ,/O celakalah/O !/O"
             }
         },
         "36": {
@@ -357,7 +357,7 @@
                 "id": "Apakah manusia mengira akan dibiarkan begitu saja (tanpa pertanggungjawaban)?"
             },
             "labels": {
-                "id": "Apakah/O manusia/O mengira/O akan/O dibiarkan/O begitu/O saja/O (/O tanpa/O pertanggungjawaban/O )/O?/O"
+                "id": "Apakah/O manusia/O mengira/O akan/O dibiarkan/O begitu/O saja/O (/O tanpa/O pertanggungjawaban/O )/O ?/O"
             }
         },
         "37": {
@@ -367,7 +367,7 @@
                 "id": "Bukankah dia dahulu setetes mani yang ditumpahkan (ke dalam rahim)?"
             },
             "labels": {
-                "id": "Bukankah/O dia/O dahulu/O setetes/O mani/O yang/O ditumpahkan/O (/O ke/O dalam/O rahim/O )/O?/O"
+                "id": "Bukankah/O dia/O dahulu/O setetes/O mani/O yang/O ditumpahkan/O (/O ke/O dalam/O rahim/O )/O ?/O"
             }
         },
         "38": {
@@ -377,7 +377,7 @@
                 "id": "Kemudian, (mani itu) menjadi sesuatu yang melekat, lalu Dia menciptakan dan menyempurnakannya."
             },
             "labels": {
-                "id": "Kemudian/O,/O (/O mani/O itu/O )/O menjadi/O sesuatu/O yang/O melekat/O,/O lalu/O Dia/O menciptakan/O dan/O menyempurnakannya/O./O"
+                "id": "Kemudian/O ,/O (/O mani/O itu/O )/O menjadi/O sesuatu/O yang/O melekat/O ,/O lalu/O Dia/O menciptakan/O dan/O menyempurnakannya/O ./O"
             }
         },
         "39": {
@@ -387,7 +387,7 @@
                 "id": "Lalu, Dia menjadikan darinya sepasang laki-laki dan perempuan."
             },
             "labels": {
-                "id": "Lalu/O,/O Dia/O menjadikan/O darinya/O sepasang/O laki-laki/O dan/O perempuan/O./O"
+                "id": "Lalu/O ,/O Dia/O menjadikan/O darinya/O sepasang/O laki-laki/O dan/O perempuan/O ./O"
             }
         },
         "40": {
@@ -397,7 +397,7 @@
                 "id": "Bukankah (Allah) itu kuasa (pula) menghidupkan orang mati?"
             },
             "labels": {
-                "id": "Bukankah/O (/O Allah/Allah )/O itu/O kuasa/O (/O pula/O )/O menghidupkan/O orang/O mati/O?/O"
+                "id": "Bukankah/O (/O Allah/Allah )/O itu/O kuasa/O (/O pula/O )/O menghidupkan/O orang/O mati/O ?/O"
             }
         }
     }

@@ -7,7 +7,7 @@
                 "id": "Apabila matahari digulung,"
             },
             "labels": {
-                "id": "Apabila/O matahari/AstronomicalBody digulung/O,/O"
+                "id": "Apabila/O matahari/AstronomicalBody digulung/O ,/O"
             }
         },
         "2": {
@@ -17,7 +17,7 @@
                 "id": "apabila bintang-bintang berjatuhan,"
             },
             "labels": {
-                "id": "apabila/O bintang-bintang/O berjatuhan/O,/O"
+                "id": "apabila/O bintang-bintang/O berjatuhan/O ,/O"
             }
         },
         "3": {
@@ -27,7 +27,7 @@
                 "id": "apabila gunung-gunung dihancurkan,"
             },
             "labels": {
-                "id": "apabila/O gunung-gunung/O dihancurkan/O,/O"
+                "id": "apabila/O gunung-gunung/O dihancurkan/O ,/O"
             }
         },
         "4": {
@@ -37,7 +37,7 @@
                 "id": "apabila unta-unta yang bunting ditinggalkan (tidak terurus),"
             },
             "labels": {
-                "id": "apabila/O unta-unta/O yang/O bunting/O ditinggalkan/O (/O tidak/O terurus/O )/O,/O"
+                "id": "apabila/O unta-unta/O yang/O bunting/O ditinggalkan/O (/O tidak/O terurus/O )/O ,/O"
             }
         },
         "5": {
@@ -47,7 +47,7 @@
                 "id": "apabila binatang-binatang liar dikumpulkan,"
             },
             "labels": {
-                "id": "apabila/O binatang-binatang/O liar/O dikumpulkan/O,/O"
+                "id": "apabila/O binatang-binatang/O liar/O dikumpulkan/O ,/O"
             }
         },
         "6": {
@@ -57,7 +57,7 @@
                 "id": "apabila lautan dipanaskan,"
             },
             "labels": {
-                "id": "apabila/O lautan/O dipanaskan/O,/O"
+                "id": "apabila/O lautan/O dipanaskan/O ,/O"
             }
         },
         "7": {
@@ -67,7 +67,7 @@
                 "id": "apabila roh-roh dipertemukan (dengan tubuh),"
             },
             "labels": {
-                "id": "apabila/O roh-roh/O dipertemukan/O (/O dengan/O tubuh/O )/O,/O"
+                "id": "apabila/O roh-roh/O dipertemukan/O (/O dengan/O tubuh/O )/O ,/O"
             }
         },
         "8": {
@@ -77,17 +77,17 @@
                 "id": "apabila bayi-bayi perempuan yang dikubur hidup-hidup ditanya,"
             },
             "labels": {
-                "id": "apabila/O bayi-bayi/O perempuan/O yang/O dikubur/O hidup-hidup/O ditanya/O,/O"
+                "id": "apabila/O bayi-bayi/O perempuan/O yang/O dikubur/O hidup-hidup/O ditanya/O ,/O"
             }
         },
         "9": {
             "chapterid": "081",
             "verse_id": 9,
             "verse": {
-                "id": "\u201cKarena dosa apa dia dibunuh,\u201d"
+                "id": "“Karena dosa apa dia dibunuh,”"
             },
             "labels": {
-                "id": "\u201c/O Karena/O dosa/O apa/O dia/O dibunuh/AfterlifeLocation,\u201d/O"
+                "id": "“/O Karena/O dosa/O apa/O dia/O dibunuh/O ”/O"
             }
         },
         "10": {
@@ -97,7 +97,7 @@
                 "id": "apabila lembaran-lembaran (catatan amal) telah dibuka lebar-lebar,"
             },
             "labels": {
-                "id": "apabila/O lembaran-lembaran/O (/O catatan/O amal/O )/O telah/O dibuka/O lebar-lebar/O,/O"
+                "id": "apabila/O lembaran-lembaran/O (/O catatan/O amal/O )/O telah/O dibuka/O lebar-lebar/O ,/O"
             }
         },
         "11": {
@@ -107,7 +107,7 @@
                 "id": "apabila langit dilenyapkan,"
             },
             "labels": {
-                "id": "apabila/O langit/O dilenyapkan/O,/O"
+                "id": "apabila/O langit/O dilenyapkan/O ,/O"
             }
         },
         "12": {
@@ -117,7 +117,7 @@
                 "id": "apabila (neraka) Jahim dinyalakan,"
             },
             "labels": {
-                "id": "apabila/O (/O neraka/O )/O Jahim/AfterlifeLocation dinyalakan/O,/O"
+                "id": "apabila/O (/O neraka/O )/O Jahim/AfterlifeLocation dinyalakan/O ,/O"
             }
         },
         "13": {
@@ -127,7 +127,7 @@
                 "id": "dan apabila surga didekatkan,"
             },
             "labels": {
-                "id": "dan/O apabila/O surga/O didekatkan/O,/O"
+                "id": "dan/O apabila/O surga/O didekatkan/O ,/O"
             }
         },
         "14": {
@@ -137,7 +137,7 @@
                 "id": "setiap jiwa akan mengetahui apa yang telah dikerjakannya."
             },
             "labels": {
-                "id": "setiap/O jiwa/O akan/O mengetahui/O apa/O yang/O telah/O dikerjakannya/O./O"
+                "id": "setiap/O jiwa/O akan/O mengetahui/O apa/O yang/O telah/O dikerjakannya/O ./O"
             }
         },
         "15": {
@@ -157,7 +157,7 @@
                 "id": "yang beredar lagi terbenam,"
             },
             "labels": {
-                "id": "yang/O beredar/O lagi/O terbenam/O,/O"
+                "id": "yang/O beredar/O lagi/O terbenam/O ,/O"
             }
         },
         "17": {
@@ -167,7 +167,7 @@
                 "id": "demi malam apabila telah larut,"
             },
             "labels": {
-                "id": "demi/O malam/O apabila/O telah/O larut/O,/O"
+                "id": "demi/O malam/O apabila/O telah/O larut/O ,/O"
             }
         },
         "18": {
@@ -177,27 +177,27 @@
                 "id": "demi subuh apabila (fajar) telah menyingsing,"
             },
             "labels": {
-                "id": "demi/O subuh/O apabila/O (/O fajar/AstronomicalBody )/O telah/O menyingsing/O,/O"
+                "id": "demi/O subuh/O apabila/O (/O fajar/AstronomicalBody )/O telah/O menyingsing/O ,/O"
             }
         },
         "19": {
             "chapterid": "081",
             "verse_id": 19,
             "verse": {
-                "id": "sesungguhnya (Al-Qur\u2019an) itu benar-benar firman (Allah yang dibawa oleh) utusan yang mulia (Jibril)"
+                "id": "sesungguhnya (Al-Qur’an) itu benar-benar firman (Allah yang dibawa oleh) utusan yang mulia (Jibril)"
             },
             "labels": {
-                "id": "sesungguhnya/O (/O Al-Qur\u2019an/HolyBook )/O itu/O benar-benar/O firman/O (/O Allah/Allah yang/O dibawa/O oleh/O utusan/O yang/O mulia/O (/O Jibril/Angel )/O"
+                "id": "sesungguhnya/O (/O Al-Qur’an/HolyBook )/O itu/O benar-benar/O firman/O (/O Allah/Allah yang/O dibawa/O oleh/O utusan/O yang/O mulia/O (/O Jibril/Angel )/O"
             }
         },
         "20": {
             "chapterid": "081",
             "verse_id": 20,
             "verse": {
-                "id": "yang memiliki kekuatan dan kedudukan tinggi di sisi (Allah) yang memiliki \u02bbArasy,"
+                "id": "yang memiliki kekuatan dan kedudukan tinggi di sisi (Allah) yang memiliki ʻArasy,"
             },
             "labels": {
-                "id": "yang/O memiliki/O kekuatan/O dan/O kedudukan/O tinggi/O di/O sisi/O (/O Allah/Allah )/O yang/O memiliki/O \u02bbArasy/O,/O"
+                "id": "yang/O memiliki/O kekuatan/O dan/O kedudukan/O tinggi/O di/O sisi/O (/O Allah/Allah )/O yang/O memiliki/O ʻArasy/O ,/O"
             }
         },
         "21": {
@@ -207,7 +207,7 @@
                 "id": "yang di sana (Jibril) ditaati lagi dipercaya."
             },
             "labels": {
-                "id": "yang/O di/O sana/O (/O Jibril/Angel )/O ditaati/O lagi/O dipercaya/O./O"
+                "id": "yang/O di/O sana/O (/O Jibril/Angel )/O ditaati/O lagi/O dipercaya/O ./O"
             }
         },
         "22": {
@@ -217,7 +217,7 @@
                 "id": "Temanmu (Nabi Muhammad) itu bukanlah orang gila."
             },
             "labels": {
-                "id": "Temanmu/O (/O Nabi/O Muhammad/Messenger )/O itu/O bukanlah/O orang/O gila/O./O"
+                "id": "Temanmu/O (/O Nabi/O Muhammad/Messenger )/O itu/O bukanlah/O orang/O gila/O ./O"
             }
         },
         "23": {
@@ -227,7 +227,7 @@
                 "id": "Sungguh, dia (Nabi Muhammad) benar-benar telah melihatnya (Jibril) di ufuk yang terang."
             },
             "labels": {
-                "id": "Sungguh/O,/O dia/O (/O Nabi/O Muhammad/Messenger )/O benar-benar/O telah/O melihatnya/O (/O Jibril/Angel )/O di/O ufuk/O yang/O terang/O./O"
+                "id": "Sungguh/O ,/O dia/O (/O Nabi/O Muhammad/Messenger )/O benar-benar/O telah/O melihatnya/O (/O Jibril/Angel )/O di/O ufuk/O yang/O terang/O ./O"
             }
         },
         "24": {
@@ -237,17 +237,17 @@
                 "id": "Dia (Nabi Muhammad) bukanlah seorang yang kikir (enggan) untuk menerangkan yang gaib."
             },
             "labels": {
-                "id": "Dia/O (/O Nabi/O Muhammad/Messenger )/O bukanlah/O seorang/O yang/O kikir/O (/O enggan/O )/O untuk/O menerangkan/O yang/O gaib/O./O"
+                "id": "Dia/O (/O Nabi/O Muhammad/Messenger )/O bukanlah/O seorang/O yang/O kikir/O (/O enggan/O )/O untuk/O menerangkan/O yang/O gaib/O ./O"
             }
         },
         "25": {
             "chapterid": "081",
             "verse_id": 25,
             "verse": {
-                "id": "(Al-Qur\u2019an) itu bukanlah perkataan setan yang terkutuk."
+                "id": "(Al-Qur’an) itu bukanlah perkataan setan yang terkutuk."
             },
             "labels": {
-                "id": "(/O Al-Qur\u2019an/HolyBook )/O itu/O bukanlah/O perkataan/O setan/O yang/O terkutuk/O./O"
+                "id": "(/O Al-Qur’an/HolyBook )/O itu/O bukanlah/O perkataan/O setan/O yang/O terkutuk/O ./O"
             }
         },
         "26": {
@@ -257,17 +257,17 @@
                 "id": "Maka, ke manakah kamu akan pergi?"
             },
             "labels": {
-                "id": "Maka/O,/O ke/O manakah/O kamu/O akan/O pergi/O?/O"
+                "id": "Maka/O ,/O ke/O manakah/O kamu/O akan/O pergi/O ?/O"
             }
         },
         "27": {
             "chapterid": "081",
             "verse_id": 27,
             "verse": {
-                "id": "(Al-Qur\u2019an) itu tidak lain, kecuali peringatan bagi semesta alam,"
+                "id": "(Al-Qur’an) itu tidak lain, kecuali peringatan bagi semesta alam,"
             },
             "labels": {
-                "id": "(/O Al-Qur\u2019an/HolyBook )/O itu/O tidak/O lain/O,/O kecuali/O peringatan/O bagi/O semesta/O alam/O,/O"
+                "id": "(/O Al-Qur’an/HolyBook )/O itu/O tidak/O lain/O ,/O kecuali/O peringatan/O bagi/O semesta/O alam/O ,/O"
             }
         },
         "28": {
@@ -277,7 +277,7 @@
                 "id": "(yaitu) bagi siapa di antaramu yang hendak menempuh jalan yang lurus."
             },
             "labels": {
-                "id": "(/O yaitu/O )/O bagi/O siapa/O di/O antaramu/O yang/O hendak/O menempuh/O jalan/O yang/O lurus/O./O"
+                "id": "(/O yaitu/O )/O bagi/O siapa/O di/O antaramu/O yang/O hendak/O menempuh/O jalan/O yang/O lurus/O ./O"
             }
         },
         "29": {
@@ -287,7 +287,7 @@
                 "id": "Kamu tidak dapat berkehendak, kecuali apabila dikehendaki Allah, Tuhan semesta alam."
             },
             "labels": {
-                "id": "Kamu/O tidak/O dapat/O berkehendak/O,/O kecuali/O apabila/O dikehendaki/O Allah/Allah,/O Tuhan/O semesta/O alam/O./O"
+                "id": "Kamu/O tidak/O dapat/O berkehendak/O ,/O kecuali/O apabila/O dikehendaki/O Allah/O ,/O Tuhan/O semesta/O alam/O ./O"
             }
         }
     }

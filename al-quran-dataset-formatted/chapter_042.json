@@ -4,20 +4,20 @@
             "chapterid": "042",
             "verse_id": 1,
             "verse": {
-                "id": "\ufeff\u1e24\u0101 M\u012bm."
+                "id": "﻿Ḥā Mīm."
             },
             "labels": {
-                "id": "\ufeff\u1e24\u0101/O M\u012bm/O./O"
+                "id": "﻿Ḥā/O Mīm/O ./O"
             }
         },
         "2": {
             "chapterid": "042",
             "verse_id": 2,
             "verse": {
-                "id": "\u2018A\u012bn S\u012bn Q\u0101f."
+                "id": "‘Aīn Sīn Qāf."
             },
             "labels": {
-                "id": "\u2018A\u012bn/O S\u012bn/O Q\u0101f/O./O"
+                "id": "‘Aīn/O Sīn/O Qāf/O ./O"
             }
         },
         "3": {
@@ -27,7 +27,7 @@
                 "id": "Demikianlah Allah Yang Mahaperkasa lagi Mahabijaksana menurunkan wahyu kepadamu (Nabi Muhammad) dan kepada orang-orang sebelummu."
             },
             "labels": {
-                "id": "Demikianlah/O Allah/Allah Yang Mahaperkasa lagi Mahabijaksana menurunkan wahyu kepadamu/O (/O Nabi/O Muhammad/Messenger )/O dan/O kepada/O orang-orang/O sebelummu/O./O"
+                "id": "Demikianlah/O Allah/Allah Yang Mahaperkasa lagi Mahabijaksana menurunkan wahyu kepadamu/O (/O Nabi/O Muhammad/Messenger )/O dan/O kepada/O orang-orang/O sebelummu/O ./O"
             }
         },
         "4": {
@@ -37,7 +37,7 @@
                 "id": "Milik-Nyalah apa yang ada di langit dan apa yang ada di bumi. Dialah Zat Yang Mahatinggi lagi Mahaagung."
             },
             "labels": {
-                "id": "Milik-Nyalah/O apa/O yang/O ada/O di/O langit/O dan/O apa/O yang/O ada/O di/O bumi/AstronomicalBody./O Dialah/O Zat/O Yang Mahatinggi lagi Mahaagung/Allah./O"
+                "id": "Milik-Nyalah/O apa/O yang/O ada/O di/O langit/O dan/O apa/O yang/O ada/O di/O bumi/O ./O Dialah/O Zat/O Yang Mahatinggi lagi Mahaagung/O ./O"
             }
         },
         "5": {
@@ -47,7 +47,7 @@
                 "id": "(Karena keagungan-Nya,) hampir saja langit itu pecah dari sebelah atasnya dan malaikat-malaikat bertasbih dengan memuji Tuhannya serta memohonkan ampunan untuk orang yang ada di bumi. Ingatlah, sesungguhnya Allahlah Zat Yang Maha Pengampun lagi Maha Penyayang."
             },
             "labels": {
-                "id": "(/O Karena/O keagungan-Nya/O,/O )/O hampir/O saja/O langit/O itu/O pecah/O dari/O sebelah/O atasnya/O dan/O malaikat-malaikat/O bertasbih/O dengan/O memuji/O Tuhannya/O serta/O memohonkan/O ampunan/O untuk/O orang/O yang/O ada/O di/O bumi/AstronomicalBody./O Ingatlah/O,/O sesungguhnya/O Allahlah/O Zat/O Yang Maha Pengampun lagi Maha Penyayang/Allah./O"
+                "id": "(/O Karena/O keagungan-Nya/O ,/O )/O hampir/O saja/O langit/O itu/O pecah/O dari/O sebelah/O atasnya/O dan/O malaikat-malaikat/O bertasbih/O dengan/O memuji/O Tuhannya/O serta/O memohonkan/O ampunan/O untuk/O orang/O yang/O ada/O di/O bumi/O ./O Ingatlah/O ,/O sesungguhnya/O Allahlah/O Zat/O Yang Maha Pengampun lagi Maha Penyayang/O ./O"
             }
         },
         "6": {
@@ -57,17 +57,17 @@
                 "id": "Orang-orang yang mengambil pelindung-pelindung selain-Nya, Allah mengawasi (perbuatan) mereka, sedangkan engkau (Nabi Muhammad) bukanlah penanggung jawab mereka."
             },
             "labels": {
-                "id": "Orang-orang/O yang/O mengambil/O pelindung-pelindung/O selain-Nya/O,/O Allah/Allah mengawasi/O (/O perbuatan/O )/O mereka/O,/O sedangkan/O engkau/O (/O Nabi/O Muhammad/Messenger )/O bukanlah/O penanggung/O jawab/O mereka/O./O"
+                "id": "Orang-orang/O yang/O mengambil/O pelindung-pelindung/O selain-Nya/O ,/O Allah/Allah mengawasi/O (/O perbuatan/O )/O mereka/O ,/O sedangkan/O engkau/O (/O Nabi/O Muhammad/Messenger )/O bukanlah/O penanggung/O jawab/O mereka/O ./O"
             }
         },
         "7": {
             "chapterid": "042",
             "verse_id": 7,
             "verse": {
-                "id": "Demikianlah Kami mewahyukan kepadamu Al-Qur\u2019an yang berbahasa Arab agar engkau memberi peringatan kepada (penduduk) Ummul Qur\u0101 (Makkah) dan penduduk di sekelilingnya serta memberi peringatan tentang hari berkumpul (kiamat) yang tidak diragukan keberadaannya. Segolongan masuk surga dan segolongan (lain) masuk neraka."
+                "id": "Demikianlah Kami mewahyukan kepadamu Al-Qur’an yang berbahasa Arab agar engkau memberi peringatan kepada (penduduk) Ummul Qurā (Makkah) dan penduduk di sekelilingnya serta memberi peringatan tentang hari berkumpul (kiamat) yang tidak diragukan keberadaannya. Segolongan masuk surga dan segolongan (lain) masuk neraka."
             },
             "labels": {
-                "id": "Demikianlah/O Kami/O mewahyukan/O kepadamu/O Al-Qur\u2019an/HolyBook yang/O berbahasa/O Arab/Person agar/O engkau/O memberi/O peringatan/O kepada/O (/O penduduk/O )/O Ummul/O Qur\u0101/GeographicalLocation dan/O penduduk/O di/O sekelilingnya/O serta/O memberi/O peringatan/O tentang/O hari/O berkumpul/O (/O kiamat/Event )/O yang/O tidak/O diragukan/O keberadaannya/O./O Segolongan/O masuk/O surga/AfterlifeLocation dan/O segolongan/O (/O lain/O )/O masuk/O neraka/AfterlifeLocation./O"
+                "id": "Demikianlah/O Kami/O mewahyukan/O kepadamu/O Al-Qur’an/HolyBook yang/O berbahasa/O Arab/Person agar/O engkau/O memberi/O peringatan/O kepada/O (/O penduduk/O )/O Ummul/O Qurā/GeographicalLocation dan/O penduduk/O di/O sekelilingnya/O serta/O memberi/O peringatan/O tentang/O hari/O berkumpul/O (/O kiamat/Event )/O yang/O tidak/O diragukan/O keberadaannya/O ./O Segolongan/O masuk/O surga/AfterlifeLocation dan/O segolongan/O (/O lain/O )/O masuk/O neraka/O ./O"
             }
         },
         "8": {
@@ -77,7 +77,7 @@
                 "id": "Seandainya Allah menghendaki, niscaya Dia akan menjadikan mereka umat yang satu. Akan tetapi, Dia memasukkan orang-orang yang Dia kehendaki ke dalam rahmat-Nya. Adapun orang-orang zalim, mereka sama sekali tidak memiliki pelindung dan penolong."
             },
             "labels": {
-                "id": "Seandainya/O Allah/Allah menghendaki/O,/O niscaya/O Dia/O akan/O menjadikan/O mereka/O umat/O yang/O satu/O./O Akan/O tetapi/O,/O Dia/O memasukkan/O orang-orang/O yang/O Dia/O kehendaki/O ke/O dalam/O rahmat-Nya/O./O Adapun/O orang-orang/O zalim/O,/O mereka/O sama/O sekali/O tidak/O memiliki/O pelindung/O dan/O penolong/O./O"
+                "id": "Seandainya/O Allah/Allah menghendaki/O ,/O niscaya/O Dia/O akan/O menjadikan/O mereka/O umat/O yang/O satu/O ./O Akan/O tetapi/O ,/O Dia/O memasukkan/O orang-orang/O yang/O Dia/O kehendaki/O ke/O dalam/O rahmat-Nya/O ./O Adapun/O orang-orang/O zalim/O ,/O mereka/O sama/O sekali/O tidak/O memiliki/O pelindung/O dan/O penolong/O ./O"
             }
         },
         "9": {
@@ -87,7 +87,7 @@
                 "id": "Bahkan, apakah mereka mengambil pelindung-pelindung selain Dia? Padahal, hanya Allahlah pelindung (yang sebenarnya). Dia menghidupkan orang-orang mati dan Dia Mahakuasa atas segala sesuatu."
             },
             "labels": {
-                "id": "Bahkan/O,/O apakah/O mereka/O mengambil/O pelindung-pelindung/O selain/O Dia/O?/O Padahal/O,/O hanya/O Allahlah/O pelindung/O (/O yang/O sebenarnya/O )/O./O Dia/O menghidupkan/O orang-orang/O mati/O dan/O Dia/O Mahakuasa/O atas/O segala/O sesuatu/O./O"
+                "id": "Bahkan/O ,/O apakah/O mereka/O mengambil/O pelindung-pelindung/O selain/O Dia/O ?/O Padahal/O ,/O hanya/O Allahlah/O pelindung/O (/O yang/O sebenarnya/O )/O ./O Dia/O menghidupkan/O orang-orang/O mati/O dan/O Dia/O Mahakuasa/O atas/O segala/O sesuatu/O ./O"
             }
         },
         "10": {
@@ -97,7 +97,7 @@
                 "id": "Apa pun yang kamu perselisihkan, keputusannya (diserahkan) kepada Allah. (Yang memiliki sifat-sifat demikian) itulah Allah Tuhanku. Hanya kepada-Nya aku bertawakal dan hanya kepada-Nya aku kembali."
             },
             "labels": {
-                "id": "Apa/O pun/O yang/O kamu/O perselisihkan/O,/O keputusannya/O (/O diserahkan/O )/O kepada/O Allah/Allah./O (/O Yang/O memiliki/O sifat-sifat/O demikian/O )/O itulah/O Allah/Allah Tuhanku/O./O Hanya/O kepada-Nya/O aku/O bertawakal/O dan/O hanya/O kepada-Nya/O aku/O kembali/O./O"
+                "id": "Apa/O pun/O yang/O kamu/O perselisihkan/O ,/O keputusannya/O (/O diserahkan/O )/O kepada/O Allah/O ./O (/O Yang/O memiliki/O sifat-sifat/O demikian/O )/O itulah/O Allah/Allah Tuhanku/O ./O Hanya/O kepada-Nya/O aku/O bertawakal/O dan/O hanya/O kepada-Nya/O aku/O kembali/O ./O"
             }
         },
         "11": {
@@ -107,7 +107,7 @@
                 "id": "(Allah) Pencipta langit dan bumi. Dia menjadikan bagimu pasangan-pasangan dari jenismu sendiri dan (menjadikan pula) dari jenis hewan ternak pasangan-pasangan(-nya). Dia menjadikanmu berkembang biak dengan jalan itu. Tidak ada sesuatu pun yang serupa dengan-Nya. Dia Maha Mendengar lagi Maha Melihat."
             },
             "labels": {
-                "id": "(/O Allah/Allah )/O Pencipta/O langit/O dan/O bumi/AstronomicalBody./O Dia/O menjadikan/O bagimu/O pasangan-pasangan/O dari/O jenismu/O sendiri/O dan/O (/O menjadikan/O pula/O )/O dari/O jenis/O hewan/O ternak/O pasangan-pasangan/O (/O -nya/O )/O./O Dia/O menjadikanmu/O berkembang/O biak/O dengan/O jalan/O itu/O./O Tidak/O ada/O sesuatu/O pun/O yang/O serupa/O dengan-Nya/O./O Dia/O Maha/O Mendengar/O lagi/O Maha/O Melihat/O./O"
+                "id": "(/O Allah/Allah )/O Pencipta/O langit/O dan/O bumi/O ./O Dia/O menjadikan/O bagimu/O pasangan-pasangan/O dari/O jenismu/O sendiri/O dan/O (/O menjadikan/O pula/O )/O dari/O jenis/O hewan/O ternak/O pasangan-pasangan/O (/O -nya/O )/O ./O Dia/O menjadikanmu/O berkembang/O biak/O dengan/O jalan/O itu/O ./O Tidak/O ada/O sesuatu/O pun/O yang/O serupa/O dengan-Nya/O ./O Dia/O Maha/O Mendengar/O lagi/O Maha/O Melihat/O ./O"
             }
         },
         "12": {
@@ -117,7 +117,7 @@
                 "id": "Milik-Nyalah perbendaharaan langit dan bumi. Dia melapangkan rezeki dan menyempitkan(-nya) bagi siapa yang Dia kehendaki. Sesungguhnya Dia Maha Mengetahui segala sesuatu."
             },
             "labels": {
-                "id": "Milik-Nyalah/O perbendaharaan/O langit/O dan/O bumi/AstronomicalBody./O Dia/O melapangkan/O rezeki/O dan/O menyempitkan/O (/O -nya/O )/O bagi/O siapa/O yang/O Dia/O kehendaki/O./O Sesungguhnya/O Dia/O Maha/O Mengetahui/O segala/O sesuatu/O./O"
+                "id": "Milik-Nyalah/O perbendaharaan/O langit/O dan/O bumi/O ./O Dia/O melapangkan/O rezeki/O dan/O menyempitkan/O (/O -nya/O )/O bagi/O siapa/O yang/O Dia/O kehendaki/O ./O Sesungguhnya/O Dia/O Maha/O Mengetahui/O segala/O sesuatu/O ./O"
             }
         },
         "13": {
@@ -127,27 +127,27 @@
                 "id": "Dia (Allah) telah mensyariatkan bagi kamu agama yang Dia wasiatkan (juga) kepada Nuh, yang telah Kami wahyukan kepadamu (Nabi Muhammad), dan yang telah Kami wasiatkan kepada Ibrahim, Musa, dan Isa yaitu: tegakkanlah agama (keimanan dan ketakwaan) dan janganlah kamu berpecah-belah di dalamnya. Sangat berat bagi orang-orang musyrik (untuk mengikuti) agama yang kamu serukan kepada mereka. Allah memilih orang yang Dia kehendaki pada (agama)-Nya dan memberi petunjuk pada (agama)-Nya bagi orang yang kembali (kepada-Nya)."
             },
             "labels": {
-                "id": "Dia/O (/O Allah/Allah )/O telah/O mensyariatkan/O bagi/O kamu/O agama/O yang/O Dia/O wasiatkan/O (/O juga/O )/O kepada/O Nuh/Messenger,/O yang/O telah/O Kami/O wahyukan/O kepadamu/O (/O Nabi/O Muhammad/Messenger )/O,/O dan/O yang/O telah/O Kami/O wasiatkan/O kepada/O Ibrahim/Messenger,/O Musa/Messenger,/O dan/O Isa/Messenger yaitu/O :/O tegakkanlah/O agama/O (/O keimanan/O dan/O ketakwaan/O )/O dan/O janganlah/O kamu/O berpecah-belah/O di/O dalamnya/O./O Sangat/O berat/O bagi/O orang-orang/O musyrik/O (/O untuk/O mengikuti/O )/O agama/O yang/O kamu/O serukan/O kepada/O mereka/O./O Allah/Allah memilih/O orang/O yang/O Dia/O kehendaki/O pada/O (/O agama/O )-Nya/O dan/O memberi/O petunjuk/O pada/O (/O agama/O )-Nya/O bagi/O orang/O yang/O kembali/O (/O kepada-Nya/O )/O./O"
+                "id": "Dia/O (/O Allah/Allah )/O telah/O mensyariatkan/O bagi/O kamu/O agama/O yang/O Dia/O wasiatkan/O (/O juga/O )/O kepada/O Nuh/O ,/O yang/O telah/O Kami/O wahyukan/O kepadamu/O (/O Nabi/O Muhammad/Messenger )/O ,/O dan/O yang/O telah/O Kami/O wasiatkan/O kepada/O Ibrahim/O ,/O Musa/O ,/O dan/O Isa/Messenger yaitu/O :/O tegakkanlah/O agama/O (/O keimanan/O dan/O ketakwaan/O )/O dan/O janganlah/O kamu/O berpecah-belah/O di/O dalamnya/O ./O Sangat/O berat/O bagi/O orang-orang/O musyrik/O (/O untuk/O mengikuti/O )/O agama/O yang/O kamu/O serukan/O kepada/O mereka/O ./O Allah/Allah memilih/O orang/O yang/O Dia/O kehendaki/O pada/O (/O agama/O )-Nya/O dan/O memberi/O petunjuk/O pada/O (/O agama/O )-Nya/O bagi/O orang/O yang/O kembali/O (/O kepada-Nya/O )/O ./O"
             }
         },
         "14": {
             "chapterid": "042",
             "verse_id": 14,
             "verse": {
-                "id": "Mereka (Ahlulkitab) tidak berpecah-belah kecuali setelah datang kepada mereka pengetahuan (tentang kebenaran yang disampaikan oleh para nabi) karena kedengkian antara sesama mereka. Seandainya tidak karena suatu ketetapan yang telah terlebih dahulu ada dari Tuhanmu (untuk menangguhkan azab) sampai batas waktu yang ditentukan, pastilah hukuman bagi mereka telah dilaksanakan. Sesungguhnya orang-orang yang mewarisi kitab suci (Taurat dan Injil) setelah mereka (pada zaman Nabi Muhammad) benar-benar berada dalam keraguan yang mendalam tentangnya (Al-Qur\u2019an) itu."
+                "id": "Mereka (Ahlulkitab) tidak berpecah-belah kecuali setelah datang kepada mereka pengetahuan (tentang kebenaran yang disampaikan oleh para nabi) karena kedengkian antara sesama mereka. Seandainya tidak karena suatu ketetapan yang telah terlebih dahulu ada dari Tuhanmu (untuk menangguhkan azab) sampai batas waktu yang ditentukan, pastilah hukuman bagi mereka telah dilaksanakan. Sesungguhnya orang-orang yang mewarisi kitab suci (Taurat dan Injil) setelah mereka (pada zaman Nabi Muhammad) benar-benar berada dalam keraguan yang mendalam tentangnya (Al-Qur’an) itu."
             },
             "labels": {
-                "id": "Mereka/O (/O Ahlulkitab/O )/O tidak/O berpecah-belah/O kecuali/O setelah/O datang/O kepada/O mereka/O pengetahuan/O (/O tentang/O kebenaran/O yang/O disampaikan/O oleh/O para/O nabi/O )/O karena/O kedengkian/O antara/O sesama/O mereka/O./O Seandainya/O tidak/O karena/O suatu/O ketetapan/O yang/O telah/O terlebih/O dahulu/O ada/O dari/O Tuhanmu/O (/O untuk/O menangguhkan/O azab/O )/O sampai/O batas/O waktu/O yang/O ditentukan/O,/O pastilah/O hukuman/O bagi/O mereka/O telah/O dilaksanakan/O./O Sesungguhnya/O orang-orang/O yang/O mewarisi/O kitab/O suci/O (/O Taurat/HolyBook dan/O Injil/HolyBook )/O setelah/O mereka/O (/O pada/O zaman/O Nabi/O Muhammad/Messenger )/O benar-benar/O berada/O dalam/O keraguan/O yang/O mendalam/O tentangnya/O (/O Al-Qur\u2019an/HolyBook )/O itu/O./O"
+                "id": "Mereka/O (/O Ahlulkitab/O )/O tidak/O berpecah-belah/O kecuali/O setelah/O datang/O kepada/O mereka/O pengetahuan/O (/O tentang/O kebenaran/O yang/O disampaikan/O oleh/O para/O nabi/O )/O karena/O kedengkian/O antara/O sesama/O mereka/O ./O Seandainya/O tidak/O karena/O suatu/O ketetapan/O yang/O telah/O terlebih/O dahulu/O ada/O dari/O Tuhanmu/O (/O untuk/O menangguhkan/O azab/O )/O sampai/O batas/O waktu/O yang/O ditentukan/O ,/O pastilah/O hukuman/O bagi/O mereka/O telah/O dilaksanakan/O ./O Sesungguhnya/O orang-orang/O yang/O mewarisi/O kitab/O suci/O (/O Taurat/HolyBook dan/O Injil/HolyBook )/O setelah/O mereka/O (/O pada/O zaman/O Nabi/O Muhammad/Messenger )/O benar-benar/O berada/O dalam/O keraguan/O yang/O mendalam/O tentangnya/O (/O Al-Qur’an/HolyBook )/O itu/O ./O"
             }
         },
         "15": {
             "chapterid": "042",
             "verse_id": 15,
             "verse": {
-                "id": "Oleh karena itu, serulah (mereka untuk beriman), tetaplah (beriman dan berdakwah) sebagaimana diperintahkan kepadamu (Nabi Muhammad), dan janganlah mengikuti keinginan mereka. Katakanlah, \u201cAku beriman kepada kitab yang diturunkan Allah dan aku diperintahkan agar berlaku adil di antara kamu. Allah Tuhan kami dan Tuhan kamu. Bagi kami perbuatan kami dan bagimu perbuatanmu. Tidak (perlu) ada pertengkaran di antara kami dan kamu. Allah mengumpulkan kita dan kepada-Nyalah (kita) kembali.\u201d"
+                "id": "Oleh karena itu, serulah (mereka untuk beriman), tetaplah (beriman dan berdakwah) sebagaimana diperintahkan kepadamu (Nabi Muhammad), dan janganlah mengikuti keinginan mereka. Katakanlah, “Aku beriman kepada kitab yang diturunkan Allah dan aku diperintahkan agar berlaku adil di antara kamu. Allah Tuhan kami dan Tuhan kamu. Bagi kami perbuatan kami dan bagimu perbuatanmu. Tidak (perlu) ada pertengkaran di antara kami dan kamu. Allah mengumpulkan kita dan kepada-Nyalah (kita) kembali.”"
             },
             "labels": {
-                "id": "Oleh/O karena/O itu/O,/O serulah/O (/O mereka/O untuk/O beriman/O )/O,/O tetaplah/O (/O beriman/O dan/O berdakwah/O )/O sebagaimana/O diperintahkan/O kepadamu/O (/O Nabi/O Muhammad/Messenger )/O,/O dan/O janganlah/O mengikuti/O keinginan/O mereka/O./O Katakanlah/O,/O \u201c/O Aku/O beriman/O kepada/O kitab/O yang/O diturunkan/O Allah/Allah dan/O aku/O diperintahkan/O agar/O berlaku/O adil/O di/O antara/O kamu/O./O Allah/Allah Tuhan/O kami/O dan/O Tuhan/O kamu/O./O Bagi/O kami/O perbuatan/O kami/O dan/O bagimu/O perbuatanmu/O./O Tidak/O (/O perlu/O )/O ada/O pertengkaran/O di/O antara/O kami/O dan/O kamu/O./O Allah/Allah mengumpulkan/O kita/O dan/O kepada-Nyalah/O (/O kita/O )/O kembali/O./O \u201d/O"
+                "id": "Oleh/O karena/O itu/O ,/O serulah/O (/O mereka/O untuk/O beriman/O )/O ,/O tetaplah/O (/O beriman/O dan/O berdakwah/O )/O sebagaimana/O diperintahkan/O kepadamu/O (/O Nabi/O Muhammad/Messenger )/O ,/O dan/O janganlah/O mengikuti/O keinginan/O mereka/O ./O Katakanlah/O ,/O “/O Aku/O beriman/O kepada/O kitab/O yang/O diturunkan/O Allah/Allah dan/O aku/O diperintahkan/O agar/O berlaku/O adil/O di/O antara/O kamu/O ./O Allah/Allah Tuhan/O kami/O dan/O Tuhan/O kamu/O ./O Bagi/O kami/O perbuatan/O kami/O dan/O bagimu/O perbuatanmu/O ./O Tidak/O (/O perlu/O )/O ada/O pertengkaran/O di/O antara/O kami/O dan/O kamu/O ./O Allah/Allah mengumpulkan/O kita/O dan/O kepada-Nyalah/O (/O kita/O )/O kembali/O ./O ”/O"
             }
         },
         "16": {
@@ -157,17 +157,17 @@
                 "id": "Orang-orang yang berbantah-bantahan tentang (agama) Allah setelah (agama itu) diterima, perbantahan mereka itu sia-sia di sisi Tuhan mereka. Mereka mendapat kemurkaan (Allah) dan azab yang sangat keras."
             },
             "labels": {
-                "id": "Orang-orang/O yang/O berbantah-bantahan/O tentang/O (/O agama/O )/O Allah/Allah setelah/O (/O agama/O itu/O )/O diterima/O,/O perbantahan/O mereka/O itu/O sia-sia/O di/O sisi/O Tuhan/O mereka/O./O Mereka/O mendapat/O kemurkaan/O (/O Allah/Allah )/O dan/O azab/O yang/O sangat/O keras/O./O"
+                "id": "Orang-orang/O yang/O berbantah-bantahan/O tentang/O (/O agama/O )/O Allah/Allah setelah/O (/O agama/O itu/O )/O diterima/O ,/O perbantahan/O mereka/O itu/O sia-sia/O di/O sisi/O Tuhan/O mereka/O ./O Mereka/O mendapat/O kemurkaan/O (/O Allah/Allah )/O dan/O azab/O yang/O sangat/O keras/O ./O"
             }
         },
         "17": {
             "chapterid": "042",
             "verse_id": 17,
             "verse": {
-                "id": "Allah yang menurunkan Kitab (Al-Qur\u2019an) dengan benar dan (menurunkan) timbangan (keadilan). Tahukah kamu (bahwa) boleh jadi hari Kiamat itu sudah dekat?"
+                "id": "Allah yang menurunkan Kitab (Al-Qur’an) dengan benar dan (menurunkan) timbangan (keadilan). Tahukah kamu (bahwa) boleh jadi hari Kiamat itu sudah dekat?"
             },
             "labels": {
-                "id": "Allah/Allah yang/O menurunkan/O Kitab/O (/O Al-Qur\u2019an/HolyBook )/O dengan/O benar/O dan/O (/O menurunkan/O )/O timbangan/O (/O keadilan/O )/O./O Tahukah/O kamu/O (/O bahwa/O )/O boleh/O jadi/O hari/O Kiamat/Event itu/O sudah/O dekat/O?/O"
+                "id": "Allah/Allah yang/O menurunkan/O Kitab/O (/O Al-Qur’an/HolyBook )/O dengan/O benar/O dan/O (/O menurunkan/O )/O timbangan/O (/O keadilan/O )/O ./O Tahukah/O kamu/O (/O bahwa/O )/O boleh/O jadi/O hari/O Kiamat/Event itu/O sudah/O dekat/O ?/O"
             }
         },
         "18": {
@@ -177,7 +177,7 @@
                 "id": "Orang-orang yang tidak percaya kepadanya (hari Kiamat) meminta agar ia (hari Kiamat) segera terjadi, dan orang-orang yang beriman merasa takut kepadanya serta yakin bahwa ia adalah benar (akan terjadi). Ketahuilah, sesungguhnya orang-orang yang membantah tentang (terjadinya) kiamat itu benar-benar berada dalam kesesatan yang jauh."
             },
             "labels": {
-                "id": "Orang-orang/O yang/O tidak/O percaya/O kepadanya/O (/O hari Kiamat/Event )/O meminta/O agar/O ia/O (/O hari Kiamat/Event )/O segera/O terjadi/O,/O dan/O orang-orang/O yang/O beriman/O merasa/O takut/O kepadanya/O serta/O yakin/O bahwa/O ia/O adalah/O benar/O (/O akan/O terjadi/O )/O./O Ketahuilah/O,/O sesungguhnya/O orang-orang/O yang/O membantah/O tentang/O (/O terjadinya/O )/O kiamat/O itu/O benar-benar/O berada/O dalam/O kesesatan/O yang/O jauh/O./O"
+                "id": "Orang-orang/O yang/O tidak/O percaya/O kepadanya/O (/O hari Kiamat/Event )/O meminta/O agar/O ia/O (/O hari Kiamat/Event )/O segera/O terjadi/O ,/O dan/O orang-orang/O yang/O beriman/O merasa/O takut/O kepadanya/O serta/O yakin/O bahwa/O ia/O adalah/O benar/O (/O akan/O terjadi/O )/O ./O Ketahuilah/O ,/O sesungguhnya/O orang-orang/O yang/O membantah/O tentang/O (/O terjadinya/O )/O kiamat/O itu/O benar-benar/O berada/O dalam/O kesesatan/O yang/O jauh/O ./O"
             }
         },
         "19": {
@@ -187,7 +187,7 @@
                 "id": "Allah Mahalembut terhadap hamba-hamba-Nya. Dia memberi rezeki kepada siapa yang Dia kehendaki. Dia Mahakuat lagi Mahaperkasa."
             },
             "labels": {
-                "id": "Allah/Allah Mahalembut/O terhadap/O hamba-hamba-Nya/O./O Dia/O memberi/O rezeki/O kepada/O siapa/O yang/O Dia/O kehendaki/O./O Dia/O Mahakuat/O lagi/O Mahaperkasa/O./O"
+                "id": "Allah/Allah Mahalembut/O terhadap/O hamba-hamba-Nya/O ./O Dia/O memberi/O rezeki/O kepada/O siapa/O yang/O Dia/O kehendaki/O ./O Dia/O Mahakuat/O lagi/O Mahaperkasa/O ./O"
             }
         },
         "20": {
@@ -197,7 +197,7 @@
                 "id": "Siapa yang menghendaki balasan di akhirat, akan Kami tambahkan balasan itu baginya. Siapa yang menghendaki balasan di dunia, Kami berikan kepadanya sebagian darinya (balasan dunia), tetapi dia tidak akan mendapat bagian sedikit pun di akhirat."
             },
             "labels": {
-                "id": "Siapa/O yang/O menghendaki/O balasan/O di/O akhirat/O,/O akan/O Kami/O tambahkan/O balasan/O itu/O baginya/O./O Siapa/O yang/O menghendaki/O balasan/O di/O dunia/O,/O Kami/O berikan/O kepadanya/O sebagian/O darinya/O (/O balasan/O dunia/O )/O,/O tetapi/O dia/O tidak/O akan/O mendapat/O bagian/O sedikit/O pun/O di/O akhirat/O./O"
+                "id": "Siapa/O yang/O menghendaki/O balasan/O di/O akhirat/O ,/O akan/O Kami/O tambahkan/O balasan/O itu/O baginya/O ./O Siapa/O yang/O menghendaki/O balasan/O di/O dunia/O ,/O Kami/O berikan/O kepadanya/O sebagian/O darinya/O (/O balasan/O dunia/O )/O ,/O tetapi/O dia/O tidak/O akan/O mendapat/O bagian/O sedikit/O pun/O di/O akhirat/O ./O"
             }
         },
         "21": {
@@ -207,7 +207,7 @@
                 "id": "Apakah mereka mempunyai sembahan-sembahan selain Allah yang menetapkan bagi mereka aturan agama yang tidak diizinkan (diridai) oleh Allah? Seandainya tidak ada ketetapan yang pasti (tentang penundaan hukuman dari Allah) tentulah hukuman di antara mereka telah dilaksanakan. Sesungguhnya orang-orang zalim itu akan mendapat azab yang sangat pedih."
             },
             "labels": {
-                "id": "Apakah/O mereka/O mempunyai/O sembahan-sembahan/O selain/O Allah/Allah yang/O menetapkan/O bagi/O mereka/O aturan/O agama/O yang/O tidak/O diizinkan/O (/O diridai/O )/O oleh/O Allah/Allah?/O Seandainya/O tidak/O ada/O ketetapan/O yang/O pasti/O (/O tentang/O penundaan/O hukuman/O dari/O Allah/Allah )/O tentulah/O hukuman/O di/O antara/O mereka/O telah/O dilaksanakan/O./O Sesungguhnya/O orang-orang/O zalim/O itu/O akan/O mendapat/O azab/O yang/O sangat/O pedih/O./O"
+                "id": "Apakah/O mereka/O mempunyai/O sembahan-sembahan/O selain/O Allah/Allah yang/O menetapkan/O bagi/O mereka/O aturan/O agama/O yang/O tidak/O diizinkan/O (/O diridai/O )/O oleh/O Allah/O ?/O Seandainya/O tidak/O ada/O ketetapan/O yang/O pasti/O (/O tentang/O penundaan/O hukuman/O dari/O Allah/Allah )/O tentulah/O hukuman/O di/O antara/O mereka/O telah/O dilaksanakan/O ./O Sesungguhnya/O orang-orang/O zalim/O itu/O akan/O mendapat/O azab/O yang/O sangat/O pedih/O ./O"
             }
         },
         "22": {
@@ -217,27 +217,27 @@
                 "id": "Kamu akan melihat orang-orang zalim itu sangat ketakutan karena (kejahatan-kejahatan) yang telah mereka lakukan, sedangkan (azab) menimpa mereka. Orang-orang yang beriman dan beramal saleh (akan bersenang-senang) di dalam taman-taman surga. Mereka mendapatkan apa yang mereka kehendaki di sisi Tuhan mereka. Yang demikian itu adalah karunia yang besar."
             },
             "labels": {
-                "id": "Kamu/O akan/O melihat/O orang-orang/O zalim/O itu/O sangat/O ketakutan/O karena/O (/O kejahatan-kejahatan/O )/O yang/O telah/O mereka/O lakukan/O,/O sedangkan/O (/O azab/O )/O menimpa/O mereka/O./O Orang-orang/O yang/O beriman/O dan/O beramal/O saleh/O (/O akan/O bersenang-senang/O )/O di/O dalam/O taman-taman/O surga/O./O Mereka/O mendapatkan/O apa/O yang/O mereka/O kehendaki/O di/O sisi/O Tuhan/O mereka/O./O Yang/O demikian/O itu/O adalah/O karunia/O yang/O besar/O./O"
+                "id": "Kamu/O akan/O melihat/O orang-orang/O zalim/O itu/O sangat/O ketakutan/O karena/O (/O kejahatan-kejahatan/O )/O yang/O telah/O mereka/O lakukan/O ,/O sedangkan/O (/O azab/O )/O menimpa/O mereka/O ./O Orang-orang/O yang/O beriman/O dan/O beramal/O saleh/O (/O akan/O bersenang-senang/O )/O di/O dalam/O taman-taman/O surga/O ./O Mereka/O mendapatkan/O apa/O yang/O mereka/O kehendaki/O di/O sisi/O Tuhan/O mereka/O ./O Yang/O demikian/O itu/O adalah/O karunia/O yang/O besar/O ./O"
             }
         },
         "23": {
             "chapterid": "042",
             "verse_id": 23,
             "verse": {
-                "id": "Itulah (karunia) yang (dengannya) Allah menggembirakan hamba-hamba-Nya yang beriman dan beramal saleh. Katakanlah (Nabi Muhammad), \u201cAku tidak meminta kepadamu suatu imbalan pun atas seruanku, kecuali kasih sayang dalam kekeluargaan.\u201d Siapa mengerjakan kebaikan, akan Kami tambahkan kebaikan baginya. Sesungguhnya Allah Maha Pengampun lagi Maha Mensyukuri."
+                "id": "Itulah (karunia) yang (dengannya) Allah menggembirakan hamba-hamba-Nya yang beriman dan beramal saleh. Katakanlah (Nabi Muhammad), “Aku tidak meminta kepadamu suatu imbalan pun atas seruanku, kecuali kasih sayang dalam kekeluargaan.” Siapa mengerjakan kebaikan, akan Kami tambahkan kebaikan baginya. Sesungguhnya Allah Maha Pengampun lagi Maha Mensyukuri."
             },
             "labels": {
-                "id": "Itulah/O (/O yang/O )/O (/O dengannya/O )/O Allah/Allah menggembirakan/O hamba-hamba-Nya/O yang/O beriman/O dan/O beramal/O saleh/O./O Katakanlah/O (/O Nabi/O Muhammad/Messenger )/O,/O \u201c/O Aku/O tidak/O meminta/O kepadamu/O suatu/O imbalan/O pun/O atas/O seruanku/O,/O kecuali/O kasih/O sayang/O dalam/O kekeluargaan/O./O \u201d/O Siapa/O mengerjakan/O kebaikan/O,/O akan/O Kami/O tambahkan/O kebaikan/O baginya/O./O Sesungguhnya/O Allah/Allah Maha/O Pengampun/O lagi/O Maha/O Mensyukuri/O./O"
+                "id": "Itulah/O (/O yang/O )/O (/O dengannya/O )/O Allah/Allah menggembirakan/O hamba-hamba-Nya/O yang/O beriman/O dan/O beramal/O saleh/O ./O Katakanlah/O (/O Nabi/O Muhammad/Messenger )/O ,/O “/O Aku/O tidak/O meminta/O kepadamu/O suatu/O imbalan/O pun/O atas/O seruanku/O ,/O kecuali/O kasih/O sayang/O dalam/O kekeluargaan/O ./O ”/O Siapa/O mengerjakan/O kebaikan/O ,/O akan/O Kami/O tambahkan/O kebaikan/O baginya/O ./O Sesungguhnya/O Allah/Allah Maha/O Pengampun/O lagi/O Maha/O Mensyukuri/O ./O"
             }
         },
         "24": {
             "chapterid": "042",
             "verse_id": 24,
             "verse": {
-                "id": "Ataukah mereka mengatakan, \u201cDia (Nabi Muhammad) telah mengada-adakan kebohongan tentang Allah.\u201d Jika Allah menghendaki, niscaya Dia akan mengunci hatimu. Allah menghapus yang batil dan membenarkan yang benar dengan firman-firman-Nya (Al-Qur\u2019an). Sesungguhnya Dia Maha Mengetahui segala isi hati."
+                "id": "Ataukah mereka mengatakan, “Dia (Nabi Muhammad) telah mengada-adakan kebohongan tentang Allah.” Jika Allah menghendaki, niscaya Dia akan mengunci hatimu. Allah menghapus yang batil dan membenarkan yang benar dengan firman-firman-Nya (Al-Qur’an). Sesungguhnya Dia Maha Mengetahui segala isi hati."
             },
             "labels": {
-                "id": "Ataukah/O mereka/O mengatakan/O,/O \u201c/O Dia/O (/O Nabi/O Muhammad/Messenger )/O telah/O mengada-adakan/O kebohongan/O tentang/O Allah/Allah.\u201d/O Jika/O Allah/Allah menghendaki/O,/O niscaya/O Dia/O akan/O mengunci/O hatimu/O./O Allah/Allah menghapus/O yang/O batil/O dan/O membenarkan/O yang/O benar/O dengan/O firman-firman-Nya/O (/O Al-Qur\u2019an/HolyBook )/O./O Sesungguhnya/O Dia/O Maha/O Mengetahui/O segala/O isi/O hati/O./O"
+                "id": "Ataukah/O mereka/O mengatakan/O ,/O “/O Dia/O (/O Nabi/O Muhammad/Messenger )/O telah/O mengada-adakan/O kebohongan/O tentang/O Allah/O ”/O Jika/O Allah/Allah menghendaki/O ,/O niscaya/O Dia/O akan/O mengunci/O hatimu/O ./O Allah/Allah menghapus/O yang/O batil/O dan/O membenarkan/O yang/O benar/O dengan/O firman-firman-Nya/O (/O Al-Qur’an/HolyBook )/O ./O Sesungguhnya/O Dia/O Maha/O Mengetahui/O segala/O isi/O hati/O ./O"
             }
         },
         "25": {
@@ -247,7 +247,7 @@
                 "id": "Dialah yang menerima tobat dari hamba-hamba-Nya, memaafkan kesalahan-kesalahan, mengetahui apa yang kamu kerjakan,"
             },
             "labels": {
-                "id": "Dialah/O yang/O menerima/O tobat/O dari/O hamba-hamba-Nya/O,/O memaafkan/O kesalahan-kesalahan/O,/O mengetahui/O apa/O yang/O kamu/O kerjakan/O,/O"
+                "id": "Dialah/O yang/O menerima/O tobat/O dari/O hamba-hamba-Nya/O ,/O memaafkan/O kesalahan-kesalahan/O ,/O mengetahui/O apa/O yang/O kamu/O kerjakan/O ,/O"
             }
         },
         "26": {
@@ -257,7 +257,7 @@
                 "id": "memperkenankan (doa) orang-orang yang beriman dan mengerjakan kebajikan, dan menambah (pahala) kepada mereka dari karunia-Nya. Orang-orang kafir akan mendapat azab yang sangat keras."
             },
             "labels": {
-                "id": "memperkenankan/O (/O doa/O )/O orang-orang/O yang/O beriman/O dan/O mengerjakan/O kebajikan/O,/O dan/O menambah/O (/O pahala/O )/O kepada/O mereka/O dari/O karunia-Nya/O./O Orang-orang/O kafir/O akan/O mendapat/O azab/O yang/O sangat/O keras/O./O"
+                "id": "memperkenankan/O (/O doa/O )/O orang-orang/O yang/O beriman/O dan/O mengerjakan/O kebajikan/O ,/O dan/O menambah/O (/O pahala/O )/O kepada/O mereka/O dari/O karunia-Nya/O ./O Orang-orang/O kafir/O akan/O mendapat/O azab/O yang/O sangat/O keras/O ./O"
             }
         },
         "27": {
@@ -267,7 +267,7 @@
                 "id": "Seandainya Allah melapangkan rezeki kepada hamba-hamba-Nya, niscaya mereka akan berbuat melampaui batas di bumi. Akan tetapi, Dia menurunkan apa yang Dia kehendaki dengan ukuran (tertentu). Sesungguhnya Dia Mahateliti lagi Maha Melihat (keadaan) hamba-hamba-Nya."
             },
             "labels": {
-                "id": "Seandainya/O Allah/Allah melapangkan/O rezeki/O kepada/O hamba-hamba-Nya/O,/O niscaya/O mereka/O akan/O berbuat/O melampaui/O batas/O di/O bumi/AstronomicalBody./O Akan/O tetapi/O,/O Dia/O menurunkan/O apa/O yang/O Dia/O kehendaki/O dengan/O ukuran/O (/O tertentu/O )/O./O Sesungguhnya/O Dia/O Mahateliti/O lagi/O Maha/O Melihat/O (/O keadaan/O )/O hamba-hamba-Nya/O./O"
+                "id": "Seandainya/O Allah/Allah melapangkan/O rezeki/O kepada/O hamba-hamba-Nya/O ,/O niscaya/O mereka/O akan/O berbuat/O melampaui/O batas/O di/O bumi/O ./O Akan/O tetapi/O ,/O Dia/O menurunkan/O apa/O yang/O Dia/O kehendaki/O dengan/O ukuran/O (/O tertentu/O )/O ./O Sesungguhnya/O Dia/O Mahateliti/O lagi/O Maha/O Melihat/O (/O keadaan/O )/O hamba-hamba-Nya/O ./O"
             }
         },
         "28": {
@@ -277,7 +277,7 @@
                 "id": "Dialah yang menurunkan hujan setelah mereka berputus asa dan (Dia pula yang) menyebarkan rahmat-Nya. Dialah Maha Pelindung lagi Maha Terpuji."
             },
             "labels": {
-                "id": "Dialah/O yang/O menurunkan/O hujan/O setelah/O mereka/O berputus/O asa/O dan/O (/O Dia/O pula/O yang/O )/O menyebarkan/O rahmat-Nya/O./O Dialah/O Maha/O Pelindung/O lagi/O Maha/O Terpuji/O./O"
+                "id": "Dialah/O yang/O menurunkan/O hujan/O setelah/O mereka/O berputus/O asa/O dan/O (/O Dia/O pula/O yang/O )/O menyebarkan/O rahmat-Nya/O ./O Dialah/O Maha/O Pelindung/O lagi/O Maha/O Terpuji/O ./O"
             }
         },
         "29": {
@@ -287,7 +287,7 @@
                 "id": "Di antara tanda-tanda (kebesaran)-Nya adalah penciptaan langit dan bumi serta makhluk-makhluk melata yang Dia sebarkan pada keduanya. Dia Mahakuasa mengumpulkan semuanya apabila Dia menghendaki."
             },
             "labels": {
-                "id": "Di/O antara/O tanda-tanda/O (/O kebesaran/O )/O -Nya/O adalah/O penciptaan/O langit/O dan/O bumi/AstronomicalBody serta/O makhluk-makhluk/O melata/O yang/O Dia/O sebarkan/O pada/O keduanya/O./O Dia/O Mahakuasa/O mengumpulkan/O semuanya/O apabila/O Dia/O menghendaki/O./O"
+                "id": "Di/O antara/O tanda-tanda/O (/O kebesaran/O )/O -Nya/O adalah/O penciptaan/O langit/O dan/O bumi/AstronomicalBody serta/O makhluk-makhluk/O melata/O yang/O Dia/O sebarkan/O pada/O keduanya/O ./O Dia/O Mahakuasa/O mengumpulkan/O semuanya/O apabila/O Dia/O menghendaki/O ./O"
             }
         },
         "30": {
@@ -297,7 +297,7 @@
                 "id": "Musibah apa pun yang menimpa kamu adalah karena perbuatan tanganmu sendiri dan (Allah) memaafkan banyak (kesalahanmu)."
             },
             "labels": {
-                "id": "Musibah/O apa/O pun/O yang/O menimpa/O kamu/O adalah/O karena/O perbuatan/O tanganmu/O sendiri/O dan/O (/O Allah/Allah )/O memaafkan/O banyak/O (/O kesalahanmu/O )/O./O"
+                "id": "Musibah/O apa/O pun/O yang/O menimpa/O kamu/O adalah/O karena/O perbuatan/O tanganmu/O sendiri/O dan/O (/O Allah/Allah )/O memaafkan/O banyak/O (/O kesalahanmu/O )/O ./O"
             }
         },
         "31": {
@@ -307,7 +307,7 @@
                 "id": "Kamu tidak dapat melepaskan diri di bumi (dari siksaan Allah) dan kamu tidak mempunyai (satu) pelindung atau (satu) penolong pun selain Allah."
             },
             "labels": {
-                "id": "Kamu/O tidak/O dapat/O melepaskan/O diri/O di/O bumi/AstronomicalBody (/O dari/O siksaan/O Allah/Allah )/O dan/O kamu/O tidak/O mempunyai/O (/O satu/O )/O pelindung/O atau/O (/O satu/O )/O penolong/O pun/O selain/O Allah/Allah./O"
+                "id": "Kamu/O tidak/O dapat/O melepaskan/O diri/O di/O bumi/AstronomicalBody (/O dari/O siksaan/O Allah/Allah )/O dan/O kamu/O tidak/O mempunyai/O (/O satu/O )/O pelindung/O atau/O (/O satu/O )/O penolong/O pun/O selain/O Allah/O ./O"
             }
         },
         "32": {
@@ -317,7 +317,7 @@
                 "id": "Di antara tanda-tanda (kebesaran)-Nya adalah kapal-kapal yang berlayar di laut seperti gunung-gunung."
             },
             "labels": {
-                "id": "Di/O antara/O tanda-tanda/O (/O kebesaran/O )/O -Nya/O adalah/O kapal-kapal/O yang/O berlayar/O di/O laut/O seperti/O gunung-gunung/O./O"
+                "id": "Di/O antara/O tanda-tanda/O (/O kebesaran/O )/O -Nya/O adalah/O kapal-kapal/O yang/O berlayar/O di/O laut/O seperti/O gunung-gunung/O ./O"
             }
         },
         "33": {
@@ -327,7 +327,7 @@
                 "id": "Jika Dia menghendaki, Dia akan menghentikan angin, sehingga jadilah (kapal-kapal) itu terhenti di permukaannya (laut). Sesungguhnya pada yang demikian itu terdapat tanda-tanda (kebesaran Allah) bagi tiap-tiap orang yang selalu bersabar dan banyak bersyukur,"
             },
             "labels": {
-                "id": "Jika/O Dia/O menghendaki/O,/O Dia/O akan/O menghentikan/O angin/O,/O sehingga/O jadilah/O (/O kapal-kapal/O )/O itu/O terhenti/O di/O permukaannya/O (/O laut/O )/O./O Sesungguhnya/O pada/O yang/O demikian/O itu/O terdapat/O tanda-tanda/O (/O kebesaran/O Allah/Allah )/O bagi/O tiap-tiap/O orang/O yang/O selalu/O bersabar/O dan/O banyak/O bersyukur/O,/O"
+                "id": "Jika/O Dia/O menghendaki/O ,/O Dia/O akan/O menghentikan/O angin/O ,/O sehingga/O jadilah/O (/O kapal-kapal/O )/O itu/O terhenti/O di/O permukaannya/O (/O laut/O )/O ./O Sesungguhnya/O pada/O yang/O demikian/O itu/O terdapat/O tanda-tanda/O (/O kebesaran/O Allah/Allah )/O bagi/O tiap-tiap/O orang/O yang/O selalu/O bersabar/O dan/O banyak/O bersyukur/O ,/O"
             }
         },
         "34": {
@@ -337,7 +337,7 @@
                 "id": "atau Dia akan menghancurkan kapal-kapal itu karena perbuatan (dosa) mereka, dan Dia memaafkan banyak (kesalahan mereka)."
             },
             "labels": {
-                "id": "atau/O Dia/O akan/O menghancurkan/O kapal-kapal/O itu/O karena/O perbuatan/O (/O dosa/O )/O mereka/O,/O dan/O Dia/O memaafkan/O banyak/O (/O kesalahan/O mereka/O )/O./O"
+                "id": "atau/O Dia/O akan/O menghancurkan/O kapal-kapal/O itu/O karena/O perbuatan/O (/O dosa/O )/O mereka/O ,/O dan/O Dia/O memaafkan/O banyak/O (/O kesalahan/O mereka/O )/O ./O"
             }
         },
         "35": {
@@ -347,7 +347,7 @@
                 "id": "(Yang demikian itu) agar orang-orang yang membantah tanda-tanda (kekuasaan) Kami mengetahui bahwa mereka tidak akan memperoleh jalan keluar (dari siksaan)."
             },
             "labels": {
-                "id": "(/O Yang/O demikian/O itu/O )/O agar/O orang-orang/O yang/O membantah/O tanda-tanda/O (/O kekuasaan/O )/O Kami/O mengetahui/O bahwa/O mereka/O tidak/O akan/O memperoleh/O jalan/O keluar/O (/O dari/O siksaan/O )/O./O"
+                "id": "(/O Yang/O demikian/O itu/O )/O agar/O orang-orang/O yang/O membantah/O tanda-tanda/O (/O kekuasaan/O )/O Kami/O mengetahui/O bahwa/O mereka/O tidak/O akan/O memperoleh/O jalan/O keluar/O (/O dari/O siksaan/O )/O ./O"
             }
         },
         "36": {
@@ -357,7 +357,7 @@
                 "id": "Apa pun (kenikmatan) yang diberikan kepadamu, maka itu adalah kesenangan hidup di dunia. Sedangkan apa (kenikmatan) yang ada di sisi Allah lebih baik dan lebih kekal bagi orang-orang yang beriman dan hanya kepada Tuhan mereka bertawakal."
             },
             "labels": {
-                "id": "Apa/O pun/O (/O kenikmatan/O )/O yang/O diberikan/O kepadamu/O,/O maka/O itu/O adalah/O kesenangan/O hidup/O di/O dunia/O./O Sedangkan/O apa/O (/O kenikmatan/O )/O yang/O ada/O di/O sisi/O Allah/Allah lebih/O baik/O dan/O lebih/O kekal/O bagi/O orang-orang/O yang/O beriman/O dan/O hanya/O kepada/O Tuhan/O mereka/O bertawakal/O./O"
+                "id": "Apa/O pun/O (/O kenikmatan/O )/O yang/O diberikan/O kepadamu/O ,/O maka/O itu/O adalah/O kesenangan/O hidup/O di/O dunia/O ./O Sedangkan/O apa/O (/O kenikmatan/O )/O yang/O ada/O di/O sisi/O Allah/Allah lebih/O baik/O dan/O lebih/O kekal/O bagi/O orang-orang/O yang/O beriman/O dan/O hanya/O kepada/O Tuhan/O mereka/O bertawakal/O ./O"
             }
         },
         "37": {
@@ -367,7 +367,7 @@
                 "id": "(Kenikmatan itu juga lebih baik dan lebih kekal bagi) orang-orang yang menjauhi dosa-dosa besar dan perbuatan-perbuatan keji, dan apabila mereka marah segera memberi maaf;"
             },
             "labels": {
-                "id": "(/O Kenikmatan/O itu/O juga/O lebih/O baik/O dan/O lebih/O kekal/O bagi/O )/O orang-orang/O yang/O menjauhi/O dosa-dosa/O besar/O dan/O perbuatan-perbuatan/O keji/O,/O dan/O apabila/O mereka/O marah/O segera/O memberi/O maaf/O ;/O"
+                "id": "(/O Kenikmatan/O itu/O juga/O lebih/O baik/O dan/O lebih/O kekal/O bagi/O )/O orang-orang/O yang/O menjauhi/O dosa-dosa/O besar/O dan/O perbuatan-perbuatan/O keji/O ,/O dan/O apabila/O mereka/O marah/O segera/O memberi/O maaf/O;/O"
             }
         },
         "38": {
@@ -377,7 +377,7 @@
                 "id": "(juga lebih baik dan lebih kekal bagi) orang-orang yang menerima (mematuhi) seruan Tuhan dan melaksanakan salat, sedangkan urusan mereka (diputuskan) dengan musyawarah di antara mereka. Mereka menginfakkan sebagian dari rezeki yang Kami anugerahkan kepada mereka;"
             },
             "labels": {
-                "id": "(/O juga/O lebih/O baik/O dan/O lebih/O kekal/O bagi/O )/O orang-orang/O yang/O menerima/O (/O mematuhi/O )/O seruan/O Tuhan/O dan/O melaksanakan/O salat/O,/O sedangkan/O urusan/O mereka/O (/O diputuskan/O )/O dengan/O musyawarah/O di/O antara/O mereka/O./O Mereka/O menginfakkan/O sebagian/O dari/O rezeki/O yang/O Kami/O anugerahkan/O kepada/O mereka/O ;/O"
+                "id": "(/O juga/O lebih/O baik/O dan/O lebih/O kekal/O bagi/O )/O orang-orang/O yang/O menerima/O (/O mematuhi/O )/O seruan/O Tuhan/O dan/O melaksanakan/O salat/O ,/O sedangkan/O urusan/O mereka/O (/O diputuskan/O )/O dengan/O musyawarah/O di/O antara/O mereka/O ./O Mereka/O menginfakkan/O sebagian/O dari/O rezeki/O yang/O Kami/O anugerahkan/O kepada/O mereka/O;/O"
             }
         },
         "39": {
@@ -387,7 +387,7 @@
                 "id": "(juga lebih baik dan lebih kekal bagi) orang-orang yang apabila mereka diperlakukan dengan zalim, mereka membela diri."
             },
             "labels": {
-                "id": "(/O juga/O lebih/O baik/O dan/O lebih/O kekal/O bagi/O )/O orang-orang/O yang/O apabila/O mereka/O diperlakukan/O dengan/O zalim/O,/O mereka/O membela/O diri/O./O"
+                "id": "(/O juga/O lebih/O baik/O dan/O lebih/O kekal/O bagi/O )/O orang-orang/O yang/O apabila/O mereka/O diperlakukan/O dengan/O zalim/O ,/O mereka/O membela/O diri/O ./O"
             }
         },
         "40": {
@@ -397,7 +397,7 @@
                 "id": "Balasan suatu keburukan adalah keburukan yang setimpal. Akan tetapi, siapa yang memaafkan dan berbuat baik (kepada orang yang berbuat jahat), maka pahalanya dari Allah. Sesungguhnya Dia tidak menyukai orang-orang zalim."
             },
             "labels": {
-                "id": "Balasan/O suatu/O keburukan/O adalah/O keburukan/O yang/O setimpal/O./O Akan/O tetapi/O,/O siapa/O yang/O memaafkan/O dan/O berbuat/O baik/O (/O kepada/O orang/O yang/O berbuat/O jahat/O )/O,/O maka/O pahalanya/O dari/O Allah/Allah./O Sesungguhnya/O Dia/O tidak/O menyukai/O orang-orang/O zalim/O./O"
+                "id": "Balasan/O suatu/O keburukan/O adalah/O keburukan/O yang/O setimpal/O ./O Akan/O tetapi/O ,/O siapa/O yang/O memaafkan/O dan/O berbuat/O baik/O (/O kepada/O orang/O yang/O berbuat/O jahat/O )/O ,/O maka/O pahalanya/O dari/O Allah/O ./O Sesungguhnya/O Dia/O tidak/O menyukai/O orang-orang/O zalim/O ./O"
             }
         },
         "41": {
@@ -407,7 +407,7 @@
                 "id": "Akan tetapi, sungguh siapa yang membela diri setelah teraniaya, tidak ada satu alasan pun (untuk menyalahkan) mereka."
             },
             "labels": {
-                "id": "Akan/O tetapi/O,/O sungguh/O siapa/O yang/O membela/O diri/O setelah/O teraniaya/O,/O tidak/O ada/O satu/O alasan/O pun/O (/O untuk/O menyalahkan/O )/O mereka/O./O"
+                "id": "Akan/O tetapi/O ,/O sungguh/O siapa/O yang/O membela/O diri/O setelah/O teraniaya/O ,/O tidak/O ada/O satu/O alasan/O pun/O (/O untuk/O menyalahkan/O )/O mereka/O ./O"
             }
         },
         "42": {
@@ -417,7 +417,7 @@
                 "id": "Sesungguhnya alasan (untuk menyalahkan) itu hanya ada pada orang-orang yang menganiaya manusia dan melampaui batas di bumi tanpa hak (alasan yang benar). Mereka itu mendapat siksa yang sangat pedih."
             },
             "labels": {
-                "id": "Sesungguhnya/O alasan/O (/O untuk/O menyalahkan/O )/O itu/O hanya/O ada/O pada/O orang-orang/O yang/O menganiaya/O manusia/O dan/O melampaui/O batas/O di/O bumi/AstronomicalBody tanpa/O hak/O (/O alasan/O yang/O benar/O )/O./O Mereka/O itu/O mendapat/O siksa/O yang/O sangat/O pedih/O./O"
+                "id": "Sesungguhnya/O alasan/O (/O untuk/O menyalahkan/O )/O itu/O hanya/O ada/O pada/O orang-orang/O yang/O menganiaya/O manusia/O dan/O melampaui/O batas/O di/O bumi/AstronomicalBody tanpa/O hak/O (/O alasan/O yang/O benar/O )/O ./O Mereka/O itu/O mendapat/O siksa/O yang/O sangat/O pedih/O ./O"
             }
         },
         "43": {
@@ -427,27 +427,27 @@
                 "id": "Akan tetapi, sungguh siapa yang bersabar dan memaafkan, sesungguhnya yang demikian itu termasuk urusan yang (patut) diutamakan."
             },
             "labels": {
-                "id": "Akan/O tetapi/O,/O sungguh/O siapa/O yang/O bersabar/O dan/O memaafkan/O,/O sesungguhnya/O yang/O demikian/O itu/O termasuk/O urusan/O yang/O (/O patut/O )/O diutamakan/O./O"
+                "id": "Akan/O tetapi/O ,/O sungguh/O siapa/O yang/O bersabar/O dan/O memaafkan/O ,/O sesungguhnya/O yang/O demikian/O itu/O termasuk/O urusan/O yang/O (/O patut/O )/O diutamakan/O ./O"
             }
         },
         "44": {
             "chapterid": "042",
             "verse_id": 44,
             "verse": {
-                "id": "Siapa yang dibiarkan sesat oleh Allah (karena kecenderungan dan pilihannya sendiri), tidak ada baginya pelindung setelah itu. Kamu akan melihat orang-orang zalim, ketika mereka melihat azab, berkata, \u201cAdakah kiranya jalan untuk kembali (ke dunia)?\u201d"
+                "id": "Siapa yang dibiarkan sesat oleh Allah (karena kecenderungan dan pilihannya sendiri), tidak ada baginya pelindung setelah itu. Kamu akan melihat orang-orang zalim, ketika mereka melihat azab, berkata, “Adakah kiranya jalan untuk kembali (ke dunia)?”"
             },
             "labels": {
-                "id": "Siapa/O yang/O dibiarkan/O sesat/O oleh/O Allah/Allah (/O karena/O kecenderungan/O dan/O pilihannya/O sendiri/O )/O,/O tidak/O ada/O baginya/O pelindung/O setelah/O itu/O./O Kamu/O akan/O melihat/O orang-orang/O zalim/O,/O ketika/O mereka/O melihat/O azab/O,/O berkata/O,/O \u201c/O Adakah/O kiranya/O jalan/O untuk/O kembali/O (/O ke/O dunia/O )/O?/O \u201d/O"
+                "id": "Siapa/O yang/O dibiarkan/O sesat/O oleh/O Allah/Allah (/O karena/O kecenderungan/O dan/O pilihannya/O sendiri/O )/O ,/O tidak/O ada/O baginya/O pelindung/O setelah/O itu/O ./O Kamu/O akan/O melihat/O orang-orang/O zalim/O ,/O ketika/O mereka/O melihat/O azab/O ,/O berkata/O ,/O “/O Adakah/O kiranya/O jalan/O untuk/O kembali/O (/O ke/O dunia/O )/O ?/O ”/O"
             }
         },
         "45": {
             "chapterid": "042",
             "verse_id": 45,
             "verse": {
-                "id": "Kamu akan melihat mereka dihadapkan kepadanya (neraka) dalam keadaan tertunduk karena (merasa) hina. Mereka memperhatikan dengan pandangan yang lesu. Orang-orang yang beriman berkata, \u201cSesungguhnya orang-orang yang rugi adalah orang-orang yang merugikan diri mereka sendiri dan keluarganya pada hari Kiamat.\u201d Ketahuilah, sesungguhnya orang-orang zalim itu berada dalam azab yang kekal."
+                "id": "Kamu akan melihat mereka dihadapkan kepadanya (neraka) dalam keadaan tertunduk karena (merasa) hina. Mereka memperhatikan dengan pandangan yang lesu. Orang-orang yang beriman berkata, “Sesungguhnya orang-orang yang rugi adalah orang-orang yang merugikan diri mereka sendiri dan keluarganya pada hari Kiamat.” Ketahuilah, sesungguhnya orang-orang zalim itu berada dalam azab yang kekal."
             },
             "labels": {
-                "id": "Kamu/O akan/O melihat/O mereka/O dihadapkan/O kepadanya/O (/O neraka/O )/O dalam/O keadaan/O tertunduk/O karena/O (/O merasa/O )/O hina/O./O Mereka/O memperhatikan/O dengan/O pandangan/O yang/O lesu/O./O Orang-orang/O yang/O beriman/O berkata/O,/O \u201c/O Sesungguhnya/O orang-orang/O yang/O rugi/O adalah/O orang-orang/O yang/O merugikan/O diri/O mereka/O sendiri/O dan/O keluarganya/O pada/O hari Kiamat/Event./O \u201d/O Ketahuilah/O,/O sesungguhnya/O orang-orang/O zalim/O itu/O berada/O dalam/O azab/O yang/O kekal/O./O"
+                "id": "Kamu/O akan/O melihat/O mereka/O dihadapkan/O kepadanya/O (/O neraka/O )/O dalam/O keadaan/O tertunduk/O karena/O (/O merasa/O )/O hina/O ./O Mereka/O memperhatikan/O dengan/O pandangan/O yang/O lesu/O ./O Orang-orang/O yang/O beriman/O berkata/O ,/O “/O Sesungguhnya/O orang-orang/O yang/O rugi/O adalah/O orang-orang/O yang/O merugikan/O diri/O mereka/O sendiri/O dan/O keluarganya/O pada/O hari Kiamat/O ./O ”/O Ketahuilah/O ,/O sesungguhnya/O orang-orang/O zalim/O itu/O berada/O dalam/O azab/O yang/O kekal/O ./O"
             }
         },
         "46": {
@@ -457,7 +457,7 @@
                 "id": "Mereka tidak akan mempunyai pelindung yang dapat menolong mereka selain Allah. Siapa pun yang disesatkan oleh Allah (berdasarkan kecenderungan dan pilihannya sendiri) tidak akan ada jalan baginya (untuk mendapat petunjuk)."
             },
             "labels": {
-                "id": "Mereka/O tidak/O akan/O mempunyai/O pelindung/O yang/O dapat/O menolong/O mereka/O selain/O Allah/Allah./O Siapa/O pun/O yang/O disesatkan/O oleh/O Allah/Allah (/O berdasarkan/O kecenderungan/O dan/O pilihannya/O sendiri/O )/O tidak/O akan/O ada/O jalan/O baginya/O (/O untuk/O mendapat/O petunjuk/O )/O./O"
+                "id": "Mereka/O tidak/O akan/O mempunyai/O pelindung/O yang/O dapat/O menolong/O mereka/O selain/O Allah/O ./O Siapa/O pun/O yang/O disesatkan/O oleh/O Allah/Allah (/O berdasarkan/O kecenderungan/O dan/O pilihannya/O sendiri/O )/O tidak/O akan/O ada/O jalan/O baginya/O (/O untuk/O mendapat/O petunjuk/O )/O ./O"
             }
         },
         "47": {
@@ -467,7 +467,7 @@
                 "id": "Penuhilah seruan Tuhanmu sebelum datang dari Allah suatu hari (Kiamat) yang tidak dapat ditolak. Pada hari itu kamu tidak akan mempunyai tempat berlindung dan tidak (pula) dapat mengingkari (dosa-dosamu)."
             },
             "labels": {
-                "id": "Penuhilah/O seruan/O Tuhanmu/O sebelum/O datang/O dari/O Allah/Allah suatu/O hari/O (/O Kiamat/Event )/O yang/O tidak/O dapat/O ditolak/O./O Pada/O hari/O itu/O kamu/O tidak/O akan/O mempunyai/O tempat/O berlindung/O dan/O tidak/O (/O pula/O )/O dapat/O mengingkari/O (/O dosa-dosamu/O )/O./O"
+                "id": "Penuhilah/O seruan/O Tuhanmu/O sebelum/O datang/O dari/O Allah/Allah suatu/O hari/O (/O Kiamat/Event )/O yang/O tidak/O dapat/O ditolak/O ./O Pada/O hari/O itu/O kamu/O tidak/O akan/O mempunyai/O tempat/O berlindung/O dan/O tidak/O (/O pula/O )/O dapat/O mengingkari/O (/O dosa-dosamu/O )/O ./O"
             }
         },
         "48": {
@@ -477,7 +477,7 @@
                 "id": "Jika mereka berpaling, (ingatlah) Kami tidak mengutus engkau sebagai pengawas bagi mereka. Kewajibanmu hanyalah menyampaikan (risalah). Sesungguhnya apabila Kami merasakan kepada manusia sedikit dari rahmat Kami, dia gembira karenanya. Akan tetapi, jika mereka ditimpa kesusahan disebabkan perbuatan tangan mereka sendiri, (niscaya mereka ingkar). Sesungguhnya manusia itu sangat ingkar (pada nikmat)."
             },
             "labels": {
-                "id": "Jika/O mereka/O berpaling/O,/O (/O ingatlah/O )/O Kami/O tidak/O mengutus/O engkau/O sebagai/O pengawas/O bagi/O mereka/O./O Kewajibanmu/O hanyalah/O menyampaikan/O (/O risalah/O )/O./O Sesungguhnya/O apabila/O Kami/O merasakan/O kepada/O manusia/O sedikit/O dari/O rahmat/O Kami/O,/O dia/O gembira/O karenanya/O./O Akan/O tetapi/O,/O jika/O mereka/O ditimpa/O kesusahan/O disebabkan/O perbuatan/O tangan/O mereka/O sendiri/O,/O (/O niscaya/O mereka/O ingkar/O )/O./O Sesungguhnya/O manusia/O itu/O sangat/O ingkar/O (/O pada/O nikmat/O )/O./O"
+                "id": "Jika/O mereka/O berpaling/O ,/O (/O ingatlah/O )/O Kami/O tidak/O mengutus/O engkau/O sebagai/O pengawas/O bagi/O mereka/O ./O Kewajibanmu/O hanyalah/O menyampaikan/O (/O risalah/O )/O ./O Sesungguhnya/O apabila/O Kami/O merasakan/O kepada/O manusia/O sedikit/O dari/O rahmat/O Kami/O ,/O dia/O gembira/O karenanya/O ./O Akan/O tetapi/O ,/O jika/O mereka/O ditimpa/O kesusahan/O disebabkan/O perbuatan/O tangan/O mereka/O sendiri/O ,/O (/O niscaya/O mereka/O ingkar/O )/O ./O Sesungguhnya/O manusia/O itu/O sangat/O ingkar/O (/O pada/O nikmat/O )/O ./O"
             }
         },
         "49": {
@@ -487,7 +487,7 @@
                 "id": "Milik Allahlah kerajaan langit dan bumi. Dia menciptakan apa yang Dia kehendaki, memberikan anak perempuan kepada siapa yang Dia kehendaki, memberikan anak laki-laki kepada siapa yang Dia kehendaki,"
             },
             "labels": {
-                "id": "Milik/O Allahlah/O kerajaan/O langit/O dan/O bumi/AstronomicalBody./O Dia/O menciptakan/O apa/O yang/O Dia/O kehendaki/O,/O memberikan/O anak/O perempuan/O kepada/O siapa/O yang/O Dia/O kehendaki/O,/O memberikan/O anak/O laki-laki/O kepada/O siapa/O yang/O Dia/O kehendaki/O,/O"
+                "id": "Milik/O Allahlah/O kerajaan/O langit/O dan/O bumi/O ./O Dia/O menciptakan/O apa/O yang/O Dia/O kehendaki/O ,/O memberikan/O anak/O perempuan/O kepada/O siapa/O yang/O Dia/O kehendaki/O ,/O memberikan/O anak/O laki-laki/O kepada/O siapa/O yang/O Dia/O kehendaki/O ,/O"
             }
         },
         "50": {
@@ -497,7 +497,7 @@
                 "id": "atau Dia menganugerahkan (keturunan) laki-laki dan perempuan, serta menjadikan mandul siapa saja yang Dia kehendaki. Sesungguhnya Dia Maha Mengetahui lagi Mahakuasa."
             },
             "labels": {
-                "id": "atau/O Dia/O menganugerahkan/O (/O keturunan/O )/O laki-laki/O dan/O perempuan/O,/O serta/O menjadikan/O mandul/O siapa/O saja/O yang/O Dia/O kehendaki/O./O Sesungguhnya/O Dia/O Maha/O Mengetahui/O lagi/O Mahakuasa/O./O"
+                "id": "atau/O Dia/O menganugerahkan/O (/O keturunan/O )/O laki-laki/O dan/O perempuan/O ,/O serta/O menjadikan/O mandul/O siapa/O saja/O yang/O Dia/O kehendaki/O ./O Sesungguhnya/O Dia/O Maha/O Mengetahui/O lagi/O Mahakuasa/O ./O"
             }
         },
         "51": {
@@ -507,17 +507,17 @@
                 "id": "Tidak mungkin bagi seorang manusia untuk diajak berbicara langsung oleh Allah, kecuali dengan (perantaraan) wahyu, dari belakang tabir, atau dengan mengirim utusan (malaikat) lalu mewahyukan kepadanya dengan izin-Nya apa yang Dia kehendaki. Sesungguhnya Dia Mahatinggi lagi Mahabijaksana."
             },
             "labels": {
-                "id": "Tidak/O mungkin/O bagi/O seorang/O manusia/O untuk/O diajak/O berbicara/O langsung/O oleh/O Allah/Allah,/O kecuali/O dengan/O (/O perantaraan/O )/O wahyu/O,/O dari/O belakang/O tabir/O,/O atau/O dengan/O mengirim/O utusan/O (/O malaikat/O )/O lalu/O mewahyukan/O kepadanya/O dengan/O izin-Nya/O apa/O yang/O Dia/O kehendaki/O./O Sesungguhnya/O Dia/O Mahatinggi/O lagi/O Mahabijaksana/O./O"
+                "id": "Tidak/O mungkin/O bagi/O seorang/O manusia/O untuk/O diajak/O berbicara/O langsung/O oleh/O Allah/O ,/O kecuali/O dengan/O (/O perantaraan/O )/O wahyu/O ,/O dari/O belakang/O tabir/O ,/O atau/O dengan/O mengirim/O utusan/O (/O malaikat/O )/O lalu/O mewahyukan/O kepadanya/O dengan/O izin-Nya/O apa/O yang/O Dia/O kehendaki/O ./O Sesungguhnya/O Dia/O Mahatinggi/O lagi/O Mahabijaksana/O ./O"
             }
         },
         "52": {
             "chapterid": "042",
             "verse_id": 52,
             "verse": {
-                "id": "Demikianlah Kami mewahyukan kepadamu (Nabi Muhammad) r\u016bh (Al-Qur\u2019an) dengan perintah Kami. Sebelumnya engkau tidaklah mengetahui apakah Kitab (Al-Qur\u2019an) dan apakah iman itu, tetapi Kami menjadikannya (Al-Qur\u2019an) cahaya yang dengannya Kami memberi petunjuk siapa yang Kami kehendaki di antara hamba-hamba Kami. Sesungguhnya engkau benar-benar membimbing (manusia) ke jalan yang lurus,"
+                "id": "Demikianlah Kami mewahyukan kepadamu (Nabi Muhammad) rūh (Al-Qur’an) dengan perintah Kami. Sebelumnya engkau tidaklah mengetahui apakah Kitab (Al-Qur’an) dan apakah iman itu, tetapi Kami menjadikannya (Al-Qur’an) cahaya yang dengannya Kami memberi petunjuk siapa yang Kami kehendaki di antara hamba-hamba Kami. Sesungguhnya engkau benar-benar membimbing (manusia) ke jalan yang lurus,"
             },
             "labels": {
-                "id": "Demikianlah/O Kami/O mewahyukan/O kepadamu/O (/O Nabi/O Muhammad/Messenger )/O r\u016bh/O (/O Al-Qur\u2019an/HolyBook )/O dengan/O perintah/O Kami/O./O Sebelumnya/O engkau/O tidaklah/O mengetahui/O apakah/O Kitab/O (/O Al-Qur\u2019an/HolyBook )/O dan/O apakah/O iman/O itu/O,/O tetapi/O Kami/O menjadikannya/O (/O Al-Qur\u2019an/HolyBook )/O cahaya/O yang/O dengannya/O Kami/O memberi/O petunjuk/O siapa/O yang/O Kami/O kehendaki/O di/O antara/O hamba-hamba/O Kami/O./O Sesungguhnya/O engkau/O benar-benar/O membimbing/O (/O manusia/O )/O ke/O jalan/O yang/O lurus/O,/O"
+                "id": "Demikianlah/O Kami/O mewahyukan/O kepadamu/O (/O Nabi/O Muhammad/Messenger )/O rūh/O (/O Al-Qur’an/HolyBook )/O dengan/O perintah/O Kami/O ./O Sebelumnya/O engkau/O tidaklah/O mengetahui/O apakah/O Kitab/O (/O Al-Qur’an/HolyBook )/O dan/O apakah/O iman/O itu/O ,/O tetapi/O Kami/O menjadikannya/O (/O Al-Qur’an/HolyBook )/O cahaya/O yang/O dengannya/O Kami/O memberi/O petunjuk/O siapa/O yang/O Kami/O kehendaki/O di/O antara/O hamba-hamba/O Kami/O ./O Sesungguhnya/O engkau/O benar-benar/O membimbing/O (/O manusia/O )/O ke/O jalan/O yang/O lurus/O ,/O"
             }
         },
         "53": {
@@ -527,7 +527,7 @@
                 "id": "(yaitu) jalan Allah yang milik-Nyalah apa yang ada di langit dan apa yang ada di bumi. Ketahuilah (bahwa) kepada Allahlah segala urusan kembali!"
             },
             "labels": {
-                "id": "(/O yaitu/O )/O jalan/O Allah/Allah yang/O milik-Nyalah/O apa/O yang/O ada/O di/O langit/O dan/O apa/O yang/O ada/O di/O bumi/AstronomicalBody./O Ketahuilah/O (/O bahwa/O )/O kepada/O Allahlah/O segala/O urusan/O kembali/O!/O"
+                "id": "(/O yaitu/O )/O jalan/O Allah/Allah yang/O milik-Nyalah/O apa/O yang/O ada/O di/O langit/O dan/O apa/O yang/O ada/O di/O bumi/O ./O Ketahuilah/O (/O bahwa/O )/O kepada/O Allahlah/O segala/O urusan/O kembali/O !/O"
             }
         }
     }
