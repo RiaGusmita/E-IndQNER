@@ -4,10 +4,10 @@
             "chapterid": "097",
             "verse_id": 1,
             "verse": {
-                "id": "Sesungguhnya Kami telah menurunkannya (Al-Qur\u2019an) pada Lailatulqadar."
+                "id": "Sesungguhnya Kami telah menurunkannya (Al-Qur’an) pada Lailatulqadar."
             },
             "labels": {
-                "id": "Sesungguhnya/O Kami/O telah/O menurunkannya/O (/O Al-Qur\u2019an/HolyBook )/O pada/O Lailatulqadar/Event./O"
+                "id": "Sesungguhnya/O Kami/O telah/O menurunkannya/O (/O Al-Qur’an/HolyBook )/O pada/O Lailatulqadar/O ./O"
             }
         },
         "2": {
@@ -17,7 +17,7 @@
                 "id": "Tahukah kamu apakah Lailatulqadar itu?"
             },
             "labels": {
-                "id": "Tahukah/O kamu/O apakah/O Lailatulqadar/Event itu/O?/O"
+                "id": "Tahukah/O kamu/O apakah/O Lailatulqadar/Event itu/O ?/O"
             }
         },
         "3": {
@@ -27,17 +27,17 @@
                 "id": "Lailatulqadar itu lebih baik daripada seribu bulan."
             },
             "labels": {
-                "id": "Lailatulqadar/Event itu/O lebih/O baik/O daripada/O seribu/O bulan/O./O"
+                "id": "Lailatulqadar/Event itu/O lebih/O baik/O daripada/O seribu/O bulan/O ./O"
             }
         },
         "4": {
             "chapterid": "097",
             "verse_id": 4,
             "verse": {
-                "id": "Pada malam itu turun para malaikat dan R\u016b\u1e25 (Jibril) dengan izin Tuhannya untuk mengatur semua urusan."
+                "id": "Pada malam itu turun para malaikat dan Rūḥ (Jibril) dengan izin Tuhannya untuk mengatur semua urusan."
             },
             "labels": {
-                "id": "Pada/O malam/O itu/O turun/O para/O malaikat/O dan/O R\u016b\u1e25/Angel (/O Jibril/Angel )/O dengan/O izin/O Tuhannya/O untuk/O mengatur/O semua/O urusan/O./O"
+                "id": "Pada/O malam/O itu/O turun/O para/O malaikat/O dan/O Rūḥ/Angel (/O Jibril/Angel )/O dengan/O izin/O Tuhannya/O untuk/O mengatur/O semua/O urusan/O ./O"
             }
         },
         "5": {
@@ -47,7 +47,7 @@
                 "id": "Sejahteralah (malam) itu sampai terbit fajar."
             },
             "labels": {
-                "id": "Sejahteralah/O (/O malam/O )/O itu/O sampai/O terbit/O fajar/O./O"
+                "id": "Sejahteralah/O (/O malam/O )/O itu/O sampai/O terbit/O fajar/O ./O"
             }
         }
     }
