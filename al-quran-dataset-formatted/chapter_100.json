@@ -7,7 +7,7 @@
                 "id": "Demi kuda-kuda perang yang berlari kencang terengah-engah,"
             },
             "labels": {
-                "id": "Demi/O kuda-kuda/O perang/O yang/O berlari/O kencang/O terengah-engah/O,/O"
+                "id": "Demi/O kuda-kuda/O perang/O yang/O berlari/O kencang/O terengah-engah/O ,/O"
             }
         },
         "2": {
@@ -17,7 +17,7 @@
                 "id": "yang memercikkan bunga api (dengan entakan kakinya),"
             },
             "labels": {
-                "id": "yang/O memercikkan/O bunga/O api/O (/O dengan/O entakan/O kakinya/O )/O,/O"
+                "id": "yang/O memercikkan/O bunga/O api/O (/O dengan/O entakan/O kakinya/O )/O ,/O"
             }
         },
         "3": {
@@ -37,7 +37,7 @@
                 "id": "sehingga menerbangkan debu,"
             },
             "labels": {
-                "id": "sehingga/O menerbangkan/O debu/O,/O"
+                "id": "sehingga/O menerbangkan/O debu/O ,/O"
             }
         },
         "5": {
@@ -47,7 +47,7 @@
                 "id": "lalu menyerbu ke tengah-tengah kumpulan musuh,"
             },
             "labels": {
-                "id": "lalu/O menyerbu/O ke/O tengah-tengah/O kumpulan/O musuh/O,/O"
+                "id": "lalu/O menyerbu/O ke/O tengah-tengah/O kumpulan/O musuh/O ,/O"
             }
         },
         "6": {
@@ -57,7 +57,7 @@
                 "id": "sesungguhnya manusia itu sangatlah ingkar kepada Tuhannya."
             },
             "labels": {
-                "id": "sesungguhnya/O manusia/O itu/O sangatlah/O ingkar/O kepada/O Tuhannya/O./O"
+                "id": "sesungguhnya/O manusia/O itu/O sangatlah/O ingkar/O kepada/O Tuhannya/O ./O"
             }
         },
         "7": {
@@ -67,7 +67,7 @@
                 "id": "Sesungguhnya dia benar-benar menjadi saksi atas hal itu (keingkarannya)."
             },
             "labels": {
-                "id": "Sesungguhnya/O dia/O benar-benar/O menjadi/O saksi/O atas/O hal/O itu/O (/O keingkarannya/O )/O./O"
+                "id": "Sesungguhnya/O dia/O benar-benar/O menjadi/O saksi/O atas/O hal/O itu/O (/O keingkarannya/O )/O ./O"
             }
         },
         "8": {
@@ -77,7 +77,7 @@
                 "id": "Sesungguhnya cintanya pada harta benar-benar berlebihan."
             },
             "labels": {
-                "id": "Sesungguhnya/O cintanya/O pada/O harta/O benar-benar/O berlebihan/O./O"
+                "id": "Sesungguhnya/O cintanya/O pada/O harta/O benar-benar/O berlebihan/O ./O"
             }
         },
         "9": {
@@ -87,7 +87,7 @@
                 "id": "Maka, tidakkah dia mengetahui (apa yang akan dialaminya) apabila dikeluarkan apa yang ada di dalam kubur"
             },
             "labels": {
-                "id": "Maka/O,/O tidakkah/O dia/O mengetahui/O (/O apa/O yang/O akan/O dialaminya/O )/O apabila/O dikeluarkan/O apa/O yang/O ada/O di/O dalam/O kubur/O./O"
+                "id": "Maka/O ,/O tidakkah/O dia/O mengetahui/O (/O apa/O yang/O akan/O dialaminya/O )/O apabila/O dikeluarkan/O apa/O yang/O ada/O di/O dalam/O kubur/O ./O"
             }
         },
         "10": {
@@ -97,7 +97,7 @@
                 "id": "dan ditampakkan apa yang tersimpan di dalam dada?"
             },
             "labels": {
-                "id": "dan/O ditampakkan/O apa/O yang/O tersimpan/O di/O dalam/O dada/O?/O"
+                "id": "dan/O ditampakkan/O apa/O yang/O tersimpan/O di/O dalam/O dada/O ?/O"
             }
         },
         "11": {
@@ -107,7 +107,7 @@
                 "id": "Sesungguhnya Tuhan mereka pada hari itu benar-benar Mahateliti terhadap (keadaan) mereka."
             },
             "labels": {
-                "id": "Sesungguhnya/O Tuhan/O mereka/O pada/O hari/O itu/O benar-benar/O Mahateliti/O terhadap/O (/O keadaan/O )/O mereka/O./O"
+                "id": "Sesungguhnya/O Tuhan/O mereka/O pada/O hari/O itu/O benar-benar/O Mahateliti/O terhadap/O (/O keadaan/O )/O mereka/O ./O"
             }
         }
     }

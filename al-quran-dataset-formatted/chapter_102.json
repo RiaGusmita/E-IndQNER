@@ -17,7 +17,7 @@
                 "id": "sampai kamu masuk ke dalam kubur."
             },
             "labels": {
-                "id": "sampai/O kamu/O masuk/O ke/O dalam/O kubur/O./O"
+                "id": "sampai/O kamu/O masuk/O ke/O dalam/O kubur/O ./O"
             }
         },
         "3": {
@@ -27,7 +27,7 @@
                 "id": "Sekali-kali tidak! Kelak kamu akan mengetahui (akibat perbuatanmu itu)."
             },
             "labels": {
-                "id": "Sekali-kali/O tidak/O!/O Kelak/O kamu/O akan/O mengetahui/O (/O akibat/O perbuatanmu/O itu/O )/O./O"
+                "id": "Sekali-kali/O tidak/O !/O Kelak/O kamu/O akan/O mengetahui/O (/O akibat/O perbuatanmu/O itu/O )/O ./O"
             }
         },
         "4": {
@@ -37,7 +37,7 @@
                 "id": "Sekali-kali tidak (jangan melakukan itu)! Kelak kamu akan mengetahui (akibatnya)."
             },
             "labels": {
-                "id": "Sekali-kali/O tidak/O (/O jangan/O melakukan/O itu/O )/O!/O Kelak/O kamu/O akan/O mengetahui/O (/O akibatnya/O )/O./O"
+                "id": "Sekali-kali/O tidak/O (/O jangan/O melakukan/O itu/O )/O !/O Kelak/O kamu/O akan/O mengetahui/O (/O akibatnya/O )/O ./O"
             }
         },
         "5": {
@@ -47,7 +47,7 @@
                 "id": "Sekali-kali tidak (jangan melakukan itu)! Sekiranya kamu mengetahui dengan pasti, (niscaya kamu tidak akan melakukannya)."
             },
             "labels": {
-                "id": "Sekali-kali/O tidak/O (/O jangan/O melakukan/O itu/O )/O!/O Sekiranya/O kamu/O mengetahui/O dengan/O pasti/O,/O (/O niscaya/O kamu/O tidak/O akan/O melakukannya/O )/O./O"
+                "id": "Sekali-kali/O tidak/O (/O jangan/O melakukan/O itu/O )/O !/O Sekiranya/O kamu/O mengetahui/O dengan/O pasti/O ,/O (/O niscaya/O kamu/O tidak/O akan/O melakukannya/O )/O ./O"
             }
         },
         "6": {
@@ -57,7 +57,7 @@
                 "id": "Pasti kamu benar-benar akan melihat (neraka) Jahim."
             },
             "labels": {
-                "id": "Pasti/O kamu/O benar-benar/O akan/O melihat/O (/O neraka/O )/O Jahim/AfterlifeLocation./O"
+                "id": "Pasti/O kamu/O benar-benar/O akan/O melihat/O (/O neraka/O )/O Jahim/O ./O"
             }
         },
         "7": {
@@ -67,7 +67,7 @@
                 "id": "Kemudian, kamu pasti benar-benar akan melihatnya dengan ainulyakin."
             },
             "labels": {
-                "id": "Kemudian/O,/O kamu/O pasti/O benar-benar/O akan/O melihatnya/O dengan/O ainulyakin/O./O"
+                "id": "Kemudian/O ,/O kamu/O pasti/O benar-benar/O akan/O melihatnya/O dengan/O ainulyakin/O ./O"
             }
         },
         "8": {
@@ -77,7 +77,7 @@
                 "id": "Kemudian, kamu pasti benar-benar akan ditanya pada hari itu tentang kenikmatan (yang megah di dunia itu)."
             },
             "labels": {
-                "id": "Kemudian/O,/O kamu/O pasti/O benar-benar/O akan/O ditanya/O pada/O hari/O itu/O tentang/O kenikmatan/O (/O yang/O megah/O di/O dunia/O itu/O )/O./O"
+                "id": "Kemudian/O ,/O kamu/O pasti/O benar-benar/O akan/O ditanya/O pada/O hari/O itu/O tentang/O kenikmatan/O (/O yang/O megah/O di/O dunia/O itu/O )/O ./O"
             }
         }
     }
