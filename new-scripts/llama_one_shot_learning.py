@@ -20,6 +20,7 @@ from collections import deque
 from rdflib import Graph
 import json
 from tqdm import tqdm
+import chardet
 
 def generate_answer(pipe, example):
     
@@ -78,16 +79,23 @@ model.config.use_cache = False
 # More info: https://github.com/huggingface/transformers/pull/24906
 model.config.pretraining_tp = 1
 
-chapter_list = ["001-Al_Fatihah"]
+chapter_list = ["003-Ali_Imran.txt", "004-An_Nisa'.txt", "005-Al_Ma'idah.txt"]
 
 for chapter in chapter_list:
-    #f = open("../new-datasets/test.txt", "r")
-    f = open(f"../al-quran/{chapter}", "r")
-    sentences = f.readlines()
-    for sentence in sentences:
-        print(sentence.strip())
+    filepath = f"../al-quran/{chapter}"
+    with open(filepath, "rb") as f:
+        raw_data = f.read()
+        result = chardet.detect(raw_data)
+        encoding = result['encoding']
     f.close()
     
+    with open(filepath, "r", encoding=encoding) as f:
+        sentences = f.readlines()
+    f.close()
+    
+    for sentence in sentences:
+        print(sentence.strip())
+
     # Open and read the JSON file
     with open("named_entity_class_dictionary.json", "r") as json_file:
         named_entity_classes_dict = json.load(json_file)
