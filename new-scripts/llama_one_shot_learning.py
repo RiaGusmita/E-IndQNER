@@ -79,7 +79,7 @@ model.config.use_cache = False
 # More info: https://github.com/huggingface/transformers/pull/24906
 model.config.pretraining_tp = 1
 
-chapter_list = ["003-Ali_Imran.txt", "004-An_Nisa'.txt", "005-Al_Ma'idah.txt"]
+chapter_list = ["038-Sad.txt", "012-Yusuf.txt", "013-Ar_Ra'd.txt", "014-Ibrahim.txt", "015-Al_Hijr.txt", "016-An_Nahl.txt", "017-Al_Isra'.txt", "018-Al_Kahf.txt"]
 
 for chapter in chapter_list:
     filepath = f"../al-quran/{chapter}"

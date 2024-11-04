@@ -4,10 +4,10 @@
             "chapterid": "038",
             "verse_id": 1,
             "verse": {
-                "id": "﻿Ṣād. demi Al-Qur’an yang mengandung peringatan."
+                "id": "Ṣād. demi Al-Qur’an yang mengandung peringatan."
             },
             "labels": {
-                "id": "﻿Ṣād/O ./O demi/O Al-Qur’an/HolyBook yang/O mengandung/O peringatan/O ./O"
+                "id": "Ṣād/O ./O demi/O Al-Qur’an/HolyBook yang/O mengandung/O peringatan/O ./O"
             }
         },
         "2": {
@@ -297,7 +297,7 @@
                 "id": "Kami menganugerahkan kepada Daud (anak bernama) Sulaiman. Dia adalah sebaik-baik hamba. Sesungguhnya dia sangat taat (kepada Allah)."
             },
             "labels": {
-                "id": "Kami/O menganugerahkan/O kepada/O Daud/Person (/O anak/O bernama/O )/O Sulaiman/O ./O Dia/O adalah/O sebaik-baik/O hamba/O ./O Sesungguhnya/O dia/O sangat/O taat/O (/O kepada/O Allah/Allah )/O ./O"
+                "id": "Kami/O menganugerahkan/O kepada/O Daud/Prophet (/O anak/O bernama/O )/O Sulaiman/O ./O Dia/O adalah/O sebaik-baik/O hamba/O ./O Sesungguhnya/O dia/O sangat/O taat/O (/O kepada/O Allah/Allah )/O ./O"
             }
         },
         "31": {
@@ -344,10 +344,10 @@
             "chapterid": "038",
             "verse_id": 35,
             "verse": {
-                "id": "Dia berkata, “Wahai Tuhanku, ampunilah aku dan anugerahkanlah kepadaku kerajaan yang tidak patut (dimiliki) oleh seorang pun sesudahku. Sesungguhnya Engkaulah Yang Maha Pemberi.”"
+                "id": "Dia berkata, “Wahai Tuhanku, ampunilah aku dan anugerahkanlah kepadaku kerajaan yang tidak patut (dimiliki) oleh seorang pun sesudahku. Sesungguhnya Engkaulah Yang Maha Pemberi.”\u0000e"
             },
             "labels": {
-                "id": "Dia/O berkata/O ,/O “/O Wahai/O Tuhanku/O ,/O ampunilah/O aku/O dan/O anugerahkanlah/O kepadaku/O kerajaan/O yang/O tidak/O patut/O (/O dimiliki/O )/O oleh/O seorang/O pun/O sesudahku/O ./O Sesungguhnya/O Engkaulah/O Yang Maha Pemberi/O ./O /O"
+                "id": "Dia/O berkata/O ,/O “/O Wahai/O Tuhanku/O ,/O ampunilah/O aku/O dan/O anugerahkanlah/O kepadaku/O kerajaan/O yang/O tidak/O patut/O (/O dimiliki/O )/O oleh/O seorang/O pun/O sesudahku/O ./O Sesungguhnya/O Engkaulah/O Yang Maha Pemberi/O ”/O"
             }
         },
         "36": {
@@ -427,7 +427,7 @@
                 "id": "Kami anugerahkan (pula) kepadanya (Ayyub) keluarganya dan (Kami lipat gandakan) jumlah mereka sebagai rahmat dari Kami dan pelajar"
             },
             "labels": {
-                "id": "Kami/O anugerahkan/O (/O pula/O )/O kepadanya/O (/O Ayyub/Prophet )/O keluarganya/O dan/O (/O Kami/O lipat/O gandakan/O )/O jumlah/O mereka/O sebagai/O rahmat/O dari/O Kami/O dan/O pelajar/O"
+                "id": "Kami/O anugerahkan/O (/O pula/O )/O kepadanya/O (/O Ayyub/Person )/O keluarganya/O dan/O (/O Kami/O lipat/O gandakan/O )/O jumlah/O mereka/O sebagai/O rahmat/O dari/O Kami/O dan/O pelajar/O"
             }
         },
         "44": {
@@ -447,7 +447,7 @@
                 "id": "Ingatlah hamba-hamba Kami: Ibrahim, Ishaq, dan Ya‘qub yang mempunyai kekuatan (dalam taat kepada Allah) dan penglihatan (mata hati yang jernih)."
             },
             "labels": {
-                "id": "Ingatlah/O hamba-hamba/O Kami/O :/O Ibrahim/O ,/O Ishaq/O ,/O dan/O Ya‘qub/Messenger yang/O mempunyai/O kekuatan/O (/O dalam/O taat/O kepada/O Allah/Allah )/O dan/O penglihatan/O (/O mata/O hati/O yang/O jernih/O )/O ./O"
+                "id": "Ingatlah/O hamba-hamba/O Kami/O :/O Ibrahim/O ,/O Ishaq/O ,/O dan/O Ya‘qub/Prophet yang/O mempunyai/O kekuatan/O (/O dalam/O taat/O kepada/O Allah/Allah )/O dan/O penglihatan/O (/O mata/O hati/O yang/O jernih/O )/O ./O"
             }
         },
         "46": {
@@ -647,7 +647,7 @@
                 "id": "Katakanlah (Nabi Muhammad), “Sesungguhnya aku hanya seorang pemberi peringatan, tidak ada tuhan selain Allah Yang Maha Esa lagi Maha Mengalahkan,"
             },
             "labels": {
-                "id": "Katakanlah/O (/O Nabi/O Muhammad/Messenger )/O ,/O “/O Sesungguhnya/O aku/O hanya/O seorang/O pemberi/O peringatan/O ,/O tidak/O ada/O tuhan/O selain/O Allah/Allah Yang Maha Esa lagi Maha Mengalahkan/O ,/O “/O"
+                "id": "Katakanlah/O (/O Nabi/O Muhammad/Messenger )/O ,/O “/O Sesungguhnya/O aku/O hanya/O seorang/O pemberi/O peringatan/O ,/O tidak/O ada/O tuhan/O selain/O Allah/Allah Yang Maha Esa lagi Maha Mengalahkan/O ,/O"
             }
         },
         "66": {
@@ -657,7 +657,7 @@
                 "id": "(yaitu,) Tuhan langit dan bumi dan apa yang ada di antara keduanya, Yang Mahaperkasa lagi Maha Pengampun.”"
             },
             "labels": {
-                "id": "(/O yaitu/O ,/O )/O Tuhan/O langit/O dan/O bumi/AstronomicalBody dan/O apa/O yang/O ada/O di/O antara/O keduanya/O ,/O Yang Mahaperkasa lagi Maha Pengampun/O ./O ”/O"
+                "id": "(/O yaitu/O ,/O )/O Tuhan/O langit/O dan/O bumi/AstronomicalBody dan/O apa/O yang/O ada/O di/O antara/O keduanya/O ,/O Yang Mahaperkasa/O lagi Maha Pengampun/Allah ”/O ./O"
             }
         },
         "67": {
@@ -667,7 +667,7 @@
                 "id": "Katakanlah (Nabi Muhammad), “Ia (Al-Qur’an) adalah berita besar."
             },
             "labels": {
-                "id": "Katakanlah/O (/O Nabi/O Muhammad/Messenger )/O ,/O “/O Ia/O (/O Al-Qur’an/HolyBook )/O adalah/O berita/O besar/O ./O ”/O"
+                "id": "Katakanlah/O (/O Nabi/O Muhammad/Messenger )/O ,/O “/O Ia/O (/O Al-Qur’an/HolyBook )/O adalah/O berita/O besar/O ./O"
             }
         },
         "68": {
@@ -747,7 +747,7 @@
                 "id": "(Allah) berfirman, “Wahai Iblis, apakah yang menghalangimu untuk bersujud kepada yang telah Aku ciptakan dengan kedua tangan-Ku (kekuasaan-Ku)? Apakah kamu menyombongkan diri ataukah (memang) termasuk golongan yang (lebih) tinggi?”"
             },
             "labels": {
-                "id": "(/O Allah/Allah )/O berfirman/O ,/O “/O Wahai/O Iblis/O ,/O apakah/O yang/O menghalangimu/O untuk/O bersujud/O kepada/O yang/O telah/O Aku/O ciptakan/O dengan/O kedua/O tangan-Ku/O (/O kekuasaan-Ku/O )/O ?/O Apakah/O kamu/O menyombongkan/O diri/O ataukah/O (/O memang/O )/O termasuk/O golongan/O yang/O (/O lebih/O )/O tinggi/O ?/O ”/O"
+                "id": "(/O Allah/Allah )/O berfirman/O ,/O “/O Wahai/O Iblis/O ,/O apakah/O yang/O menghalangimu/O untuk/O bersujud/O kepada/O yang/O telah/O Aku/O ciptakan/O dengan/O kedua/O tangan-Ku/O (/O kekuasaan-Ku/O )?/O Apakah/O kamu/O menyombongkan/O diri/O ataukah/O (/O memang/O )/O termasuk/O golongan/O yang/O (/O lebih/O )/O tinggi/O ?/O ”/O"
             }
         },
         "76": {
@@ -767,7 +767,7 @@
                 "id": "(Allah) berfirman, “Keluarlah darinya (surga) karena sesungguhnya kamu terkutuk."
             },
             "labels": {
-                "id": "(/O Allah/Allah )/O berfirman/O ,/O “/O Keluarlah/O darinya/O (/O surga/O )/O karena/O sesungguhnya/O kamu/O terkutuk/O ./O ”/O"
+                "id": "(/O Allah/Allah )/O berfirman/O ,/O “/O Keluarlah/O darinya/O (/O surga/O )/O karena/O sesungguhnya/O kamu/O terkutuk/O ./O"
             }
         },
         "78": {
@@ -817,27 +817,27 @@
                 "id": "(Iblis) berkata, “Demi kemuliaan-Mu, pasti aku akan menyesatkan mereka semuanya."
             },
             "labels": {
-                "id": "(/O Iblis/O )/O berkata/O ,/O “/O Demi/O kemuliaan-Mu/O ,/O pasti/O aku/O akan/O menyesatkan/O mereka/O semuanya/O ./O"
+                "id": "(/O Iblis/Angel )/O berkata/O ,/O “/O Demi/O kemuliaan-Mu/O ,/O pasti/O aku/O akan/O menyesatkan/O mereka/O semuanya/O ./O"
             }
         },
         "83": {
             "chapterid": "038",
             "verse_id": 83,
             "verse": {
-                "id": ""
+                "id": "Kecuali, hamba-hamba-Mu yang terpilih (karena keikhlasannya) di antara mereka.”"
             },
             "labels": {
-                "id": "Maka, janganlah kamu berdebat dengan Ahlulkitab, kecuali dengan cara yang paling baik, kecuali dengan orang-orang zalim di antara mereka. Dan katakanlah,“ Kami beriman kepada apa yang diturunkan kepada kami dan yang diturunkan kepadamu. Tuhan kami dan Tuhanmu adalah satu. Kepada-Nyalah kami berserah diri. ”Demikianlah Kami turunkan kepadamu Kitab (Al-Qur’an). Orang-orang yang Kami beri petunjuk, Kami tambahkan petunjuk kepadanya. Sesungguhnya Allah Maha Mengetahui dan Maha Melihat. Jika mereka mendustakanmu, sesungguhnya rasul-rasul sebelummu pun telah didustakan. Kepada Allah kembali segala urusan. Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan? Apakah kamu tidak memperhatikan?"
+                "id": "Kecuali/O ,/O hamba-hamba-Mu/O yang/O terpilih/O (/O karena/O keikhlasannya/O )/O di/O antara/O mereka/O ”/O ./O"
             }
         },
         "84": {
             "chapterid": "038",
             "verse_id": 84,
             "verse": {
-                "id": "Kecuali, hamba-hamba-Mu yang terpilih (karena keikhlasannya) di antara mereka.”(Allah) berfirman, “Maka, yang benar (adalah sumpah-Ku) dan hanya kebenaran itulah yang Aku katakan."
+                "id": "(Allah) berfirman, “Maka, yang benar (adalah sumpah-Ku) dan hanya kebenaran itulah yang Aku katakan."
             },
             "labels": {
-                "id": "Kecuali/O ,/O hamba-hamba-Mu/O yang/O terpilih/O (/O karena/O keikhlasannya/O )/O di/O antara/O mereka/O ./O (/O Allah/Allah )/O berfirman/O ,/O “/O Maka/O ,/O yang/O benar/O (/O adalah/O sumpah-Ku/O )/O dan/O hanya/O kebenaran/O itulah/O yang/O Aku/O katakan/O ./O"
+                "id": "(/O Allah/Allah )/O berfirman/O ,/O “/O Maka/O ,/O yang/O benar/O (/O adalah/O sumpah-Ku/O )/O dan/O hanya/O kebenaran/O itulah/O yang/O Aku/O katakan/O ./O"
             }
         },
         "85": {
