@@ -57,7 +57,7 @@
                 "id": "Bimbinglah kami ke jalan yang lurus,"
             },
             "labels": {
-                "id": "Bimbinglah/O kami/O ke/O jalan/O yang/O lurus/O,/O"
+                "id": "Bimbinglah/O kami/O ke/O jalan/O yang/O lurus/O ,/O"
             }
         },
         "7": {
@@ -67,7 +67,7 @@
                 "id": "(yaitu) jalan orang-orang yang telah Engkau beri nikmat, bukan (jalan) mereka yang dimurkai dan bukan (pula jalan) orang-orang yang sesat."
             },
             "labels": {
-                "id": "(/O yaitu/O )/O jalan/O orang-orang/O yang/O telah/O Engkau/O beri/O nikmat/O,/O bukan/O (/O jalan/O )/O mereka/O yang/O dimurkai/O dan/O bukan/O (/O pula/O jalan/O )/O orang-orang/O yang/O sesat/O ./O"
+                "id": "(/O yaitu/O )/O jalan/O orang-orang/O yang/O telah/O Engkau/O beri/O nikmat/O ,/O bukan/O (/O jalan/O )/O mereka/O yang/O dimurkai/O dan/O bukan/O (/O pula/O jalan/O )/O orang-orang/O yang/O sesat/O ./O"
             }
         }
     }
