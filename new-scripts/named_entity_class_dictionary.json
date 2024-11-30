@@ -5,49 +5,91 @@
     "HolyBook": {
         "en": "Holy book"
     },
-    "Messenger": {
-        "en": "Messenger"
-    },
     "Allah": {
         "en": "Allah"
-    },
-    "Event": {
-        "en": "Event"
-    },
-    "AstronomicalBody": {
-        "en": "Astronomical body"
-    },
-    "Prophet": {
-        "en": "Prophet"
-    },
-    "Person": {
-        "en": "Person"
-    },
-    "Food": {
-        "en": "Food"
-    },
-    "GeographicalLocation": {
-        "en": "Geographical location"
-    },
-    "Color": {
-        "en": "Color"
-    },
-    "Angel": {
-        "en": "Angel"
-    },
-    "Artifact": {
-        "en": "Artifact"
-    },
-    "Religion": {
-        "en": "Religion"
-    },
-    "AfterlifeLocation": {
-        "en": "Afterlife location"
     },
     "Throne": {
         "en": "Throne"
     },
+    "AfterLifeEvent": {
+        "en": "Afterlife event"
+    },
+    "CalendarEvent": {
+        "en": "Calendar event"
+    },
+    "HistoricEvent": {
+        "en": "Historic event"
+    },
+    "PhysicalEvent": {
+        "en": "Physical event"
+    },
+    "AstronomicalBody": {
+        "en": "Astronomical body"
+    },
+    "Messenger": {
+        "en": "Messenger"
+    },
+    "Prophet": {
+        "en": "Prophet"
+    },
+     "Angel": {
+        "en": "Angel"
+    },
+    "ChildrenOfAdam": {
+        "en": "Children of Adam"
+    },
+    "HistoricPeople": {
+        "en": "Historic people"
+    },
+    "HistoricPerson": {
+        "en": "Historic person"
+    },
+    "Queen": {
+        "en": "Queen"
+    },
+    "King": {
+        "en": "King"
+    },
+    "Food": {
+        "en": "Food"
+    },
+    "Fruit": {
+        "en": "Fruit"
+    },
+    "Color": {
+        "en": "Color"
+    },
+    "Bird": {
+        "en": "Bird"
+    },
+    "Plant": {
+        "en": "Plant"
+    },
+    "Disease": {
+        "en": "Disease"
+    },
+    "Mosque": {
+        "en": "Mosque"
+    },
+    "Weaponary": {
+        "en": "Weaponary"
+    },
+    "Religion": {
+        "en": "Religion"
+    },
+    "GeographicalLocation": {
+        "en": "Geographical location"
+    },
+    "AfterlifeLocation": {
+        "en": "Afterlife location"
+    },
     "Language": {
         "en": "Language"
+    },
+    "FalseDeity": {
+        "en": "False deity"
+    },
+    "Idol": {
+        "en": "Idol"
     }
 }

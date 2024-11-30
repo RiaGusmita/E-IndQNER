@@ -7,7 +7,7 @@
                 "id": "Demi matahari dan sinarnya pada waktu duha (ketika matahari naik sepenggalah),"
             },
             "labels": {
-                "id": "Demi/O matahari/AstronomicalBody dan/O sinarnya/O pada/O waktu/O duha/O (/O ketika/O matahari/AstronomicalBody naik/O sepenggalah/O )/O ,/O"
+                "id": "Demi/O  matahari/O  dan/O  sinarnya/O  pada/O  waktu/O  duha/O  (/O  ketika/O  matahari/O  naik/O  sepenggalah/O  )/O ,/O"
             }
         },
         "2": {
@@ -17,7 +17,7 @@
                 "id": "demi bulan saat mengiringinya,"
             },
             "labels": {
-                "id": "demi/O bulan/AstronomicalBody saat/O mengiringinya/O ,/O"
+                "id": "demi/O  bulan/O  saat/O  mengiringinya/O ,/O"
             }
         },
         "3": {
@@ -27,7 +27,7 @@
                 "id": "demi siang saat menampakkannya,"
             },
             "labels": {
-                "id": "Demi/O siang/O saat/O menampakkannya/O ,/O"
+                "id": "Test sentence: Demi siang saat menampakkannya/O ,/O  Output sentence: Demi/O  siang/O  saat/O  menampakkannya/O ,/O"
             }
         },
         "4": {
@@ -37,7 +37,7 @@
                 "id": "demi malam saat menutupinya (gelap gulita),"
             },
             "labels": {
-                "id": "demi/O malam/O saat/O menutupinya/O (/O gelap/O gulita/O )/O ,/O"
+                "id": "demi/O  malam/O  saat/O  menutupinya/O  (/O  gelap/O  gulita/O  )/O ,/O"
             }
         },
         "5": {
@@ -47,7 +47,7 @@
                 "id": "demi langit serta pembuatannya,"
             },
             "labels": {
-                "id": "demi/O langit/O serta/O pembuatannya/O ,/O"
+                "id": "Test sentence: Demi langit/O  serta/O  pembuatannya/O ,/O  Allah/Allah  (/O  Maha/O  Pemurah/O  lagi/O  Maha/O  Penyayang/O  )/O ./O"
             }
         },
         "6": {
@@ -57,7 +57,7 @@
                 "id": "demi bumi serta penghamparannya,"
             },
             "labels": {
-                "id": "demi/O bumi/AstronomicalBody serta/O penghamparannya/O ,/O"
+                "id": "demi/O  bumi/O  serta/O  penghamparannya/O ,/O"
             }
         },
         "7": {
@@ -67,7 +67,7 @@
                 "id": "dan demi jiwa serta penyempurnaan (ciptaan)-nya,"
             },
             "labels": {
-                "id": "dan/O demi/O jiwa/O serta/O penyempurnaan/O (/O ciptaan/O )/O -nya/O ,/O"
+                "id": "dan/O  demi/O  jiwa/O  serta/O  penyempurnaan/O  (/O  ciptaan/O  )/O  -nya/O ,/O"
             }
         },
         "8": {
@@ -77,7 +77,7 @@
                 "id": "lalu Dia mengilhamkan kepadanya (jalan) kejahatan dan ketakwaannya,"
             },
             "labels": {
-                "id": "lalu/O Dia/O mengilhamkan/O kepadanya/O (/O jalan/O )/O kejahatan/O dan/O ketakwaannya/O ,/O"
+                "id": "lalu/O  Dia/O  mengilhamkan/O  kepadanya/O  (/O  jalan/O  )/O  kejahatan/O  dan/O  ketakwaannya/O ,/O  jika/O  Dia/O  menghendaki/O ./O  Jika/O  Dia/O  menghendaki/O ,/O  Dia/O  akan/O  menghancurkannya/O ./O  Jika/O  Dia/O  menghendaki/O ,/O  Dia/O  akan/O  menghancurkannya/O ./O  Jika/O  Dia/O  menghendaki/O ,/O  Dia/O  akan/O  menghancurkannya/O ./O  Jika/O  Dia/O  menghendaki/O ,/O  Dia/O  akan/O  menghancurkannya/O ./O  Jika/O  Dia/O  menghendaki/O ,/O  Dia/O  akan/O  menghancurkannya/O ./O  Jika/O  Dia/O  menghendaki/O ,/O  Dia/O  akan/O  menghancurkannya/O ./O  Jika/O  Dia/O  menghendaki/O ,/O  Dia/O  akan/O  menghancurkannya/O ./O  Jika/O  Dia/O  menghendaki/O ,/O  Dia/O  akan/O  menghancurkannya/O ./O  Jika/O  Dia/O  menghendaki/O,"
             }
         },
         "9": {
@@ -87,7 +87,7 @@
                 "id": "sungguh beruntung orang yang menyucikannya (jiwa itu)"
             },
             "labels": {
-                "id": "sungguh/O beruntung/O orang/O yang/O menyucikannya/O (/O jiwa/O itu/O )/O"
+                "id": "sungguh/O  beruntung/O  orang/O  yang/O  menyucikannya/O  (/O  jiwa/O  itu/O  )/O ./O"
             }
         },
         "10": {
@@ -97,7 +97,7 @@
                 "id": "dan sungguh rugi orang yang mengotorinya."
             },
             "labels": {
-                "id": "dan/O sungguh/O rugi/O orang/O yang/O mengotorinya/O ./O"
+                "id": "dan/O  sungguh/O  rugi/O  orang/O  yang/O  mengotorinya/O ./O"
             }
         },
         "11": {
@@ -107,7 +107,7 @@
                 "id": "(Kaum) Samud telah mendustakan (rasulnya) karena mereka melampaui batas"
             },
             "labels": {
-                "id": "(/O Kaum/O )/O Samud/Person telah/O mendustakan/O (/O rasulnya/O )/O karena/O mereka/O melampaui/O batas/O"
+                "id": "(/O  Kaum/O  Samud/HistoricPeople  telah/O  mendustakan/O  (/O  rasulnya/O  )/O  karena/O  mereka/O  melampaui/O  batas/O  (/O  batas/O  )/O"
             }
         },
         "12": {
@@ -117,7 +117,7 @@
                 "id": "ketika orang yang paling celaka di antara mereka bangkit (untuk menyembelih unta betina Allah)."
             },
             "labels": {
-                "id": "ketika/O orang/O yang/O paling/O celaka/O di/O antara/O mereka/O bangkit/O (/O untuk/O menyembelih/O unta/O betina/O Allah/Allah )/O ./O"
+                "id": "ketika/O  orang/O  yang/O  paling/O  celaka/O  di/O  antara/O  mereka/O  bangkit/O  (/O  untuk/O  menyembelih/O  unta/O  betina/O  Allah/Allah  )/O ./O"
             }
         },
         "13": {
@@ -127,7 +127,7 @@
                 "id": "Rasul Allah (Saleh) lalu berkata kepada mereka, “(Biarkanlah) unta betina Allah ini beserta minumannya.”"
             },
             "labels": {
-                "id": "Rasul/O Allah/Allah (/O Saleh/Messenger )/O lalu/O berkata/O kepada/O mereka/O ,/O “/O (/O Biarkanlah/O )/O unta/O betina/O Allah/Allah ini/O beserta/O minumannya/O ./O ”/O"
+                "id": "Rasul/O  Allah/O  (/O  Saleh/Messenger  )/O  lalu/O  berkata/O  kepada/O  mereka/O ,/O  “/O  (/O  Biarkanlah/O  )/O  unta/O  betina/O  Allah/Allah  ini/O  beserta/O  minumannya/O ./O  ”/O"
             }
         },
         "14": {
@@ -137,7 +137,7 @@
                 "id": "Namun, mereka kemudian mendustakannya (Saleh) dan menyembelih (unta betina) itu. Maka, Tuhan membinasakan mereka karena dosa-dosanya, lalu meratakan mereka (dengan tanah)."
             },
             "labels": {
-                "id": "Namun/O ,/O mereka/O kemudian/O mendustakannya/O (/O Saleh/Messenger )/O dan/O menyembelih/O (/O unta/O betina/O )/O itu/O ./O Maka/O ,/O Tuhan/O membinasakan/O mereka/O karena/O dosa-dosanya/O ,/O lalu/O meratakan/O mereka/O (/O dengan/O tanah/O )/O ./O"
+                "id": "Namun/O ,/O  mereka/O  kemudian/O  mendustakannya/O  (/O  Saleh/Messenger  )/O  dan/O  menyembelih/O  (/O  unta/O  betina/O  )/O  itu/O ./O  Maka/O ,/O  Tuhan/O  membinasakan/O  mereka/O  karena/O  dosa-dosanya/O ,/O  lalu/O  meratakan/O  mereka/O  (/O  dengan/O  tanah/O  )/O ./O"
             }
         },
         "15": {
@@ -147,7 +147,7 @@
                 "id": "Dia tidak takut terhadap akibatnya."
             },
             "labels": {
-                "id": "Dia/O tidak/O takut/O terhadap/O akibatnya/O ./O"
+                "id": "Dia/O  tidak/O  takut/O  terhadap/O  akibatnya/O ./O"
             }
         }
     }

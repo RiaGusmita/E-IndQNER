@@ -7,7 +7,7 @@
                 "id": "Celakalah setiap pengumpat lagi pencela"
             },
             "labels": {
-                "id": "Celakalah/O setiap/O pengumpat/O lagi/O pencela/O"
+                "id": "Celakalah/O  setiap/O  pengumpat/O  lagi/O  pencela/O ./O"
             }
         },
         "2": {
@@ -17,7 +17,7 @@
                 "id": "yang mengumpulkan harta dan menghitung-hitungnya."
             },
             "labels": {
-                "id": "yang/O mengumpulkan/O harta/O dan/O menghitung-hitungnya/O ./O"
+                "id": "yang/O  mengumpulkan/O  harta/O  dan/O  menghitung-hitungnya/O ./O"
             }
         },
         "3": {
@@ -27,7 +27,7 @@
                 "id": "Dia (manusia) mengira bahwa hartanya dapat mengekalkannya."
             },
             "labels": {
-                "id": "Dia/O (/O manusia/O )/O mengira/O bahwa/O hartanya/O dapat/O mengekalkannya/O ./O"
+                "id": "Dia/O  (/O  manusia/O  )/O  mengira/O  bahwa/O  hartanya/O  dapat/O  mengekalkannya/O ./O"
             }
         },
         "4": {
@@ -37,7 +37,7 @@
                 "id": "Sekali-kali tidak! Pasti dia akan dilemparkan ke dalam (neraka) Hutamah."
             },
             "labels": {
-                "id": "Sekali-kali/O tidak/O !/O Pasti/O dia/O akan/O dilemparkan/O ke/O dalam/O (/O neraka/O )/O Hutamah/O ./O"
+                "id": "Sekali-kali/O  tidak/O !/O  Pasti/O  dia/O  akan/O  dilemparkan/O  ke/O  dalam/O  (/O  neraka/O  )/O  Hutamah/O ./O"
             }
         },
         "5": {
@@ -47,7 +47,7 @@
                 "id": "Tahukah kamu apakah (neraka) Hutamah?"
             },
             "labels": {
-                "id": "Tahukah/O kamu/O apakah/O (/O neraka/O )/O Hutamah/O ?/O"
+                "id": "Tahukah/O  kamu/O  apakah/O  (/O  neraka/O  )/O  Hutamah/O ?/O"
             }
         },
         "6": {
@@ -57,7 +57,7 @@
                 "id": "(Ia adalah) api (azab) Allah yang dinyalakan"
             },
             "labels": {
-                "id": "(/O Ia/O adalah/O )/O api/O (/O azab/O )/O Allah/Allah yang/O dinyalakan/O"
+                "id": "(/O  Ia/O  adalah/O  api/O  (/O  azab/O  )/O  Allah/Allah  yang/O  dinyalakan/O ./O"
             }
         },
         "7": {
@@ -67,7 +67,7 @@
                 "id": "yang (membakar) naik sampai ke hati."
             },
             "labels": {
-                "id": "yang/O (/O membakar/O )/O naik/O sampai/O ke/O hati/O ./O"
+                "id": "yang/O  (/O  membakar/O  )/O  naik/O  sampai/O  ke/O  hati/O ./O"
             }
         },
         "8": {
@@ -77,7 +77,7 @@
                 "id": "Sesungguhnya dia (api itu) tertutup rapat (sebagai hukuman) atas mereka,"
             },
             "labels": {
-                "id": "Sesungguhnya/O dia/O (/O api/O itu/O )/O tertutup/O rapat/O (/O sebagai/O hukuman/O )/O atas/O mereka/O ,/O"
+                "id": "Sesungguhnya/O  dia/O  (/O  api/O  itu/O  )/O  tertutup/O  rapat/O  (/O  sebagai/O  hukuman/O  )/O  atas/O  mereka/O ,/O  (/O  karena/O  mereka/O  tidak/O  mau/O  menerima/O  keimanan/O  )/O ./O  Jika/O  kamu/O  (tetap/O  )/O  dalam/O  keraguan/O  tentang/O  apa/O  (Al-Qur’an/HolyBook  )/O  yang/O  Kami/O  turunkan/O  kepada/O  hamba/O  Kami/O  (/O  Nabi/O  Muhammad/Messenger  )/O ,/O  buatlah/O  satu/O  surah/O  yang/O  semisal/O  dengannya/O  dan/O  ajaklah/O  penolong-penolongmu/O  selain/O  Allah/O ,/O  jika/O  kamu/O  orang-orang/O  yang/O  benar/O ./O  Jika/O  kamu/O  (tetap/O  )/O  dalam/O  keraguan/O  tentang/O  apa/O  (Al-Qur’an/HolyBook  )/O  yang/O  Kami/O  turunkan/O  kepada/O  hamba/O  Kami/O  (/O  Nabi/O  Muhammad/Messenger  )/O ,/O  buatlah/O  satu/O  surah"
             }
         },
         "9": {
@@ -87,7 +87,7 @@
                 "id": "(sedangkan mereka) diikat pada tiang-tiang yang panjang."
             },
             "labels": {
-                "id": "(/O sedangkan/O mereka/O )/O diikat/O pada/O tiang-tiang/O yang/O panjang/O ./O"
+                "id": "(/O  sedangkan/O  mereka/O  )/O  diikat/O  pada/O  tiang-tiang/O  yang/O  panjang/O ./O"
             }
         }
     }

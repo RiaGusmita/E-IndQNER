@@ -7,7 +7,7 @@
                 "id": "Apabila langit terbelah,"
             },
             "labels": {
-                "id": "Apabila/O langit/O terbelah/O ,/O"
+                "id": "Apabila/O  langit/O  terbelah/O ,/O"
             }
         },
         "2": {
@@ -17,7 +17,7 @@
                 "id": "apabila bintang-bintang jatuh berserakan,"
             },
             "labels": {
-                "id": "apabila/O bintang-bintang/O jatuh/O berserakan/O ,/O"
+                "id": "apabila/O  bintang-bintang/O  jatuh/O  berserakan/O ,/O"
             }
         },
         "3": {
@@ -27,7 +27,7 @@
                 "id": "apabila lautan diluapkan,"
             },
             "labels": {
-                "id": "apabila/O lautan/O diluapkan/O ,/O"
+                "id": "apabila/O  lautan/O  diluapkan/O ,/O  tidak/O  akan/O  kembali/O ./O"
             }
         },
         "4": {
@@ -37,7 +37,7 @@
                 "id": "dan apabila kuburan-kuburan dibongkar,"
             },
             "labels": {
-                "id": "dan/O apabila/O kuburan-kuburan/O dibongkar/O ,/O"
+                "id": "dan/O  apabila/O  kuburan-kuburan/O  dibongkar/O ,/O"
             }
         },
         "5": {
@@ -47,17 +47,17 @@
                 "id": "setiap jiwa akan mengetahui apa yang telah dikerjakan dan yang dilalaikan(-nya)."
             },
             "labels": {
-                "id": "setiap/O jiwa/O akan/O mengetahui/O apa/O yang/O telah/O dikerjakan/O dan/O yang/O dilalaikan/O (/O -nya/O )/O ./O"
+                "id": "setiap/O  jiwa/O  akan/O  mengetahui/O  apa/O  yang/O  telah/O  dikerjakan/O  dan/O  yang/O  dilalaikan/O  (/O  -nya/O  )/O ./O"
             }
         },
         "6": {
             "chapterid": "082",
             "verse_id": 6,
             "verse": {
-                "id": "Wahai manusia, apakah yang telah memperdayakanmu (berbuat durhaka) terhadap Tuhanmu Yang Mahamulia,"
+                "id": "Wahai manusia, apakah yang telah memperdayakanmu (berbuat durhaka) terhadap Tuhanmu Yang Maha Mulia,"
             },
             "labels": {
-                "id": "Wahai/O manusia/O ,/O apakah/O yang/O telah/O memperdayakanmu/O (/O berbuat/O durhaka/O )/O terhadap/O Tuhanmu/O Yang Mahamulia/O ,/O"
+                "id": "Wahai/O  manusia/O ,/O  apakah/O  yang/O  telah/O  memperdayakanmu/O  (/O  berbuat/O  durhaka/O  )/O  terhadap/O  Tuhanmu/O  Yang Maha Mulia/O ?/O"
             }
         },
         "7": {
@@ -67,7 +67,7 @@
                 "id": "yang telah menciptakanmu lalu menyempurnakan kejadianmu dan menjadikan (susunan tubuh)-mu seimbang?"
             },
             "labels": {
-                "id": "yang/O telah/O menciptakanmu/O lalu/O menyempurnakan/O kejadianmu/O dan/O menjadikan/O (/O susunan/O tubuh/O )/O -mu/O seimbang/O ?/O"
+                "id": "yang/O  telah/O  menciptakanmu/O  lalu/O  menyempurnakan/O  kejadianmu/O  dan/O  menjadikan/O  (/O  susunan/O  tubuh/O  )/O  -mu/O  seimbang/O ?/O"
             }
         },
         "8": {
@@ -77,7 +77,7 @@
                 "id": "Dalam bentuk apa saja yang dikehendaki, Dia menyusun (tubuh)-mu."
             },
             "labels": {
-                "id": "Dalam/O bentuk/O apa/O saja/O yang/O dikehendaki/O ,/O Dia/O menyusun/O (/O tubuh/O )/O -mu/O ./O"
+                "id": "Dalam/O  bentuk/O  apa/O  saja/O  yang/O  dikehendaki/O ,/O  Dia/O  menyusun/O  (/O  tubuh/O  )/O  -mu/O ./O"
             }
         },
         "9": {
@@ -87,7 +87,7 @@
                 "id": "Jangan sekali-kali begitu! Bahkan, kamu mendustakan hari Pembalasan."
             },
             "labels": {
-                "id": "Jangan/O sekali-kali/O begitu/O !/O Bahkan/O ,/O kamu/O mendustakan/O hari/O Pembalasan/O ./O"
+                "id": "Jangan/O  sekali-kali/O  begitu/O !/O  Bahkan/O ,/O  kamu/O  mendustakan/O  hari/O  Pembalasan/O ./O"
             }
         },
         "10": {
@@ -97,7 +97,7 @@
                 "id": "Sesungguhnya bagi kamu ada (malaikat-malaikat) pengawas"
             },
             "labels": {
-                "id": "Sesungguhnya/O bagi/O kamu/O ada/O (/O malaikat-malaikat/O )/O pengawas/O ./O"
+                "id": "Sesungguhnya/O  bagi/O  kamu/O  ada/O  (/O  malaikat-malaikat/O  )/O  pengawas/O  (/O  malaikat/O  )/O"
             }
         },
         "11": {
@@ -107,7 +107,7 @@
                 "id": "yang mulia (di sisi Allah) dan mencatat (amal perbuatanmu)."
             },
             "labels": {
-                "id": "yang/O mulia/O (/O di/O sisi/O Allah/Allah )/O dan/O mencatat/O (/O amal/O perbuatanmu/O )/O ./O"
+                "id": "yang/O  mulia/O  (/O  di/O  sisi/O  Allah/Allah  )/O  dan/O  mencatat/O  (/O  amal/O  perbuatanmu/O  )/O ./O"
             }
         },
         "12": {
@@ -117,7 +117,7 @@
                 "id": "Mereka mengetahui apa yang kamu kerjakan."
             },
             "labels": {
-                "id": "Mereka/O mengetahui/O apa/O yang/O kamu/O kerjakan/O ./O"
+                "id": "Mereka/O  mengetahui/O  apa/O  yang/O  kamu/O  kerjakan/O ./O"
             }
         },
         "13": {
@@ -127,7 +127,7 @@
                 "id": "Sesungguhnya orang-orang yang berbakti benar-benar berada dalam (surga yang penuh) kenikmatan."
             },
             "labels": {
-                "id": "Sesungguhnya/O orang-orang/O yang/O berbakti/O benar-benar/O berada/O dalam/O (/O surga/O yang/O penuh/O )/O kenikmatan/O ./O"
+                "id": "Sesungguhnya/O  orang-orang/O  yang/O  berbakti/O  benar-benar/O  berada/O  dalam/O  (/O  surga/O  yang/O  penuh/O  )/O  kenikmatan/O ./O"
             }
         },
         "14": {
@@ -137,7 +137,7 @@
                 "id": "Sesungguhnya orang-orang yang durhaka benar-benar berada dalam (neraka) Jahim."
             },
             "labels": {
-                "id": "Sesungguhnya/O orang-orang/O yang/O durhaka/O benar-benar/O berada/O dalam/O (/O neraka/O )/O Jahim/O ./O"
+                "id": "Sesungguhnya/O  orang-orang/O  yang/O  durhaka/O  benar-benar/O  berada/O  dalam/O  (/O  neraka/O  )/O  Jahim/O ./O"
             }
         },
         "15": {
@@ -147,7 +147,7 @@
                 "id": "Mereka memasukinya pada hari Pembalasan."
             },
             "labels": {
-                "id": "Mereka/O memasukinya/O pada/O hari/O Pembalasan/O ./O"
+                "id": "Mereka/O  memasukinya/O  pada/O  hari/O  Pembalasan/O ./O"
             }
         },
         "16": {
@@ -157,7 +157,7 @@
                 "id": "Mereka tidak mungkin keluar dari (neraka) itu."
             },
             "labels": {
-                "id": "Mereka/O tidak/O mungkin/O keluar/O dari/O (/O neraka/O )/O itu/O ./O"
+                "id": "Mereka/O  tidak/O  mungkin/O  keluar/O  dari/O  (/O  neraka/O  )/O  itu/O ./O"
             }
         },
         "17": {
@@ -167,7 +167,7 @@
                 "id": "Tahukah engkau apakah hari Pembalasan itu?"
             },
             "labels": {
-                "id": "Tahukah/O engkau/O apakah/O hari/O Pembalasan/O itu/O ?/O"
+                "id": "Tahukah/O  engkau/O  apakah/O  hari/O  Pembalasan/O  itu/O ?/O"
             }
         },
         "18": {
@@ -177,7 +177,7 @@
                 "id": "Kemudian, tahukah engkau apakah hari Pembalasan itu?"
             },
             "labels": {
-                "id": "Kemudian/O ,/O tahukah/O engkau/O apakah/O hari/O Pembalasan/O itu/O ?/O"
+                "id": "Kemudian/O ,/O  tahukah/O  engkau/O  apakah/O  hari/O  Pembalasan/O  itu/O ?/O"
             }
         },
         "19": {
@@ -187,7 +187,7 @@
                 "id": "(Itulah) hari (ketika) seseorang tidak berdaya (menolong) orang lain sedikit pun. Segala urusan pada hari itu adalah milik Allah."
             },
             "labels": {
-                "id": "(/O Itulah/O )/O hari/O (/O ketika/O )/O seseorang/O tidak/O berdaya/O (/O menolong/O )/O orang/O lain/O sedikit/O pun/O ./O Segala/O urusan/O pada/O hari/O itu/O adalah/O milik/O Allah/O ./O"
+                "id": "(/O  Itulah/O  )/O  hari/O  (/O  ketika/O  )/O  seseorang/O  tidak/O  berdaya/O  (/O  menolong/O  )/O  orang/O  lain/O  sedikit/O  pun/O ./O  Segala/O  urusan/O  pada/O  hari/O  itu/O  adalah/O  milik/O  Allah/O ./O"
             }
         }
     }

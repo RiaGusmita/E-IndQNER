@@ -7,7 +7,7 @@
                 "id": "Demi malam apabila menutupi (cahaya siang),"
             },
             "labels": {
-                "id": "Demi/O malam/O apabila/O menutupi/O (/O cahaya/O siang/O )/O ,/O"
+                "id": "Demi/O  malam/O  apabila/O  menutupi/O  (/O  cahaya/O  siang/O  )/O ,/O"
             }
         },
         "2": {
@@ -17,7 +17,7 @@
                 "id": "demi siang apabila terang benderang,"
             },
             "labels": {
-                "id": "demi/O siang/O apabila/O terang/O benderang/O ,/O"
+                "id": "demi/O  siang/O  apabila/O  terang/O  benderang/O ,/O"
             }
         },
         "3": {
@@ -27,7 +27,7 @@
                 "id": "dan demi penciptaan laki-laki dan perempuan,"
             },
             "labels": {
-                "id": "dan/O demi/O penciptaan/O laki-laki/O dan/O perempuan/O ,/O"
+                "id": "dan/O  demi/O  penciptaan/O  laki-laki/O  dan/O  perempuan/O ,/O"
             }
         },
         "4": {
@@ -37,7 +37,7 @@
                 "id": "sesungguhnya usahamu benar-benar beraneka ragam."
             },
             "labels": {
-                "id": "sesungguhnya/O usahamu/O benar-benar/O beraneka/O ragam/O ./O"
+                "id": "sesungguhnya/O  usahamu/O  benar-benar/O  beraneka/O  ragam/O ./O"
             }
         },
         "5": {
@@ -47,7 +47,7 @@
                 "id": "Siapa yang memberikan (hartanya di jalan Allah) dan bertakwa"
             },
             "labels": {
-                "id": "Siapa/O yang/O memberikan/O (/O hartanya/O di/O jalan/O Allah/Allah )/O dan/O bertakwa/O"
+                "id": "Siapa/O  yang/O  memberikan/O  (/O  hartanya/O  di/O  jalan/O  Allah/Allah  )/O  dan/O  bertakwa/O ./O"
             }
         },
         "6": {
@@ -57,7 +57,7 @@
                 "id": "serta membenarkan adanya (balasan) yang terbaik (surga),"
             },
             "labels": {
-                "id": "serta/O membenarkan/O adanya/O (/O balasan/O )/O yang/O terbaik/O (/O surga/AfterlifeLocation )/O ,/O"
+                "id": "serta/O  membenarkan/O  adanya/O  (/O  balasan/O  )/O  yang/O  terbaik/O  (/O  surga/O  )/O ,/O"
             }
         },
         "7": {
@@ -67,7 +67,7 @@
                 "id": "Kami akan melapangkan baginya jalan kemudahan (kebahagiaan)."
             },
             "labels": {
-                "id": "Kami/O akan/O melapangkan/O baginya/O jalan/O kemudahan/O (/O kebahagiaan/O )/O ./O"
+                "id": "Kami/O  akan/O  melapangkan/O  baginya/O  jalan/O  kemudahan/O  (/O  kebahagiaan/O  )/O ./O"
             }
         },
         "8": {
@@ -77,7 +77,7 @@
                 "id": "Adapun orang yang kikir dan merasa dirinya cukup (tidak perlu pertolongan Allah)"
             },
             "labels": {
-                "id": "Adapun/O orang/O yang/O kikir/O dan/O merasa/O dirinya/O cukup/O (/O tidak/O perlu/O pertolongan/O Allah/Allah )/O"
+                "id": "Adapun/O  orang/O  yang/O  kikir/O  dan/O  merasa/O  dirinya/O  cukup/O  (/O  tidak/O  perlu/O  pertolongan/O  Allah/Allah  )/O"
             }
         },
         "9": {
@@ -87,7 +87,7 @@
                 "id": "serta mendustakan (balasan) yang terbaik,"
             },
             "labels": {
-                "id": "sertai/O mendustakan/O (/O balasan/O )/O yang/O terbaik/O ,/O"
+                "id": "serta/O  mendustakan/O  (/O  balasan/O  )/O  yang/O  terbaik/O ,/O  (/O  karena/O  )/O  mereka/O  tidak/O  percaya/O  kepadamu/O ./O  Mereka/O  tidak/O  percaya/O  kepadamu/O  sampai/O  kamu/O  mengatakan/O  kepada/O  mereka/O ,/O  “Apa yang terbaik? ”/O  Mereka/O  menjawab/O ,/O  “Apa yang terbaik/O ?/O  ”/O  Mereka/O  tidak/O  percaya/O  kepadamu/O  sampai/O  kamu/O  mengatakan/O  kepada/O  mereka/O ,/O  “Apa yang terbaik/O ?/O  ”/O  Mereka/O  menjawab/O ,/O  “Apa yang terbaik/O ?/O  ”/O  Mereka/O  tidak/O  percaya/O  kepadamu/O  sampai/O  kamu/O  mengatakan/O  kepada/O  mereka/O ,/O  “Apa yang terbaik/O ?/O  ”/O  Mereka/O  menjawab/O ,/O  “Apa yang terbaik/O ?/O  ”/O  Mereka/O  tidak/O  percaya/O  kepad"
             }
         },
         "10": {
@@ -97,7 +97,7 @@
                 "id": "Kami akan memudahkannya menuju jalan kesengsaraan."
             },
             "labels": {
-                "id": "Kami/O akan/O memudahkannya/O menuju/O jalan/O kesengsaraan/O ./O"
+                "id": "Kami/O  akan/O  memudahkannya/O  menuju/O  jalan/O  kesengsaraan/O ./O"
             }
         },
         "11": {
@@ -107,7 +107,7 @@
                 "id": "Hartanya tidak bermanfaat baginya apabila dia telah binasa."
             },
             "labels": {
-                "id": "Hartanya/O tidak/O bermanfaat/O baginya/O apabila/O dia/O telah/O binasa/O ./O"
+                "id": "Hartanya/O  tidak/O  bermanfaat/O  baginya/O  apabila/O  dia/O  telah/O  binasa/O ./O"
             }
         },
         "12": {
@@ -117,7 +117,7 @@
                 "id": "Sesungguhnya Kamilah yang (berhak) memberi petunjuk."
             },
             "labels": {
-                "id": "Sesungguhnya/O Kamilah/O yang/O (/O berhak/O )/O memberi/O petunjuk/O ./O"
+                "id": "Sesungguhnya/O  Kamilah/O  yang/O  (/O  berhak/O  )/O  memberi/O  petunjuk/O ./O"
             }
         },
         "13": {
@@ -127,7 +127,7 @@
                 "id": "Sesungguhnya milik Kamilah akhirat dan dunia."
             },
             "labels": {
-                "id": "Sesungguhnya/O milik/O Kamilah/O akhirat/O dan/O dunia/O ./O"
+                "id": "Sesungguhnya/O  milik/O  Kamilah/O  akhirat/O  dan/O  dunia/O ./O"
             }
         },
         "14": {
@@ -137,7 +137,7 @@
                 "id": "Aku memperingatkanmu dengan neraka yang menyala-nyala."
             },
             "labels": {
-                "id": "Aku/O memperingatkanmu/O dengan/O neraka/O yang/O menyala-nyala/O ./O"
+                "id": "Aku/O  memperingatkanmu/O  dengan/O  neraka/O  yang/O  menyala-nyala/O ./O"
             }
         },
         "15": {
@@ -147,7 +147,7 @@
                 "id": "Tidak masuk ke dalamnya kecuali orang yang paling celaka,"
             },
             "labels": {
-                "id": "Tidak/O masuk/O ke/O dalamnya/O kecuali/O orang/O yang/O paling/O celaka/O ,/O"
+                "id": "Tidak/O  masuk/O  ke/O  dalamnya/O  kecuali/O  orang/O  yang/O  paling/O  celaka/O ,/O"
             }
         },
         "16": {
@@ -157,7 +157,7 @@
                 "id": "yang mendustakan (kebenaran) dan berpaling (dari keimanan)."
             },
             "labels": {
-                "id": "yang/O mendustakan/O (/O kebenaran/O )/O dan/O berpaling/O (/O dari/O keimanan/O )/O ./O"
+                "id": "yang/O  mendustakan/O  (/O  kebenaran/O  )/O  dan/O  berpaling/O  (/O  dari/O  keimanan/O  )/O ./O"
             }
         },
         "17": {
@@ -167,7 +167,7 @@
                 "id": "Akan dijauhkan darinya (neraka) orang yang paling bertakwa,"
             },
             "labels": {
-                "id": "Akan/O dijauhkan/O darinya/O (/O neraka/O )/O orang/O yang/O paling/O bertakwa/O ,/O"
+                "id": "Akan/O  dijauhkan/O  darinya/O  (/O  neraka/O  )/O  orang/O  yang/O  paling/O  bertakwa/O ,/O"
             }
         },
         "18": {
@@ -177,7 +177,7 @@
                 "id": "yang menginfakkan hartanya (di jalan Allah) untuk membersihkan (diri dari sifat kikir dan tamak)."
             },
             "labels": {
-                "id": "yang/O menginfakkan/O hartanya/O (/O di/O jalan/O Allah/Allah )/O untuk/O membersihkan/O (/O diri/O dari/O sifat/O kikir/O dan/O tamak/O )/O ./O"
+                "id": "yang/O  menginfakkan/O  hartanya/O  (/O  di/O  jalan/O  Allah/Allah  )/O  untuk/O  membersihkan/O  (/O  diri/O  dari/O  sifat/O  kikir/O  dan/O  tamak/O  )/O ./O"
             }
         },
         "19": {
@@ -187,17 +187,17 @@
                 "id": "Tidak ada suatu nikmat pun yang diberikan seseorang kepadanya yang harus dibalas,"
             },
             "labels": {
-                "id": "Tidak/O ada/O suatu/O nikmat/O pun/O yang/O diberikan/O seseorang/O kepadanya/O yang/O harus/O dibalas/O ,/O"
+                "id": "Tidak/O  ada/O  suatu/O  nikmat/O  pun/O  yang/O  diberikan/O  seseorang/O  kepadanya/O  yang/O  harus/O  dibalas/O ,/O"
             }
         },
         "20": {
             "chapterid": "092",
             "verse_id": 20,
             "verse": {
-                "id": "kecuali (dia memberikannya semata-mata) karena mencari keridaan Tuhannya Yang Mahatinggi."
+                "id": "kecuali (dia memberikannya semata-mata) karena mencari keridaan Tuhannya Yang Maha Tinggi."
             },
             "labels": {
-                "id": "kecuali/O (/O dia/O memberikannya/O semata-mata/O )/O karena/O mencari/O keridaan/O Tuhannya/O Yang Mahatinggi/O ./O"
+                "id": "kecuali/O  (/O  dia/O  memberikannya/O  semata-mata/O  )/O  karena/O  mencari/O  keridaan/O  Tuhannya/O  Yang Maha Tinggi/O ./O"
             }
         },
         "21": {
@@ -207,7 +207,7 @@
                 "id": "Sungguh, kelak dia akan mendapatkan kepuasan (menerima balasan amalnya)."
             },
             "labels": {
-                "id": "Sungguh/O ,/O kelak/O dia/O akan/O mendapatkan/O kepuasan/O (/O menerima/O balasan/O amalnya/O )/O ./O"
+                "id": "Sungguh/O ,/O  kelak/O  dia/O  akan/O  mendapatkan/O  kepuasan/O  (/O  menerima/O  balasan/O  amalnya/O  )/O ./O"
             }
         }
     }

@@ -7,7 +7,7 @@
                 "id": "Tentang apakah mereka saling bertanya?"
             },
             "labels": {
-                "id": "Tentang/O apakah/O mereka/O saling/O bertanya/O ?/O"
+                "id": "Tentang/O  apakah/O  mereka/O  saling/O  bertanya/O ?/O"
             }
         },
         "2": {
@@ -17,7 +17,7 @@
                 "id": "Tentang berita yang besar (hari Kebangkitan)"
             },
             "labels": {
-                "id": "Tentang/O berita/O yang/O besar/O (/O hari Kebangkitan/Event )/O"
+                "id": "Tentang/O  berita/O  yang/O  besar/O  (/O  hari/O  Kebangkitan/AfterLifeEvent  )/O"
             }
         },
         "3": {
@@ -27,7 +27,7 @@
                 "id": "yang dalam hal itu mereka berselisih."
             },
             "labels": {
-                "id": "yang/O dalam/O hal/O itu/O mereka/O berselisih/O ./O"
+                "id": "yang/O  dalam/O  hal/O  itu/O  mereka/O  berselisih/O ./O"
             }
         },
         "4": {
@@ -37,7 +37,7 @@
                 "id": "Sekali-kali tidak! Kelak mereka akan mengetahui."
             },
             "labels": {
-                "id": "Sekali-kali/O tidak/O !/O Kelak/O mereka/O akan/O mengetahui/O ./O"
+                "id": "Sekali-kali/O  tidak/O !/O  Kelak/O  mereka/O  akan/O  mengetahui/O ./O"
             }
         },
         "5": {
@@ -47,7 +47,7 @@
                 "id": "Sekali lagi, tidak! Kelak mereka akan mengetahui."
             },
             "labels": {
-                "id": "Sekali/O lagi/O ,/O tidak/O !/O Kelak/O mereka/O akan/O mengetahui/O ./O"
+                "id": "Sekali/O  lagi/O ,/O  tidak/O !/O  Kelak/O  mereka/O  akan/O  mengetahui/O ./O"
             }
         },
         "6": {
@@ -57,7 +57,7 @@
                 "id": "Bukankah Kami telah menjadikan bumi sebagai hamparan"
             },
             "labels": {
-                "id": "Bukankah/O Kami/O telah/O menjadikan/O bumi/AstronomicalBody sebagai/O hamparan/O"
+                "id": "Bukankah/O  Kami/O  telah/O  menjadikan/O  bumi/AstronomicalBody  sebagai/O  hamparan/O ?/O"
             }
         },
         "7": {
@@ -67,7 +67,7 @@
                 "id": "dan gunung-gunung sebagai pasak?"
             },
             "labels": {
-                "id": "dan/O gunung-gunung/O sebagai/O pasak/O ?/O"
+                "id": "dan/O  gunung-gunung/O  sebagai/O  pasak/O ?/O"
             }
         },
         "8": {
@@ -77,7 +77,7 @@
                 "id": "Kami menciptakan kamu berpasang-pasangan."
             },
             "labels": {
-                "id": "Kami/O menciptakan/O kamu/O berpasang-pasangan/O ./O"
+                "id": "Kami/O  menciptakan/O  kamu/O  berpasang-pasangan/O ./O"
             }
         },
         "9": {
@@ -87,7 +87,7 @@
                 "id": "Kami menjadikan tidurmu untuk beristirahat."
             },
             "labels": {
-                "id": "Kami/O menjadikan/O tidurmu/O untuk/O beristirahat/O ./O"
+                "id": "Kami/O  menjadikan/O  tidurmu/O  untuk/O  beristirahat/O ./O"
             }
         },
         "10": {
@@ -97,7 +97,7 @@
                 "id": "Kami menjadikan malam sebagai pakaian."
             },
             "labels": {
-                "id": "Kami/O menjadikan/O malam/O sebagai/O pakaian/O ./O"
+                "id": "Kami/O  menjadikan/O  malam/O  sebagai/O  pakaian/O ./O"
             }
         },
         "11": {
@@ -107,7 +107,7 @@
                 "id": "Kami menjadikan siang untuk mencari penghidupan."
             },
             "labels": {
-                "id": "Kami/O menjadikan/O siang/O untuk/O mencari/O penghidupan/O ./O"
+                "id": "Kami/O  menjadikan/O  siang/O  untuk/O  mencari/O  penghidupan/O ./O"
             }
         },
         "12": {
@@ -117,7 +117,7 @@
                 "id": "Kami membangun tujuh (langit) yang kukuh di atasmu."
             },
             "labels": {
-                "id": "Kami/O membangun/O tujuh/O (/O langit/O )/O yang/O kukuh/O di/O atasmu/O ./O"
+                "id": "Kami/O  membangun/O  tujuh/O  (/O  langit/O  )/O  yang/O  kukuh/O  di/O  atasmu/O ./O"
             }
         },
         "13": {
@@ -127,7 +127,7 @@
                 "id": "Kami menjadikan pelita yang terang-benderang (matahari)."
             },
             "labels": {
-                "id": "Kami/O menjadikan/O pelita/O yang/O terang-benderang/O (/O matahari/AstronomicalBody )/O ./O"
+                "id": "Kami/O  menjadikan/O  pelita/O  yang/O  terang-benderang/O  (/O  matahari/AstronomicalBody  )/O ./O"
             }
         },
         "14": {
@@ -137,7 +137,7 @@
                 "id": "Kami menurunkan dari awan air hujan yang tercurah dengan deras"
             },
             "labels": {
-                "id": "Kami/O menurunkan/O dari/O awan/O air/O hujan/O yang/O tercurah/O dengan/O deras/O"
+                "id": "Kami/O  menurunkan/O  dari/O  awan/O  air/O  hujan/O  yang/O  tercurah/O  dengan/O  deras/O ./O"
             }
         },
         "15": {
@@ -147,7 +147,7 @@
                 "id": "agar Kami menumbuhkan dengannya biji-bijian, tanam-tanaman,"
             },
             "labels": {
-                "id": "agar/O Kami/O menumbuhkan/O dengannya/O biji-bijian/O ,/O tanam-tanaman/O ,/O"
+                "id": "agar/O  Kami/O  menumbuhkan/O  dengannya/O  biji-bijian/O ,/O  tanam-tanaman/O ,/O"
             }
         },
         "16": {
@@ -157,7 +157,7 @@
                 "id": "dan kebun-kebun yang rindang."
             },
             "labels": {
-                "id": "dan/O kebun-kebun/O yang/O rindang/O ./O"
+                "id": "dan/O  kebun-kebun/O  yang/O  rindang/O ./O"
             }
         },
         "17": {
@@ -167,7 +167,7 @@
                 "id": "Sesungguhnya hari Keputusan itu adalah waktu yang telah ditetapkan,"
             },
             "labels": {
-                "id": "Sesungguhnya/O hari/O Keputusan/O itu/O adalah/O waktu/O yang/O telah/O ditetapkan/O ,/O"
+                "id": "Sesungguhnya/O  hari/O  Keputusan/O  itu/O  adalah/O  waktu/O  yang/O  telah/O  ditetapkan/O ,/O"
             }
         },
         "18": {
@@ -177,7 +177,7 @@
                 "id": "(yaitu) hari (ketika) sangkakala ditiup, lalu kamu datang berbondong-bondong."
             },
             "labels": {
-                "id": "(/O yaitu/O )/O hari/O (/O ketika/O )/O sangkakala/O ditiup/O ,/O lalu/O kamu/O datang/O berbondong-bondong/O ./O"
+                "id": "(/O  yaitu/O  )/O  hari/O  (/O  ketika/O  )/O  sangkakala/O  ditiup/O ,/O  lalu/O  kamu/O  datang/O  berbondong-bondong/O ./O"
             }
         },
         "19": {
@@ -187,7 +187,7 @@
                 "id": "Langit pun dibuka. Maka, terdapatlah beberapa pintu."
             },
             "labels": {
-                "id": "Langit/O pun/O dibuka/O ./O Maka/O ,/O terdapatlah/O beberapa/O pintu/O ./O"
+                "id": "Langit/O  pun/O  dibuka/O ./O  Maka/O ,/O  terdapatlah/O  beberapa/O  pintu/O ./O"
             }
         },
         "20": {
@@ -197,17 +197,17 @@
                 "id": "Gunung-gunung pun dijalankan. Maka, ia menjadi (seperti) fatamorgana."
             },
             "labels": {
-                "id": "Gunung-gunung/O pun/O dijalankan/O ./O Maka/O ,/O ia/O menjadi/O (/O seperti/O )/O fatamorgana/O ./O"
+                "id": "Gunung-gunung/O  pun/O  dijalankan/O ./O  Maka/O ,/O  ia/O  menjadi/O  (/O  seperti/O  )/O  fatamorgana/O ./O"
             }
         },
         "21": {
             "chapterid": "078",
             "verse_id": 21,
             "verse": {
-                "id": "Sesungguhnya (neraka) Jahanam itu (merupakan) tempat mengintai (bagi penjaga neraka)"
+                "id": "Sesungguhnya (neraka) Jahanam itu (merupakan) tempat mengintai (bagi penjaga neraka"
             },
             "labels": {
-                "id": "Sesungguhnya/O (/O neraka/O )/O Jahanam/AfterlifeLocation itu/O (/O merupakan/O )/O tempat/O mengintai/O (/O bagi/O penjaga/O neraka/O )/O"
+                "id": "Sesungguhnya/O  (/O  neraka/O  )/O  Jahanam/AfterlifeLocation  itu/O  (/O  merupakan/O  )/O  tempat/O  mengintai/O  (/O  bagi/O  penjaga/O  neraka/O  )/O"
             }
         },
         "22": {
@@ -217,7 +217,7 @@
                 "id": "(dan) menjadi tempat kembali bagi orang-orang yang melampaui batas."
             },
             "labels": {
-                "id": "(/O dan/O )/O menjadi/O tempat/O kembali/O bagi/O orang-orang/O yang/O melampaui/O batas/O ./O"
+                "id": "(/O  dan/O  menjadi/O  tempat/O  kembali/O  bagi/O  orang-orang/O  yang/O  melampaui/O  batas/O ./O  )/O"
             }
         },
         "23": {
@@ -227,7 +227,7 @@
                 "id": "Mereka tinggal di sana dalam masa yang lama."
             },
             "labels": {
-                "id": "Mereka/O tinggal/O di/O sana/O dalam/O masa/O yang/O lama/O ./O"
+                "id": "Mereka/O  tinggal/O  di/O  sana/O  dalam/O  masa/O  yang/O  lama/O ./O"
             }
         },
         "24": {
@@ -237,7 +237,7 @@
                 "id": "Mereka tidak merasakan kesejukan di dalamnya dan tidak (pula mendapat) minuman,"
             },
             "labels": {
-                "id": "Mereka/O tidak/O merasakan/O kesejukan/O di/O dalamnya/O dan/O tidak/O (/O pula/O mendapat/O )/O minuman/O ,/O"
+                "id": "Mereka/O  tidak/O  merasakan/O  kesejukan/O  di/O  dalamnya/O  dan/O  tidak/O  (/O  pula/O  mendapat/O  )/O  minuman/O ,/O  jika/O  kamu/O  orang-orang/O  yang/O  benar/O ./O"
             }
         },
         "25": {
@@ -247,7 +247,7 @@
                 "id": "selain air yang mendidih dan nanah,"
             },
             "labels": {
-                "id": "selain/O air/O yang/O mendidih/O dan/O nanah/O ,/O"
+                "id": "selain/O  air/O  yang/O  mendidih/O  dan/O  nanah/O ,/O"
             }
         },
         "26": {
@@ -257,7 +257,7 @@
                 "id": "sebagai pembalasan yang setimpal."
             },
             "labels": {
-                "id": "sebagai/O pembalasan/O yang/O setimpal/O ./O"
+                "id": "sebagai/O  pembalasan/O  yang/O  setimpal/O ./O"
             }
         },
         "27": {
@@ -267,7 +267,7 @@
                 "id": "Sesungguhnya mereka tidak pernah mengharapkan perhitungan."
             },
             "labels": {
-                "id": "Sesungguhnya/O mereka/O tidak/O pernah/O mengharapkan/O perhitungan/O ./O"
+                "id": "Sesungguhnya/O  mereka/O  tidak/O  pernah/O  mengharapkan/O  perhitungan/O ./O"
             }
         },
         "28": {
@@ -277,7 +277,7 @@
                 "id": "Mereka benar-benar mendustakan ayat-ayat Kami."
             },
             "labels": {
-                "id": "Mereka/O benar-benar/O mendustakan/O ayat-ayat/O Kami/O ./O"
+                "id": "Mereka/O  benar-benar/O  mendustakan/O  ayat-ayat/O  Kami/O ./O"
             }
         },
         "29": {
@@ -287,7 +287,7 @@
                 "id": "Segala sesuatu telah Kami catat dalam kitab (catatan amal manusia)."
             },
             "labels": {
-                "id": "Segala/O sesuatu/O telah/O Kami/O catat/O dalam/O kitab/O (/O catatan/O amal/O manusia/O )/O ./O"
+                "id": "Segala/O  sesuatu/O  telah/O  Kami/O  catat/O  dalam/O  kitab/O  (/O  catatan/O  amal/O  manusia/O  )/O ./O"
             }
         },
         "30": {
@@ -297,7 +297,7 @@
                 "id": "Oleh karena itu, rasakanlah! Tidak akan Kami tambahkan kepadamu, kecuali azab."
             },
             "labels": {
-                "id": "Oleh/O karena/O itu/O ,/O rasakanlah/O !/O Tidak/O akan/O Kami/O tambahkan/O kepadamu/O ,/O kecuali/O azab/O ./O"
+                "id": "Oleh/O  karena/O  itu/O ,/O  rasakanlah/O !/O  Tidak/O  akan/O  Kami/O  tambahkan/O  kepadamu/O ,/O  kecuali/O  azab/O ./O"
             }
         },
         "31": {
@@ -307,7 +307,7 @@
                 "id": "Sesungguhnya bagi orang-orang yang bertakwa (ada) kemenangan (surga),"
             },
             "labels": {
-                "id": "Sesungguhnya/O bagi/O orang-orang/O yang/O bertakwa/O (/O ada/O )/O kemenangan/O (/O surga/O )/O ,/O"
+                "id": "Sesungguhnya/O  bagi/O  orang-orang/O  yang/O  bertakwa/O  (/O  ada/O  )/O  kemenangan/O  (/O  sorga/O  )/O ,/O"
             }
         },
         "32": {
@@ -317,7 +317,7 @@
                 "id": "(yaitu) kebun-kebun, buah anggur,"
             },
             "labels": {
-                "id": "(/O yaitu/O )/O kebun-kebun/O ,/O buah/O anggur/O ,/O"
+                "id": "(/O  yaitu/O  )/O  kebun-kebun/O ,/O  buah/O  anggur/O ,/O  (/O  yaitu/O  )/O  kebun-kebun/O ,/O  buah/O  anggur/O ,/O  (/O  yaitu/O  )/O  kebun-kebun/O ,/O  buah/O  anggur/O ,/O  (/O  yaitu/O  )/O  kebun-kebun/O ,/O  buah/O  anggur/O ,/O  (/O  yaitu/O  )/O  kebun-kebun/O ,/O  buah/O  anggur/O ,/O  (/O  yaitu/O  )/O  kebun-kebun/O ,/O  buah/O  anggur/O ,/O  (/O  yaitu/O  )/O  kebun-kebun/O ,/O  buah/O  anggur/O ,/O  (/O  yaitu/O  )/O  kebun-kebun/O ,/O  buah/O  anggur/O ,/O  (/O  yaitu/O  )/O  kebun-kebun"
             }
         },
         "33": {
@@ -327,7 +327,7 @@
                 "id": "gadis-gadis molek yang sebaya,"
             },
             "labels": {
-                "id": "gadis-gadis/O molek/O yang/O sebaya/O ,/O"
+                "id": "gadis-gadis/O  molek/O  yang/O  sebaya/O ,/O"
             }
         },
         "34": {
@@ -337,7 +337,7 @@
                 "id": "dan gelas-gelas yang penuh (berisi minuman)."
             },
             "labels": {
-                "id": "dan/O gelas-gelas/O yang/O penuh/O (/O berisi/O minuman/O )/O ./O"
+                "id": "dan/O  gelas-gelas/O  yang/O  penuh/O  (/O  berisi/O  minuman/O  )/O ./O"
             }
         },
         "35": {
@@ -347,7 +347,7 @@
                 "id": "Di sana mereka tidak mendengar percakapan yang sia-sia dan tidak pula (perkataan) dusta."
             },
             "labels": {
-                "id": "Di/O sana/O mereka/O tidak/O mendengar/O percakapan/O yang/O sia-sia/O dan/O tidak/O pula/O (/O perkataan/O )/O dusta/O ./O"
+                "id": "Di/O  sana/O  mereka/O  tidak/O  mendengar/O  percakapan/O  yang/O  sia-sia/O  dan/O  tidak/O  pula/O  (/O  perkataan/O  )/O  dusta/O ./O"
             }
         },
         "36": {
@@ -357,7 +357,7 @@
                 "id": "(Hal itu) sebagai balasan (dan) pemberian yang banyak dari Tuhanmu,"
             },
             "labels": {
-                "id": "(/O Hal/O itu/O )/O sebagai/O balasan/O (/O dan/O )/O pemberian/O yang/O banyak/O dari/O Tuhanmu/O ,/O"
+                "id": "(/O  Hal/O  itu/O  )/O  sebagai/O  balasan/O  (/O  dan/O  )/O  pemberian/O  yang/O  banyak/O  dari/O  Tuhanmu/O ,/O"
             }
         },
         "37": {
@@ -367,17 +367,17 @@
                 "id": "(yaitu) Tuhan (pemelihara) langit, bumi, dan apa yang ada di antara keduanya, Yang Maha Pengasih. Mereka tidak memiliki (hak) berbicara dengan-Nya."
             },
             "labels": {
-                "id": "(/O yaitu/O )/O Tuhan/O (/O pemelihara/O )/O langit/O ,/O bumi/O ,/O dan/O apa/O yang/O ada/O di/O antara/O keduanya/O ,/O Yang Maha Pengasih/O ./O Mereka/O tidak/O memiliki/O (/O hak/O )/O berbicara/O dengan-Nya/O ./O"
+                "id": "(/O  yaitu/O  )/O  Tuhan/O  (/O  pemelihara/O  )/O  langit/O ,/O  bumi/O ,/O  dan/O  apa/O  yang/O  ada/O  di/O  antara/O  keduanya/O ,/O  Yang Maha Pengasih/O ./O  Mereka/O  tidak/O  memiliki/O  (/O  hak/O  )/O  berbicara/O  dengan-Nya/O ./O"
             }
         },
         "38": {
             "chapterid": "078",
             "verse_id": 38,
             "verse": {
-                "id": "Pada hari ketika Rūḥ dan malaikat berdiri bersaf-saf. Mereka tidak berbicara, kecuali yang diizinkan oleh Tuhan Yang Maha Pengasih dan dia mengatakan yang benar."
+                "id": "Pada hari ketika Rūḥ) dan malaikat berdiri bersaf-saf. Mereka tidak berbicara, kecuali yang diizinkan oleh Tuhan Yang Maha Pengasih dan dia mengatakan yang benar."
             },
             "labels": {
-                "id": "Pada/O hari/O ketika/O Rūḥ/Angel dan/O malaikat/O berdiri/O bersaf-saf/O ./O Mereka/O tidak/O berbicara/O ,/O kecuali/O yang/O diizinkan/O oleh/O Tuhan/O Yang Maha Pengasih/Allah dan/O dia/O mengatakan/O yang/O benar/O ./O"
+                "id": "Pada/O  hari/O  ketika/O  (/O  Rūḥ/Angel  )/O  dan/O  malaikat/O  berdiri/O  bersaf-saf/O ./O  Mereka/O  tidak/O  berbicara/O ,/O  kecuali/O  yang/O  diizinkan/O  oleh/O  Tuhan Yang Maha Pengasih dan dia mengatakan yang benar/O ./O"
             }
         },
         "39": {
@@ -387,7 +387,7 @@
                 "id": "Itulah hari yang hak (pasti terjadi). Siapa yang menghendaki (keselamatan) niscaya menempuh jalan kembali kepada Tuhannya (dengan beramal saleh)."
             },
             "labels": {
-                "id": "Itulah/O hari/O yang/O hak/O (/O pasti/O terjadi/O )/O ./O Siapa/O yang/O menghendaki/O (/O keselamatan/O )/O niscaya/O menempuh/O jalan/O kembali/O kepada/O Tuhannya/O (/O dengan/O beramal/O saleh/O )/O ./O"
+                "id": "Itulah/O  hari/O  yang/O  hak/O  (/O  pasti/O  terjadi/O  )/O ./O  Siapa/O  yang/O  menghendaki/O  (/O  keselamatan/O  )/O  niscaya/O  menempuh/O  jalan/O  kembali/O  kepada/O  Tuhannya/O  (/O  dengan/O  beramal/O  saleh/O  )/O ./O"
             }
         },
         "40": {
@@ -397,7 +397,7 @@
                 "id": "Sesungguhnya Kami telah memperingatkan kamu akan azab yang dekat pada hari (ketika) manusia melihat apa yang telah diperbuat oleh kedua tangannya dan orang kafir berkata, “Oh, seandainya saja aku menjadi tanah.”"
             },
             "labels": {
-                "id": "Sesungguhnya/O Kami/O telah/O memperingatkan/O kamu/O akan/O azab/O yang/O dekat/O pada/O hari/O (/O ketika/O )/O manusia/O melihat/O apa/O yang/O telah/O diperbuat/O oleh/O kedua/O tangannya/O dan/O orang/O kafir/O berkata/O ,/O “/O Oh/O ,/O seandainya/O saja/O aku/O menjadi/O tanah/O ./O ”/O"
+                "id": "Sesungguhnya/O  Kami/O  telah/O  memperingatkan/O  kamu/O  akan/O  azab/O  yang/O  dekat/O  pada/O  hari/O  (/O  ketika/O  )/O  manusia/O  melihat/O  apa/O  yang/O  telah/O  diperbuat/O  oleh/O  kedua/O  tangannya/O  dan/O  orang/O  kafir/O  berkata/O ,/O  “Oh/O ,/O  seandainya/O  saja/O  aku/O  menjadi/O  tanah/O ./O  ”/O"
             }
         }
     }

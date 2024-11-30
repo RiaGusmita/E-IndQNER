@@ -21,6 +21,7 @@ from rdflib import Graph
 import json
 from tqdm import tqdm
 import chardet
+import glob
 
 def generate_answer(pipe, example):
     
@@ -33,14 +34,12 @@ def generate_answer(pipe, example):
 ]
     
     outputs = pipe(prompt,
-                max_new_tokens=1024,
+                max_new_tokens=256,
                 eos_token_id=terminators,
                 do_sample=True,
-                temperature=0.3,
-                top_k=30,
-                top_p=0.85,
+                temperature=0.1
                 )
-    generated_text = outputs[0]['generated_text']
+    generated_text = outputs[0]['generated_text'][len(prompt):]
     return {"content": example["messages"][1]['content'], "generated_text": generated_text}
 
 def create_input_prompt(system_message, user_prompt):
@@ -52,7 +51,7 @@ def create_input_prompt(system_message, user_prompt):
     }
 #base_model_name = "meta-llama/Meta-Llama-3-70B-Instruct"
 #base_model_name = "meta-llama/Llama-3.1-70B-Instruct"
-base_model_name = "results/llama-3.1-70B-finetune-model/checkpoint-1247"
+base_model_name = "results/llama-3.1-70B/checkpoint-1247"
 
 tokenizer = AutoTokenizer.from_pretrained(base_model_name, trust_remote_code=True)
 tokenizer.pad_token = tokenizer.eos_token
@@ -79,17 +78,25 @@ model.config.use_cache = False
 # More info: https://github.com/huggingface/transformers/pull/24906
 model.config.pretraining_tp = 1
 
-chapter_list = ["038-Sad.txt", "012-Yusuf.txt", "013-Ar_Ra'd.txt", "014-Ibrahim.txt", "015-Al_Hijr.txt", "016-An_Nahl.txt", "017-Al_Isra'.txt", "018-Al_Kahf.txt"]
+# Specify the directory and file pattern
+file_pattern = '../new-dataset-quran/*'  # Use '*' for all files, or specify a pattern like '*.txt'
+
+# Retrieve all matching filenames
+#chapter_list = glob.glob(file_pattern)
+
+
+chapter_list = ["4. an-Nisa__normalized.txt", "5. al-Ma_idah_normalized.txt", "6. al-An_am_normalized.txt", "7. al-A_raf_normalized.txt", "8. al-Anfal_normalized.txt", "10. Yunus_normalized.txt"]
 
 for chapter in chapter_list:
-    filepath = f"../al-quran/{chapter}"
-    with open(filepath, "rb") as f:
+    chapter = f"../new-dataset-quran/{chapter}"
+    print(chapter)
+    with open(chapter, "rb") as f:
         raw_data = f.read()
         result = chardet.detect(raw_data)
         encoding = result['encoding']
     f.close()
     
-    with open(filepath, "r", encoding=encoding) as f:
+    with open(chapter, "r", encoding="utf-8") as f:
         sentences = f.readlines()
     f.close()
     
@@ -107,7 +114,7 @@ for chapter in chapter_list:
     
     chapter_dict = dict()
     num = 0
-    chapter_id = chapter.split("-")[0]
+    chapter_id = chapter.split("/")[-1].split(".")[0]
     verses = dict()
     for sentence in sentences:
         num +=1
@@ -128,7 +135,7 @@ for chapter in chapter_list:
         message = create_input_prompt(system_message, user_prompt)
         results = generate_answer(pipe, message)
         outputs = results["generated_text"]
-        select_outputs = outputs.split("\n\n")[-1]
+        select_outputs = outputs
         
         print("##############")
         print(num)

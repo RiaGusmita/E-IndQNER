@@ -29,7 +29,7 @@ tokenizer.padding_side = "right"
 
 # Paths to the train dataset files
 train_sentences_path = '../new-datasets/train.txt'
-train_labels_path = '../new-datasets/train_with_labels.txt'
+train_labels_path = '../new-datasets/updated_train_set_final.txt'
 
 # Read the sentences and labels from train dataset
 with open(train_sentences_path, 'r', encoding='utf-8') as f:
@@ -48,7 +48,7 @@ train_df = pd.concat([train_sentences_df, train_labels_df], axis=1)
 
 # Paths to the validation dataset files
 dev_sentences_path = '../new-datasets/dev.txt'
-dev_labels_path = '../new-datasets/dev_with_labels.txt'
+dev_labels_path = '../new-datasets/updated_val_set_final.txt'
 
 # Read the sentences and labels from test dataset
 with open(dev_sentences_path, 'r', encoding='utf-8') as f:
@@ -64,24 +64,6 @@ dev_labels_df = pd.DataFrame(dev_labels, columns=["label"])
 # Combine the DataFrames side by side
 val_df = pd.concat([dev_sentences_df, dev_labels_df], axis=1)
 
-# Paths to the test dataset files
-test_sentences_path = '../new-datasets/test.txt'
-test_labels_path = '../new-datasets/test_with_labels.txt'
-
-# Read the sentences and labels from test dataset
-with open(test_sentences_path, 'r', encoding='utf-8') as f:
-    sentences = f.readlines()
-
-with open(test_labels_path, 'r', encoding='utf-8') as f:
-    labels = f.readlines()
-
-# Create DataFrames from the lists of sentences and labels
-test_sentences_df = pd.DataFrame(sentences, columns=["sentence"])
-test_labels_df = pd.DataFrame(labels, columns=["label"])
-
-# Combine the DataFrames side by side
-test_df = pd.concat([test_sentences_df, test_labels_df], axis=1)
-
 # Open and read the JSON file
 with open("named_entity_class_dictionary.json", "r") as json_file:
     named_entity_classes_dict = json.load(json_file)
@@ -96,9 +78,6 @@ print(train_df.head())
 
 print("\nValidation DataFrame:")
 print(val_df.head())
-
-print("\nTest DataFrame:")
-print(test_df.head())
 
 system_message = """
 Given the following entity classes and sentences, label entity mentions with their respective classes in sentences according to the sentences' context.
@@ -121,12 +100,10 @@ def prepare_examples(example):
 # Convert DataFrame to Dataset
 train_dataset = Dataset.from_pandas(train_df)
 val_dataset = Dataset.from_pandas(val_df)
-test_dataset = Dataset.from_pandas(test_df)
 
 # Apply the prepare_examples function
 train_dataset = train_dataset.map(prepare_examples, remove_columns=['sentence', 'label'])
 val_dataset = val_dataset.map(prepare_examples, remove_columns=['sentence', 'label'])
-test_dataset = test_dataset.map(prepare_examples, remove_columns=['sentence', 'label'])
 
 # Disable tokenizers parallelism
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
@@ -143,7 +120,7 @@ device_map = {"": "cuda"}
 base_model = AutoModelForCausalLM.from_pretrained(
     base_model_name,
     quantization_config=bnb_config,
-    device_map="auto",
+    device_map=device_map,
     trust_remote_code=True,
     use_auth_token=True,
     low_cpu_mem_usage=True

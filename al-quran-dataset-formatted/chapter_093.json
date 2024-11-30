@@ -7,7 +7,7 @@
                 "id": "Demi waktu duha"
             },
             "labels": {
-                "id": "Demi/O waktu/O duha/O (/O waktu/O duha/O )/O"
+                "id": "Demi/O  waktu/O  duha/O  /O"
             }
         },
         "2": {
@@ -17,7 +17,7 @@
                 "id": "dan demi waktu malam apabila telah sunyi,"
             },
             "labels": {
-                "id": "dan/O demi/O waktu/O malam/O apabila/O telah/O sunyi/O ,/O"
+                "id": "dan/O  demi/O  waktu/O  malam/O  apabila/O  telah/O  sunyi/O ,/O"
             }
         },
         "3": {
@@ -27,7 +27,7 @@
                 "id": "Tuhanmu (Nabi Muhammad) tidak meninggalkan dan tidak (pula) membencimu."
             },
             "labels": {
-                "id": "Tuhanmu/O (/O Nabi/O Muhammad/Messenger )/O tidak/O meninggalkan/O dan/O tidak/O (/O pula/O )/O membencimu/O ./O"
+                "id": "Tuhanmu/O  (/O  Nabi/O  Muhammad/Messenger  )/O  tidak/O  meninggalkan/O  dan/O  tidak/O  (/O  pula/O  )/O  membencimu/O ./O"
             }
         },
         "4": {
@@ -37,7 +37,7 @@
                 "id": "Sungguh, akhirat itu lebih baik bagimu daripada yang permulaan (dunia)."
             },
             "labels": {
-                "id": "Sungguh/O ,/O akhirat/O itu/O lebih/O baik/O bagimu/O daripada/O yang/O permulaan/O (/O dunia/O )/O ./O"
+                "id": "Sungguh/O ,/O  akhirat/O  itu/O  lebih/O  baik/O  bagimu/O  daripada/O  yang/O  permulaan/O  (/O  dunia/O  )/O ./O"
             }
         },
         "5": {
@@ -47,7 +47,7 @@
                 "id": "Sungguh, kelak (di akhirat nanti) Tuhanmu pasti memberikan karunia-Nya kepadamu sehingga engkau rida."
             },
             "labels": {
-                "id": "Sungguh/O ,/O kelak/O (/O di/O akhirat/O nanti/O )/O Tuhanmu/O pasti/O memberikan/O karunia-Nya/O kepadamu/O sehingga/O engkau/O rida/O ./O"
+                "id": "Sungguh/O ,/O  kelak/O  (/O  di/O  akhirat/O  nanti/O  )/O  Tuhanmu/O  pasti/O  memberikan/O  karunia-Nya/O  kepadamu/O  sehingga/O  engkau/O  rida/O ./O"
             }
         },
         "6": {
@@ -57,7 +57,7 @@
                 "id": "Bukankah Dia mendapatimu sebagai seorang yatim, lalu Dia melindungi(-mu);"
             },
             "labels": {
-                "id": "Bukankah/O Dia/O mendapatimu/O sebagai/O seorang/O yatim/O ,/O lalu/O Dia/O melindungi/O (/O -mu/O )/O ;/O"
+                "id": "Bukankah/O  Dia/O  mendapatimu/O  sebagai/O  seorang/O  yatim/O ,/O  lalu/O  Dia/O  melindungi/O  (/O  -mu/O  )/O ?/O"
             }
         },
         "7": {
@@ -67,7 +67,7 @@
                 "id": "mendapatimu sebagai seorang yang tidak tahu (tentang syariat), lalu Dia memberimu petunjuk (wahyu);"
             },
             "labels": {
-                "id": "mendapatimu/O sebagai/O seorang/O yang/O tidak/O tahu/O (/O tentang/O syariat/O )/O ,/O lalu/O Dia/O memberimu/O petunjuk/O (/O wahyu/O )/O ;/O"
+                "id": "mendapatimu/O  sebagai/O  seorang/O  yang/O  tidak/O  tahu/O  (/O  tentang/O  syariat/O  )/O ,/O  lalu/O  Dia/O  memberimu/O  petunjuk/O  (/O  wahyu/O  )/O ./O"
             }
         },
         "8": {
@@ -77,7 +77,7 @@
                 "id": "dan mendapatimu sebagai seorang yang fakir, lalu Dia memberimu kecukupan?"
             },
             "labels": {
-                "id": "dan/O mendapatimu/O sebagai/O seorang/O yang/O fakir/O ,/O lalu/O Dia/O memberimu/O kecukupan/O ?/O"
+                "id": "dan/O  mendapatimu/O  sebagai/O  seorang/O  yang/O  fakir/O ,/O  lalu/O  Dia/O  memberimu/O  kecukupan/O ?/O"
             }
         },
         "9": {
@@ -87,7 +87,7 @@
                 "id": "Terhadap anak yatim, janganlah engkau berlaku sewenang-wenang."
             },
             "labels": {
-                "id": "Terhadap/O anak/O yatim/O ,/O janganlah/O engkau/O berlaku/O sewenang-wenang/O ./O"
+                "id": "Terhadap/O  anak/O  yatim/O ,/O  janganlah/O  engkau/O  berlaku/O  sewenang-wenang/O ./O"
             }
         },
         "10": {
@@ -97,7 +97,7 @@
                 "id": "Terhadap orang yang meminta-minta, janganlah engkau menghardik."
             },
             "labels": {
-                "id": "Terhadap/O orang/O yang/O meminta-minta/O ,/O janganlah/O engkau/O menghardik/O ./O"
+                "id": "Terhadap/O  orang/O  yang/O  meminta-minta/O ,/O  janganlah/O  engkau/O  menghardik/O ./O"
             }
         },
         "11": {
@@ -107,7 +107,7 @@
                 "id": "Terhadap nikmat Tuhanmu, nyatakanlah (dengan bersyukur)."
             },
             "labels": {
-                "id": "Terhadap/O nikmat/O Tuhanmu/O ,/O nyatakanlah/O (/O dengan/O bersyukur/O )/O ./O"
+                "id": "Terhadap/O  nikmat/O  Tuhanmu/O ,/O  nyatakanlah/O  (/O  dengan/O  bersyukur/O  )/O ./O"
             }
         }
     }

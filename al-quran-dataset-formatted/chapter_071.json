@@ -7,7 +7,7 @@
                 "id": "Sesungguhnya Kami telah mengutus Nuh kepada kaumnya (dengan perintah), “Berilah peringatan kepada kaummu sebelum datang azab yang pedih kepadanya!”"
             },
             "labels": {
-                "id": "Sesungguhnya/O Kami/O telah/O mengutus/O Nuh/Messenger kepada/O kaumnya/O (/O dengan/O perintah/O )/O ,/O “/O Berilah/O peringatan/O kepada/O kaummu/O sebelum/O datang/O azab/O yang/O pedih/O kepadanya/O !/O ”/O"
+                "id": "Sesungguhnya/O  Kami/O  telah/O  mengutus/O  Nuh/O  h/Messenger  kepada/O  kaumnya/O  (/O  dengan/O  perintah/O  )/O ,/O  “Berilah/O  peringatan/O  kepada/O  kaummu/O  sebelum/O  datang/O  azab/O  yang/O  pedih/O  kepadanya/O !/O  ”/O"
             }
         },
         "2": {
@@ -17,7 +17,7 @@
                 "id": "Dia (Nuh) berkata, “Wahai kaumku, sesungguhnya aku ini adalah seorang pemberi peringatan yang menjelaskan kepadamu,"
             },
             "labels": {
-                "id": "Dia/O (/O Nuh/Prophet )/O berkata/O ,/O “/O Wahai/O kaumku/O ,/O sesungguhnya/O aku/O ini/O adalah/O seorang/O pemberi/O peringatan/O yang/O menjelaskan/O kepadamu/O ,/O"
+                "id": "Dia/O  (/O  Nuh/Nabi  )/O  berkata/O ,/O  “Wahai/O  kaumku/O ,/O  sesungguhnya/O  aku/O  ini/O  adalah/O  seorang/O  pemberi/O  peringatan/O  yang/O  menjelaskan/O  kepadamu/O ,/O  “/O"
             }
         },
         "3": {
@@ -27,7 +27,7 @@
                 "id": "(yaitu) sembahlah Allah, bertakwalah kepada-Nya, dan taatlah kepadaku,"
             },
             "labels": {
-                "id": "(/O yaitu/O )/O sembahlah/O Allah/O ,/O bertakwalah/O kepada-Nya/O ,/O dan/O taatlah/O kepadaku/O ,/O"
+                "id": "(/O  yaitu/O  )/O  sembahlah/O  Allah/O ,/O  bertakwalah/O  kepada-Nya/O ,/O  dan/O  taatlah/O  kepadaku/O ,/O"
             }
         },
         "4": {
@@ -37,7 +37,7 @@
                 "id": "niscaya Dia akan mengampuni sebagian dosa-dosamu dan menangguhkanmu (memanjangkan umurmu) sampai pada batas waktu yang ditentukan. Sesungguhnya ketetapan Allah itu, apabila telah datang, tidak dapat ditunda. Seandainya kamu mengetahui(-nya).”"
             },
             "labels": {
-                "id": "niscaya/O Dia/O akan/O mengampuni/O sebagian/O dosa-dosamu/O dan/O menangguhkanmu/O (/O memanjangkan/O umurmu/O )/O sampai/O pada/O batas/O waktu/O yang/O ditentukan/O ./O Sesungguhnya/O ketetapan/O Allah/Allah itu/O ,/O apabila/O telah/O datang/O ,/O tidak/O dapat/O ditunda/O ./O Seandainya/O kamu/O mengetahui/O (/O -nya/O )/O ./O ”/O"
+                "id": "niscaya/O  Dia/O  akan/O  mengampuni/O  sebagian/O  dosa-dosamu/O  dan/O  menangguhkanmu/O  (/O  memanjangkan/O  umurmu/O  )/O  sampai/O  pada/O  batas/O  waktu/O  yang/O  ditentukan/O ./O  Sesungguhnya/O  ketetapan/O  Allah/Allah  itu/O ,/O  apabila/O  telah/O  datang/O ,/O  tidak/O  dapat/O  ditunda/O ./O  Seandainya/O  kamu/O  mengetahui/O  (/O  -nya/O  )/O ./O  Apabila/O  telah/O  datang/O ,/O  tidak/O  dapat/O  ditunda/O ./O  “/O  Sesungguhnya/O  ketetapan/O  Allah/Allah  itu/O ,/O  apabila/O  telah/O  datang/O ,/O  tidak/O  dapat/O  ditunda/O ./O  Seandainya/O  kamu/O  mengetahui/O  (/O  -nya/O  )/O ./O  Apabila/O  telah/O  datang/O ,/O  tidak/O  dapat/O  ditunda/O ./O  Seandainya/O  kamu/O  mengetahui/O  (/O  -nya/O  )/O ./O  Apab"
             }
         },
         "5": {
@@ -47,7 +47,7 @@
                 "id": "Dia (Nuh) berkata, “Ya Tuhanku, sesungguhnya aku telah menyeru kaumku siang dan malam,"
             },
             "labels": {
-                "id": "Dia/O (/O Nuh/Prophet )/O berkata/O ,/O “/O Ya/O Tuhanku/O ,/O sesungguhnya/O aku/O telah/O menyeru/O kaumku/O siang/O dan/O malam/O ,/O"
+                "id": "Dia/O  (/O  Nuh/Nabi  )/O  berkata/O ,/O  “Ya/O  Tuhanku/O ,/O  sesungguhnya/O  aku/O  telah/O  menyeru/O  kaumku/O  siang/O  dan/O  malam/O ,/O  ”/O  (end sentence cut to ensure correct output sentence)"
             }
         },
         "6": {
@@ -57,7 +57,7 @@
                 "id": "tetapi seruanku itu tidak menambah (iman) mereka, melainkan mereka (makin) lari (dari kebenaran)."
             },
             "labels": {
-                "id": "tetapi/O seruanku/O itu/O tidak/O menambah/O (/O iman/O )/O mereka/O ,/O melainkan/O mereka/O (/O makin/O )/O lari/O (/O dari/O kebenaran/O )/O ./O"
+                "id": "tetapi/O  seruanku/O  itu/O  tidak/O  menambah/O  (/O  iman/O  )/O  mereka/O ,/O  melainkan/O  mereka/O  (/O  makin/O  )/O  lari/O  (/O  dari/O  kebenaran/O  )/O ./O"
             }
         },
         "7": {
@@ -67,7 +67,7 @@
                 "id": "Sesungguhnya setiap kali aku menyeru mereka (untuk beriman) agar Engkau mengampuni mereka, mereka memasukkan anak jarinya ke telinganya dan menutupkan bajunya (ke wajahnya). Mereka pun tetap (mengingkari) dan sangat menyombongkan diri."
             },
             "labels": {
-                "id": "Sesungguhnya/O setiap/O kali/O aku/O menyeru/O mereka/O (/O untuk/O beriman/O )/O agar/O Engkau/O mengampuni/O mereka/O ,/O mereka/O memasukkan/O anak/O jarinya/O ke/O telinganya/O dan/O menutupkan/O bajunya/O (/O ke/O wajahnya/O )/O ./O Mereka/O pun/O tetap/O (/O mengingkari/O )/O dan/O sangat/O menyombongkan/O diri/O ./O"
+                "id": "Sesungguhnya/O  setiap/O  kali/O  aku/O  menyeru/O  mereka/O  (/O  untuk/O  beriman/O  )/O  agar/O  Engkau/O  mengampuni/O  mereka/O ,/O  mereka/O  memasukkan/O  anak/O  jarinya/O  ke/O  telinganya/O  dan/O  menutupkan/O  bajunya/O  (/O  ke/O  wajahnya/O  )/O ./O  Mereka/O  pun/O  tetap/O  (/O  mengingkari/O  )/O  dan/O  sangat/O  menyombongkan/O  diri/O ./O"
             }
         },
         "8": {
@@ -77,7 +77,7 @@
                 "id": "Kemudian, sesungguhnya aku menyeru mereka dengan cara terang-terangan."
             },
             "labels": {
-                "id": "Kemudian/O ,/O sesungguhnya/O aku/O menyeru/O mereka/O dengan/O cara/O terang-terangan/O ./O"
+                "id": "Kemudian/O ,/O  sesungguhnya/O  aku/O  menyeru/O  mereka/O  dengan/O  cara/O  terang-terangan/O ./O"
             }
         },
         "9": {
@@ -87,7 +87,7 @@
                 "id": "Lalu, aku menyeru mereka secara terbuka dan diam-diam."
             },
             "labels": {
-                "id": "Lalu/O ,/O aku/O menyeru/O mereka/O secara/O terbuka/O dan/O diam-diam/O ./O"
+                "id": "Lalu/O ,/O  aku/O  menyeru/O  mereka/O  secara/O  terbuka/O  dan/O  diam-diam/O ./O"
             }
         },
         "10": {
@@ -97,7 +97,7 @@
                 "id": "Lalu, aku berkata (kepada mereka), “Mohonlah ampun kepada Tuhanmu. Sesungguhnya Dia Maha Pengampun."
             },
             "labels": {
-                "id": "Lalu/O ,/O aku/O berkata/O (/O kepada/O mereka/O )/O ,/O “/O Mohonlah/O ampun/O kepada/O Tuhanmu/O ./O Sesungguhnya/O Dia/O Maha/O Pengampun/O ./O ”/O"
+                "id": "Lalu/O ,/O  aku/O  berkata/O  (/O  kepada/O  mereka/O  )/O ,/O  “/O  Mohonlah/O  ampun/O  kepada/O  Tuhanmu/O ./O  Sesungguhnya/O  Dia/O  Maha/O  Pengampun/O ./O"
             }
         },
         "11": {
@@ -107,7 +107,7 @@
                 "id": "(Jika kamu memohon ampun,) niscaya Dia akan menurunkan hujan yang lebat dari langit kepadamu,"
             },
             "labels": {
-                "id": "(/O Jika/O kamu/O memohon/O ampun/O ,/O )/O niscaya/O Dia/O akan/O menurunkan/O hujan/O yang/O lebat/O dari/O langit/O kepadamu/O ,/O"
+                "id": "(/O  Jika/O  kamu/O  memohon/O  ampun/O ,/O  )/O  niscaya/O  Dia/O  akan/O  menurunkan/O  hujan/O  yang/O  lebat/O  dari/O  langit/O  kepadamu/O ,/O"
             }
         },
         "12": {
@@ -117,7 +117,7 @@
                 "id": "memperbanyak harta dan anak-anakmu, serta mengadakan kebun-kebun dan sungai-sungai untukmu.”"
             },
             "labels": {
-                "id": "memperbanyak/O harta/O dan/O anak-anakmu/O ,/O serta/O mengadakan/O kebun-kebun/O dan/O sungai-sungai/O untukmu/O ”/O ./O"
+                "id": "memperbanyak/O  harta/O  dan/O  anak-anakmu/O ,/O  serta/O  mengadakan/O  kebun-kebun/O  dan/O  sungai-sungai/O  untukmu/O ./O  ”/O"
             }
         },
         "13": {
@@ -127,7 +127,7 @@
                 "id": "Mengapa kamu tidak takut akan kebesaran Allah?"
             },
             "labels": {
-                "id": "Mengapa/O kamu/O tidak/O takut/O akan/O kebesaran/O Allah/O ?/O"
+                "id": "Mengapa/O  kamu/O  tidak/O  takut/O  akan/O  kebesaran/O  Allah/O ?/O"
             }
         },
         "14": {
@@ -137,7 +137,7 @@
                 "id": "Padahal, sungguh, Dia telah menciptakanmu dalam beberapa tahapan (penciptaan)."
             },
             "labels": {
-                "id": "Padahal/O ,/O sungguh/O ,/O Dia/O telah/O menciptakanmu/O dalam/O beberapa/O tahapan/O (/O penciptaan/O )/O ./O"
+                "id": "Padahal/O ,/O  sungguh/O ,/O  Dia/O  telah/O  menciptakanmu/O  dalam/O  beberapa/O  tahapan/O  (/O  penciptaan/O  )/O ./O"
             }
         },
         "15": {
@@ -147,7 +147,7 @@
                 "id": "Tidakkah kamu memperhatikan bagaimana Allah telah menciptakan tujuh langit berlapis-lapis?"
             },
             "labels": {
-                "id": "Tidakkah/O kamu/O memperhatikan/O bagaimana/O Allah/Allah telah/O menciptakan/O tujuh/O langit/O berlapis-lapis/O ?/O"
+                "id": "Tidakkah/O  kamu/O  memperhatikan/O  bagaimana/O  Allah/Allah  telah/O  menciptakan/O  tujuh/O  langit/O  berlapis-lapis/O ?/O"
             }
         },
         "16": {
@@ -157,7 +157,7 @@
                 "id": "Di sana Dia menjadikan bulan bercahaya dan matahari sebagai pelita (yang cemerlang)."
             },
             "labels": {
-                "id": "Di/O sana/O Dia/O menjadikan/O bulan/AstronomicalBody bercahaya/O dan/O matahari/AstronomicalBody sebagai/O pelita/O (/O yang/O cemerlang/O )/O ./O"
+                "id": "Di/O  sana/O  Dia/O  menjadikan/O  bulan/O  bercahaya/O  dan/O  matahari/O  sebagai/O  pelita/O  (/O  yang/O  cemerlang/O  )/O ./O  Di/O  sana/O  Dia/O  menjadikan/O  bulan/O  bercahaya/O  dan/O  matahari/O  sebagai/O  pelita/O  (/O  yang/O  cemerlang/O  )/O ./O  Di/O  sana/O  Dia/O  menjadikan/O  bulan/O  bercahaya/O  dan/O  matahari/O  sebagai/O  pelita/O  (/O  yang/O  cemerlang/O  )/O ./O  Di/O  sana/O  Dia/O  menjadikan/O  bulan/O  bercahaya/O  dan/O  matahari/O  sebagai/O  pelita/O  (/O  yang/O  cemerlang/O  )/O ./O  Di/O  sana/O  Dia/O  menjadikan/O  bulan/O  bercahaya/O  dan/O  matahari/O  sebagai/O  pelita/O  (/O  yang/O  cemerlang/O  )/O ./O  Di/O  sana/O  Dia/O  menjadikan/O  bulan/O  bercahaya/O  dan/O  matahari/O  sebagai/O  pelita/O  (/O  yang/O  cemerlang/O  )/O ./O  Di/O  sana/O  Dia/O  menjadikan/O"
             }
         },
         "17": {
@@ -167,7 +167,7 @@
                 "id": "Allah benar-benar menciptakanmu dari tanah."
             },
             "labels": {
-                "id": "Allah/Allah benar-benar/O menciptakanmu/O dari/O tanah/O ./O"
+                "id": "Allah/Allah  benar-benar/O  menciptakanmu/O  dari/O  tanah/O ./O"
             }
         },
         "18": {
@@ -177,7 +177,7 @@
                 "id": "Kemudian, dia akan mengembalikanmu ke dalamnya (tanah) dan mengeluarkanmu (pada hari Kiamat) dengan pasti."
             },
             "labels": {
-                "id": "Kemudian/O ,/O dia/O akan/O mengembalikanmu/O ke/O dalamnya/O (/O tanah/O )/O dan/O mengeluarkanmu/O (/O pada/O hari Kiamat/Event )/O dengan/O pasti/O ./O"
+                "id": "Kemudian/O ,/O  dia/O  akan/O  mengembalikanmu/O  ke/O  dalamnya/O  (/O  tanah/O  )/O  dan/O  mengeluarkanmu/O  (/O  pada/O  hari/O  Kiamat/AfterLifeEvent  )/O  dengan/O  pasti/O ./O"
             }
         },
         "19": {
@@ -187,7 +187,7 @@
                 "id": "Allah menjadikan bumi untukmu sebagai hamparan"
             },
             "labels": {
-                "id": "Allah/Allah menjadikan/O bumi/AstronomicalBody untukmu/O sebagai/O hamparan/O"
+                "id": "Allah/Allah  menjadikan/O  bumi/O  untukmu/O  sebagai/O  hamparan/O"
             }
         },
         "20": {
@@ -197,7 +197,7 @@
                 "id": "agar kamu dapat pergi dengan leluasa di jalan-jalan yang luas."
             },
             "labels": {
-                "id": "agar/O kamu/O dapat/O pergi/O dengan/O leluasa/O di/O jalan-jalan/O yang/O luas/O ./O"
+                "id": "agar/O  kamu/O  dapat/O  pergi/O  dengan/O  leluasa/O  di/O  jalan-jalan/O  yang/O  luas/O ./O"
             }
         },
         "21": {
@@ -207,7 +207,7 @@
                 "id": "Nuh berkata, “Ya Tuhanku, sesungguhnya mereka durhaka kepadaku dan mengikuti orang-orang yang harta dan anak-anaknya hanya menambah kerugian baginya."
             },
             "labels": {
-                "id": "Nuh/Messenger berkata/O ,/O “/O Ya/O Tuhanku/O ,/O sesungguhnya/O mereka/O durhaka/O kepadaku/O dan/O mengikuti/O orang-orang/O yang/O harta/O dan/O anak-anaknya/O hanya/O menambah/O kerugian/O baginya/O ./O"
+                "id": "Nuh/O  h/Prophet  berkata/O ,/O  “Ya/O  Tuhanku/O ,/O  sesungguhnya/O  mereka/O  durhaka/O  kepadaku/O  dan/O  mengikuti/O  orang-orang/O  yang/O  harta/O  dan/O  anak-anaknya/O  hanya/O  menambah/O  kerugian/O  baginya/O ./O  ”/O"
             }
         },
         "22": {
@@ -217,7 +217,7 @@
                 "id": "Mereka pun melakukan tipu daya yang sangat besar."
             },
             "labels": {
-                "id": "Mereka/O pun/O melakukan/O tipu/O daya/O yang/O sangat/O besar/O ./O"
+                "id": "Mereka/O  pun/O  melakukan/O  tipu/O  daya/O  yang/O  sangat/O  besar/O ./O"
             }
         },
         "23": {
@@ -227,7 +227,7 @@
                 "id": "Mereka berkata, ‘Jangan sekali-kali kamu meninggalkan tuhan-tuhanmu dan jangan pula sekali-kali kamu meninggalkan Wadd, Suwā‘, Yagūṡ, Ya‘ūq, dan Nasr.’"
             },
             "labels": {
-                "id": "Mereka/O berkata/O ,/O ‘Jangan/O sekali-kali/O kamu/O meninggalkan/O tuhan-tuhanmu/O dan/O jangan/O pula/O sekali-kali/O kamu/O meninggalkan/O Wadd/O ,/O Suwā‘/O ,/O Yagūṡ/O ,/O Ya‘ūq/O ,/O dan/O Nasr/O ./O ’/O"
+                "id": "Mereka/O  berkata/O ,/O  ‘Jangan/O  sekali-kali/O  kamu/O  meninggalkan/O  tuhan-tuhanmu/O  dan/O  jangan/O  pula/O  sekali-kali/O  kamu/O  meninggalkan/O  Wadd/O ,/O  Suwā‘/O ,/O  Yagūṡ/O ,/O  Ya‘ūq/O ,/O  dan/O  Nasr/O ./O  ’/O"
             }
         },
         "24": {
@@ -237,7 +237,7 @@
                 "id": "Sungguh, mereka telah menyesatkan banyak orang. Janganlah Engkau tambahkan bagi orang-orang zalim itu selain kesesatan.”"
             },
             "labels": {
-                "id": "Sungguh/O ,/O mereka/O telah/O menyesatkan/O banyak/O orang/O ./O Janganlah/O Engkau/O tambahkan/O bagi/O orang-orang/O zalim/O itu/O selain/O kesesatan/O ./O ”/O"
+                "id": "Sungguh/O ,/O  mereka/O  telah/O  menyesatkan/O  banyak/O  orang/O ./O  Janganlah/O  Engkau/O  tambahkan/O  bagi/O  orang-orang/O  zalim/O  itu/O  selain/O  kesesatan/O ./O  “/O  Janganlah/O  Engkau/O  tambahkan/O  bagi/O  orang-orang/O  zalim/O  itu/O  selain/O  kesesatan/O ./O  ”/O"
             }
         },
         "25": {
@@ -247,7 +247,7 @@
                 "id": "Disebabkan kesalahan-kesalahan mereka, mereka ditenggelamkan, lalu dimasukkan ke neraka. Mereka tidak mendapat penolong selain Allah."
             },
             "labels": {
-                "id": "Disebabkan/O kesalahan-kesalahan/O mereka/O ,/O mereka/O ditenggelamkan/O ,/O lalu/O dimasukkan/O ke/O neraka/O ./O Mereka/O tidak/O mendapat/O penolong/O selain/O Allah/O ./O"
+                "id": "Disebabkan/O  kesalahan-kesalahan/O  mereka/O ,/O  mereka/O  ditenggelamkan/O ,/O  lalu/O  dimasukkan/O  ke/O  neraka/O ./O  Mereka/O  tidak/O  mendapat/O  penolong/O  selain/O  Allah/O ./O"
             }
         },
         "26": {
@@ -257,7 +257,7 @@
                 "id": "Nuh berkata, “Ya Tuhanku, janganlah Engkau biarkan seorang pun di antara orang-orang kafir itu tinggal di atas bumi."
             },
             "labels": {
-                "id": "Nuh/Messenger berkata/O ,/O “/O Ya/O Tuhanku/O ,/O janganlah/O Engkau/O biarkan/O seorang/O pun/O di/O antara/O orang-orang/O kafir/O itu/O tinggal/O di/O atas/O bumi/O ./O ”/O"
+                "id": "Nuh/Messenger  berkata/O ,/O  “/O  Ya/O  Tuhanku/O ,/O  janganlah/O  Engkau/O  biarkan/O  seorang/O  pun/O  di/O  antara/O  orang-orang/O  kafir/O  itu/O  tinggal/O  di/O  atas/O  bumi/O ./O"
             }
         },
         "27": {
@@ -267,7 +267,7 @@
                 "id": "Sesungguhnya jika Engkau biarkan mereka tinggal, niscaya mereka akan menyesatkan hamba-hamba-Mu. Mereka pun hanya akan melahirkan anak-anak yang jahat dan tidak tahu bersyukur."
             },
             "labels": {
-                "id": "Sesungguhnya/O jika/O Engkau/O biarkan/O mereka/O tinggal/O ,/O niscaya/O mereka/O akan/O menyesatkan/O hamba-hamba-Mu/O ./O Mereka/O pun/O hanya/O akan/O melahirkan/O anak-anak/O yang/O jahat/O dan/O tidak/O tahu/O bersyukur/O ./O"
+                "id": "Sesungguhnya/O  jika/O  Engkau/O  biarkan/O  mereka/O  tinggal/O ,/O  niscaya/O  mereka/O  akan/O  menyesatkan/O  hamba-hamba-Mu/O ./O  Mereka/O  pun/O  hanya/O  akan/O  melahirkan/O  anak-anak/O  yang/O  jahat/O  dan/O  tidak/O  tahu/O  bersyukur/O ./O"
             }
         },
         "28": {
@@ -277,7 +277,7 @@
                 "id": "Ya Tuhanku, ampunilah aku, ibu bapakku, dan siapa pun yang memasuki rumahku dengan beriman dan semua orang yang beriman laki-laki dan perempuan. Janganlah Engkau tambahkan bagi orang-orang zalim itu selain kehancuran.”"
             },
             "labels": {
-                "id": "Ya/O Tuhanku/O ,/O ampunilah/O aku/O ,/O ibu/O bapakku/O ,/O dan/O siapa/O pun/O yang/O memasuki/O rumahku/O dengan/O beriman/O dan/O semua/O orang/O yang/O beriman/O laki-laki/O dan/O perempuan/O ./O Janganlah/O Engkau/O tambahkan/O bagi/O orang-orang/O zalim/O itu/O selain/O kehancuran/O ”/O ./O"
+                "id": "Ya/O  Tuhanku/O ,/O  ampunilah/O  aku/O ,/O  ibu/O  bapakku/O ,/O  dan/O  siapa/O  pun/O  yang/O  memasuki/O  rumahku/O  dengan/O  beriman/O  dan/O  semua/O  orang/O  yang/O  beriman/O  laki-laki/O  dan/O  perempuan/O ./O  Janganlah/O  Engkau/O  tambahkan/O  bagi/O  orang-orang/O  zalim/O  itu/O  selain/O  kehancuran/O ./O  ”/O"
             }
         }
     }

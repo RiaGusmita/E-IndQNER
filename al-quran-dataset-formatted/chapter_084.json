@@ -7,7 +7,7 @@
                 "id": "Apabila langit terbelah"
             },
             "labels": {
-                "id": "Apabila/O langit/O terbelah/O"
+                "id": "Apabila/O  langit/O  terbelah/O  (/O  terbelah/O  )/O"
             }
         },
         "2": {
@@ -17,7 +17,7 @@
                 "id": "serta patuh kepada Tuhannya dan sudah semestinya patuh."
             },
             "labels": {
-                "id": "serta/O patuh/O kepada/O Tuhannya/O dan/O sudah/O semestinya/O patuh/O ./O"
+                "id": "serta/O  patuh/O  kepada/O  Tuhannya/O  dan/O  sudah/O  semestinya/O  patuh/O ./O  kepada/O  Tuhannya/O ./O"
             }
         },
         "3": {
@@ -27,7 +27,7 @@
                 "id": "Apabila bumi diratakan,"
             },
             "labels": {
-                "id": "Apabila/O bumi/AstronomicalBody diratakan/O ,/O"
+                "id": "Apabila/O  bumi/O  diratakan/O ,/O"
             }
         },
         "4": {
@@ -37,7 +37,7 @@
                 "id": "memuntahkan apa yang ada di dalamnya dan menjadi kosong,"
             },
             "labels": {
-                "id": "memuntahkan/O apa/O yang/O ada/O di/O dalamnya/O dan/O menjadi/O kosong/O ,/O"
+                "id": "memuntahkan/O  apa/O  yang/O  ada/O  di/O  dalamnya/O  dan/O  menjadi/O  kosong/O ,/O"
             }
         },
         "5": {
@@ -47,7 +47,7 @@
                 "id": "serta patuh kepada Tuhannya, dan sudah semestinya patuh."
             },
             "labels": {
-                "id": "sertai/O kepada/O Tuhannya/O ,/O dan/O sudah/O semestinya/O patuh/O ./O"
+                "id": "serta/O  patuh/O  kepada/O  Tuhannya/O ,/O  dan/O  sudah/O  semestinya/O  patuh/O ./O"
             }
         },
         "6": {
@@ -57,7 +57,7 @@
                 "id": "Wahai manusia, sesungguhnya engkau telah bekerja keras menuju (pertemuan dengan) Tuhanmu. Maka, engkau pasti menemui-Nya."
             },
             "labels": {
-                "id": "Wahai/O manusia/O ,/O sesungguhnya/O engkau/O telah/O bekerja/O keras/O menuju/O (/O pertemuan/O dengan/O )/O Tuhanmu/O ./O Maka/O ,/O engkau/O pasti/O menemui-Nya/O ./O"
+                "id": "Wahai/O  manusia/O ,/O  sesungguhnya/O  engkau/O  telah/O  bekerja/O  keras/O  menuju/O  (/O  pertemuan/O  dengan/O  )/O  Tuhanmu/O ./O  Maka/O ,/O  engkau/O  pasti/O  menemui-Nya/O ./O"
             }
         },
         "7": {
@@ -67,7 +67,7 @@
                 "id": "Adapun orang yang catatannya diberikan dari sebelah kanannya,"
             },
             "labels": {
-                "id": "Adapun/O orang/O yang/O catatannya/O diberikan/O dari/O sebelah/O kanannya/O ,/O"
+                "id": "Adapun/O  orang/O  yang/O  catatannya/O  diberikan/O  dari/O  sebelah/O  kanannya/O ,/O"
             }
         },
         "8": {
@@ -77,7 +77,7 @@
                 "id": "dia akan dihisab dengan pemeriksaan yang mudah"
             },
             "labels": {
-                "id": "dia/O akan/O dihisab/O dengan/O pemeriksaan/O yang/O mudah/O"
+                "id": "dia/O  akan/O  dihisab/O  dengan/O  pemeriksaan/O  yang/O  mudah/O ./O"
             }
         },
         "9": {
@@ -87,7 +87,7 @@
                 "id": "dan dia akan kembali kepada keluarganya (yang sama-sama beriman) dengan gembira."
             },
             "labels": {
-                "id": "dan/O dia/O akan/O kembali/O kepada/O keluarganya/O (/O yang/O sama-sama/O beriman/O )/O dengan/O gembira/O ./O"
+                "id": "dan/O  dia/O  akan/O  kembali/O  kepada/O  keluarganya/O  (/O  yang/O  sama-sama/O  beriman/O  )/O  dengan/O  gembira/O ./O"
             }
         },
         "10": {
@@ -97,7 +97,7 @@
                 "id": "Adapun orang yang catatannya diberikan dari belakang punggungnya,"
             },
             "labels": {
-                "id": "Adapun/O orang/O yang/O catatannya/O diberikan/O dari/O belakang/O punggungnya/O ,/O"
+                "id": "Adapun/O  orang/O  yang/O  catatannya/O  diberikan/O  dari/O  belakang/O  punggungnya/O ,/O"
             }
         },
         "11": {
@@ -107,7 +107,7 @@
                 "id": "dia akan berteriak, “Celakalah aku!”"
             },
             "labels": {
-                "id": "dia/O akan/O berteriak/O ,/O “/O Celakalah/O aku/O !/O ”/O"
+                "id": "dia/O  akan/O  berteriak/O ,/O  “Celakalah/O  aku/O !/O  ”/O"
             }
         },
         "12": {
@@ -117,7 +117,7 @@
                 "id": "Dia akan memasuki (neraka) Sa‘ir (yang menyala-nyala)."
             },
             "labels": {
-                "id": "Dia/O akan/O memasuki/O (/O neraka/O )/O Sa‘ir/AfterlifeLocation (/O yang/O menyala-nyala/O )/O ./O"
+                "id": "Dia/O  akan/O  memasuki/O  (/O  neraka/O  )/O  Sa‘ir/O  (/O  yang/O  menyala-nyala/O  )/O ./O"
             }
         },
         "13": {
@@ -127,7 +127,7 @@
                 "id": "Sesungguhnya dia dahulu (di dunia) bergembira di kalangan keluarganya (yang sama-sama kafir)."
             },
             "labels": {
-                "id": "Sesungguhnya/O dia/O dahulu/O (/O di/O dunia/O )/O bergembira/O di/O kalangan/O keluarganya/O (/O yang/O sama-sama/O kafir/O )/O ./O"
+                "id": "Sesungguhnya/O  dia/O  dahulu/O  (/O  di/O  dunia/O  )/O  bergembira/O  di/O  kalangan/O  keluarganya/O  (/O  yang/O  sama-sama/O  kafir/O  )/O ./O"
             }
         },
         "14": {
@@ -137,7 +137,7 @@
                 "id": "Sesungguhnya dia mengira bahwa dia tidak akan kembali (kepada Tuhannya)."
             },
             "labels": {
-                "id": "Sesungguhnya/O dia/O mengira/O bahwa/O dia/O tidak/O akan/O kembali/O (/O kepada/O Tuhannya/O )/O ./O"
+                "id": "Sesungguhnya/O  dia/O  mengira/O  bahwa/O  dia/O  tidak/O  akan/O  kembali/O  (/O  kepada/O  Tuhannya/O  )/O ./O  Sesungguhnya/O  dia/O  mengira/O  bahwa/O  dia/O  tidak/O  akan/O  kembali/O  (/O  kepada/O  Tuhannya/O  )/O ./O  Sesungguhnya/O  dia/O  mengira/O  bahwa/O  dia/O  tidak/O  akan/O  kembali/O  (/O  kepada/O  Tuhannya/O  )/O ./O  Sesungguhnya/O  dia/O  mengira/O  bahwa/O  dia/O  tidak/O  akan/O  kembali/O  (/O  kepada/O  Tuhannya/O  )/O ./O  Sesungguhnya/O  dia/O  mengira/O  bahwa/O  dia/O  tidak/O  akan/O  kembali/O  (/O  kepada/O  Tuhannya/O  )/O ./O  Sesungguhnya/O  dia/O  mengira/O  bahwa/O  dia/O  tidak/O  akan/O  kembali/O  (/O  kepada/O  Tuhannya/O  )/O ./O  Sesungguhnya/O  dia/O  mengira/O  bahwa/O  dia/O  tidak/O  akan/O  kembali/O  (/O  kepada/O  Tuhannya/O  )/O ./O  Sesungguhnya/O  dia/O  mengira"
             }
         },
         "15": {
@@ -147,7 +147,7 @@
                 "id": "Tidak demikian. Sesungguhnya Tuhannya selalu melihatnya."
             },
             "labels": {
-                "id": "Tidak/O demikian/O ./O Sesungguhnya/O Tuhannya/O selalu/O melihatnya/O ./O"
+                "id": "Tidak/O  demikian/O ./O  Sesungguhnya/O  Tuhannya/O  selalu/O  melihatnya/O ./O"
             }
         },
         "16": {
@@ -157,7 +157,7 @@
                 "id": "Aku bersumpah demi cahaya merah pada waktu senja,"
             },
             "labels": {
-                "id": "Aku/O bersumpah/O demi/O cahaya/O merah/O pada/O waktu/O senja/O ,/O"
+                "id": "Aku/O  bersumpah/O  demi/O  cahaya/O  merah/O  pada/O  waktu/O  senja/O ,/O"
             }
         },
         "17": {
@@ -167,7 +167,7 @@
                 "id": "demi malam dan apa yang diselubunginya,"
             },
             "labels": {
-                "id": "demi/O malam/O dan/O apa/O yang/O diselubunginya/O ,/O"
+                "id": "demi/O  malam/O  dan/O  apa/O  yang/O  diselubunginya/O ,/O"
             }
         },
         "18": {
@@ -177,7 +177,7 @@
                 "id": "dan demi bulan apabila jadi purnama,"
             },
             "labels": {
-                "id": "dan/O demi/O bulan/AstronomicalBody apabila/O jadi/O purnama/O ,/O"
+                "id": "dan/O  demi/O  bulan/O  apabila/O  jadi/O  purnama/O ,/O"
             }
         },
         "19": {
@@ -187,7 +187,7 @@
                 "id": "sungguh, kamu benar-benar akan menjalani tingkat demi tingkat (dalam kehidupan)."
             },
             "labels": {
-                "id": "sungguh/O ,/O kamu/O benar-benar/O akan/O menjalani/O tingkat/O demi/O tingkat/O (/O dalam/O kehidupan/O )/O ./O"
+                "id": "sungguh/O ,/O  kamu/O  benar-benar/O  akan/O  menjalani/O  tingkat/O  demi/O  tingkat/O  (/O  dalam/O  kehidupan/O  )/O ./O"
             }
         },
         "20": {
@@ -197,7 +197,7 @@
                 "id": "Maka, mengapa mereka tidak mau beriman?"
             },
             "labels": {
-                "id": "Maka/O ,/O mengapa/O mereka/O tidak/O mau/O beriman/O ?/O"
+                "id": "Maka/O ,/O  mengapa/O  mereka/O  tidak/O  mau/O  beriman/O ?/O"
             }
         },
         "21": {
@@ -207,7 +207,7 @@
                 "id": "Apabila Al-Qur’an dibacakan kepada mereka, mereka tidak (mau) bersujud,"
             },
             "labels": {
-                "id": "Apabila/O Al-Qur’an/HolyBook dibacakan/O kepada/O mereka/O ,/O mereka/O tidak/O (/O mau/O )/O bersujud/O ,/O"
+                "id": "Apabila/O  Al-Qur’an/HolyBook  dibacakan/O  kepada/O  mereka/O ,/O  mereka/O  tidak/O  (/O  mau/O  )/O  bersujud/O ,/O"
             }
         },
         "22": {
@@ -217,7 +217,7 @@
                 "id": "bahkan orang-orang yang kufur itu mendustakan(-nya)."
             },
             "labels": {
-                "id": "bahkan/O orang-orang/O yang/O kufur/O itu/O mendustakan/O (/O -nya/O )/O ./O"
+                "id": "bahan/O  orang-orang/O  yang/O  kufur/O  itu/O  mendustakan/O  (/O  -nya/O  )/O ./O"
             }
         },
         "23": {
@@ -227,7 +227,7 @@
                 "id": "Allah lebih mengetahui apa yang mereka sembunyikan (dalam hati mereka)."
             },
             "labels": {
-                "id": "Allah/Allah lebih/O mengetahui/O apa/O yang/O mereka/O sembunyikan/O (/O dalam/O hati/O mereka/O )/O ./O"
+                "id": "Allah/Allah  lebih/O  mengetahui/O  apa/O  yang/O  mereka/O  sembunyikan/O  (/O  dalam/O  hati/O  mereka/O  )/O ./O"
             }
         },
         "24": {
@@ -237,7 +237,7 @@
                 "id": "Maka, berilah mereka kabar ‘gembira’ dengan azab yang pedih,"
             },
             "labels": {
-                "id": "Maka/O ,/O berilah/O mereka/O kabar/O ‘gembira’/O dengan/O azab/O yang/O pedih/O ,/O"
+                "id": "Maka/O ,/O  berilah/O  mereka/O  kabar/O  ‘gembira’/O  dengan/O  azab/O  yang/O  pedih/O ,/O  (/O  azab/O  yang/O  akan/O  menimpa/O  mereka/O  )/O ./O"
             }
         },
         "25": {
@@ -247,7 +247,7 @@
                 "id": "kecuali orang-orang yang beriman dan mengerjakan kebajikan. Bagi merekalah pahala yang tidak putus-putus."
             },
             "labels": {
-                "id": "kecuali/O orang-orang/O yang/O beriman/O dan/O mengerjakan/O kebajikan/O ./O Bagi/O merekalah/O pahala/O yang/O tidak/O putus-putus/O ./O"
+                "id": "Test sentence: kecuali/O  orang-orang/O  yang/O  beriman/O  dan/O  mengerjakan/O  kebajikan/O ./O  Bagi/O  merekalah/O  pahala/O  yang/O  tidak/O  putus-putus/O ./O  Bagi/O  merekalah/O  pahala/O  yang/O  tidak/O  putus-putus/O ./O"
             }
         }
     }
