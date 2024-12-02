@@ -1,0 +1,34 @@
+{
+    "103": {
+        "1": {
+            "chapterid": "103",
+            "verse_id": 1,
+            "verse": {
+                "id": "Demi masa,"
+            },
+            "labels": {
+                "id": "Demi/O  masa/O ,/O"
+            }
+        },
+        "2": {
+            "chapterid": "103",
+            "verse_id": 2,
+            "verse": {
+                "id": "sesungguhnya manusia benar-benar berada dalam kerugian,"
+            },
+            "labels": {
+                "id": "sesungguhnya/O  manusia/O  benar-benar/O  berada/O  dalam/O  kerugian/O ,/O"
+            }
+        },
+        "3": {
+            "chapterid": "103",
+            "verse_id": 3,
+            "verse": {
+                "id": "kecuali orang-orang yang beriman dan beramal saleh serta saling menasihati untuk kebenaran dan kesabaran."
+            },
+            "labels": {
+                "id": "kecuali/O  orang-orang/O  yang/O  beriman/O  dan/O  beramal/O  saleh/O  serta/O  saling/O  menasihati/O  untuk/O  kebenaran/O  dan/O  kesabaran/O ./O"
+            }
+        }
+    }
+}

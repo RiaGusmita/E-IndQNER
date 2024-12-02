@@ -1,0 +1,74 @@
+{
+    "001": {
+        "1": {
+            "chapterid": "001",
+            "verse_id": 1,
+            "verse": {
+                "id": "Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang."
+            },
+            "labels": {
+                "id": "Dengan/O  nama/O  Allah/Allah  Yang Maha Pengasih lagi Maha Penyayang/O ./O"
+            }
+        },
+        "2": {
+            "chapterid": "001",
+            "verse_id": 2,
+            "verse": {
+                "id": "Segala puji bagi Allah, Tuhan semesta alam"
+            },
+            "labels": {
+                "id": "Segala/O  puji/O  bagi/O  Allah/O ,/O  Tuhan/O  semesta/O  alam/O ./O"
+            }
+        },
+        "3": {
+            "chapterid": "001",
+            "verse_id": 3,
+            "verse": {
+                "id": "Yang Maha Pengasih lagi Maha Penyayang,"
+            },
+            "labels": {
+                "id": "Yang/O  Maha/O  Pengasih/O  lagi/O  Maha/O  Penyayang/O ,/O"
+            }
+        },
+        "4": {
+            "chapterid": "001",
+            "verse_id": 4,
+            "verse": {
+                "id": "Pemilik hari Pembalasan."
+            },
+            "labels": {
+                "id": "Pemilik/O  hari/O  Pembalasan/O ./O"
+            }
+        },
+        "5": {
+            "chapterid": "001",
+            "verse_id": 5,
+            "verse": {
+                "id": "Hanya kepada Engkaulah kami menyembah dan hanya kepada Engkaulah kami memohon pertolongan."
+            },
+            "labels": {
+                "id": "Hanya/O  kepada/O  Engkaulah/O  kami/O  menyembah/O  dan/O  hanya/O  kepada/O  Engkaulah/O  kami/O  memohon/O  pertolongan/O ./O"
+            }
+        },
+        "6": {
+            "chapterid": "001",
+            "verse_id": 6,
+            "verse": {
+                "id": "Bimbinglah kami ke jalan yang lurus,"
+            },
+            "labels": {
+                "id": "Bimbinglah/O  kami/O  ke/O  jalan/O  yang/O  lurus/O ,/O"
+            }
+        },
+        "7": {
+            "chapterid": "001",
+            "verse_id": 7,
+            "verse": {
+                "id": "(yaitu) jalan orang-orang yang telah Engkau beri nikmat, bukan (jalan) mereka yang dimurkai dan bukan (pula jalan) orang-orang yang sesat."
+            },
+            "labels": {
+                "id": "(/O  yaitu/O  )/O  jalan/O  orang-orang/O  yang/O  telah/O  Engkau/O  beri/O  nikmat/O ,/O  bukan/O  (/O  jalan/O  )/O  mereka/O  yang/O  dimurkai/O  dan/O  bukan/O  (/O  pula/O  jalan/O  )/O  orang-orang/O  yang/O  sesat/O ./O"
+            }
+        }
+    }
+}
