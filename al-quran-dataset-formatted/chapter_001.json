@@ -7,7 +7,7 @@
                 "id": "Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang."
             },
             "labels": {
-                "id": "Dengan/O nama/O Allah/Allah Yang/O Maha/O Pengasih/O lagi/O Maha/O Penyayang/O ./O"
+                "id": "Dengan/O nama/O Allah/Allah Penyayang/O ./O"
             }
         },
         "2": {
@@ -67,7 +67,7 @@
                 "id": "(yaitu) jalan orang-orang yang telah Engkau beri nikmat, bukan (jalan) mereka yang dimurkai dan bukan (pula jalan) orang-orang yang sesat."
             },
             "labels": {
-                "id": "(yaitu)/O jalan/O orang-orang/O yang/O telah/O Engkau/O beri/O nikmat/O ,/O bukan/O (jalan)/O mereka/O yang/O dimurkai/O dan/O bukan/O (pula/O jalan)/O orang-orang/O yang/O sesat/O ./O"
+                "id": "(/O yaitu/O )/O jalan/O orang-orang/O yang/O telah/O Engkau/O beri/O nikmat/O ,/O bukan/O (/O jalan/O )/O mereka/O yang/O dimurkai/O dan/O bukan/O (/O pula/O jalan/O )/O orang-orang/O yang/O sesat/O ./O"
             }
         }
     }
