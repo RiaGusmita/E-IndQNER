@@ -85,7 +85,7 @@ file_pattern = '../new-dataset-quran/*'  # Use '*' for all files, or specify a p
 #chapter_list = glob.glob(file_pattern)
 
 
-chapter_list = ["4. an-Nisa__normalized.txt", "5. al-Ma_idah_normalized.txt", "6. al-An_am_normalized.txt", "7. al-A_raf_normalized.txt", "8. al-Anfal_normalized.txt", "10. Yunus_normalized.txt"]
+chapter_list = ["100. al-_Adiyat_normalized.txt"]
 
 for chapter in chapter_list:
     chapter = f"../new-dataset-quran/{chapter}"
