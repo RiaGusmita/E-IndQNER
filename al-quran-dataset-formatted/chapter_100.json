@@ -1,0 +1,114 @@
+{
+    "100": {
+        "1": {
+            "chapterid": "100",
+            "verse_id": 1,
+            "verse": {
+                "id": "Demi kuda-kuda perang yang berlari kencang terengah-engah,"
+            },
+            "labels": {
+                "id": "Demi/O  kuda-kuda/O  perang/O  yang/O  berlari/O  kencang/O  terengah-engah/O ,/O"
+            }
+        },
+        "2": {
+            "chapterid": "100",
+            "verse_id": 2,
+            "verse": {
+                "id": "yang memercikkan bunga api (dengan entakan kakinya),"
+            },
+            "labels": {
+                "id": "yang/O  memercikkan/O  bunga/O  api/O  (/O  dengan/O  entakan/O  kakinya/O  )/O ,/O"
+            }
+        },
+        "3": {
+            "chapterid": "100",
+            "verse_id": 3,
+            "verse": {
+                "id": "yang menyerang (dengan tiba-tiba) pada waktu pagi"
+            },
+            "labels": {
+                "id": "yang/O  menyerang/O  (/O  dengan/O  tiba-tiba/O  )/O  pada/O  waktu/O  pagi/O ./O"
+            }
+        },
+        "4": {
+            "chapterid": "100",
+            "verse_id": 4,
+            "verse": {
+                "id": "sehingga menerbangkan debu,"
+            },
+            "labels": {
+                "id": "sehingga/O  menerbangkan/O  debu/O ,/O"
+            }
+        },
+        "5": {
+            "chapterid": "100",
+            "verse_id": 5,
+            "verse": {
+                "id": "lalu menyerbu ke tengah-tengah kumpulan musuh,"
+            },
+            "labels": {
+                "id": "lalu/O  menyerbu/O  ke/O  tengah-tengah/O  kumpulan/O  musuh/O ,/O"
+            }
+        },
+        "6": {
+            "chapterid": "100",
+            "verse_id": 6,
+            "verse": {
+                "id": "sesungguhnya manusia itu sangatlah ingkar kepada Tuhannya."
+            },
+            "labels": {
+                "id": "sesungguhnya/O  manusia/O  itu/O  sangat/O  ingkar/O  kepada/O  Tuhannya/O ./O"
+            }
+        },
+        "7": {
+            "chapterid": "100",
+            "verse_id": 7,
+            "verse": {
+                "id": "Sesungguhnya dia benar-benar menjadi saksi atas hal itu (keingkarannya)."
+            },
+            "labels": {
+                "id": "Sesungguhnya/O  dia/O  benar-benar/O  menjadi/O  saksi/O  atas/O  hal/O  itu/O  (/O  keingkarannya/O  )/O ./O"
+            }
+        },
+        "8": {
+            "chapterid": "100",
+            "verse_id": 8,
+            "verse": {
+                "id": "Sesungguhnya cintanya pada harta benar-benar berlebihan."
+            },
+            "labels": {
+                "id": "Sesungguhnya/O  cintanya/O  pada/O  harta/O  benar-benar/O  berlebihan/O ./O"
+            }
+        },
+        "9": {
+            "chapterid": "100",
+            "verse_id": 9,
+            "verse": {
+                "id": "Maka, tidakkah dia mengetahui (apa yang akan dialaminya) apabila dikeluarkan apa yang ada di dalam kubur"
+            },
+            "labels": {
+                "id": "Maka/O ,/O  tidakkah/O  dia/O  mengetahui/O  (/O  apa/O  yang/O  akan/O  dialaminya/O  )/O  apabila/O  dikeluarkan/O  apa/O  yang/O  ada/O  di/O  dalam/O  kubur/O"
+            }
+        },
+        "10": {
+            "chapterid": "100",
+            "verse_id": 10,
+            "verse": {
+                "id": "dan ditampakkan apa yang tersimpan di dalam dada?"
+            },
+            "labels": {
+                "id": "dan/O  ditampakkan/O  apa/O  yang/O  tersimpan/O  di/O  dalam/O  dada/O ?/O"
+            }
+        },
+        "11": {
+            "chapterid": "100",
+            "verse_id": 11,
+            "verse": {
+                "id": "Sesungguhnya Tuhan mereka pada hari itu benar-benar Maha Teliti terhadap (keadaan) mereka."
+            },
+            "labels": {
+                "id": "Sesungguhnya/O  Tuhan/O  mereka/O  pada/O  hari/O  itu/O  benar-benar/O  Maha/O  Teliti/O  terhadap/O  (/O  keadaan/O  )/O  mereka/O ./O"
+            }
+        }
+    }
+}
