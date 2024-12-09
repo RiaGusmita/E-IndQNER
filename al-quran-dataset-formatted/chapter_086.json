@@ -7,7 +7,7 @@
                 "id": "Demi langit dan yang datang pada malam hari."
             },
             "labels": {
-                "id": "Demi/O  langit/O  dan/O  yang/O  datang/O  pada/O  malam/O  hari/O ./O"
+                "id": "Demi/O langit/O dan/O yang/O datang/O pada/O malam/O hari/O ./O"
             }
         },
         "2": {
@@ -17,7 +17,7 @@
                 "id": "Tahukah kamu apakah yang datang pada malam hari itu?"
             },
             "labels": {
-                "id": "Tahukah/O  kamu/O  apakah/O  yang/O  datang/O  pada/O  malam/O  hari/O  itu/O ?/O"
+                "id": "Tahukah/O kamu/O apakah/O yang/O datang/O pada/O malam/O hari/O itu/O ?/O"
             }
         },
         "3": {
@@ -27,7 +27,7 @@
                 "id": "(Itulah) bintang yang bersinar tajam."
             },
             "labels": {
-                "id": "(/O  Itulah/O  )/O  bintang/O  yang/O  bersinar/O  tajam/O ./O"
+                "id": "(Itulah)/O bintang/O yang/O bersinar/O tajam/O ./O"
             }
         },
         "4": {
@@ -37,7 +37,7 @@
                 "id": "Setiap orang pasti ada penjaganya."
             },
             "labels": {
-                "id": "Setiap/O  orang/O  pasti/O  ada/O  penjaganya/O ./O"
+                "id": "Setiap/O orang/O pasti/O ada/O penjaganya/O ./O"
             }
         },
         "5": {
@@ -47,7 +47,7 @@
                 "id": "Hendaklah manusia memperhatikan dari apa dia diciptakan."
             },
             "labels": {
-                "id": "Hendaklah/O  manusia/O  memperhatikan/O  dari/O  apa/O  dia/O  diciptakan/O ./O"
+                "id": "Hendaklah/O manusia/O memperhatikan/O dari/O apa/O dia/O diciptakan/O ./O"
             }
         },
         "6": {
@@ -57,7 +57,7 @@
                 "id": "Dia diciptakan dari air (mani) yang memancar,"
             },
             "labels": {
-                "id": "Dia/O  diciptakan/O  dari/O  air/O  (/O  mani/O  )/O  yang/O  memancar/O ,/O"
+                "id": "Dia/O diciptakan/O dari/O air/O (/O mani/O )/O yang/O memancar/O ,/O"
             }
         },
         "7": {
@@ -67,7 +67,7 @@
                 "id": "yang keluar dari antara tulang sulbi (punggung) dan tulang dada."
             },
             "labels": {
-                "id": "yang/O  keluar/O  dari/O  antara/O  tulang/O  sulbi/O  (/O  punggung/O  )/O  dan/O  tulang/O  dada/O ./O"
+                "id": "yang/O keluar/O dari/O antara/O tulang/O sulbi/O (/O punggung/O )/O dan/O tulang/O dada/O ./O"
             }
         },
         "8": {
@@ -77,7 +77,7 @@
                 "id": "Sesungguhnya Dia (Allah) benar-benar kuasa untuk mengembalikannya (hidup setelah mati)"
             },
             "labels": {
-                "id": "Sesungguhnya/O  Dia/O  (/O  Allah/Allah  )/O  benar-benar/O  kuasa/O  untuk/O  mengembalikannya/O  (/O  hidup/O  setelah/O  mati/O  )/O ./O"
+                "id": "Sesungguhnya/O Dia/O (/O Allah/Allah )/O benar-benar/O kuasa/O untuk/O mengembalikannya/O (/O hidup/O setelah/O mati/O )/O"
             }
         },
         "9": {
@@ -87,7 +87,7 @@
                 "id": "pada hari ditampakkan segala rahasia."
             },
             "labels": {
-                "id": "pada/O  hari/O  ditampakkan/O  segala/O  rahasia/O ./O"
+                "id": "pada/O hari/O ditampakkan/O segala/O rahasia/O ./O"
             }
         },
         "10": {
@@ -97,7 +97,7 @@
                 "id": "Maka, baginya (manusia) tidak ada lagi kekuatan dan tidak (pula) ada penolong."
             },
             "labels": {
-                "id": "Maka/O ,/O  baginya/O  (/O  manusia/O  )/O  tidak/O  ada/O  lagi/O  kekuatan/O  dan/O  tidak/O  (/O  pula/O  )/O  ada/O  penolong/O ./O"
+                "id": "Maka/O ,/O baginya/O (/O manusia/O )/O tidak/O ada/O lagi/O kekuatan/O dan/O tidak/O (/O pula/O )/O ada/O penolong/O ./O"
             }
         },
         "11": {
@@ -107,7 +107,7 @@
                 "id": "Demi langit yang mengandung hujan"
             },
             "labels": {
-                "id": "Demi/O  langit/O  yang/O  mengandung/O  hujan/O ./O  Demi/O  langit/O  yang/O  mengandung/O  hujan/O ./O"
+                "id": "Demi/O langit/O yang/O mengandung/O hujan/O"
             }
         },
         "12": {
@@ -117,27 +117,27 @@
                 "id": "dan bumi yang memiliki rekahan (tempat tumbuhnya pepohonan),"
             },
             "labels": {
-                "id": "dan/O  bumi/O  yang/O  memiliki/O  rekahan/O  (/O  tempat/O  tumbuhnya/O  pepohonan/O  )/O ,/O"
+                "id": "dan/O bumi/AstronomicalBody yang/O memiliki/O rekahan/O (/O tempat/O tumbuhnya/O pepohonan/O )/O ,/O"
             }
         },
         "13": {
             "chapterid": "086",
             "verse_id": 13,
             "verse": {
-                "id": "sesungguhnya (Al-Qur’an) itu benar-benar firman pemisah (antara yang hak dan yang batil)"
+                "id": "sesungguhnya (Al-Qur\u2019an) itu benar-benar firman pemisah (antara yang hak dan yang batil)"
             },
             "labels": {
-                "id": "sesungguhnya/O  (/O  Al-Qur’an/HolyBook  )/O  itu/O  benar-benar/O  firman/O  pemisah/O  (/O  antara/O  yang/O  hak/O  dan/O  yang/O  batil/O  )/O ./O"
+                "id": "sesungguhnya/O (/O Al-Qur\u2019an/HolyBook )/O itu/O benar-benar/O firman/O pemisah/O (/O antara/O yang/O hak/O dan/O yang/O batil/O )/O"
             }
         },
         "14": {
             "chapterid": "086",
             "verse_id": 14,
             "verse": {
-                "id": "dan ia (Al-Qur’an) sama sekali bukan perkataan senda gurau."
+                "id": "dan ia (Al-Qur\u2019an) sama sekali bukan perkataan senda gurau."
             },
             "labels": {
-                "id": "dan/O  ia/O  (/O  Al-Qur’an/HolyBook  )/O  sama/O  sekali/O  bukan/O  perkataan/O  senda/O  gurau/O ./O"
+                "id": "dan/O ia/O (/O Al-Qur\u2019an/HolyBook )/O sama/O sekali/O bukan/O perkataan/O senda/O gurau/O ./O"
             }
         },
         "15": {
@@ -147,7 +147,7 @@
                 "id": "Sesungguhnya mereka (orang kafir) melakukan tipu daya."
             },
             "labels": {
-                "id": "Sesungguhnya/O  mereka/O  (/O  orang/O  kafir/O  )/O  melakukan/O  tipu/O  daya/O ./O"
+                "id": "Sesungguhnya/O mereka/O (/O orang/O kafir/O )/O melakukan/O tipu/O daya/O ./O"
             }
         },
         "16": {
@@ -157,7 +157,7 @@
                 "id": "Aku pun membalasnya dengan tipu daya."
             },
             "labels": {
-                "id": "Aku/O  pun/O  membalasnya/O  dengan/O  tipu/O  daya/O ./O"
+                "id": "Aku/O pun/O membalasnya/O dengan/O tipu/O daya/O ./O"
             }
         },
         "17": {
@@ -167,7 +167,7 @@
                 "id": "Maka, tangguhkanlah orang-orang kafir itu. Biarkanlah mereka sejenak (bersenang-senang)."
             },
             "labels": {
-                "id": "Maka/O ,/O  tangguhkanlah/O  orang-orang/O  kafir/O  itu/O ./O  Biarkanlah/O  mereka/O  sejenak/O  (/O  bersenang-senang/O  )/O ./O"
+                "id": "Maka/O ,/O tangguhkanlah/O orang-orang/O kafir/O itu/O ./O Biarkanlah/O mereka/O sejenak/O (/O bersenang-senang/O )/O ./O"
             }
         }
     }

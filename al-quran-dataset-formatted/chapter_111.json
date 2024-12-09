@@ -7,7 +7,7 @@
                 "id": "Binasalah kedua tangan Abu Lahab dan benar-benar binasa dia."
             },
             "labels": {
-                "id": "Binasalah/O  kedua/O  tangan/O  Abu/O  Lahab/O  dan/O  benar-benar/O  binasa/O  dia/O ./O"
+                "id": "Binasalah/O kedua/O tangan/O Abu Lahab/HistoricPerson dan/O benar-benar/O binasa/O dia/O ./O"
             }
         },
         "2": {
@@ -17,7 +17,7 @@
                 "id": "Tidaklah berguna baginya hartanya dan apa yang dia usahakan."
             },
             "labels": {
-                "id": "Tidaklah/O  berguna/O  baginya/O  hartanya/O  dan/O  apa/O  yang/O  dia/O  usahakan/O ./O"
+                "id": "Tidaklah/O berguna/O baginya/O hartanya/O dan/O apa/O yang/O dia/O usahakan/O ./O"
             }
         },
         "3": {
@@ -27,7 +27,7 @@
                 "id": "Kelak dia akan memasuki api yang bergejolak (neraka),"
             },
             "labels": {
-                "id": "Kelak/O  dia/O  akan/O  memasuki/O  api/O  yang/O  bergejolak/O  (/O  neraka/O  )/O ,/O  karena/O  dia/O  tidak/O  mengetahui/O  apa/O  yang/O  dia/O  lakukan/O ./O  Jika/O  dia/O  tidak/O  mengetahui/O ,/O  dia/O  tidak/O  akan/O  mengetahui/O ./O  Jika/O  dia/O  mengetahui/O ,/O  dia/O  tidak/O  akan/O  mengetahui/O ./O  Jika/O  dia/O  tidak/O  mengetahui/O ,/O  dia/O  tidak/O  akan/O  mengetahui/O ./O  Jika/O  dia/O  mengetahui/O ,/O  dia/O  tidak/O  akan/O  mengetahui/O ./O  Jika/O  dia/O  tidak/O  mengetahui/O ,/O  dia/O  tidak/O  akan/O  mengetahui/O ./O  Jika/O  dia/O  mengetahui/O ,/O  dia/O  tidak/O  akan/O  mengetahui/O ./O  Jika/O  dia/O  tidak/O  mengetahui/O ,/O  dia/O  tidak/O  akan/O  mengetahui/O ./O  Jika/O  dia/O  mengetahui/O ,/"
+                "id": "Kelak/O dia/O akan/O memasuki/O api/O yang/O bergejolak/O (/O neraka/O )/O ,/O"
             }
         },
         "4": {
@@ -37,7 +37,7 @@
                 "id": "(begitu pula) istrinya, pembawa kayu bakar (penyebar fitnah)."
             },
             "labels": {
-                "id": "(/O  begitu/O  pula/O  )/O  istrinya/O ,/O  pembawa/O  kayu/O  bakar/O  (/O  penyebar/O  fitnah/O  )/O ./O"
+                "id": "(/O begitu/O pula/O )/O istrinya/O ,/O pembawa/O kayu/O bakar/O (/O penyebar/O fitnah/O )/O ./O"
             }
         },
         "5": {
@@ -47,7 +47,7 @@
                 "id": "Di lehernya ada tali dari sabut yang dipintal."
             },
             "labels": {
-                "id": "Di/O  lehernya/O  ada/O  tali/O  dari/O  sabut/O  yang/O  dipintal/O ./O  Di/O  lehernya/O  ada/O  tali/O  dari/O  sabut/O  yang/O  dipintal/O ./O"
+                "id": "Di/O lehernya/O ada/O tali/O dari/O sabut/O yang/O dipintal/O ./O"
             }
         }
     }

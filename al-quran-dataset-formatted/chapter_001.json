@@ -7,7 +7,7 @@
                 "id": "Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang."
             },
             "labels": {
-                "id": "Dengan/O nama/O Allah/Allah Yang/O Maha/O Pengasih/O lagi/O Maha/O Penyayang/O ./O"
+                "id": "Dengan/O nama/O Allah/Allah Yang Maha Pengasih lagi Maha Penyayang/Allah ./O"
             }
         },
         "2": {
@@ -17,7 +17,7 @@
                 "id": "Segala puji bagi Allah, Tuhan semesta alam"
             },
             "labels": {
-                "id": "Segala/O puji/O bagi/O Allah/O ,/O Tuhan/O semesta/O alam/O"
+                "id": "Segala/O puji/O bagi/O Allah/Allah ,/O Tuhan/O semesta/O alam/O"
             }
         },
         "3": {
@@ -37,7 +37,7 @@
                 "id": "Pemilik hari Pembalasan."
             },
             "labels": {
-                "id": "Pemilik/O hari/O Pembalasan/O ./O"
+                "id": "Pemilik/O hari/O Pembalasan/AfterLifeEvent ./O"
             }
         },
         "5": {

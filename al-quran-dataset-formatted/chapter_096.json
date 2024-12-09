@@ -7,7 +7,7 @@
                 "id": "Bacalah dengan (menyebut) nama Tuhanmu yang menciptakan!"
             },
             "labels": {
-                "id": "Bacalah/O  dengan/O  (/O  menyebut/O  )/O  nama/O  Tuhanmu/O  yang/O  menciptakan/O !/O"
+                "id": "Bacalah/O dengan/O (/O menyebut/O )/O nama/O Tuhanmu/O yang/O menciptakan/O !/O"
             }
         },
         "2": {
@@ -17,7 +17,7 @@
                 "id": "Dia menciptakan manusia dari segumpal darah."
             },
             "labels": {
-                "id": "Dia/O  menciptakan/O  manusia/O  dari/O  segumpal/O  darah/O ./O  Dia/O  menciptakan/O  manusia/O  dari/O  segumpal/O  darah/O ./O  Dia/O  menciptakan/O  manusia/O  dari/O  segumpal/O  darah/O ./O  Dia/O  menciptakan/O  manusia/O  dari/O  segumpal/O  darah/O ./O  Dia/O  menciptakan/O  manusia/O  dari/O  segumpal/O  darah/O ./O  Dia/O  menciptakan/O  manusia/O  dari/O  segumpal/O  darah/O ./O  Dia/O  menciptakan/O  manusia/O  dari/O  segumpal/O  darah/O ./O  Dia/O  menciptakan/O  manusia/O  dari/O  segumpal/O  darah/O ./O  Dia/O  menciptakan/O  manusia/O  dari/O  segumpal/O  darah/O ./O  Dia/O  menciptakan/O  manusia/O  dari/O  segumpal/O  darah/O ./O  Dia/O  menciptakan/O  manusia/O  dari/O  segumpal/O  darah/O ./O  Dia/O  menciptakan/O  manusia/O  dari/O  segumpal/O  darah/O ./O  Dia/O  menciptakan/O  manusia/O  dari/O  segumpal/O  dar"
+                "id": "Dia/O menciptakan/O manusia/O dari/O segumpal/O darah/O ./O"
             }
         },
         "3": {
@@ -27,7 +27,7 @@
                 "id": "Bacalah! Tuhanmulah Yang Maha Mulia,"
             },
             "labels": {
-                "id": "Bacalah/O !/O  Tuhanmulah/O  Yang Maha Mulia/O ,/O"
+                "id": "Bacalah/O !/O Tuhanmulah/O Yang Maha Mulia/O ,/O"
             }
         },
         "4": {
@@ -37,7 +37,7 @@
                 "id": "yang mengajar (manusia) dengan pena."
             },
             "labels": {
-                "id": "yang/O  mengajar/O  (/O  manusia/O  )/O  dengan/O  pena/O ./O"
+                "id": "yang/O mengajar/O (/O manusia/O )/O dengan/O pena/O ./O"
             }
         },
         "5": {
@@ -47,7 +47,7 @@
                 "id": "Dia mengajarkan manusia apa yang tidak diketahuinya."
             },
             "labels": {
-                "id": "Dia/O  mengajarkan/O  manusia/O  apa/O  yang/O  tidak/O  diketahuinya/O ./O"
+                "id": "Dia/O mengajarkan/O manusia/O apa/O yang/O tidak/O diketahuinya/O ./O"
             }
         },
         "6": {
@@ -57,7 +57,7 @@
                 "id": "Sekali-kali tidak! Sesungguhnya manusia itu benar-benar melampaui batas"
             },
             "labels": {
-                "id": "Sekali-kali/O  tidak/O !/O  Sesungguhnya/O  manusia/O  itu/O  benar-benar/O  melampaui/O  batas/O ./O"
+                "id": "Sekali-kali/O tidak/O !/O Sesungguhnya/O manusia/O itu/O benar-benar/O melampaui/O batas/O"
             }
         },
         "7": {
@@ -67,7 +67,7 @@
                 "id": "ketika melihat dirinya serba berkecukupan."
             },
             "labels": {
-                "id": "ketika/O  melihat/O  dirinya/O  serba/O  berkecukupan/O ./O"
+                "id": "ketika/O melihat/O dirinya/O serba/O berkecukupan/O ./O"
             }
         },
         "8": {
@@ -77,7 +77,7 @@
                 "id": "Sesungguhnya hanya kepada Tuhanmulah tempat kembali(-mu)."
             },
             "labels": {
-                "id": "Sesungguhnya/O  hanya/O  kepada/O  Tuhanmulah/O  tempat/O  kembali/O  (/O  -mu/O  )/O ./O"
+                "id": "Sesungguhnya/O hanya/O kepada/O Tuhanmulah/O tempat/O kembali/O (/O -mu/O )/O ./O"
             }
         },
         "9": {
@@ -87,7 +87,7 @@
                 "id": "Tahukah kamu tentang orang yang melarang"
             },
             "labels": {
-                "id": "Tahukah/O  kamu/O  tentang/O  orang/O  yang/O  melarang/O ?/O"
+                "id": "Tahukah/O kamu/O tentang/O orang/O yang/O melarang/O"
             }
         },
         "10": {
@@ -97,7 +97,7 @@
                 "id": "seorang hamba ketika dia melaksanakan salat?"
             },
             "labels": {
-                "id": "seorang/O  hamba/O  ketika/O  dia/O  melaksanakan/O  salat/O ?/O"
+                "id": "seorang/O hamba/O ketika/O dia/O melaksanakan/O salat/O ?/O"
             }
         },
         "11": {
@@ -107,7 +107,7 @@
                 "id": "Bagaimana pendapatmu kalau terbukti dia berada di dalam kebenaran"
             },
             "labels": {
-                "id": "Bagaimana/O  pendapatmu/O  kalau/O  terbukti/O  dia/O  berada/O  di/O  dalam/O  kebenaran/O ?/O"
+                "id": "Bagaimana/O pendapatmu/O kalau/O terbukti/O dia/O berada/O di/O dalam/O kebenaran/O"
             }
         },
         "12": {
@@ -117,7 +117,7 @@
                 "id": "atau dia menyuruh bertakwa (kepada Allah)?"
             },
             "labels": {
-                "id": "atau/O  dia/O  menyuruh/O  bertakwa/O  (/O  kepada/O  Allah/Allah  )/O ?/O"
+                "id": "atau/O dia/O menyuruh/O bertakwa/O (/O kepada/O Allah/Allah )/O ?/O"
             }
         },
         "13": {
@@ -127,7 +127,7 @@
                 "id": "Bagaimana pendapatmu kalau dia mendustakan (kebenaran) dan berpaling (dari keimanan)?"
             },
             "labels": {
-                "id": "Bagaimana/O  pendapatmu/O  kalau/O  dia/O  mendustakan/O  (/O  kebenaran/O  )/O  dan/O  berpaling/O  (/O  dari/O  keimanan/O  )/O ?/O"
+                "id": "Bagaimana/O pendapatmu/O kalau/O dia/O mendustakan/O (/O kebenaran/O )/O dan/O berpaling/O (/O dari/O keimanan/O )/O ?/O"
             }
         },
         "14": {
@@ -137,7 +137,7 @@
                 "id": "Tidakkah dia mengetahui bahwa sesungguhnya Allah melihat (segala perbuatannya)?"
             },
             "labels": {
-                "id": "Tidakkah/O  dia/O  mengetahui/O  bahwa/O  sesungguhnya/O  Allah/Allah  melihat/O  (/O  segala/O  perbuatannya/O  )/O ?/O"
+                "id": "Tidakkah/O dia/O mengetahui/O bahwa/O sesungguhnya/O Allah/Allah melihat/O (/O segala/O perbuatannya/O )/O ?/O"
             }
         },
         "15": {
@@ -147,7 +147,7 @@
                 "id": "Sekali-kali tidak! Sungguh, jika dia tidak berhenti (berbuat demikian), niscaya Kami tarik ubun-ubunnya (ke dalam neraka),"
             },
             "labels": {
-                "id": "Sekali-kali/O  tidak/O !/O  Sungguh/O ,/O  jika/O  dia/O  tidak/O  berhenti/O  (/O  berbuat/O  demikian/O  )/O ,/O  niscaya/O  Kami/O  tarik/O  ubun-ubunnya/O  (/O  ke/O  dalam/O  neraka/O  )/O ,/O"
+                "id": "Sekali-kali/O tidak/O !/O Sungguh/O ,/O jika/O dia/O tidak/O berhenti/O (/O berbuat/O demikian/O )/O ,/O niscaya/O Kami/O tarik/O ubun-ubunnya/O (/O ke/O dalam/O neraka/O )/O ,/O"
             }
         },
         "16": {
@@ -157,7 +157,7 @@
                 "id": "(yaitu) ubun-ubun orang yang mendustakan (kebenaran) dan durhaka."
             },
             "labels": {
-                "id": "(/O  yaitu/O  )/O  ubun-ubun/O  orang/O  yang/O  mendustakan/O  (/O  kebenaran/O  )/O  dan/O  durhaka/O ./O"
+                "id": "(/O yaitu/O )/O ubun-ubun/O orang/O yang/O mendustakan/O (/O kebenaran/O )/O dan/O durhaka/O ./O"
             }
         },
         "17": {
@@ -167,7 +167,7 @@
                 "id": "Biarlah dia memanggil golongannya (untuk menolongnya)."
             },
             "labels": {
-                "id": "Biarlah/O  dia/O  memanggil/O  golongannya/O  (/O  untuk/O  menolongnya/O  )/O ./O"
+                "id": "Biarlah/O dia/O memanggil/O golongannya/O (/O untuk/O menolongnya/O )/O ./O"
             }
         },
         "18": {
@@ -177,7 +177,7 @@
                 "id": "Kelak Kami akan memanggil (Malaikat) Zabaniah (penyiksa orang-orang yang berdosa)."
             },
             "labels": {
-                "id": "Kelak/O  Kami/O  akan/O  memanggil/O  (/O  Malaikat/O  )/O  Zabaniah/O  (/O  penyiksa/O  orang-orang/O  yang/O  berdosa/O  )/O ./O"
+                "id": "Kelak/O Kami/O akan/O memanggil/O (/O Malaikat/O )/O Zabaniah/Angel (/O penyiksa/O orang-orang/O yang/O berdosa/O )/O ./O"
             }
         },
         "19": {
@@ -187,7 +187,7 @@
                 "id": "Sekali-kali tidak! Janganlah patuh kepadanya, (tetapi) sujud dan mendekatlah (kepada Allah)."
             },
             "labels": {
-                "id": "Sekali-kali/O  tidak/O !/O  Janganlah/O  patuh/O  kepadanya/O ,/O  (/O  tetapi/O  )/O  sujud/O  dan/O  mendekatlah/O  (/O  kepada/O  Allah/Allah  )/O ./O"
+                "id": "Sekali-kali/O tidak/O !/O Janganlah/O patuh/O kepadanya/O ,/O (/O tetapi/O )/O sujud/O dan/O mendekatlah/O (/O kepada/O Allah/Allah )/O ./O"
             }
         }
     }

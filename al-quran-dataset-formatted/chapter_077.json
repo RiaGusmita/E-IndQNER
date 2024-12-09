@@ -7,7 +7,7 @@
                 "id": "Demi (malaikat-malaikat) yang diutus untuk membawa kebaikan"
             },
             "labels": {
-                "id": "Demi/O  (/O  malaikat-malaikat/O  )/O  yang/O  diutus/O  untuk/O  membawa/O  kebaikan/O  /O"
+                "id": "Demi/O (/O malaikat-malaikat/O )/O yang/O diutus/O untuk/O membawa/O kebaikan/O"
             }
         },
         "2": {
@@ -17,7 +17,7 @@
                 "id": "dan (malaikat-malaikat) yang terbang dengan kencang;"
             },
             "labels": {
-                "id": "dan/O  (/O  malaikat-malaikat/O  )/O  yang/O  terbang/O  dengan/O  kencang/O ;/O"
+                "id": "dan/O (/O malaikat-malaikat/O )/O yang/O terbang/O dengan/O kencang/O ;/O"
             }
         },
         "3": {
@@ -27,7 +27,7 @@
                 "id": "demi (malaikat-malaikat) yang menyebarkan (rahmat Allah) dengan seluas-luasnya,"
             },
             "labels": {
-                "id": "Test sentence: demi/O  (/O  malaikat-malaikat/O  )/O  yang/O  menyebarkan/O  (/O  rahmat/O  Allah/Allah  )/O  dengan/O  seluas-luasnya/O ,/O"
+                "id": "demi/O (/O malaikat-malaikat/O )/O yang/O menyebarkan/O (/O rahmat/O Allah/Allah )/O dengan/O seluas-luasnya/O ,/O"
             }
         },
         "4": {
@@ -37,7 +37,7 @@
                 "id": "dan (malaikat-malaikat) yang membedakan (antara yang baik dan yang buruk) dengan sejelas-jelasnya,"
             },
             "labels": {
-                "id": "dan/O  (/O  malaikat-malaikat/O  )/O  yang/O  membedakan/O  (/O  antara/O  yang/O  baik/O  dan/O  yang/O  buruk/O  )/O  dengan/O  sejelas-jelasnya/O ,/O"
+                "id": "dan/O (/O malaikat-malaikat/O )/O yang/O membedakan/O (/O antara/O yang/O baik/O dan/O yang/O buruk/O )/O dengan/O sejelas-jelasnya/O ,/O"
             }
         },
         "5": {
@@ -47,7 +47,7 @@
                 "id": "serta (malaikat-malaikat) yang menyampaikan wahyu"
             },
             "labels": {
-                "id": "serta/O  (/O  malaikat-malaikat/O  )/O  yang/O  menyampaikan/O  wahyu/O"
+                "id": "serta/O (/O malaikat-malaikat/O )/O yang/O menyampaikan/O wahyu/O"
             }
         },
         "6": {
@@ -57,7 +57,7 @@
                 "id": "untuk (menolak) alasan atau (memberi) peringatan,"
             },
             "labels": {
-                "id": "untuk/O  (/O  menolak/O  )/O  alasan/O  atau/O  (/O  memberi/O  )/O  peringatan/O ,/O"
+                "id": "untuk/O (/O menolak/O )/O alasan/O atau/O (/O memberi/O )/O peringatan/O ,/O"
             }
         },
         "7": {
@@ -67,7 +67,7 @@
                 "id": "sesungguhnya apa yang dijanjikan kepadamu pasti terjadi."
             },
             "labels": {
-                "id": "sesungguhnya/O  apa/O  yang/O  dijanjikan/O  kepadamu/O  pasti/O  terjadi/O ./O"
+                "id": "sesungguhnya/O apa/O yang/O dijanjikan/O kepadamu/O pasti/O terjadi/O ./O"
             }
         },
         "8": {
@@ -77,7 +77,7 @@
                 "id": "Apabila bintang-bintang dihapuskan (cahayanya),"
             },
             "labels": {
-                "id": "Apabila/O  bintang-bintang/O  dihapuskan/O  (/O  cahayanya/O  )/O ,/O  tidak/O  ada/O  lagi/O  cahayanya/O ./O"
+                "id": "Apabila/O bintang-bintang/O dihapuskan/O (/O cahayanya/O )/O ,/O"
             }
         },
         "9": {
@@ -87,7 +87,7 @@
                 "id": "apabila langit dibelah,"
             },
             "labels": {
-                "id": "apabila/O  langit/O  dibelah/O ,/O  (/O  Al-Qur’an/HolyBook  )/O  yang/O  Kami/O  turunkan/O  kepada/O  hamba/O  Kami/O  (/O  Nabi/O  Muhammad/Messenger  )/O ./O  Jika/O  kamu/O  (tetap/O  )/O  dalam/O  keraguan/O  tentang/O  apa/O  (Al-Qur’an/HolyBook  )/O  yang/O  Kami/O  turunkan/O  kepada/O  hamba/O  Kami/O  (/O  Nabi/O  Muhammad/Messenger  )/O ,/O  buatlah/O  satu/O  surah/O  yang/O  semisal/O  dengannya/O  dan/O  ajaklah/O  penolong-penolongmu/O  selain/O  Allah/O ,/O  jika/O  kamu/O  orang-orang/O  yang/O  benar/O ./O  Jika/O  kamu/O  (tetap/O  )/O  dalam/O  keraguan/O  tentang/O  apa/O  (Al-Qur’an/HolyBook  )/O  yang/O  Kami/O  turunkan/O  kepada/O  hamba/O  Kami/O  (/O  Nabi/O  Muhammad/Messenger  )/O ,/O  buatlah/O  satu/O  surah/O  yang/O  semisal/O  dengannya/O  dan"
+                "id": "apabila/O langit/O dibelah/O ,/O"
             }
         },
         "10": {
@@ -97,7 +97,7 @@
                 "id": "apabila gunung-gunung dihancurleburkan,"
             },
             "labels": {
-                "id": "apabila/O  gunung-gunung/O  dihancurleburkan/O ,/O"
+                "id": "apabila/O gunung-gunung/O dihancurleburkan/O ,/O"
             }
         },
         "11": {
@@ -107,17 +107,17 @@
                 "id": "dan apabila rasul-rasul telah ditetapkan waktunya,"
             },
             "labels": {
-                "id": "dan/O  apabila/O  rasul-rasul/O  telah/O  ditetapkan/O  waktunya/O ,/O"
+                "id": "dan/O apabila/O rasul-rasul/O telah/O ditetapkan/O waktunya/O ,/O"
             }
         },
         "12": {
             "chapterid": "077",
             "verse_id": 12,
             "verse": {
-                "id": "(niscaya dikatakan kepada mereka,) “Sampai hari apakah ditangguhkan (azab orang kafir itu)?”"
+                "id": "(niscaya dikatakan kepada mereka,) \u201cSampai hari apakah ditangguhkan (azab orang kafir itu)?\u201d"
             },
             "labels": {
-                "id": "(/O  niscaya/O  dikatakan/O  kepada/O  mereka/O ,/O  )/O  “Sampai/O  hari/O  apakah/O  ditangguhkan/O  (/O  azab/O  orang/O  kafir/O  itu/O  )/O ?/O  ”/O"
+                "id": "(/O niscaya/O dikatakan/O kepada/O mereka/O ,/O )/O \u201c/O Sampai/O hari/O apakah/O ditangguhkan/O (/O azab/O orang/O kafir/O itu/O )/O ?/O \u201d/O"
             }
         },
         "13": {
@@ -127,7 +127,7 @@
                 "id": "Sampai hari Keputusan."
             },
             "labels": {
-                "id": "Sampai/O  hari/O  Keputusan/O ./O"
+                "id": "Sampai/O hari/O Keputusan/AfterLifeEvent ./O"
             }
         },
         "14": {
@@ -137,7 +137,7 @@
                 "id": "Tahukah kamu apakah hari Keputusan itu?"
             },
             "labels": {
-                "id": "Tahukah/O  kamu/O  apakah/O  hari/O  Keputusan/O  itu/O ?/O"
+                "id": "Tahukah/O kamu/O apakah/O hari Keputusan/AfterLifeEvent itu/O ?/O"
             }
         },
         "15": {
@@ -147,7 +147,7 @@
                 "id": "Celakalah pada hari itu para pendusta (kebenaran)."
             },
             "labels": {
-                "id": "Celakalah/O  pada/O  hari/O  itu/O  para/O  pendusta/O  (/O  kebenaran/O  )/O ./O  Celakalah/O  pada/O  hari/O  itu/O  para/O  pendusta/O  (/O  kebenaran/O  )/O ./O  Celakalah/O  pada/O  hari/O  itu/O  para/O  pendusta/O  (/O  kebenaran/O  )/O ./O  Celakalah/O  pada/O  hari/O  itu/O  para/O  pendusta/O  (/O  kebenaran/O  )/O ./O  Celakalah/O  pada/O  hari/O  itu/O  para/O  pendusta/O  (/O  kebenaran/O  )/O ./O  Celakalah/O  pada/O  hari/O  itu/O  para/O  pendusta/O  (/O  kebenaran/O  )/O ./O  Celakalah/O  pada/O  hari/O  itu/O  para/O  pendusta/O  (/O  kebenaran/O  )/O ./O  Celakalah/O  pada/O  hari/O  itu/O  para/O  pendusta/O  (/O  kebenaran/O  )/O ./O  Celakalah/O  pada/O  hari/O  itu/O  para/O  pendusta/O  (/O  kebenaran/O  )/O ./O  Celakalah/O  pada/O  hari/O  itu/O  para/O  pendusta/O  (/O  kebenaran/O  )"
+                "id": "Celakalah/O pada/O hari/O itu/O para/O pendusta/O (/O kebenaran/O )/O ./O"
             }
         },
         "16": {
@@ -157,7 +157,7 @@
                 "id": "Bukankah Kami telah membinasakan orang-orang dahulu?"
             },
             "labels": {
-                "id": "Bukankah/O  Kami/O  telah/O  membinasakan/O  orang-orang/O  dahulu/O ?/O"
+                "id": "Bukankah/O Kami/O telah/O membinasakan/O orang-orang/O dahulu/O ?/O"
             }
         },
         "17": {
@@ -167,7 +167,7 @@
                 "id": "Lalu, Kami susuli mereka dengan (mengazab) orang-orang yang datang kemudian."
             },
             "labels": {
-                "id": "Lalu/O ,/O  Kami/O  susuli/O  mereka/O  dengan/O  (/O  mengazab/O  )/O  orang-orang/O  yang/O  datang/O  kemudian/O ./O"
+                "id": "Lalu/O ,/O Kami/O susuli/O mereka/O dengan/O (/O mengazab/O )/O orang-orang/O yang/O datang/O kemudian/O ./O"
             }
         },
         "18": {
@@ -177,7 +177,7 @@
                 "id": "Demikianlah Kami memperlakukan para pendurhaka."
             },
             "labels": {
-                "id": "Demikianlah/O  Kami/O  memperlakukan/O  para/O  pendurhaka/O ./O"
+                "id": "Demikianlah/O Kami/O memperlakukan/O para/O pendurhaka/O ./O"
             }
         },
         "19": {
@@ -187,7 +187,7 @@
                 "id": "Celakalah pada hari itu para pendusta (kebenaran)."
             },
             "labels": {
-                "id": "Celakalah/O  pada/O  hari/O  itu/O  para/O  pendusta/O  (/O  kebenaran/O  )/O ./O"
+                "id": "Celakalah/O pada/O hari/O itu/O para/O pendusta/O (/O kebenaran/O )/O ./O"
             }
         },
         "20": {
@@ -197,7 +197,7 @@
                 "id": "Bukankah Kami menciptakanmu dari air yang hina (mani)?"
             },
             "labels": {
-                "id": "Bukankah/O  Kami/O  menciptakanmu/O  dari/O  air/O  yang/O  hina/O  (/O  mani/O  )/O ?/O"
+                "id": "Bukankah/O Kami/O menciptakanmu/O dari/O air/O yang/O hina/O (/O mani/O )/O ?/O"
             }
         },
         "21": {
@@ -207,7 +207,7 @@
                 "id": "Kemudian, Kami meletakkannya di dalam tempat yang kukuh (rahim)"
             },
             "labels": {
-                "id": "Kemudian/O ,/O  Kami/O  meletakkannya/O  di/O  dalam/O  tempat/O  yang/O  kukuh/O  (/O  rahim/O  )/O"
+                "id": "Kemudian/O ,/O Kami/O meletakkannya/O di/O dalam/O tempat/O yang/O kukuh/O (/O rahim/O )/O"
             }
         },
         "22": {
@@ -217,7 +217,7 @@
                 "id": "sampai waktu yang ditentukan."
             },
             "labels": {
-                "id": "sampai/O  waktu/O  yang/O  ditentukan/O ./O"
+                "id": "sampai/O waktu/O yang/O ditentukan/O ./O"
             }
         },
         "23": {
@@ -227,7 +227,7 @@
                 "id": "Lalu, Kami tentukan (bentuk dan waktu lahirnya). Maka, (Kamilah) sebaik-baik penentu."
             },
             "labels": {
-                "id": "Lalu/O ,/O  Kami/O  tentukan/O  (/O  bentuk/O  dan/O  waktu/O  lahirnya/O  )/O ./O  Maka/O ,/O  (/O  Kamilah/O  )/O  sebaik-baik/O  penentu/O ./O"
+                "id": "Lalu/O ,/O Kami/O tentukan/O (/O bentuk/O dan/O waktu/O lahirnya/O )/O ./O Maka/O ,/O (/O Kamilah/O )/O sebaik-baik/O penentu/O ./O"
             }
         },
         "24": {
@@ -237,7 +237,7 @@
                 "id": "Celakalah pada hari itu para pendusta (kebenaran)."
             },
             "labels": {
-                "id": "Celakalah/O  pada/O  hari/O  itu/O  para/O  pendusta/O  (/O  kebenaran/O  )/O ./O  Celakalah/O  pada/O  hari/O  itu/O  para/O  pendusta/O  (/O  kebenaran/O  )/O ./O  Celakalah/O  pada/O  hari/O  itu/O  para/O  pendusta/O  (/O  kebenaran/O  )/O ./O  Celakalah/O  pada/O  hari/O  itu/O  para/O  pendusta/O  (/O  kebenaran/O  )/O ./O  Celakalah/O  pada/O  hari/O  itu/O  para/O  pendusta/O  (/O  kebenaran/O  )/O ./O  Celakalah/O  pada/O  hari/O  itu/O  para/O  pendusta/O  (/O  kebenaran/O  )/O ./O  Celakalah/O  pada/O  hari/O  itu/O  para/O  pendusta/O  (/O  kebenaran/O  )/O ./O  Celakalah/O  pada/O  hari/O  itu/O  para/O  pendusta/O  (/O  kebenaran/O  )/O ./O  Celakalah/O  pada/O  hari/O  itu/O  para/O  pendusta/O  (/O  kebenaran/O  )/O ./O  Celakalah/O  pada/O  hari/O  itu/O  para/O  pendusta/O  (/O  kebenaran/O  )"
+                "id": "Celakalah/O pada/O hari/O itu/O para/O pendusta/O (/O kebenaran/O )/O ./O"
             }
         },
         "25": {
@@ -247,7 +247,7 @@
                 "id": "Bukankah Kami menjadikan bumi sebagai (tempat) berkumpul"
             },
             "labels": {
-                "id": "Bukankah/O  Kami/O  menjadikan/O  bumi/O  sebagai/O  (/O  tempat/O  )/O  berkumpul/O  (/O ?/O  )/O"
+                "id": "Bukankah/O Kami/O menjadikan/O bumi/AstronomicalBody sebagai/O (/O tempat/O )/O berkumpul/O"
             }
         },
         "26": {
@@ -257,7 +257,7 @@
                 "id": "bagi yang (masih) hidup dan yang (sudah) mati?"
             },
             "labels": {
-                "id": "bagi/O  yang/O  (/O  masih/O  )/O  hidup/O  dan/O  yang/O  (/O  sudah/O  )/O  mati/O ?/O"
+                "id": "bagi/O yang/O (/O masih/O )/O hidup/O dan/O yang/O (/O sudah/O )/O mati/O ?/O"
             }
         },
         "27": {
@@ -267,7 +267,7 @@
                 "id": "Kami menjadikan padanya gunung-gunung yang tinggi dan memberi minum kamu air yang tawar?"
             },
             "labels": {
-                "id": "Kami/O  menjadikan/O  padanya/O  gunung-gunung/O  yang/O  tinggi/O  dan/O  memberi/O  minum/O  kamu/O  air/O  yang/O  tawar/O ?/O"
+                "id": "Kami/O menjadikan/O padanya/O gunung-gunung/O yang/O tinggi/O dan/O memberi/O minum/O kamu/O air/O yang/O tawar/O ?/O"
             }
         },
         "28": {
@@ -277,17 +277,17 @@
                 "id": "Celakalah pada hari itu para pendusta (kebenaran)."
             },
             "labels": {
-                "id": "Celakalah/O  pada/O  hari/O  itu/O  para/O  pendusta/O  (/O  kebenaran/O  )/O ./O  Celakalah/O  pada/O  hari/O  itu/O  para/O  pendusta/O  (/O  kebenaran/O  )/O ./O  Celakalah/O  pada/O  hari/O  itu/O  para/O  pendusta/O  (/O  kebenaran/O  )/O ./O  Celakalah/O  pada/O  hari/O  itu/O  para/O  pendusta/O  (/O  kebenaran/O  )/O ./O  Celakalah/O  pada/O  hari/O  itu/O  para/O  pendusta/O  (/O  kebenaran/O  )/O ./O  Celakalah/O  pada/O  hari/O  itu/O  para/O  pendusta/O  (/O  kebenaran/O  )/O ./O  Celakalah/O  pada/O  hari/O  itu/O  para/O  pendusta/O  (/O  kebenaran/O  )/O ./O  Celakalah/O  pada/O  hari/O  itu/O  para/O  pendusta/O  (/O  kebenaran/O  )/O ./O  Celakalah/O  pada/O  hari/O  itu/O  para/O  pendusta/O  (/O  kebenaran/O  )/O ./O  Celakalah/O  pada/O  hari/O  itu/O  para/O  pendusta/O  (/O  kebenaran/O  )"
+                "id": "Celakalah/O pada/O hari/O itu/O para/O pendusta/O (/O kebenaran/O )/O ./O"
             }
         },
         "29": {
             "chapterid": "077",
             "verse_id": 29,
             "verse": {
-                "id": "(Dikatakan kepada orang-orang kafir,) “Pergilah menuju apa (neraka) yang selalu kamu dustakan."
+                "id": "(Dikatakan kepada orang-orang kafir,) \u201cPergilah menuju apa (neraka) yang selalu kamu dustakan."
             },
             "labels": {
-                "id": "(/O  Dikatakan/O  kepada/O  orang-orang/O  kafir/O ,/O  )/O  “Pergilah/O  menuju/O  apa/O  (/O  neraka/O  )/O  yang/O  selalu/O  kamu/O  dustakan/O ./O"
+                "id": "(/O Dikatakan/O kepada/O orang-orang/O kafir/O ,/O )/O \u201c/O Pergilah/O menuju/O apa/O (/O neraka/O )/O yang/O selalu/O kamu/O dustakan/O ./O"
             }
         },
         "30": {
@@ -297,17 +297,17 @@
                 "id": "Pergilah menuju naungan (asap api neraka) yang mempunyai tiga cabang"
             },
             "labels": {
-                "id": "Pergilah/O  menuju/O  naungan/O  (/O  asap/O  api/O  neraka/O  )/O  yang/O  mempunyai/O  tiga/O  cabang/O  (/O  asap/O  api/O  neraka/O  )/O ./O"
+                "id": "Pergilah/O menuju/O naungan/O (/O asap/O api/O neraka/O )/O yang/O mempunyai/O tiga/O cabang/O"
             }
         },
         "31": {
             "chapterid": "077",
             "verse_id": 31,
             "verse": {
-                "id": "yang tidak melindungi dan tidak menahan (panasnya) nyala api neraka.”"
+                "id": "yang tidak melindungi dan tidak menahan (panasnya) nyala api neraka.\u201d"
             },
             "labels": {
-                "id": "Test sentence: yang/O  tidak/O  melindungi/O  dan/O  tidak/O  menahan/O  (/O  panasnya/O  )/O  nyala/O  api/O  neraka/O ./O  “/O  yang/O  tidak/O  melindungi/O  dan/O  tidak/O  menahan/O  (/O  panasnya/O  )/O  nyala/O  api/O  neraka/O ./O  ”/O  In the above sentence, the word “nyala” is correctly labeled as an 'O' (Other) word."
+                "id": "yang/O tidak/O melindungi/O dan/O tidak/O menahan/O (/O panasnya/O )/O nyala/O api/O neraka/O ./O"
             }
         },
         "32": {
@@ -317,7 +317,7 @@
                 "id": "Sesungguhnya ia (neraka) menyemburkan bunga api bagaikan istana (yang besar dan tinggi),"
             },
             "labels": {
-                "id": "Sesungguhnya/O  ia/O  (/O  neraka/O  )/O  menyemburkan/O  bunga/O  api/O  bagaikan/O  istana/O  (/O  yang/O  besar/O  dan/O  tinggi/O  )/O ,/O  sesungguhnya/O  ia/O  (neraka) menyemburkan bunga api bagaikan istana (yang besar dan tinggi),/O  (final sentence in user's example sentence before the provided sentence) Jika kamu (tetap) dalam keraguan tentang apa (Al-Qur’an) yang Kami turunkan kepada hamba Kami (Nabi Muhammad), buatlah satu surah yang semisal dengannya dan ajaklah penolong-penolongmu selain Allah, jika kamu orang-orang yang benar."
+                "id": "Sesungguhnya/O ia/O (/O neraka/O )/O menyemburkan/O bunga/O api/O bagaikan/O istana/O (/O yang/O besar/O dan/O tinggi/O )/O ,/O"
             }
         },
         "33": {
@@ -327,7 +327,7 @@
                 "id": "seakan-akan iringan unta (hitam) kekuning-kuningan."
             },
             "labels": {
-                "id": "seakan-akan/O  iringan/O  unta/O  (/O  hitam/O  )/O  kekuning-kuningan/O ./O"
+                "id": "seakan-akan/O iringan/O unta/O (/O hitam/O )/O kekuning-kuningan/O ./O"
             }
         },
         "34": {
@@ -337,7 +337,7 @@
                 "id": "Celakalah pada hari itu para pendusta (kebenaran)."
             },
             "labels": {
-                "id": "Celakalah/O  pada/O  hari/O  itu/O  para/O  pendusta/O  (/O  kebenaran/O  )/O ./O"
+                "id": "Celakalah/O pada/O hari/O itu/O para/O pendusta/O (/O kebenaran/O )/O ./O"
             }
         },
         "35": {
@@ -347,7 +347,7 @@
                 "id": "Inilah hari ketika mereka tidak dapat berbicara."
             },
             "labels": {
-                "id": "Inilah/O  hari/O  ketika/O  mereka/O  tidak/O  dapat/O  berbicara/O ./O"
+                "id": "Inilah/O hari/O ketika/O mereka/O tidak/O dapat/O berbicara/O ./O"
             }
         },
         "36": {
@@ -357,7 +357,7 @@
                 "id": "Mereka tidak diizinkan (berbicara) sehingga (dapat) meminta maaf."
             },
             "labels": {
-                "id": "Mereka/O  tidak/O  diizinkan/O  (/O  berbicara/O  )/O  sehingga/O  (/O  dapat/O  )/O  meminta/O  maaf/O ./O"
+                "id": "Mereka/O tidak/O diizinkan/O (/O berbicara/O )/O sehingga/O (/O dapat/O )/O meminta/O maaf/O ./O"
             }
         },
         "37": {
@@ -367,27 +367,27 @@
                 "id": "Celakalah pada hari itu para pendusta (kebenaran)."
             },
             "labels": {
-                "id": "Celakalah/O  pada/O  hari/O  itu/O  para/O  pendusta/O  (/O  kebenaran/O  )/O ./O"
+                "id": "Celakalah/O pada/O hari/O itu/O para/O pendusta/O (/O kebenaran/O )/O ./O"
             }
         },
         "38": {
             "chapterid": "077",
             "verse_id": 38,
             "verse": {
-                "id": "(Dikatakan kepada mereka,) “Inilah hari Keputusan. Kami kumpulkan kamu dan orang-orang terdahulu."
+                "id": "(Dikatakan kepada mereka,) \u201cInilah hari Keputusan. Kami kumpulkan kamu dan orang-orang terdahulu."
             },
             "labels": {
-                "id": "(/O  Dikatakan/O  kepada/O  mereka/O ,/O  )/O  “Inilah/O  hari/O  Keputusan/O ./O  Kami/O  kumpulkan/O  kamu/O  dan/O  orang-orang/O  terdahulu/O ./O  ”/O"
+                "id": "(/O Dikatakan/O kepada/O mereka/O ,/O )/O \u201c/O Inilah/O hari Keputusan/AfterLifeEvent ./O Kami/O kumpulkan/O kamu/O dan/O orang-orang/O terdahulu/O ./O"
             }
         },
         "39": {
             "chapterid": "077",
             "verse_id": 39,
             "verse": {
-                "id": "Jika kamu punya tipu daya, lakukanlah terhadap-Ku.”"
+                "id": "Jika kamu punya tipu daya, lakukanlah terhadap-Ku.\u201d"
             },
             "labels": {
-                "id": "Jika/O  kamu/O  punya/O  tipu/O  daya/O ,/O  lakukanlah/O  terhadap-Ku/O ./O  “/O"
+                "id": "Jika/O kamu/O punya/O tipu/O daya/O ,/O lakukanlah/O terhadap-Ku/O ./O"
             }
         },
         "40": {
@@ -397,7 +397,7 @@
                 "id": "Celakalah pada hari itu para pendusta (kebenaran)."
             },
             "labels": {
-                "id": "Celakalah/O  pada/O  hari/O  itu/O  para/O  pendusta/O  (/O  kebenaran/O  )/O ./O"
+                "id": "Celakalah/O pada/O hari/O itu/O para/O pendusta/O (/O kebenaran/O )/O ./O"
             }
         },
         "41": {
@@ -407,7 +407,7 @@
                 "id": "Sesungguhnya orang-orang yang bertakwa berada dalam naungan (pepohonan surga yang teduh) dan (ada di sekitar) mata air"
             },
             "labels": {
-                "id": "Sesungguhnya/O  orang-orang/O  yang/O  bertakwa/O  berada/O  dalam/O  naungan/O  (/O  pepohonan/O  surga/O  yang/O  teduh/O  )/O  dan/O  (/O  ada/O  di/O  sekitar/O  )/O  mata/O  air/O ./O"
+                "id": "Sesungguhnya/O orang-orang/O yang/O bertakwa/O berada/O dalam/O naungan/O (/O pepohonan/O surga/O yang/O teduh/O )/O dan/O (/O ada/O di/O sekitar/O )/O mata/O air/O"
             }
         },
         "42": {
@@ -417,17 +417,17 @@
                 "id": "serta buah-buahan yang mereka sukai."
             },
             "labels": {
-                "id": "serta/O  buah-buahan/O  yang/O  mereka/O  sukai/O ./O"
+                "id": "serta/O buah-buahan/O yang/O mereka/O sukai/O ./O"
             }
         },
         "43": {
             "chapterid": "077",
             "verse_id": 43,
             "verse": {
-                "id": "(Dikatakan kepada mereka,) “Makan dan minumlah dengan nikmat karena apa yang selalu kamu kerjakan.”"
+                "id": "(Dikatakan kepada mereka,) \u201cMakan dan minumlah dengan nikmat karena apa yang selalu kamu kerjakan.\u201d"
             },
             "labels": {
-                "id": "(/O  Dikatakan/O  kepada/O  mereka/O ,/O  )/O  “Makan/O  dan/O  minumlah/O  dengan/O  nikmat/O  karena/O  apa/O  yang/O  selalu/O  kamu/O  kerjakan/O ./O  (/O  Dikatakan/O  kepada/O  mereka/O ,/O  )/O  “Makan/O  dan/O  minumlah/O  dengan/O  nikmat/O  karena/O  apa/O  yang/O  selalu/O  kamu/O  kerjakan/O ./O  (/O  Dikatakan/O  kepada/O  mereka/O ,/O  )/O  “Makan/O  dan/O  minumlah/O  dengan/O  nikmat/O  karena/O  apa/O  yang/O  selalu/O  kamu/O  kerjakan/O ./O  (/O  Dikatakan/O  kepada/O  mereka/O ,/O  )/O  “Makan/O  dan/O  minumlah/O  dengan/O  nikmat/O  karena/O  apa/O  yang/O  selalu/O  kamu/O  kerjakan/O ./O  (/O  Dikatakan/O  kepada/O  mereka/O ,/O  )/O  “Makan/O  dan/O  minumlah/O  dengan/O  nikmat/O  karena/O  apa/O  yang/O  selalu/O  kamu/O  kerjakan/O ./O  (/O  Dikatakan/O  kepada/O  mereka/O ,/O  )/"
+                "id": "(/O Dikatakan/O kepada/O mereka/O ,/O )/O \u201c/O Makan/O dan/O minumlah/O dengan/O nikmat/O karena/O apa/O yang/O selalu/O kamu/O kerjakan/O ./O\u201d/O"
             }
         },
         "44": {
@@ -437,7 +437,7 @@
                 "id": "Sesungguhnya demikianlah Kami beri balasan kepada orang-orang yang berbuat baik."
             },
             "labels": {
-                "id": "Sesungguhnya/O  demikianlah/O  Kami/O  beri/O  balasan/O  kepada/O  orang-orang/O  yang/O  berbuat/O  baik/O ./O"
+                "id": "Sesungguhnya/O demikianlah/O Kami/O beri/O balasan/O kepada/O orang-orang/O yang/O berbuat/O baik/O ./O"
             }
         },
         "45": {
@@ -447,17 +447,17 @@
                 "id": "Celakalah pada hari itu para pendusta (kebenaran)."
             },
             "labels": {
-                "id": "Celakalah/O  pada/O  hari/O  itu/O  para/O  pendusta/O  (/O  kebenaran/O  )/O ./O  Celakalah/O  pada/O  hari/O  itu/O  para/O  pendusta/O  (/O  kebenaran/O  )/O ./O  Celakalah/O  pada/O  hari/O  itu/O  para/O  pendusta/O  (/O  kebenaran/O  )/O ./O  Celakalah/O  pada/O  hari/O  itu/O  para/O  pendusta/O  (/O  kebenaran/O  )/O ./O  Celakalah/O  pada/O  hari/O  itu/O  para/O  pendusta/O  (/O  kebenaran/O  )/O ./O  Celakalah/O  pada/O  hari/O  itu/O  para/O  pendusta/O  (/O  kebenaran/O  )/O ./O  Celakalah/O  pada/O  hari/O  itu/O  para/O  pendusta/O  (/O  kebenaran/O  )/O ./O  Celakalah/O  pada/O  hari/O  itu/O  para/O  pendusta/O  (/O  kebenaran/O  )/O ./O  Celakalah/O  pada/O  hari/O  itu/O  para/O  pendusta/O  (/O  kebenaran/O  )/O ./O  Celakalah/O  pada/O  hari/O  itu/O  para/O  pendusta/O  (/O  kebenaran/O  )"
+                "id": "Celakalah/O pada/O hari/O itu/O para/O pendusta/O (/O kebenaran/O )/O ./O"
             }
         },
         "46": {
             "chapterid": "077",
             "verse_id": 46,
             "verse": {
-                "id": "(Dikatakan kepada orang-orang kafir,) “Makan dan bersenang-senanglah kamu (di dunia) sebentar. Sesungguhnya kamu adalah para pendurhaka!”"
+                "id": "(Dikatakan kepada orang-orang kafir,) \u201cMakan dan bersenang-senanglah kamu (di dunia) sebentar. Sesungguhnya kamu adalah para pendurhaka!\u201d"
             },
             "labels": {
-                "id": "(/O  Dikatakan/O  kepada/O  orang-orang/O  kafir/O ,/O  )/O  “Makan/O  dan/O  bersenang-senanglah/O  kamu/O  (/O  di/O  dunia/O  )/O  sebentar/O ./O  Sesungguhnya/O  kamu/O  adalah/O  para/O  pendurhaka/O !/O  ”/O"
+                "id": "(/O Dikatakan/O kepada/O orang-orang/O kafir/O ,/O )/O \u201c/O Makan/O dan/O bersenang-senanglah/O kamu/O (/O di/O dunia/O )/O sebentar/O ./O Sesungguhnya/O kamu/O adalah/O para/O pendurhaka/O !/O\u201d/O"
             }
         },
         "47": {
@@ -467,17 +467,17 @@
                 "id": "Celakalah pada hari itu para pendusta (kebenaran)."
             },
             "labels": {
-                "id": "Celakalah/O  pada/O  hari/O  itu/O  para/O  pendusta/O  (/O  kebenaran/O  )/O ./O  Celakalah/O  pada/O  hari/O  itu/O  para/O  pendusta/O  (/O  kebenaran/O  )/O ./O  Celakalah/O  pada/O  hari/O  itu/O  para/O  pendusta/O  (/O  kebenaran/O  )/O ./O  Celakalah/O  pada/O  hari/O  itu/O  para/O  pendusta/O  (/O  kebenaran/O  )/O ./O  Celakalah/O  pada/O  hari/O  itu/O  para/O  pendusta/O  (/O  kebenaran/O  )/O ./O  Celakalah/O  pada/O  hari/O  itu/O  para/O  pendusta/O  (/O  kebenaran/O  )/O ./O  Celakalah/O  pada/O  hari/O  itu/O  para/O  pendusta/O  (/O  kebenaran/O  )/O ./O  Celakalah/O  pada/O  hari/O  itu/O  para/O  pendusta/O  (/O  kebenaran/O  )/O ./O  Celakalah/O  pada/O  hari/O  itu/O  para/O  pendusta/O  (/O  kebenaran/O  )/O ./O  Celakalah/O  pada/O  hari/O  itu/O  para/O  pendusta/O  (/O  kebenaran/O  )"
+                "id": "Celakalah/O pada/O hari/O itu/O para/O pendusta/O (/O kebenaran/O )/O ./O"
             }
         },
         "48": {
             "chapterid": "077",
             "verse_id": 48,
             "verse": {
-                "id": "Apabila dikatakan kepada mereka, “Rukuklah,” mereka tidak mau rukuk."
+                "id": "Apabila dikatakan kepada mereka, \u201cRukuklah,\u201d mereka tidak mau rukuk."
             },
             "labels": {
-                "id": "Apabila/O  dikatakan/O  kepada/O  mereka/O ,/O  “/O  Rukuklah/O ,/O  ”/O  mereka/O  tidak/O  mau/O  rukuk/O ./O"
+                "id": "Apabila/O dikatakan/O kepada/O mereka/O ,/O \u201c/O Rukuklah/O ,/O \u201d/O mereka/O tidak/O mau/O rukuk/O ./O"
             }
         },
         "49": {
@@ -487,17 +487,17 @@
                 "id": "Celakalah pada hari itu para pendusta (kebenaran)."
             },
             "labels": {
-                "id": "Celakalah/O  pada/O  hari/O  itu/O  para/O  pendusta/O  (/O  kebenaran/O  )/O ./O  Celakalah/O  pada/O  hari/O  itu/O  para/O  pendusta/O  (/O  kebenaran/O  )/O ./O  Celakalah/O  pada/O  hari/O  itu/O  para/O  pendusta/O  (/O  kebenaran/O  )/O ./O  Celakalah/O  pada/O  hari/O  itu/O  para/O  pendusta/O  (/O  kebenaran/O  )/O ./O  Celakalah/O  pada/O  hari/O  itu/O  para/O  pendusta/O  (/O  kebenaran/O  )/O ./O  Celakalah/O  pada/O  hari/O  itu/O  para/O  pendusta/O  (/O  kebenaran/O  )/O ./O  Celakalah/O  pada/O  hari/O  itu/O  para/O  pendusta/O  (/O  kebenaran/O  )/O ./O  Celakalah/O  pada/O  hari/O  itu/O  para/O  pendusta/O  (/O  kebenaran/O  )/O ./O  Celakalah/O  pada/O  hari/O  itu/O  para/O  pendusta/O  (/O  kebenaran/O  )/O ./O  Celakalah/O  pada/O  hari/O  itu/O  para/O  pendusta/O  (/O  kebenaran/O  )"
+                "id": "Celakalah/O pada/O hari/O itu/O para/O pendusta/O (/O kebenaran/O )/O ./O"
             }
         },
         "50": {
             "chapterid": "077",
             "verse_id": 50,
             "verse": {
-                "id": "Maka, pada perkataan manakah sesudahnya (Al-Qur’an) mereka akan beriman?"
+                "id": "Maka, pada perkataan manakah sesudahnya (Al-Qur\u2019an) mereka akan beriman?"
             },
             "labels": {
-                "id": "Maka/O ,/O  pada/O  perkataan/O  manakah/O  sesudahnya/O  (/O  Al-Qur’an/HolyBook  )/O  mereka/O  akan/O  beriman/O ?/O"
+                "id": "Maka/O ,/O pada/O perkataan/O manakah/O sesudahnya/O (/O Al-Qur\u2019an/HolyBook )/O mereka/O akan/O beriman/O ?/O"
             }
         }
     }

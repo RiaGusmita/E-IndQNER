@@ -4,8 +4,9 @@ from openai import OpenAI
 from tqdm import tqdm
 import json
 import ast
+import glob
 # Initialize OpenAI client
-client = OpenAI(api_key="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")
+client = OpenAI(api_key="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")
 
 def query_llm(prompt):
     """
@@ -14,7 +15,7 @@ def query_llm(prompt):
     print(prompt)
     response = client.chat.completions.create(
         messages=prompt,
-        model="ft:gpt-4o-mini-2024-07-18:personal:e-indqner:AJ44A6B4" #change the model to model="gpt-3.5-turbo if you want to use gpt-3.5 
+        model="ft:gpt-4o-2024-08-06:personal:e-indqner:Aa8Nj3eM" #change the model to model="gpt-3.5-turbo if you want to use gpt-3.5 
     )
     return {"response": response.choices[0].message.content}
 
@@ -33,20 +34,60 @@ def read_first_few_lines(file_path, num_lines=0):
 
 
 # Read and display the first few lines of the file
-domain = "specific-domain"
-file_path = f"../new-datasets/gpt-test.jsonl"
-first_few_lines = read_first_few_lines(file_path)
-chapter = 114
-predict_dict = dict()
-num = 1
-for line in tqdm(first_few_lines):
-    line = ast.literal_eval(line)
-    results = query_llm(line["content"]["messages"])
-    predict_dict[num]=results['response']
-    num +=1
+#domain = "specific-domain"
+#file_path = f"../new-datasets/new-gpt_test.jsonl"
+#first_few_lines = read_first_few_lines(file_path)
+#print(first_few_lines)
 
-# Save the dictionary to a JSON file
-with open("results-zeroshot-attempt-1-gpt.json", "w") as json_file:
-    json.dump(predict_dict, json_file, indent=4)  # 'indent' adds formatting for readability
+# Open and read the JSON file
+with open("named_entity_class_dictionary.json", "r") as json_file:
+    named_entity_classes_dict = json.load(json_file)
+    
+# Print the loaded dictionary
+named_entity_classes = [named_entity_class for named_entity_class in named_entity_classes_dict]
+#chapter_list = ["5. al-Ma_idah_normalized.txt", "6. al-An_am_normalized.txt", "4. an-Nisa__normalized.txt"]
+# Specify the directory and file pattern
+file_pattern = '../new-dataset-quran/*'  # Use '*' for all files, or specify a pattern like '*.txt'
 
-print("Results saved")
+# Retrieve all matching filenames
+chapter_list = glob.glob(file_pattern)
+
+for chapter in chapter_list:
+    chapter_name = chapter.split("/")[-1]
+    chapter_id = chapter_name.split(".")[0]
+    if len(chapter_id)==1:
+        chapter_id = f"00{chapter_id}"
+    elif len(chapter_id)==2:
+        chapter_id = f"0{chapter_id}"
+    if chapter_id == "001" or chapter_id == "002" or chapter_id=="003" or chapter=="004":
+        continue
+    print("--------------------")
+    print(chapter_name)
+    print("--------------------")
+    #chapter = f"../new-dataset-quran/{chapter}"
+    with open(chapter, "r", encoding="utf-8") as f:
+        sentences = f.readlines()
+    f.close()
+    num = 1
+    chapter_dict = dict()
+    verses = dict()
+    for sentence in sentences:
+        sentence = sentence.strip()
+        messages = [
+            {"content": "\n    Given the following entity classes, label entity mentions with their respective classes in sentences according to the sentences' context. \n    In the output, only include entity mentions and their respective class in the given output format. No needed further explanation.\n    CONTEXT: entity classes: ['O', 'HolyBook', 'Allah', 'Throne', 'AfterLifeEvent', 'CalendarEvent', 'HistoricEvent', 'PhysicalEvent', 'AstronomicalBody', 'Messenger', 'Prophet', 'Angel', 'ChildrenOfAdam', 'HistoricPeople', 'HistoricPerson', 'Queen', 'King', 'Food', 'Fruit', 'Color', 'Bird', 'Plant', 'Disease', 'Mosque', 'Weaponary', 'Religion', 'GeographicalLocation', 'AfterlifeLocation', 'Language', 'FalseDeity', 'Idol'].\n    ", "role": "system"},
+            {"content": f"\n    {sentence}\n    Test output:\n    ", "role": "user"}
+        ]
+        results = query_llm(messages)
+        verses[num] = {
+                "chapterid": chapter_id,
+                "verse_id": num,
+                "verse": {"id": sentence.strip()},
+                "labels": {"id": results['response']}
+        }
+        num +=1
+    chapter_dict[chapter_id] = verses
+    
+    # Save the dictionary to a JSON file
+    with open(f"outputs/chapter_{chapter_id}.json", "w") as json_file:
+        json.dump(chapter_dict, json_file, indent=4)  # 'indent' adds formatting for readability
+    

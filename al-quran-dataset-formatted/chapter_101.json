@@ -4,30 +4,30 @@
             "chapterid": "101",
             "verse_id": 1,
             "verse": {
-                "id": "Al-Qāri‘ah (hari Kiamat yang menggetarkan)."
+                "id": "Al-Q\u0101ri\u2018ah (hari Kiamat yang menggetarkan)."
             },
             "labels": {
-                "id": "Al-Qāri‘ah/O  (/O  hari/O  kiamat/O  yang/O  menggetarkan/O  )/O ./O"
+                "id": "Al-Q\u0101ri\u2018ah/AfterLifeEvent (/O hari Kiamat/AfterLifeEvent yang/O menggetarkan/O )/O ./O"
             }
         },
         "2": {
             "chapterid": "101",
             "verse_id": 2,
             "verse": {
-                "id": "Apakah al-Qāri‘ah itu?"
+                "id": "Apakah al-Q\u0101ri\u2018ah itu?"
             },
             "labels": {
-                "id": "Apakah/O  al-Qāri‘ah/O  itu/O ?/O"
+                "id": "Apakah/O al-Q\u0101ri\u2018ah/AfterLifeEvent itu/O ?/O"
             }
         },
         "3": {
             "chapterid": "101",
             "verse_id": 3,
             "verse": {
-                "id": "Tahukah kamu apakah al-Qāri‘ah itu?"
+                "id": "Tahukah kamu apakah al-Q\u0101ri\u2018ah itu?"
             },
             "labels": {
-                "id": "Tahukah/O  kamu/O  apakah/O  al-Qāri‘ah/O  itu/O ?/O"
+                "id": "Tahukah/O kamu/O apakah/O al-Q\u0101ri\u2018ah/AfterLifeEvent itu/O ?/O"
             }
         },
         "4": {
@@ -37,7 +37,7 @@
                 "id": "Pada hari itu manusia seperti laron yang beterbangan"
             },
             "labels": {
-                "id": "Pada/O  hari/O  itu/O  manusia/O  seperti/O  laron/O  yang/O  beterbangan/O ./O"
+                "id": "Pada/O hari/O itu/O manusia/O seperti/O laron/O yang/O beterbangan/O"
             }
         },
         "5": {
@@ -47,7 +47,7 @@
                 "id": "dan gunung-gunung seperti bulu yang berhamburan."
             },
             "labels": {
-                "id": "dan/O  gunung-gunung/O  seperti/O  bulu/O  yang/O  berhamburan/O ./O"
+                "id": "dan/O gunung-gunung/O seperti/O bulu/O yang/O berhamburan/O ./O"
             }
         },
         "6": {
@@ -57,7 +57,7 @@
                 "id": "Siapa yang berat timbangan (kebaikan)-nya,"
             },
             "labels": {
-                "id": "Siapa/O  yang/O  berat/O  timbangan/O  (/O  kebaikan/O  )/O  -nya/O ,/O  Dia/O  akan/O  beruntung/O ./O  Maka/O ,/O  Dia/O  akan/O  beruntung/O ./O  Maka/O ,/O  Dia/O  akan/O  beruntung/O ./O  Maka/O ,/O  Dia/O  akan/O  beruntung/O ./O  Maka/O ,/O  Dia/O  akan/O  beruntung/O ./O  Maka/O ,/O  Dia/O  akan/O  beruntung/O ./O  Maka/O ,/O  Dia/O  akan/O  beruntung/O ./O  Maka/O ,/O  Dia/O  akan/O  beruntung/O ./O  Maka/O ,/O  Dia/O  akan/O  beruntung/O ./O  Maka/O ,/O  Dia/O  akan/O  beruntung/O ./O  Maka/O ,/O  Dia/O  akan/O  beruntung/O ./O  Maka/O ,/O  Dia/O  akan/O  beruntung/O ./O  Maka/O ,/O  Dia/O  akan/O  beruntung/O ./O  Maka/O ,/O  Dia/O  akan/O  beruntung/O ./O  Maka/O ,/O  Dia/O  akan/O  ber"
+                "id": "Siapa/O yang/O berat/O timbangan/O (/O kebaikan/O )/O -nya/O ,/O"
             }
         },
         "7": {
@@ -67,7 +67,7 @@
                 "id": "dia berada dalam kehidupan yang menyenangkan."
             },
             "labels": {
-                "id": "dia/O  berada/O  dalam/O  kehidupan/O  yang/O  menyenangkan/O ./O"
+                "id": "dia/O berada/O dalam/O kehidupan/O yang/O menyenangkan/O ./O"
             }
         },
         "8": {
@@ -77,7 +77,7 @@
                 "id": "Adapun orang yang ringan timbangan (kebaikan)-nya,"
             },
             "labels": {
-                "id": "Adapun/O  orang/O  yang/O  ringan/O  timbangan/O  (/O  kebaikan/O  )/O  -nya/O ,/O  sungguh/O  dia/O  telah/O  beruntung/O ./O"
+                "id": "Adapun/O orang/O yang/O ringan/O timbangan/O (/O kebaikan/O )/O -nya/O ,/O"
             }
         },
         "9": {
@@ -87,7 +87,7 @@
                 "id": "tempat kembalinya adalah (neraka) Hawiyah."
             },
             "labels": {
-                "id": "tempat/O  kembalinya/O  adalah/O  (/O  neraka/O  )/O  Hawiyah/O ./O"
+                "id": "tempat/O kembalinya/O adalah/O (/O neraka/O )/O Hawiyah/AfterlifeLocation ./O"
             }
         },
         "10": {
@@ -97,7 +97,7 @@
                 "id": "Tahukah kamu apakah (neraka Hawiyah) itu?"
             },
             "labels": {
-                "id": "Tahukah/O  kamu/O  apakah/O  (/O  neraka/O  Hawiyah/AfterlifeLocation  )/O  itu/O ?/O"
+                "id": "Tahukah/O kamu/O apakah/O (/O neraka Hawiyah/AfterlifeLocation )/O itu/O ?/O"
             }
         },
         "11": {
@@ -107,7 +107,7 @@
                 "id": "(Ia adalah) api yang sangat panas."
             },
             "labels": {
-                "id": "(/O  Ia/O  adalah/O  )/O  api/O  yang/O  sangat/O  panas/O ./O"
+                "id": "(/O Ia/O adalah/O )/O api/O yang/O sangat/O panas/O ./O"
             }
         }
     }
