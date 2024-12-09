@@ -6,7 +6,7 @@ import json
 import ast
 import glob
 # Initialize OpenAI client
-client = OpenAI(api_key="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")
+client = OpenAI(api_key="<open ai key>")
 
 def query_llm(prompt):
     """
