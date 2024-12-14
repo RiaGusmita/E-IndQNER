@@ -1,0 +1,364 @@
+{
+    "083": {
+        "1": {
+            "chapterid": "083",
+            "verse_id": 1,
+            "verse": {
+                "id": "Celakalah orang-orang yang curang (dalam menakar dan menimbang)!"
+            },
+            "labels": {
+                "id": "Celakalah/O orang-orang/O yang/O curang/O (/O dalam/O menakar/O dan/O menimbang/O )/O !/O"
+            }
+        },
+        "2": {
+            "chapterid": "083",
+            "verse_id": 2,
+            "verse": {
+                "id": "(Mereka adalah) orang-orang yang apabila menerima takaran dari orang lain, mereka minta dipenuhi."
+            },
+            "labels": {
+                "id": "(/O Mereka/O adalah/O )/O orang-orang/O yang/O apabila/O menerima/O takaran/O dari/O orang/O lain/O ,/O mereka/O minta/O dipenuhi/O ./O"
+            }
+        },
+        "3": {
+            "chapterid": "083",
+            "verse_id": 3,
+            "verse": {
+                "id": "(Sebaliknya,) apabila mereka menakar atau menimbang untuk orang lain, mereka kurangi."
+            },
+            "labels": {
+                "id": "(/O Sebaliknya/O ,/O )/O apabila/O mereka/O menakar/O atau/O menimbang/O untuk/O orang/O lain/O ,/O mereka/O kurangi/O ./O"
+            }
+        },
+        "4": {
+            "chapterid": "083",
+            "verse_id": 4,
+            "verse": {
+                "id": "Tidakkah mereka mengira (bahwa) sesungguhnya mereka akan dibangkitkan"
+            },
+            "labels": {
+                "id": "Tidakkah/O mereka/O mengira/O (/O bahwa/O )/O sesungguhnya/O mereka/O akan/O dibangkitkan/O"
+            }
+        },
+        "5": {
+            "chapterid": "083",
+            "verse_id": 5,
+            "verse": {
+                "id": "pada suatu hari yang besar (Kiamat),"
+            },
+            "labels": {
+                "id": "pada/O suatu/O hari/O yang/O besar/O (/O Kiamat/AfterLifeEvent )/O ,/O"
+            }
+        },
+        "6": {
+            "chapterid": "083",
+            "verse_id": 6,
+            "verse": {
+                "id": "(yaitu) hari (ketika) manusia bangkit menghadap Tuhan seluruh alam?"
+            },
+            "labels": {
+                "id": "(/O yaitu/O )/O hari/O (/O ketika/O )/O manusia/O bangkit/O menghadap/O Tuhan/O seluruh/O alam/O ?/O"
+            }
+        },
+        "7": {
+            "chapterid": "083",
+            "verse_id": 7,
+            "verse": {
+                "id": "Jangan sekali-kali begitu! Sesungguhnya catatan orang yang durhaka benar-benar (tersimpan) dalam Sijj\u012bn."
+            },
+            "labels": {
+                "id": "Jangan/O sekali-kali/O begitu/O !/O Sesungguhnya/O catatan/O orang/O yang/O durhaka/O benar-benar/O (/O tersimpan/O )/O dalam/O Sijj\u012bn/AfterlifeLocation ./O"
+            }
+        },
+        "8": {
+            "chapterid": "083",
+            "verse_id": 8,
+            "verse": {
+                "id": "Tahukah engkau apakah Sijj\u012bn itu?"
+            },
+            "labels": {
+                "id": "Tahukah/O engkau/O apakah/O Sijj\u012bn/AfterlifeLocation itu/O ?/O"
+            }
+        },
+        "9": {
+            "chapterid": "083",
+            "verse_id": 9,
+            "verse": {
+                "id": "(Ia adalah) kitab yang berisi catatan (amal)."
+            },
+            "labels": {
+                "id": "(/O Ia/O adalah/O )/O kitab/O yang/O berisi/O catatan/O (/O amal/O )/O ./O"
+            }
+        },
+        "10": {
+            "chapterid": "083",
+            "verse_id": 10,
+            "verse": {
+                "id": "Celakalah pada hari itu bagi para pendusta,"
+            },
+            "labels": {
+                "id": "Celakalah/O pada/O hari/O itu/O bagi/O para/O pendusta/O ,/O"
+            }
+        },
+        "11": {
+            "chapterid": "083",
+            "verse_id": 11,
+            "verse": {
+                "id": "yaitu orang-orang yang mendustakan hari Pembalasan."
+            },
+            "labels": {
+                "id": "yaitu/O orang-orang/O yang/O mendustakan/O hari Pembalasan/AfterLifeEvent ./O"
+            }
+        },
+        "12": {
+            "chapterid": "083",
+            "verse_id": 12,
+            "verse": {
+                "id": "Tidak ada yang mendustakannya, kecuali setiap orang yang melampaui batas lagi sangat berdosa."
+            },
+            "labels": {
+                "id": "Tidak/O ada/O yang/O mendustakannya/O ,/O kecuali/O setiap/O orang/O yang/O melampaui/O batas/O lagi/O sangat/O berdosa/O ./O"
+            }
+        },
+        "13": {
+            "chapterid": "083",
+            "verse_id": 13,
+            "verse": {
+                "id": "Apabila dibacakan kepadanya ayat-ayat Kami, dia berkata, \u201c(Itu adalah) dongeng orang-orang dahulu.\u201d"
+            },
+            "labels": {
+                "id": "Apabila/O dibacakan/O kepadanya/O ayat-ayat/O Kami/O ,/O dia/O berkata/O ,/O \u201c/O (/O Itu/O adalah/O )/O dongeng/O orang-orang/O dahulu/O ./O\u201d/O"
+            }
+        },
+        "14": {
+            "chapterid": "083",
+            "verse_id": 14,
+            "verse": {
+                "id": "Sekali-kali tidak! Bahkan, apa yang selalu mereka kerjakan itu telah menutupi hati mereka."
+            },
+            "labels": {
+                "id": "Sekali-kali/O tidak/O !/O Bahkan/O ,/O apa/O yang/O selalu/O mereka/O kerjakan/O itu/O telah/O menutupi/O hati/O mereka/O ./O"
+            }
+        },
+        "15": {
+            "chapterid": "083",
+            "verse_id": 15,
+            "verse": {
+                "id": "Sekali-kali tidak! Sesungguhnya mereka pada hari itu benar-benar terhalang dari (rahmat) Tuhannya."
+            },
+            "labels": {
+                "id": "Sekali-kali/O tidak/O !/O Sesungguhnya/O mereka/O pada/O hari/O itu/O benar-benar/O terhalang/O dari/O (/O rahmat/O )/O Tuhannya/O ./O"
+            }
+        },
+        "16": {
+            "chapterid": "083",
+            "verse_id": 16,
+            "verse": {
+                "id": "Sesungguhnya mereka kemudian benar-benar masuk (neraka) Jahim."
+            },
+            "labels": {
+                "id": "Sesungguhnya/O mereka/O kemudian/O benar-benar/O masuk/O (/O neraka/O )/O Jahim/AfterlifeLocation ./O"
+            }
+        },
+        "17": {
+            "chapterid": "083",
+            "verse_id": 17,
+            "verse": {
+                "id": "Lalu dikatakan (kepada mereka), \u201cInilah (azab) yang selalu kamu dustakan.\u201d"
+            },
+            "labels": {
+                "id": "Lalu/O dikatakan/O (/O kepada/O mereka/O )/O ,/O \u201c/O Inilah/O (/O azab/O )/O yang/O selalu/O kamu/O dustakan/O .\u201d/O"
+            }
+        },
+        "18": {
+            "chapterid": "083",
+            "verse_id": 18,
+            "verse": {
+                "id": "Sekali-kali tidak! Sesungguhnya catatan orang-orang yang berbakti benar-benar tersimpan dalam \u2018Illiyy\u012bn."
+            },
+            "labels": {
+                "id": "Sekali-kali/O tidak/O !/O Sesungguhnya/O catatan/O orang-orang/O yang/O berbakti/O benar-benar/O tersimpan/O dalam/O \u2018Illiyy\u012bn/AfterlifeLocation ./O"
+            }
+        },
+        "19": {
+            "chapterid": "083",
+            "verse_id": 19,
+            "verse": {
+                "id": "Tahukah engkau apakah \u2018Illiyy\u012bn itu?"
+            },
+            "labels": {
+                "id": "Tahukah/O engkau/O apakah/O \u2018Illiyy\u012bn/AfterlifeLocation itu/O ?/O"
+            }
+        },
+        "20": {
+            "chapterid": "083",
+            "verse_id": 20,
+            "verse": {
+                "id": "(Itulah) kitab yang berisi catatan (amal)"
+            },
+            "labels": {
+                "id": "(/O Itulah/O )/O kitab/O yang/O berisi/O catatan/O (/O amal/O )/O"
+            }
+        },
+        "21": {
+            "chapterid": "083",
+            "verse_id": 21,
+            "verse": {
+                "id": "yang disaksikan oleh (malaikat-malaikat) yang didekatkan (kepada Allah)."
+            },
+            "labels": {
+                "id": "yang/O disaksikan/O oleh/O (/O malaikat-malaikat/O )/O yang/O didekatkan/O (/O kepada/O Allah/Allah )/O ./O"
+            }
+        },
+        "22": {
+            "chapterid": "083",
+            "verse_id": 22,
+            "verse": {
+                "id": "Sesungguhnya orang-orang yang berbakti benar-benar berada dalam (surga yang penuh) kenikmatan."
+            },
+            "labels": {
+                "id": "Sesungguhnya/O orang-orang/O yang/O berbakti/O benar-benar/O berada/O dalam/O (/O surga/O yang/O penuh/O )/O kenikmatan/O ./O"
+            }
+        },
+        "23": {
+            "chapterid": "083",
+            "verse_id": 23,
+            "verse": {
+                "id": "Mereka (duduk) di atas dipan-dipan (sambil) melepas pandangan."
+            },
+            "labels": {
+                "id": "Mereka/O (/O duduk/O )/O di/O atas/O dipan-dipan/O (/O sambil/O )/O melepas/O pandangan/O ./O"
+            }
+        },
+        "24": {
+            "chapterid": "083",
+            "verse_id": 24,
+            "verse": {
+                "id": "Engkau dapat mengetahui pada wajah mereka gemerlapnya kenikmatan."
+            },
+            "labels": {
+                "id": "Engkau/O dapat/O mengetahui/O pada/O wajah/O mereka/O gemerlapnya/O kenikmatan/O ./O"
+            }
+        },
+        "25": {
+            "chapterid": "083",
+            "verse_id": 25,
+            "verse": {
+                "id": "Mereka diberi minum dari khamar murni (tidak memabukkan) yang (tempatnya) masih diberi lak (sebagai jaminan keasliannya)."
+            },
+            "labels": {
+                "id": "Mereka/O diberi/O minum/O dari/O khamar/O murni/O (/O tidak/O memabukkan/O )/O yang/O (/O tempatnya/O )/O masih/O diberi/O lak/O (/O sebagai/O jaminan/O keasliannya/O )/O ./O"
+            }
+        },
+        "26": {
+            "chapterid": "083",
+            "verse_id": 26,
+            "verse": {
+                "id": "Laknya terbuat dari kasturi. Untuk (mendapatkan) yang demikian itu hendaknya orang berlomba-lomba."
+            },
+            "labels": {
+                "id": "Laknya/O terbuat/O dari/O kasturi/O ./O Untuk/O (/O mendapatkan/O )/O yang/O demikian/O itu/O hendaknya/O orang/O berlomba-lomba/O ./O"
+            }
+        },
+        "27": {
+            "chapterid": "083",
+            "verse_id": 27,
+            "verse": {
+                "id": "Campurannya terbuat dari tasn\u012bm,"
+            },
+            "labels": {
+                "id": "Campurannya/O terbuat/O dari/O tasn\u012bm/O ,/O"
+            }
+        },
+        "28": {
+            "chapterid": "083",
+            "verse_id": 28,
+            "verse": {
+                "id": "(yaitu) mata air yang diminum oleh mereka yang didekatkan (kepada Allah)."
+            },
+            "labels": {
+                "id": "(/O yaitu/O )/O mata/O air/O yang/O diminum/O oleh/O mereka/O yang/O didekatkan/O (/O kepada/O Allah/Allah )/O ./O"
+            }
+        },
+        "29": {
+            "chapterid": "083",
+            "verse_id": 29,
+            "verse": {
+                "id": "Sesungguhnya orang-orang yang berdosa adalah mereka yang dahulu selalu mentertawakan orang-orang yang beriman."
+            },
+            "labels": {
+                "id": "Sesungguhnya/O orang-orang/O yang/O berdosa/O adalah/O mereka/O yang/O dahulu/O selalu/O mentertawakan/O orang-orang/O yang/O beriman/O ./O"
+            }
+        },
+        "30": {
+            "chapterid": "083",
+            "verse_id": 30,
+            "verse": {
+                "id": "Apabila mereka (orang-orang yang beriman) melintas di hadapan mereka, mereka saling mengedip-ngedipkan matanya."
+            },
+            "labels": {
+                "id": "Apabila/O mereka/O (/O orang-orang/O yang/O beriman/O )/O melintas/O di/O hadapan/O mereka/O ,/O mereka/O saling/O mengedip-ngedipkan/O matanya/O ./O"
+            }
+        },
+        "31": {
+            "chapterid": "083",
+            "verse_id": 31,
+            "verse": {
+                "id": "Apabila kembali kepada kaumnya, mereka kembali dengan gembira ria (dan sombong)."
+            },
+            "labels": {
+                "id": "Apabila/O kembali/O kepada/O kaumnya/O ,/O mereka/O kembali/O dengan/O gembira/O ria/O (/O dan/O sombong/O )/O ./O"
+            }
+        },
+        "32": {
+            "chapterid": "083",
+            "verse_id": 32,
+            "verse": {
+                "id": "Apabila melihat (orang-orang mukmin), mereka mengatakan, \u201cSesungguhnya mereka benar-benar orang-orang sesat,\u201d"
+            },
+            "labels": {
+                "id": "Apabila/O melihat/O (/O orang-orang/O mukmin/O )/O ,/O mereka/O mengatakan/O ,/O \u201c/O Sesungguhnya/O mereka/O benar-benar/O orang-orang/O sesat/O ,/O \u201d/O"
+            }
+        },
+        "33": {
+            "chapterid": "083",
+            "verse_id": 33,
+            "verse": {
+                "id": "padahal mereka (orang-orang yang berdosa itu) tidak diutus sebagai penjaga (orang-orang mukmin)."
+            },
+            "labels": {
+                "id": "padahal/O mereka/O (/O orang-orang/O yang/O berdosa/O itu/O )/O tidak/O diutus/O sebagai/O penjaga/O (/O orang-orang/O mukmin/O )/O ./O"
+            }
+        },
+        "34": {
+            "chapterid": "083",
+            "verse_id": 34,
+            "verse": {
+                "id": "Pada hari ini (hari Kiamat), orang-orang yang berimanlah yang mentertawakan orang-orang kafir."
+            },
+            "labels": {
+                "id": "Pada/O hari/O ini/O (/O hari Kiamat/AfterLifeEvent )/O ,/O orang-orang/O yang/O berimanlah/O yang/O mentertawakan/O orang-orang/O kafir/O ./O"
+            }
+        },
+        "35": {
+            "chapterid": "083",
+            "verse_id": 35,
+            "verse": {
+                "id": "Mereka (duduk) di atas dipan-dipan (sambil) melepas pandangan."
+            },
+            "labels": {
+                "id": "Mereka/O (/O duduk/O )/O di/O atas/O dipan-dipan/O (/O sambil/O )/O melepas/O pandangan/O ./O"
+            }
+        },
+        "36": {
+            "chapterid": "083",
+            "verse_id": 36,
+            "verse": {
+                "id": "Apakah orang-orang kafir itu telah diberi balasan (hukuman) terhadap apa yang selalu mereka perbuat?"
+            },
+            "labels": {
+                "id": "Apakah/O orang-orang/O kafir/O itu/O telah/O diberi/O balasan/O (/O hukuman/O )/O terhadap/O apa/O yang/O selalu/O mereka/O perbuat/O ?/O"
+            }
+        }
+    }
+}

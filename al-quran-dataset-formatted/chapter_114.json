@@ -1,0 +1,64 @@
+{
+    "114": {
+        "1": {
+            "chapterid": "114",
+            "verse_id": 1,
+            "verse": {
+                "id": "Katakanlah (Nabi Muhammad), \u201cAku berlindung kepada Tuhan manusia,"
+            },
+            "labels": {
+                "id": "Katakanlah/O (/O Nabi/O Muhammad/Messenger )/O ,/O \u201c/O Aku/O berlindung/O kepada/O Tuhan/O manusia/O ,/O"
+            }
+        },
+        "2": {
+            "chapterid": "114",
+            "verse_id": 2,
+            "verse": {
+                "id": "raja manusia,"
+            },
+            "labels": {
+                "id": "raja/O manusia/O ,/O"
+            }
+        },
+        "3": {
+            "chapterid": "114",
+            "verse_id": 3,
+            "verse": {
+                "id": "sembahan manusia"
+            },
+            "labels": {
+                "id": "sembahan/O manusia/O"
+            }
+        },
+        "4": {
+            "chapterid": "114",
+            "verse_id": 4,
+            "verse": {
+                "id": "dari kejahatan (setan) pembisik yang bersembunyi"
+            },
+            "labels": {
+                "id": "dari/O kejahatan/O (/O setan/O )/O pembisik/O yang/O bersembunyi/O"
+            }
+        },
+        "5": {
+            "chapterid": "114",
+            "verse_id": 5,
+            "verse": {
+                "id": "yang membisikkan (kejahatan) ke dalam dada manusia,"
+            },
+            "labels": {
+                "id": "yang/O membisikkan/O (/O kejahatan/O )/O ke/O dalam/O dada/O manusia/O ,/O"
+            }
+        },
+        "6": {
+            "chapterid": "114",
+            "verse_id": 6,
+            "verse": {
+                "id": "dari (golongan) jin dan manusia.\u201d"
+            },
+            "labels": {
+                "id": "dari/O (/O golongan/O )/O jin/O dan/O manusia/O .\u201d/O"
+            }
+        }
+    }
+}

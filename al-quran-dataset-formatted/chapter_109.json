@@ -1,0 +1,64 @@
+{
+    "109": {
+        "1": {
+            "chapterid": "109",
+            "verse_id": 1,
+            "verse": {
+                "id": "Katakanlah (Nabi Muhammad), \"Wahai orang-orang kafir,"
+            },
+            "labels": {
+                "id": "Katakanlah/O (/O Nabi/O Muhammad/Messenger )/O ,/O \"/O Wahai/O orang-orang/O kafir/O ,/O"
+            }
+        },
+        "2": {
+            "chapterid": "109",
+            "verse_id": 2,
+            "verse": {
+                "id": "aku tidak akan menyembah apa yang kamu sembah."
+            },
+            "labels": {
+                "id": "aku/O tidak/O akan/O menyembah/O apa/O yang/O kamu/O sembah/O ./O"
+            }
+        },
+        "3": {
+            "chapterid": "109",
+            "verse_id": 3,
+            "verse": {
+                "id": "Kamu juga bukan penyembah apa yang aku sembah."
+            },
+            "labels": {
+                "id": "Kamu/O juga/O bukan/O penyembah/O apa/O yang/O aku/O sembah/O ./O"
+            }
+        },
+        "4": {
+            "chapterid": "109",
+            "verse_id": 4,
+            "verse": {
+                "id": "Aku juga tidak pernah menjadi penyembah apa yang kamu sembah."
+            },
+            "labels": {
+                "id": "Aku/O juga/O tidak/O pernah/O menjadi/O penyembah/O apa/O yang/O kamu/O sembah/O ./O"
+            }
+        },
+        "5": {
+            "chapterid": "109",
+            "verse_id": 5,
+            "verse": {
+                "id": "Kamu tidak pernah (pula) menjadi penyembah apa yang aku sembah."
+            },
+            "labels": {
+                "id": "Kamu/O tidak/O pernah/O (/O pula/O )/O menjadi/O penyembah/O apa/O yang/O aku/O sembah/O ./O"
+            }
+        },
+        "6": {
+            "chapterid": "109",
+            "verse_id": 6,
+            "verse": {
+                "id": "Untukmu agamamu dan untukku agamaku.\""
+            },
+            "labels": {
+                "id": "Untukmu/O agamamu/O dan/O untukku/O agamaku/O ./O"
+            }
+        }
+    }
+}

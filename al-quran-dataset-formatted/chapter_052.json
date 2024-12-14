@@ -1,0 +1,494 @@
+{
+    "052": {
+        "1": {
+            "chapterid": "052",
+            "verse_id": 1,
+            "verse": {
+                "id": "Demi gunung (Sinai),"
+            },
+            "labels": {
+                "id": "Demi/O gunung/O (/O Sinai/GeographicalLocation )/O ,/O"
+            }
+        },
+        "2": {
+            "chapterid": "052",
+            "verse_id": 2,
+            "verse": {
+                "id": "demi Kitab yang ditulis"
+            },
+            "labels": {
+                "id": "demi/O Kitab/O yang/O ditulis/O"
+            }
+        },
+        "3": {
+            "chapterid": "052",
+            "verse_id": 3,
+            "verse": {
+                "id": "pada lembaran yang terbuka,"
+            },
+            "labels": {
+                "id": "pada/O lembaran/O yang/O terbuka/O ,/O"
+            }
+        },
+        "4": {
+            "chapterid": "052",
+            "verse_id": 4,
+            "verse": {
+                "id": "demi Baitulmakmur,"
+            },
+            "labels": {
+                "id": "demi/O Baitulmakmur/O ,/O"
+            }
+        },
+        "5": {
+            "chapterid": "052",
+            "verse_id": 5,
+            "verse": {
+                "id": "demi atap yang ditinggikan (langit),"
+            },
+            "labels": {
+                "id": "demi/O atap/O yang/O ditinggikan/O (/O langit/O )/O ,/O"
+            }
+        },
+        "6": {
+            "chapterid": "052",
+            "verse_id": 6,
+            "verse": {
+                "id": "dan demi lautan yang dipanaskan (di dalamnya ada api),"
+            },
+            "labels": {
+                "id": "dan/O demi/O lautan/O yang/O dipanaskan/O (/O di/O dalamnya/O ada/O api/O )/O ,/O"
+            }
+        },
+        "7": {
+            "chapterid": "052",
+            "verse_id": 7,
+            "verse": {
+                "id": "sesungguhnya azab Tuhanmu pasti terjadi."
+            },
+            "labels": {
+                "id": "sesungguhnya/O azab/O Tuhanmu/O pasti/O terjadi/O ./O"
+            }
+        },
+        "8": {
+            "chapterid": "052",
+            "verse_id": 8,
+            "verse": {
+                "id": "Tidak ada sesuatu pun yang dapat menolaknya."
+            },
+            "labels": {
+                "id": "Tidak/O ada/O sesuatu/O pun/O yang/O dapat/O menolaknya/O ./O"
+            }
+        },
+        "9": {
+            "chapterid": "052",
+            "verse_id": 9,
+            "verse": {
+                "id": "(Azab Tuhanmu terjadi) pada hari (ketika) langit berguncang sekeras-kerasnya"
+            },
+            "labels": {
+                "id": "(/O Azab/O Tuhanmu/O terjadi/O )/O pada/O hari/O (/O ketika/O )/O langit/O berguncang/O sekeras-kerasnya/O"
+            }
+        },
+        "10": {
+            "chapterid": "052",
+            "verse_id": 10,
+            "verse": {
+                "id": "dan gunung-gunung bergerak dengan dahsyat."
+            },
+            "labels": {
+                "id": "dan/O gunung-gunung/O bergerak/O dengan/O dahsyat/O ./O"
+            }
+        },
+        "11": {
+            "chapterid": "052",
+            "verse_id": 11,
+            "verse": {
+                "id": "Maka, pada hari itu celakalah orang-orang yang mendustakan,"
+            },
+            "labels": {
+                "id": "Maka/O ,/O pada/O hari/O itu/O celakalah/O orang-orang/O yang/O mendustakan/O ,/O"
+            }
+        },
+        "12": {
+            "chapterid": "052",
+            "verse_id": 12,
+            "verse": {
+                "id": "(yaitu) orang-orang yang bermain-main dalam kebatilan (perbuatan dosa)."
+            },
+            "labels": {
+                "id": "(/O yaitu/O )/O orang-orang/O yang/O bermain-main/O dalam/O kebatilan/O (/O perbuatan/O dosa/O )/O ./O"
+            }
+        },
+        "13": {
+            "chapterid": "052",
+            "verse_id": 13,
+            "verse": {
+                "id": "(Azab Tuhanmu terjadi) pada hari (ketika) mereka dicampakkan ke neraka Jahanam dengan sekuat-kuatnya."
+            },
+            "labels": {
+                "id": "(/O Azab/O Tuhanmu/O terjadi/O )/O pada/O hari/O (/O ketika/O )/O mereka/O dicampakkan/O ke/O neraka Jahanam/AfterlifeLocation dengan/O sekuat-kuatnya/O ./O"
+            }
+        },
+        "14": {
+            "chapterid": "052",
+            "verse_id": 14,
+            "verse": {
+                "id": "(Dikatakan kepada mereka,) \u201cInilah neraka yang dahulu kamu dustakan.\u201d"
+            },
+            "labels": {
+                "id": "(/O Dikatakan/O kepada/O mereka/O ,/O )/O \u201c/O Inilah/O neraka/O yang/O dahulu/O kamu/O dustakan/O ./O\u201d/O"
+            }
+        },
+        "15": {
+            "chapterid": "052",
+            "verse_id": 15,
+            "verse": {
+                "id": "Apakah ini sihir? Ataukah kamu tidak melihat?"
+            },
+            "labels": {
+                "id": "Apakah/O ini/O sihir/O ?/O Ataukah/O kamu/O tidak/O melihat/O ?/O"
+            }
+        },
+        "16": {
+            "chapterid": "052",
+            "verse_id": 16,
+            "verse": {
+                "id": "Masuklah ke dalamnya (dan rasakan panas apinya)! Baik kamu bersabar atau tidak, sama saja (tidak ada manfaatnya) bagimu. Sesungguhnya kamu hanya diberi balasan atas apa yang telah kamu kerjakan."
+            },
+            "labels": {
+                "id": "Masuklah/O ke/O dalamnya/O (/O dan/O rasakan/O panas/O apinya/O )/O !/O Baik/O kamu/O bersabar/O atau/O tidak/O ,/O sama/O saja/O (/O tidak/O ada/O manfaatnya/O )/O bagimu/O ./O Sesungguhnya/O kamu/O hanya/O diberi/O balasan/O atas/O apa/O yang/O telah/O kamu/O kerjakan/O ./O"
+            }
+        },
+        "17": {
+            "chapterid": "052",
+            "verse_id": 17,
+            "verse": {
+                "id": "Sesungguhnya orang-orang yang bertakwa berada dalam surga dan kenikmatan."
+            },
+            "labels": {
+                "id": "Sesungguhnya/O orang-orang/O yang/O bertakwa/O berada/O dalam/O surga/O dan/O kenikmatan/O ./O"
+            }
+        },
+        "18": {
+            "chapterid": "052",
+            "verse_id": 18,
+            "verse": {
+                "id": "Mereka bersuka ria dengan apa yang Tuhan anugerahkan kepada mereka. Tuhan menjaga mereka dari azab (neraka) Jahim."
+            },
+            "labels": {
+                "id": "Mereka/O bersuka/O ria/O dengan/O apa/O yang/O Tuhan/O anugerahkan/O kepada/O mereka/O ./O Tuhan/O menjaga/O mereka/O dari/O azab/O (/O neraka/O )/O Jahim/AfterlifeLocation ./O"
+            }
+        },
+        "19": {
+            "chapterid": "052",
+            "verse_id": 19,
+            "verse": {
+                "id": "(Dikatakan kepada mereka,) \u201cMakan dan minumlah dengan nikmat sebagai balasan dari apa yang telah kamu kerjakan!\u201d"
+            },
+            "labels": {
+                "id": "(/O Dikatakan/O kepada/O mereka/O ,/O )/O \u201c/O Makan/O dan/O minumlah/O dengan/O nikmat/O sebagai/O balasan/O dari/O apa/O yang/O telah/O kamu/O kerjakan/O !/O \u201d/O"
+            }
+        },
+        "20": {
+            "chapterid": "052",
+            "verse_id": 20,
+            "verse": {
+                "id": "Mereka bertelekan di atas dipan-dipan yang tersusun dan Kami menganugerahkan kepada mereka pasangan, yaitu bidadari yang bermata indah."
+            },
+            "labels": {
+                "id": "Mereka/O bertelekan/O di/O atas/O dipan-dipan/O yang/O tersusun/O dan/O Kami/O menganugerahkan/O kepada/O mereka/O pasangan/O ,/O yaitu/O bidadari/O yang/O bermata/O indah/O ./O"
+            }
+        },
+        "21": {
+            "chapterid": "052",
+            "verse_id": 21,
+            "verse": {
+                "id": "Orang-orang yang beriman dan anak cucunya mengikuti mereka dalam keimanan, Kami akan mengumpulkan anak cucunya itu dengan mereka (di dalam surga). Kami tidak mengurangi sedikit pun pahala amal (kebajikan) mereka. Setiap orang terikat dengan apa yang dikerjakannya."
+            },
+            "labels": {
+                "id": "Orang-orang/O yang/O beriman/O dan/O anak/O cucunya/O mengikuti/O mereka/O dalam/O keimanan/O ,/O Kami/O akan/O mengumpulkan/O anak/O cucunya/O itu/O dengan/O mereka/O (/O di/O dalam/O surga/O )/O ./O Kami/O tidak/O mengurangi/O sedikit/O pun/O pahala/O amal/O (/O kebajikan/O )/O mereka/O ./O Setiap/O orang/O terikat/O dengan/O apa/O yang/O dikerjakannya/O ./O"
+            }
+        },
+        "22": {
+            "chapterid": "052",
+            "verse_id": 22,
+            "verse": {
+                "id": "Kami menganugerahkan kepada mereka tambahan (kenikmatan) berupa buah-buahan dan daging dari segala jenis yang mereka inginkan."
+            },
+            "labels": {
+                "id": "Kami/O menganugerahkan/O kepada/O mereka/O tambahan/O (/O kenikmatan/O )/O berupa/O buah-buahan/O dan/O daging/O dari/O segala/O jenis/O yang/O mereka/O inginkan/O ./O"
+            }
+        },
+        "23": {
+            "chapterid": "052",
+            "verse_id": 23,
+            "verse": {
+                "id": "Di dalam (surga) itu mereka saling mengulurkan gelas (yang isinya) tidak (menimbulkan) ucapan atau sikap yang tidak berfaedah dan tidak pula (menimbulkan) perbuatan dosa."
+            },
+            "labels": {
+                "id": "Di/O dalam/O (/O surga/O )/O itu/O mereka/O saling/O mengulurkan/O gelas/O (/O yang/O isinya/O )/O tidak/O (/O menimbulkan/O )/O ucapan/O atau/O sikap/O yang/O tidak/O berfaedah/O dan/O tidak/O pula/O (/O menimbulkan/O )/O perbuatan/O dosa/O ./O"
+            }
+        },
+        "24": {
+            "chapterid": "052",
+            "verse_id": 24,
+            "verse": {
+                "id": "Di sekitar mereka ada anak-anak muda belia berkeliling untuk (melayani) mereka, seakan-akan (anak muda belia) itu bagaikan mutiara yang tersimpan."
+            },
+            "labels": {
+                "id": "Di/O sekitar/O mereka/O ada/O anak-anak/O muda/O belia/O berkeliling/O untuk/O (/O melayani/O )/O mereka/O ,/O seakan-akan/O (/O anak/O muda/O belia/O )/O itu/O bagaikan/O mutiara/O yang/O tersimpan/O ./O"
+            }
+        },
+        "25": {
+            "chapterid": "052",
+            "verse_id": 25,
+            "verse": {
+                "id": "Sebagian mereka menghadap kepada sebagian yang lain saling bertegur sapa."
+            },
+            "labels": {
+                "id": "Sebagian/O mereka/O menghadap/O kepada/O sebagian/O yang/O lain/O saling/O bertegur/O sapa/O ./O"
+            }
+        },
+        "26": {
+            "chapterid": "052",
+            "verse_id": 26,
+            "verse": {
+                "id": "Mereka berkata, \u201cSesungguhnya kami dahulu, sewaktu berada di tengah-tengah keluarga kami, adalah orang yang takut (ditimpa azab Allah)."
+            },
+            "labels": {
+                "id": "Mereka/O berkata/O ,/O \u201c/O Sesungguhnya/O kami/O dahulu/O ,/O sewaktu/O berada/O di/O tengah-tengah/O keluarga/O kami/O ,/O adalah/O orang/O yang/O takut/O (/O ditimpa/O azab/O Allah/Allah )/O ./O"
+            }
+        },
+        "27": {
+            "chapterid": "052",
+            "verse_id": 27,
+            "verse": {
+                "id": "Allah menganugerahkan karunia kepada kami dan menjaga kami dari azab neraka."
+            },
+            "labels": {
+                "id": "Allah/Allah menganugerahkan/O karunia/O kepada/O kami/O dan/O menjaga/O kami/O dari/O azab/O neraka/O ./O"
+            }
+        },
+        "28": {
+            "chapterid": "052",
+            "verse_id": 28,
+            "verse": {
+                "id": "Sesungguhnya kami menyembah-Nya sejak dahulu. Sesungguhnya hanya Dialah Yang Maha Luas kebajikan-Nya lagi Maha Penyayang.\u201d"
+            },
+            "labels": {
+                "id": "Sesungguhnya/O kami/O menyembah-Nya/O sejak/O dahulu/O ./O Sesungguhnya/O hanya/O Dialah/O Yang Maha Luas kebajikan-Nya lagi Maha Penyayang\u201d/Allah ./O"
+            }
+        },
+        "29": {
+            "chapterid": "052",
+            "verse_id": 29,
+            "verse": {
+                "id": "(Wahai Nabi Muhammad,) teruslah menyampaikan peringatan karena berkat nikmat Tuhanmulah, engkau bukan seorang tukang tenung dan bukan pula orang gila!"
+            },
+            "labels": {
+                "id": "(/O Wahai/O Nabi/O Muhammad/Messenger ,/O )/O teruslah/O menyampaikan/O peringatan/O karena/O berkat/O nikmat/O Tuhanmulah/O ,/O engkau/O bukan/O seorang/O tukang/O tenung/O dan/O bukan/O pula/O orang/O gila/O !/O"
+            }
+        },
+        "30": {
+            "chapterid": "052",
+            "verse_id": 30,
+            "verse": {
+                "id": "Bahkan, mereka (orang musyrik Makkah) berkata, \u201cDia (Nabi Muhammad) adalah seorang penyair yang kami tunggu-tunggu kecelakaan menimpanya.\u201d"
+            },
+            "labels": {
+                "id": "Bahkan/O ,/O mereka/O (/O orang/O musyrik/O Makkah/GeographicalLocation )/O berkata/O ,/O \u201c/O Dia/O (/O Nabi/O Muhammad/Messenger )/O adalah/O seorang/O penyair/O yang/O kami/O tunggu-tunggu/O kecelakaan/O menimpanya/O ./O\u201d/O"
+            }
+        },
+        "31": {
+            "chapterid": "052",
+            "verse_id": 31,
+            "verse": {
+                "id": "Katakanlah (Nabi Muhammad), \u201cTunggulah! Sesungguhnya aku pun termasuk orang yang sedang menunggu bersamamu.\u201d"
+            },
+            "labels": {
+                "id": "Katakanlah/O (/O Nabi/O Muhammad/Messenger )/O ,/O \u201c/O Tunggulah/O !/O Sesungguhnya/O aku/O pun/O termasuk/O orang/O yang/O sedang/O menunggu/O bersamamu/O ./O \u201d/O"
+            }
+        },
+        "32": {
+            "chapterid": "052",
+            "verse_id": 32,
+            "verse": {
+                "id": "Apakah mereka diperintah oleh pikiran-pikiran mereka untuk mengucapkan (tuduhan-tuduhan) ini atau apakah mereka kaum yang melampaui batas?"
+            },
+            "labels": {
+                "id": "Apakah/O mereka/O diperintah/O oleh/O pikiran-pikiran/O mereka/O untuk/O mengucapkan/O (/O tuduhan-tuduhan/O )/O ini/O atau/O apakah/O mereka/O kaum/O yang/O melampaui/O batas/O ?/O"
+            }
+        },
+        "33": {
+            "chapterid": "052",
+            "verse_id": 33,
+            "verse": {
+                "id": "Bahkan, apakah mereka (juga) berkata, \u201cDia (Nabi Muhammad) mereka-rekanya?\u201d Tidak! Merekalah yang tidak beriman."
+            },
+            "labels": {
+                "id": "Bahkan/O ,/O apakah/O mereka/O (/O juga/O )/O berkata/O ,/O \u201c/O Dia/O (/O Nabi/O Muhammad/Messenger )/O mereka-rekanya/O ?/O \u201d/O Tidak/O !/O Merekalah/O yang/O tidak/O beriman/O ./O"
+            }
+        },
+        "34": {
+            "chapterid": "052",
+            "verse_id": 34,
+            "verse": {
+                "id": "Cobalah mereka membuat yang semisal dengannya (Al-Qur\u2019an) jika mereka orang-orang benar."
+            },
+            "labels": {
+                "id": "Cobalah/O mereka/O membuat/O yang/O semisal/O dengannya/O (/O Al-Qur\u2019an/HolyBook )/O jika/O mereka/O orang-orang/O benar/O ./O"
+            }
+        },
+        "35": {
+            "chapterid": "052",
+            "verse_id": 35,
+            "verse": {
+                "id": "Apakah mereka tercipta tanpa asal-usul ataukah mereka menciptakan (diri mereka sendiri)?"
+            },
+            "labels": {
+                "id": "Apakah/O mereka/O tercipta/O tanpa/O asal-usul/O ataukah/O mereka/O menciptakan/O (/O diri/O mereka/O sendiri/O )/O ?/O"
+            }
+        },
+        "36": {
+            "chapterid": "052",
+            "verse_id": 36,
+            "verse": {
+                "id": "Apakah mereka menciptakan langit dan bumi? Sebenarnya mereka tidak meyakini (apa yang mereka katakan)."
+            },
+            "labels": {
+                "id": "Apakah/O mereka/O menciptakan/O langit/O dan/O bumi/AstronomicalBody ?/O Sebenarnya/O mereka/O tidak/O meyakini/O (/O apa/O yang/O mereka/O katakan/O )/O ./O"
+            }
+        },
+        "37": {
+            "chapterid": "052",
+            "verse_id": 37,
+            "verse": {
+                "id": "Apakah di sisi mereka ada perbendaharaan Tuhanmu ataukah mereka yang berkuasa?"
+            },
+            "labels": {
+                "id": "Apakah/O di/O sisi/O mereka/O ada/O perbendaharaan/O Tuhanmu/O ataukah/O mereka/O yang/O berkuasa/O ?/O"
+            }
+        },
+        "38": {
+            "chapterid": "052",
+            "verse_id": 38,
+            "verse": {
+                "id": "Apakah mereka mempunyai tangga (ke langit) untuk mendengarkan (hal-hal yang gaib)? Hendaklah orang yang mendengarkan di antara mereka itu datang membawa keterangan yang nyata."
+            },
+            "labels": {
+                "id": "Apakah/O mereka/O mempunyai/O tangga/O (/O ke/O langit/O )/O untuk/O mendengarkan/O (/O hal-hal/O yang/O gaib/O )/O ?/O Hendaklah/O orang/O yang/O mendengarkan/O di/O antara/O mereka/O itu/O datang/O membawa/O keterangan/O yang/O nyata/O ./O"
+            }
+        },
+        "39": {
+            "chapterid": "052",
+            "verse_id": 39,
+            "verse": {
+                "id": "Apakah (pantas) bagi-Nya anak-anak perempuan, sedangkan untuk kamu anak-anak laki-laki?"
+            },
+            "labels": {
+                "id": "Apakah/O (/O pantas/O )/O bagi-Nya/O anak-anak/O perempuan/O ,/O sedangkan/O untuk/O kamu/O anak-anak/O laki-laki/O ?/O"
+            }
+        },
+        "40": {
+            "chapterid": "052",
+            "verse_id": 40,
+            "verse": {
+                "id": "Apakah engkau (Nabi Muhammad) meminta imbalan kepada mereka sehingga mereka dibebani dengan utang?"
+            },
+            "labels": {
+                "id": "Apakah/O engkau/O (/O Nabi/O Muhammad/Messenger )/O meminta/O imbalan/O kepada/O mereka/O sehingga/O mereka/O dibebani/O dengan/O utang/O ?/O"
+            }
+        },
+        "41": {
+            "chapterid": "052",
+            "verse_id": 41,
+            "verse": {
+                "id": "Apakah mereka mempunyai (pengetahuan) tentang yang gaib, lalu mereka menuliskannya?"
+            },
+            "labels": {
+                "id": "Apakah/O mereka/O mempunyai/O (/O pengetahuan/O )/O tentang/O yang/O gaib/O ,/O lalu/O mereka/O menuliskannya/O ?/O"
+            }
+        },
+        "42": {
+            "chapterid": "052",
+            "verse_id": 42,
+            "verse": {
+                "id": "Apakah mereka hendak melakukan tipu daya? Justru orang-orang yang kufur itulah yang terkena tipu daya."
+            },
+            "labels": {
+                "id": "Apakah/O mereka/O hendak/O melakukan/O tipu/O daya/O ?/O Justru/O orang-orang/O yang/O kufur/O itulah/O yang/O terkena/O tipu/O daya/O ./O"
+            }
+        },
+        "43": {
+            "chapterid": "052",
+            "verse_id": 43,
+            "verse": {
+                "id": "Apakah mereka mempunyai tuhan selain Allah? Maha Suci Allah dari apa yang mereka persekutukan."
+            },
+            "labels": {
+                "id": "Apakah/O mereka/O mempunyai/O tuhan/O selain/O Allah/Allah ?/O Maha/O Suci/O Allah/Allah dari/O apa/O yang/O mereka/O persekutukan/O ./O"
+            }
+        },
+        "44": {
+            "chapterid": "052",
+            "verse_id": 44,
+            "verse": {
+                "id": "Jika mereka melihat gumpalan-gumpalan awan berjatuhan dari langit, mereka berkata, \u201cItu adalah awan yang bertumpuk-tumpuk (yang akan menurunkan hujan).\u201d"
+            },
+            "labels": {
+                "id": "Jika/O mereka/O melihat/O gumpalan-gumpalan/O awan/O berjatuhan/O dari/O langit/O ,/O mereka/O berkata/O ,/O \u201c/O Itu/O adalah/O awan/O yang/O bertumpuk-tumpuk/O (/O yang/O akan/O menurunkan/O hujan/O )/O ./O\u201d/O"
+            }
+        },
+        "45": {
+            "chapterid": "052",
+            "verse_id": 45,
+            "verse": {
+                "id": "Biarkanlah mereka (dalam kesesatan) hingga mereka menemui hari (yang dijanjikan kepada) mereka yang pada hari itu mereka dibinasakan,"
+            },
+            "labels": {
+                "id": "Biarkanlah/O mereka/O (/O dalam/O kesesatan/O )/O hingga/O mereka/O menemui/O hari/O (/O yang/O dijanjikan/O kepada/O )/O mereka/O yang/O pada/O hari/O itu/O mereka/O dibinasakan/O ,/O"
+            }
+        },
+        "46": {
+            "chapterid": "052",
+            "verse_id": 46,
+            "verse": {
+                "id": "(yaitu) pada hari (ketika) tipu daya mereka tidak berguna sedikit pun bagi mereka dan mereka tidak akan diberi pertolongan."
+            },
+            "labels": {
+                "id": "(/O yaitu/O )/O pada/O hari/O (/O ketika/O )/O tipu/O daya/O mereka/O tidak/O berguna/O sedikit/O pun/O bagi/O mereka/O dan/O mereka/O tidak/O akan/O diberi/O pertolongan/O ./O"
+            }
+        },
+        "47": {
+            "chapterid": "052",
+            "verse_id": 47,
+            "verse": {
+                "id": "Sesungguhnya bagi orang-orang yang zalim ada azab selain itu, tetapi kebanyakan mereka tidak mengetahui."
+            },
+            "labels": {
+                "id": "Sesungguhnya/O bagi/O orang-orang/O yang/O zalim/O ada/O azab/O selain/O itu/O ,/O tetapi/O kebanyakan/O mereka/O tidak/O mengetahui/O ./O"
+            }
+        },
+        "48": {
+            "chapterid": "052",
+            "verse_id": 48,
+            "verse": {
+                "id": "Bersabarlah (Nabi Muhammad) menunggu ketetapan Tuhanmu karena sesungguhnya engkau berada dalam pengawasan Kami! Bertasbihlah seraya bertahmid (memuji) Tuhanmu ketika engkau bangun!"
+            },
+            "labels": {
+                "id": "Bersabarlah/O (/O Nabi/O Muhammad/Messenger )/O menunggu/O ketetapan/O Tuhanmu/O karena/O sesungguhnya/O engkau/O berada/O dalam/O pengawasan/O Kami/O !/O Bertasbihlah/O seraya/O bertahmid/O (/O memuji/O )/O Tuhanmu/O ketika/O engkau/O bangun/O !/O"
+            }
+        },
+        "49": {
+            "chapterid": "052",
+            "verse_id": 49,
+            "verse": {
+                "id": "Bertasbihlah kepada-Nya pada sebagian malam dan pada waktu terbenamnya bintang-bintang (waktu fajar)."
+            },
+            "labels": {
+                "id": "Bertasbihlah/O kepada-Nya/O pada/O sebagian/O malam/O dan/O pada/O waktu/O terbenamnya/O bintang-bintang/O (/O waktu/O fajar/O )/O ./O"
+            }
+        }
+    }
+}

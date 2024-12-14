@@ -1,0 +1,404 @@
+{
+    "075": {
+        "1": {
+            "chapterid": "075",
+            "verse_id": 1,
+            "verse": {
+                "id": "Aku bersumpah demi hari Kiamat."
+            },
+            "labels": {
+                "id": "Aku/O  bersumpah/O  demi/O  hari/O  kiamat/O ./O"
+            }
+        },
+        "2": {
+            "chapterid": "075",
+            "verse_id": 2,
+            "verse": {
+                "id": "Aku bersumpah demi jiwa yang sangat menyesali (dirinya sendiri)."
+            },
+            "labels": {
+                "id": "Aku/O  bersumpah/O  demi/O  jiwa/O  yang/O  sangat/O  menyesali/O  (/O  dirinya/O  sendiri/O  )/O ./O"
+            }
+        },
+        "3": {
+            "chapterid": "075",
+            "verse_id": 3,
+            "verse": {
+                "id": "Apakah manusia mengira bahwa Kami tidak akan mengumpulkan (kembali) tulang-belulangnya?"
+            },
+            "labels": {
+                "id": "Apakah/O  manusia/O  mengira/O  bahwa/O  Kami/O  tidak/O  akan/O  mengumpulkan/O  (/O  kembali/O  )/O  tulang-belulangnya/O ?/O"
+            }
+        },
+        "4": {
+            "chapterid": "075",
+            "verse_id": 4,
+            "verse": {
+                "id": "Tentu, (bahkan) Kami mampu menyusun (kembali) jari-jemarinya dengan sempurna."
+            },
+            "labels": {
+                "id": "Tentu/O ,/O  (bahkan/O  )/O  Kami/O  mampu/O  menyusun/O  (/O  kembali/O  )/O  jari-jemarinya/O  dengan/O  sempurna/O ./O"
+            }
+        },
+        "5": {
+            "chapterid": "075",
+            "verse_id": 5,
+            "verse": {
+                "id": "Akan tetapi, manusia hendak berbuat maksiat terus-menerus."
+            },
+            "labels": {
+                "id": "Akan/O  tetapi/O ,/O  manusia/O  hendak/O  berbuat/O  maksiat/O  terus-menerus/O ./O"
+            }
+        },
+        "6": {
+            "chapterid": "075",
+            "verse_id": 6,
+            "verse": {
+                "id": "Dia bertanya, “Kapankah hari Kiamat itu?”"
+            },
+            "labels": {
+                "id": "Dia/O  bertanya/O ,/O  “Kapankah/O  hari/O  kiamat/O  itu/O ?/O  ”/O"
+            }
+        },
+        "7": {
+            "chapterid": "075",
+            "verse_id": 7,
+            "verse": {
+                "id": "Apabila mata terbelalak (ketakutan),"
+            },
+            "labels": {
+                "id": "Apabila/O  mata/O  terbelalak/O  (/O  ketakutan/O  )/O ,/O  tidak/O  ada/O  lagi/O  kelepasan/O ./O  Maka/O  bagaimana/O  jika/O  kamu/O  (tetap/O  )/O  dalam/O  keraguan/O  tentang/O  apa/O  (Al-Qur’an/HolyBook  )/O  yang/O  Kami/O  turunkan/O  kepada/O  hamba/O  Kami/O  (/O  Nabi/O  Muhammad/Messenger  )/O ,/O  buatlah/O  satu/O  surah/O  yang/O  semisal/O  dengannya/O  dan/O  ajaklah/O  penolong-penolongmu/O  selain/O  Allah/O ,/O  jika/O  kamu/O  orang-orang/O  yang/O  benar/O ./O  Maka/O  bagaimana/O  jika/O  kamu/O  (tetap/O  )/O  dalam/O  keraguan/O  tentang/O  apa/O  (Al-Qur’an/HolyBook  )/O  yang/O  Kami/O  turunkan/O  kepada/O  hamba/O  Kami/O  (/O  Nabi/O  Muhammad/Messenger  )/O ,/O  buatlah/O  satu/O  surah/O  yang/O  semisal/O  dengannya/O  dan/O  ajaklah/O"
+            }
+        },
+        "8": {
+            "chapterid": "075",
+            "verse_id": 8,
+            "verse": {
+                "id": "bulan pun telah hilang cahayanya,"
+            },
+            "labels": {
+                "id": "bulan/O  pun/O  telah/O  hilang/O  cahayanya/O ,/O"
+            }
+        },
+        "9": {
+            "chapterid": "075",
+            "verse_id": 9,
+            "verse": {
+                "id": "serta matahari dan bulan dikumpulkan,"
+            },
+            "labels": {
+                "id": "serta/O  matahari/O  dan/O  bulan/O  dikumpulkan/O ,/O"
+            }
+        },
+        "10": {
+            "chapterid": "075",
+            "verse_id": 10,
+            "verse": {
+                "id": "pada hari itu manusia berkata, “Ke mana tempat lari?”"
+            },
+            "labels": {
+                "id": "pada/O  hari/O  itu/O  manusia/O  berkata/O ,/O  “Ke/O  mana/O  tempat/O  lari/O  ”/O"
+            }
+        },
+        "11": {
+            "chapterid": "075",
+            "verse_id": 11,
+            "verse": {
+                "id": "Sekali-kali tidak! Tidak ada tempat berlindung."
+            },
+            "labels": {
+                "id": "Sekali-kali/O  tidak/O !/O  Tidak/O  ada/O  tempat/O  berlindung/O ./O"
+            }
+        },
+        "12": {
+            "chapterid": "075",
+            "verse_id": 12,
+            "verse": {
+                "id": "(Hanya) kepada Tuhanmu tempat kembali pada hari itu."
+            },
+            "labels": {
+                "id": "(/O  Hanya/O  )/O  kepada/O  Tuhanmu/O  tempat/O  kembali/O  pada/O  hari/O  itu/O ./O"
+            }
+        },
+        "13": {
+            "chapterid": "075",
+            "verse_id": 13,
+            "verse": {
+                "id": "Pada hari itu diberitakan kepada manusia apa yang telah dia kerjakan dan apa yang telah dia lalaikan."
+            },
+            "labels": {
+                "id": "Pada/O  hari/O  itu/O  diberitakan/O  kepada/O  manusia/O  apa/O  yang/O  telah/O  dia/O  kerjakan/O  dan/O  apa/O  yang/O  telah/O  dia/O  lalaikan/O ./O"
+            }
+        },
+        "14": {
+            "chapterid": "075",
+            "verse_id": 14,
+            "verse": {
+                "id": "Bahkan, manusia menjadi saksi atas dirinya sendiri"
+            },
+            "labels": {
+                "id": "Bahkan/O ,/O  manusia/O  menjadi/O  saksi/O  atas/O  dirinya/O  sendiri/O ./O"
+            }
+        },
+        "15": {
+            "chapterid": "075",
+            "verse_id": 15,
+            "verse": {
+                "id": "walaupun dia mengemukakan alasan-alasan(-nya)."
+            },
+            "labels": {
+                "id": "walaupun/O  dia/O  mengemukakan/O  alasan-alasan/O  (/O  -nya/O  )/O ./O"
+            }
+        },
+        "16": {
+            "chapterid": "075",
+            "verse_id": 16,
+            "verse": {
+                "id": "Jangan engkau (Nabi Muhammad) gerakkan lidahmu (untuk membaca Al-Qur’an) karena hendak tergesa-gesa (menguasai)-nya."
+            },
+            "labels": {
+                "id": "Jangan/O  engkau/O  (/O  Nabi/O  Muhammad/Messenger  )/O  gerakkan/O  lidahmu/O  (/O  untuk/O  membaca/O  Al-Qur’an/HolyBook  )/O  karena/O  hendak/O  tergesa-gesa/O  (/O  menguasai/O  )/O  -nya/O ./O"
+            }
+        },
+        "17": {
+            "chapterid": "075",
+            "verse_id": 17,
+            "verse": {
+                "id": "Sesungguhnya tugas Kamilah untuk mengumpulkan (dalam hatimu) dan membacakannya."
+            },
+            "labels": {
+                "id": "Sesungguhnya/O  tugas/O  Kamilah/O  untuk/O  mengumpulkan/O  (/O  dalam/O  hatimu/O  )/O  dan/O  membacakannya/O ./O"
+            }
+        },
+        "18": {
+            "chapterid": "075",
+            "verse_id": 18,
+            "verse": {
+                "id": "Maka, apabila Kami telah selesai membacakannya, ikutilah bacaannya itu."
+            },
+            "labels": {
+                "id": "Maka/O ,/O  apabila/O  Kami/O  telah/O  selesai/O  membacakannya/O ,/O  ikutilah/O  bacaannya/O  itu/O ./O"
+            }
+        },
+        "19": {
+            "chapterid": "075",
+            "verse_id": 19,
+            "verse": {
+                "id": "Kemudian, sesungguhnya tugas Kami (pula)-lah (untuk) menjelaskannya."
+            },
+            "labels": {
+                "id": "Kemudian/O ,/O  sesungguhnya/O  tugas/O  Kami/O  (/O  pula/O  )/O  -lah/O  (/O  untuk/O  )/O  menjelaskannya/O ./O"
+            }
+        },
+        "20": {
+            "chapterid": "075",
+            "verse_id": 20,
+            "verse": {
+                "id": "Sekali-kali tidak! Bahkan, kamu mencintai kehidupan dunia,"
+            },
+            "labels": {
+                "id": "Sekali-kali/O  tidak/O !/O  Bahkan/O ,/O  kamu/O  mencintai/O  kehidupan/O  dunia/O ,/O"
+            }
+        },
+        "21": {
+            "chapterid": "075",
+            "verse_id": 21,
+            "verse": {
+                "id": "dan mengabaikan (kehidupan) akhirat."
+            },
+            "labels": {
+                "id": "dan/O  mengabaikan/O  (/O  kehidupan/O  )/O  akhirat/O ./O"
+            }
+        },
+        "22": {
+            "chapterid": "075",
+            "verse_id": 22,
+            "verse": {
+                "id": "Wajah-wajah (orang mukmin) pada hari itu berseri-seri"
+            },
+            "labels": {
+                "id": "Wajah-wajah/O  (/O  orang/O  mukmin/O  )/O  pada/O  hari/O  itu/O  berseri-seri/O"
+            }
+        },
+        "23": {
+            "chapterid": "075",
+            "verse_id": 23,
+            "verse": {
+                "id": "(karena) memandang Tuhannya."
+            },
+            "labels": {
+                "id": "(/O  karena/O  )/O  memandang/O  Tuhannya/O ./O  (/O  karena/O  )/O  memandang/O  Tuhannya/O ./O"
+            }
+        },
+        "24": {
+            "chapterid": "075",
+            "verse_id": 24,
+            "verse": {
+                "id": "Wajah-wajah (orang kafir) pada hari itu muram"
+            },
+            "labels": {
+                "id": "Wajah-wajah/O  (/O  orang/O  kafir/O  )/O  pada/O  hari/O  itu/O  muram/O"
+            }
+        },
+        "25": {
+            "chapterid": "075",
+            "verse_id": 25,
+            "verse": {
+                "id": "(karena) mereka yakin akan ditimpakan kepadanya malapetaka yang sangat dahsyat."
+            },
+            "labels": {
+                "id": "(/O  karena/O  )/O  mereka/O  yakin/O  akan/O  ditimpakan/O  kepadanya/O  malapetaka/O  yang/O  sangat/O  dahsyat/O ./O"
+            }
+        },
+        "26": {
+            "chapterid": "075",
+            "verse_id": 26,
+            "verse": {
+                "id": "Sekali-kali tidak! Apabila (nyawa) telah sampai di kerongkongan,"
+            },
+            "labels": {
+                "id": "Sekali-kali/O  tidak/O !/O  Apabila/O  (/O  nyawa/O  )/O  telah/O  sampai/O  di/O  kerongkongan/O ,/O"
+            }
+        },
+        "27": {
+            "chapterid": "075",
+            "verse_id": 27,
+            "verse": {
+                "id": "dan dikatakan (kepadanya), “Siapa yang (dapat) menyembuhkan?”"
+            },
+            "labels": {
+                "id": "dan/O  dikatakan/O  (/O  kepadanya/O  )/O ,/O  “Siapa/O  yang/O  (/O  dapat/O  )/O  menyembuhkan/O ?/O  ”/O"
+            }
+        },
+        "28": {
+            "chapterid": "075",
+            "verse_id": 28,
+            "verse": {
+                "id": "Dia pun yakin bahwa itulah waktu perpisahan (dengan dunia),"
+            },
+            "labels": {
+                "id": "Dia/O  pun/O  yakin/O  bahwa/O  itulah/O  waktu/O  perpisahan/O  (/O  dengan/O  dunia/O  )/O ,/O"
+            }
+        },
+        "29": {
+            "chapterid": "075",
+            "verse_id": 29,
+            "verse": {
+                "id": "dan bertautlah betis (kiri) dengan betis (kanan)."
+            },
+            "labels": {
+                "id": "dan/O  bertautlah/O  betis/O  (/O  kiri/O  )/O  dengan/O  betis/O  (/O  kanan/O  )/O ./O"
+            }
+        },
+        "30": {
+            "chapterid": "075",
+            "verse_id": 30,
+            "verse": {
+                "id": "Kepada Tuhanmulah pada hari itu (manusia) digiring."
+            },
+            "labels": {
+                "id": "Kepada/O  Tuhanmulah/O  pada/O  hari/O  itu/O  (/O  manusia/O  )/O  digiring/O ./O"
+            }
+        },
+        "31": {
+            "chapterid": "075",
+            "verse_id": 31,
+            "verse": {
+                "id": "Dia tidak membenarkan (Al-Qur’an dan Rasul) dan tidak melaksanakan salat."
+            },
+            "labels": {
+                "id": "Dia/O  tidak/O  membenarkan/O  (/O  Al-Qur’an/HolyBook  dan/O  Rasul/Messenger  )/O  dan/O  tidak/O  melaksanakan/O  salat/O ./O"
+            }
+        },
+        "32": {
+            "chapterid": "075",
+            "verse_id": 32,
+            "verse": {
+                "id": "Akan tetapi, dia mendustakan (Al-Qur’an) dan berpaling (dari kebenaran)."
+            },
+            "labels": {
+                "id": "Akan/O  tetapi/O ,/O  dia/O  mendustakan/O  (/O  Al-Qur’an/HolyBook  )/O  dan/O  berpaling/O  (/O  dari/O  kebenaran/O  )/O ./O"
+            }
+        },
+        "33": {
+            "chapterid": "075",
+            "verse_id": 33,
+            "verse": {
+                "id": "Kemudian, dia pergi kepada keluarganya dengan menyombongkan diri."
+            },
+            "labels": {
+                "id": "Kemudian/O ,/O  dia/O  pergi/O  kepada/O  keluarganya/O  dengan/O  menyombongkan/O  diri/O ./O"
+            }
+        },
+        "34": {
+            "chapterid": "075",
+            "verse_id": 34,
+            "verse": {
+                "id": "Celakalah kamu! Maka, celakalah!"
+            },
+            "labels": {
+                "id": "Celakalah/O  kamu/O !/O  Maka/O ,/O  celakalah/O !/O"
+            }
+        },
+        "35": {
+            "chapterid": "075",
+            "verse_id": 35,
+            "verse": {
+                "id": "Kemudian, celakalah kamu! Maka, celakalah!"
+            },
+            "labels": {
+                "id": "Kemudian/O ,/O  celakalah/O  kamu/O !/O  Maka/O ,/O  celakalah/O !/O"
+            }
+        },
+        "36": {
+            "chapterid": "075",
+            "verse_id": 36,
+            "verse": {
+                "id": "Apakah manusia mengira akan dibiarkan begitu saja (tanpa pertanggungjawaban)?"
+            },
+            "labels": {
+                "id": "Apakah/O  manusia/O  mengira/O  akan/O  dibiarkan/O  begitu/O  saja/O  (/O  tanpa/O  pertanggungjawaban/O  )/O ?/O"
+            }
+        },
+        "37": {
+            "chapterid": "075",
+            "verse_id": 37,
+            "verse": {
+                "id": "Bukankah dia dahulu setetes mani yang ditumpahkan (ke dalam rahim)?"
+            },
+            "labels": {
+                "id": "Bukankah/O  dia/O  dahulu/O  setetes/O  mani/O  yang/O  ditumpahkan/O  (/O  ke/O  dalam/O  rahim/O  )/O ?/O"
+            }
+        },
+        "38": {
+            "chapterid": "075",
+            "verse_id": 38,
+            "verse": {
+                "id": "Kemudian, (mani itu) menjadi sesuatu yang melekat, lalu Dia menciptakan dan menyempurnakannya."
+            },
+            "labels": {
+                "id": "Kemudian/O ,/O  (/O  mani/O  itu/O  )/O  menjadi/O  sesuatu/O  yang/O  melekat/O ,/O  lalu/O  Dia/O  menciptakan/O  dan/O  menyempurnakannya/O ./O"
+            }
+        },
+        "39": {
+            "chapterid": "075",
+            "verse_id": 39,
+            "verse": {
+                "id": "Lalu, Dia menjadikan darinya sepasang laki-laki dan perempuan."
+            },
+            "labels": {
+                "id": "Lalu/O ,/O  Dia/O  menjadikan/O  darinya/O  sepasang/O  laki-laki/O  dan/O  perempuan/O ./O"
+            }
+        },
+        "40": {
+            "chapterid": "075",
+            "verse_id": 40,
+            "verse": {
+                "id": "Bukankah (Allah) itu kuasa (pula) menghidupkan orang mati?"
+            },
+            "labels": {
+                "id": "Bukankah/O  (/O  Allah/Allah  )/O  itu/O  kuasa/O  (/O  pula/O  )/O  menghidupkan/O  orang/O  mati/O ?/O"
+            }
+        }
+    }
+}

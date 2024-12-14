@@ -1,0 +1,54 @@
+{
+    "113": {
+        "1": {
+            "chapterid": "113",
+            "verse_id": 1,
+            "verse": {
+                "id": "Katakanlah (Nabi Muhammad), “Aku berlindung kepada Tuhan yang (menjaga) fajar (subuh)"
+            },
+            "labels": {
+                "id": "Katakanlah/O  (/O  Nabi/O  Muhammad/Messenger  )/O ,/O  “Aku/O  berlindung/O  kepada/O  Tuhan/O  yang/O  (/O  menjaga/O  )/O  fajar/O  (/O  subuh/O  )/O  This sentence simply states that the speaker (Nabi Muhammad) seeks refuge in Allah, the One who guards the dawn. No specific entity mentions are present in the sentence."
+            }
+        },
+        "2": {
+            "chapterid": "113",
+            "verse_id": 2,
+            "verse": {
+                "id": "dari kejahatan (makhluk yang) Dia ciptakan,"
+            },
+            "labels": {
+                "id": "dari/O  kejahatan/O  (/O  makhluk/O  yang/O  )/O  Dia/O  ciptakan/O ,/O"
+            }
+        },
+        "3": {
+            "chapterid": "113",
+            "verse_id": 3,
+            "verse": {
+                "id": "dari kejahatan malam apabila telah gelap gulita,"
+            },
+            "labels": {
+                "id": "dari/O  kejahatan/O  malam/O  apabila/O  telah/O  gelap/O  gulita/O ,/O"
+            }
+        },
+        "4": {
+            "chapterid": "113",
+            "verse_id": 4,
+            "verse": {
+                "id": "dari kejahatan perempuan-perempuan (penyihir) yang meniup pada buhul-buhul (talinya),"
+            },
+            "labels": {
+                "id": "dari/O  kejahatan/O  perempuan-perempuan/O  (/O  penyihir/O  )/O  yang/O  meniup/O  pada/O  buhul-buhul/O  (/O  talinya/O  )/O ,/O"
+            }
+        },
+        "5": {
+            "chapterid": "113",
+            "verse_id": 5,
+            "verse": {
+                "id": "dan dari kejahatan orang yang dengki apabila dia dengki.”"
+            },
+            "labels": {
+                "id": "dan/O  dari/O  kejahatan/O  orang/O  yang/O  dengki/O  apabila/O  dia/O  dengki/O ./O  “/O"
+            }
+        }
+    }
+}

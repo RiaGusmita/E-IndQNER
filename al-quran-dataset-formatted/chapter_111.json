@@ -1,0 +1,54 @@
+{
+    "111": {
+        "1": {
+            "chapterid": "111",
+            "verse_id": 1,
+            "verse": {
+                "id": "Binasalah kedua tangan Abu Lahab dan benar-benar binasa dia."
+            },
+            "labels": {
+                "id": "Binasalah/O kedua/O tangan/O Abu Lahab/HistoricPerson dan/O benar-benar/O binasa/O dia/O ./O"
+            }
+        },
+        "2": {
+            "chapterid": "111",
+            "verse_id": 2,
+            "verse": {
+                "id": "Tidaklah berguna baginya hartanya dan apa yang dia usahakan."
+            },
+            "labels": {
+                "id": "Tidaklah/O berguna/O baginya/O hartanya/O dan/O apa/O yang/O dia/O usahakan/O ./O"
+            }
+        },
+        "3": {
+            "chapterid": "111",
+            "verse_id": 3,
+            "verse": {
+                "id": "Kelak dia akan memasuki api yang bergejolak (neraka),"
+            },
+            "labels": {
+                "id": "Kelak/O dia/O akan/O memasuki/O api/O yang/O bergejolak/O (/O neraka/O )/O ,/O"
+            }
+        },
+        "4": {
+            "chapterid": "111",
+            "verse_id": 4,
+            "verse": {
+                "id": "(begitu pula) istrinya, pembawa kayu bakar (penyebar fitnah)."
+            },
+            "labels": {
+                "id": "(/O begitu/O pula/O )/O istrinya/O ,/O pembawa/O kayu/O bakar/O (/O penyebar/O fitnah/O )/O ./O"
+            }
+        },
+        "5": {
+            "chapterid": "111",
+            "verse_id": 5,
+            "verse": {
+                "id": "Di lehernya ada tali dari sabut yang dipintal."
+            },
+            "labels": {
+                "id": "Di/O lehernya/O ada/O tali/O dari/O sabut/O yang/O dipintal/O ./O"
+            }
+        }
+    }
+}

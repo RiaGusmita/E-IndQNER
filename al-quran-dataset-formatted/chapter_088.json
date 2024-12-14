@@ -1,0 +1,264 @@
+{
+    "088": {
+        "1": {
+            "chapterid": "088",
+            "verse_id": 1,
+            "verse": {
+                "id": "Sudahkah sampai kepadamu berita tentang al-G\u0101syiyah (hari Kiamat yang menutupi kesadaran manusia dengan kedahsyatannya)?"
+            },
+            "labels": {
+                "id": "Sudahkah/O sampai/O kepadamu/O berita/O tentang/O al-G\u0101syiyah/AfterLifeEvent (/O hari Kiamat/AfterLifeEvent yang/O menutupi/O kesadaran/O manusia/O dengan/O kedahsyatannya/O )/O ?/O"
+            }
+        },
+        "2": {
+            "chapterid": "088",
+            "verse_id": 2,
+            "verse": {
+                "id": "Pada hari itu banyak wajah yang tertunduk hina"
+            },
+            "labels": {
+                "id": "Pada/O hari/O itu/O banyak/O wajah/O yang/O tertunduk/O hina/O"
+            }
+        },
+        "3": {
+            "chapterid": "088",
+            "verse_id": 3,
+            "verse": {
+                "id": "(karena) berusaha keras (menghindari azab neraka) lagi kepayahan (karena dibelenggu)."
+            },
+            "labels": {
+                "id": "(karena)/O berusaha/O keras/O (/O menghindari/O azab/O neraka/O )/O lagi/O kepayahan/O (/O karena/O dibelenggu/O )/O ./O"
+            }
+        },
+        "4": {
+            "chapterid": "088",
+            "verse_id": 4,
+            "verse": {
+                "id": "Mereka memasuki api (neraka) yang sangat panas."
+            },
+            "labels": {
+                "id": "Mereka/O memasuki/O api/O (/O neraka/O )/O yang/O sangat/O panas/O ./O"
+            }
+        },
+        "5": {
+            "chapterid": "088",
+            "verse_id": 5,
+            "verse": {
+                "id": "(Mereka) diberi minum dari sumber mata air yang sangat panas."
+            },
+            "labels": {
+                "id": "(Mereka)/O diberi/O minum/O dari/O sumber/O mata/O air/O yang/O sangat/O panas/O ./O"
+            }
+        },
+        "6": {
+            "chapterid": "088",
+            "verse_id": 6,
+            "verse": {
+                "id": "Tidak ada makanan bagi mereka selain dari pohon yang berduri,"
+            },
+            "labels": {
+                "id": "Tidak/O ada/O makanan/O bagi/O mereka/O selain/O dari/O pohon/O yang/O berduri/O ,/O"
+            }
+        },
+        "7": {
+            "chapterid": "088",
+            "verse_id": 7,
+            "verse": {
+                "id": "yang tidak menggemukkan dan tidak pula menghilangkan lapar."
+            },
+            "labels": {
+                "id": "yang/O tidak/O menggemukkan/O dan/O tidak/O pula/O menghilangkan/O lapar/O ./O"
+            }
+        },
+        "8": {
+            "chapterid": "088",
+            "verse_id": 8,
+            "verse": {
+                "id": "Pada hari itu banyak (pula) wajah yang berseri-seri,"
+            },
+            "labels": {
+                "id": "Pada/O hari/O itu/O banyak/O (/O pula/O )/O wajah/O yang/O berseri-seri/O ,/O"
+            }
+        },
+        "9": {
+            "chapterid": "088",
+            "verse_id": 9,
+            "verse": {
+                "id": "merasa puas karena usahanya."
+            },
+            "labels": {
+                "id": "merasa/O puas/O karena/O usahanya/O ./O"
+            }
+        },
+        "10": {
+            "chapterid": "088",
+            "verse_id": 10,
+            "verse": {
+                "id": "(Mereka) dalam surga yang tinggi."
+            },
+            "labels": {
+                "id": "(Mereka)/O dalam/O surga/O yang/O tinggi/O ./O"
+            }
+        },
+        "11": {
+            "chapterid": "088",
+            "verse_id": 11,
+            "verse": {
+                "id": "Di sana kamu tidak mendengar (perkataan) yang tidak berguna."
+            },
+            "labels": {
+                "id": "Di/O sana/O kamu/O tidak/O mendengar/O (/O perkataan/O )/O yang/O tidak/O berguna/O ./O"
+            }
+        },
+        "12": {
+            "chapterid": "088",
+            "verse_id": 12,
+            "verse": {
+                "id": "Di sana ada mata air yang mengalir."
+            },
+            "labels": {
+                "id": "Di/O sana/O ada/O mata/O air/O yang/O mengalir/O ./O"
+            }
+        },
+        "13": {
+            "chapterid": "088",
+            "verse_id": 13,
+            "verse": {
+                "id": "Di sana ada (pula) dipan-dipan yang ditinggikan,"
+            },
+            "labels": {
+                "id": "Di/O sana/O ada/O (/O pula/O )/O dipan-dipan/O yang/O ditinggikan/O ,/O"
+            }
+        },
+        "14": {
+            "chapterid": "088",
+            "verse_id": 14,
+            "verse": {
+                "id": "gelas-gelas yang tersedia (di dekatnya),"
+            },
+            "labels": {
+                "id": "gelas-gelas/O yang/O tersedia/O (/O di/O dekatnya/O )/O ,/O"
+            }
+        },
+        "15": {
+            "chapterid": "088",
+            "verse_id": 15,
+            "verse": {
+                "id": "bantal-bantal sandaran yang tersusun,"
+            },
+            "labels": {
+                "id": "bantal-bantal/O sandaran/O yang/O tersusun/O ,/O"
+            }
+        },
+        "16": {
+            "chapterid": "088",
+            "verse_id": 16,
+            "verse": {
+                "id": "dan permadani-permadani yang terhampar."
+            },
+            "labels": {
+                "id": "dan/O permadani-permadani/O yang/O terhampar/O ./O"
+            }
+        },
+        "17": {
+            "chapterid": "088",
+            "verse_id": 17,
+            "verse": {
+                "id": "Tidakkah mereka memperhatikan unta, bagaimana ia diciptakan?"
+            },
+            "labels": {
+                "id": "Tidakkah/O mereka/O memperhatikan/O unta/O ,/O bagaimana/O ia/O diciptakan/O ?/O"
+            }
+        },
+        "18": {
+            "chapterid": "088",
+            "verse_id": 18,
+            "verse": {
+                "id": "Bagaimana langit ditinggikan?"
+            },
+            "labels": {
+                "id": "Bagaimana/O langit/O ditinggikan/O ?/O"
+            }
+        },
+        "19": {
+            "chapterid": "088",
+            "verse_id": 19,
+            "verse": {
+                "id": "Bagaimana gunung-gunung ditegakkan?"
+            },
+            "labels": {
+                "id": "Bagaimana/O gunung-gunung/O ditegakkan/O ?/O"
+            }
+        },
+        "20": {
+            "chapterid": "088",
+            "verse_id": 20,
+            "verse": {
+                "id": "Bagaimana pula bumi dihamparkan?"
+            },
+            "labels": {
+                "id": "Bagaimana/O pula/O bumi/AstronomicalBody dihamparkan/O ?/O"
+            }
+        },
+        "21": {
+            "chapterid": "088",
+            "verse_id": 21,
+            "verse": {
+                "id": "Maka, berilah peringatan karena sesungguhnya engkau (Nabi Muhammad) hanyalah pemberi peringatan."
+            },
+            "labels": {
+                "id": "Maka/O ,/O berilah/O peringatan/O karena/O sesungguhnya/O engkau/O (/O Nabi/O Muhammad/Messenger )/O hanyalah/O pemberi/O peringatan/O ./O"
+            }
+        },
+        "22": {
+            "chapterid": "088",
+            "verse_id": 22,
+            "verse": {
+                "id": "Engkau bukanlah orang yang berkuasa atas mereka."
+            },
+            "labels": {
+                "id": "Engkau/O bukanlah/O orang/O yang/O berkuasa/O atas/O mereka/O ./O"
+            }
+        },
+        "23": {
+            "chapterid": "088",
+            "verse_id": 23,
+            "verse": {
+                "id": "Akan tetapi, orang yang berpaling dan kufur,"
+            },
+            "labels": {
+                "id": "Akan/O tetapi/O ,/O orang/O yang/O berpaling/O dan/O kufur/O ,/O"
+            }
+        },
+        "24": {
+            "chapterid": "088",
+            "verse_id": 24,
+            "verse": {
+                "id": "Allah akan mengazabnya dengan azab yang paling besar."
+            },
+            "labels": {
+                "id": "Allah/Allah akan/O mengazabnya/O dengan/O azab/O yang/O paling/O besar/O ./O"
+            }
+        },
+        "25": {
+            "chapterid": "088",
+            "verse_id": 25,
+            "verse": {
+                "id": "Sesungguhnya kepada Kamilah mereka kembali."
+            },
+            "labels": {
+                "id": "Sesungguhnya/O kepada/O Kamilah/O mereka/O kembali/O ./O"
+            }
+        },
+        "26": {
+            "chapterid": "088",
+            "verse_id": 26,
+            "verse": {
+                "id": "Kemudian, sesungguhnya Kamilah yang berhak melakukan hisab (perhitungan) atas mereka."
+            },
+            "labels": {
+                "id": "Kemudian/O ,/O sesungguhnya/O Kamilah/O yang/O berhak/O melakukan/O hisab/O (/O perhitungan/O )/O atas/O mereka/O ./O"
+            }
+        }
+    }
+}

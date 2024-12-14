@@ -1,0 +1,44 @@
+{
+    "112": {
+        "1": {
+            "chapterid": "112",
+            "verse_id": 1,
+            "verse": {
+                "id": "Katakanlah (Nabi Muhammad), \"Dialah Allah Yang Maha Esa."
+            },
+            "labels": {
+                "id": "Katakanlah/O (/O Nabi/O Muhammad/Messenger )/O ,/O \"/O Dialah/O Allah/Allah Yang Maha Esa/Allah ./O"
+            }
+        },
+        "2": {
+            "chapterid": "112",
+            "verse_id": 2,
+            "verse": {
+                "id": "Allah tempat meminta segala sesuatu."
+            },
+            "labels": {
+                "id": "Allah/Allah tempat/O meminta/O segala/O sesuatu/O ./O"
+            }
+        },
+        "3": {
+            "chapterid": "112",
+            "verse_id": 3,
+            "verse": {
+                "id": "Dia tidak beranak dan tidak pula diperanakkan"
+            },
+            "labels": {
+                "id": "Dia/O tidak/O beranak/O dan/O tidak/O pula/O diperanakkan/O"
+            }
+        },
+        "4": {
+            "chapterid": "112",
+            "verse_id": 4,
+            "verse": {
+                "id": "serta tidak ada sesuatu pun yang setara dengan-Nya.\""
+            },
+            "labels": {
+                "id": "serta/O tidak/O ada/O sesuatu/O pun/O yang/O setara/O dengan-Nya/O ./O"
+            }
+        }
+    }
+}
