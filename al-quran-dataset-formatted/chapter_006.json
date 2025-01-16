@@ -147,7 +147,7 @@
                 "id": "Katakanlah, \u201cSesungguhnya aku takut azab pada hari yang besar (kiamat) jika aku durhaka kepada Tuhanku.\u201d"
             },
             "labels": {
-                "id": "Katakanlah/O ,/O \u201c/O Sesungguhnya/O aku/O takut/O azab/O pada/O hari/O yang/O besar/O (/O kiamat/AfterLifeEvent )/O jika/O aku/O durhaka/O kepada/O Tuhanku/O ./O\u201d/O"
+                "id": "Katakanlah/O ,/O \u201c/O Sesungguhnya/O aku/O takut/O azab/O pada/O hari/O yang/O besar/O (/O kiamat/AfterLifeEvent )/O jika/O aku/O durhaka/O kepada/O Tuhanku/O ./O \u201d/O"
             }
         },
         "16": {
@@ -217,7 +217,7 @@
                 "id": "(Ingatlah) tatkala Kami kumpulkan mereka semua kemudian Kami berfirman kepada orang-orang yang mempersekutukan Kami, \u201cManakah sekutu-sekutumu yang kamu sangkakan?\u201d"
             },
             "labels": {
-                "id": "(/O Ingatlah/O )/O tatkala/O Kami/O kumpulkan/O mereka/O semua/O kemudian/O Kami/O berfirman/O kepada/O orang-orang/O yang/O mempersekutukan/O Kami/O ,/O \u201c/O Manakah/O sekutu-sekutumu/O yang/O kamu/O sangkakan/O ?/O\u201d/O"
+                "id": "(/O Ingatlah/O )/O tatkala/O Kami/O kumpulkan/O mereka/O semua/O kemudian/O Kami/O berfirman/O kepada/O orang-orang/O yang/O mempersekutukan/O Kami/O ,/O \u201c/O Manakah/O sekutu-sekutumu/O yang/O kamu/O sangkakan/O ?/O \u201d/O"
             }
         },
         "23": {
@@ -227,7 +227,7 @@
                 "id": "Kemudian, mereka tidak punya jawaban atas kebohongan mereka, kecuali (terpaksa) mengatakan, \u201cDemi Allah, Tuhan kami, kami bukanlah orang-orang musyrik.\u201d"
             },
             "labels": {
-                "id": "Kemudian/O ,/O mereka/O tidak/O punya/O jawaban/O atas/O kebohongan/O mereka/O ,/O kecuali/O (/O terpaksa/O )/O mengatakan/O ,/O \u201c/O Demi/O Allah/Allah ,/O Tuhan/O kami/O ,/O kami/O bukanlah/O orang-orang/O musyrik/O ./O\u201d/O"
+                "id": "Kemudian/O ,/O mereka/O tidak/O punya/O jawaban/O atas/O kebohongan/O mereka/O ,/O kecuali/O (/O terpaksa/O )/O mengatakan/O ,/O \u201c/O Demi/O Allah/Allah ,/O Tuhan/O kami/O ,/O kami/O bukanlah/O orang-orang/O musyrik/O ./O \u201d/O"
             }
         },
         "24": {
@@ -267,7 +267,7 @@
                 "id": "Seandainya engkau (Nabi Muhammad) melihat ketika mereka dihadapkan ke neraka, mereka berkata, \u201cSeandainya kami dikembalikan (ke dunia), tentu kami tidak akan mendustakan ayat-ayat Tuhan kami, dan kami menjadi orang-orang mukmin.\u201d"
             },
             "labels": {
-                "id": "Seandainya/O engkau/O (/O Nabi/O Muhammad/Messenger )/O melihat/O ketika/O mereka/O dihadapkan/O ke/O neraka/O ,/O mereka/O berkata/O ,/O \u201c/O Seandainya/O kami/O dikembalikan/O (/O ke/O dunia/O )/O ,/O tentu/O kami/O tidak/O akan/O mendustakan/O ayat-ayat/O Tuhan/O kami/O ,/O dan/O kami/O menjadi/O orang-orang/O mukmin/O ./O\u201d/O"
+                "id": "Seandainya/O engkau/O (/O Nabi/O Muhammad/Messenger )/O melihat/O ketika/O mereka/O dihadapkan/O ke/O neraka/O ,/O mereka/O berkata/O ,/O \u201c/O Seandainya/O kami/O dikembalikan/O (/O ke/O dunia/O )/O ,/O tentu/O kami/O tidak/O akan/O mendustakan/O ayat-ayat/O Tuhan/O kami/O ,/O dan/O kami/O menjadi/O orang-orang/O mukmin/O ./O \u201d/O"
             }
         },
         "28": {
@@ -287,7 +287,7 @@
                 "id": "Mereka pun akan mengatakan, \u201cHidup hanyalah di dunia ini dan kita tidak akan dibangkitkan.\u201d"
             },
             "labels": {
-                "id": "Mereka/O pun/O akan/O mengatakan/O ,/O \u201c/O Hidup/O hanyalah/O di/O dunia/O ini/O dan/O kita/O tidak/O akan/O dibangkitkan/O ./O\u201d/O"
+                "id": "Mereka/O pun/O akan/O mengatakan/O ,/O \u201c/O Hidup/O hanyalah/O di/O dunia/O ini/O dan/O kita/O tidak/O akan/O dibangkitkan/O ./O \u201d/O"
             }
         },
         "30": {
@@ -467,7 +467,7 @@
                 "id": "Katakanlah (Nabi Muhammad), \u201cTerangkanlah kepadaku jika siksaan Allah sampai kepadamu secara tiba-tiba atau terang-terangan, adakah yang dibinasakan (Allah) selain orang-orang yang zalim?\u201d"
             },
             "labels": {
-                "id": "Katakanlah/O (/O Nabi/O Muhammad/Messenger )/O ,/O \u201c/O Terangkanlah/O kepadaku/O jika/O siksaan/O Allah/Allah sampai/O kepadamu/O secara/O tiba-tiba/O atau/O terang-terangan/O ,/O adakah/O yang/O dibinasakan/O (/O Allah/Allah )/O selain/O orang-orang/O yang/O zalim/O ?/O\u201d/O"
+                "id": "Katakanlah/O (/O Nabi/O Muhammad/Messenger )/O ,/O \u201c/O Terangkanlah/O kepadaku/O jika/O siksaan/O Allah/Allah sampai/O kepadamu/O secara/O tiba-tiba/O atau/O terang-terangan/O ,/O adakah/O yang/O dibinasakan/O (/O Allah/Allah )/O selain/O orang-orang/O yang/O zalim/O ?/O \u201d/O"
             }
         },
         "48": {
