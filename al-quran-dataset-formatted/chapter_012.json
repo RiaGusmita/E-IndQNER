@@ -137,7 +137,7 @@
                 "id": "Mereka berkata, \u201cSungguh, jika serigala memangsanya, padahal kami kelompok (yang kuat), kami benar-benar orang-orang yang merugi.\u201d"
             },
             "labels": {
-                "id": "Mereka/O berkata/O ,/O \u201c/O Sungguh/O ,/O jika/O serigala/O memangsanya/O ,/O padahal/O kami/O kelompok/O (/O yang/O kuat/O )/O ,/O kami/O benar-benar/O orang-orang/O yang/O merugi/O ./O\u201d/O"
+                "id": "Mereka/O berkata/O ,/O \u201c/O Sungguh/O ,/O jika/O serigala/O memangsanya/O ,/O padahal/O kami/O kelompok/O (/O yang/O kuat/O )/O ,/O kami/O benar-benar/O orang-orang/O yang/O merugi/O ./O \u201d/O"
             }
         },
         "15": {
@@ -437,7 +437,7 @@
                 "id": "Mereka menjawab, \u201c(Itu) mimpi-mimpi yang kosong dan kami sekali-kali tidak mampu menakwilkan mimpi itu.\u201d"
             },
             "labels": {
-                "id": "Mereka/O menjawab/O ,/O \u201c/O (/O Itu/O )/O mimpi-mimpi/O yang/O kosong/O dan/O kami/O sekali-kali/O tidak/O mampu/O menakwilkan/O mimpi/O itu/O ./O\u201d/O"
+                "id": "Mereka/O menjawab/O ,/O \u201c/O (/O Itu/O )/O mimpi-mimpi/O yang/O kosong/O dan/O kami/O sekali-kali/O tidak/O mampu/O menakwilkan/O mimpi/O itu/O ./O \u201d/O"
             }
         },
         "45": {
@@ -707,7 +707,7 @@
                 "id": "Mereka bertanya, sambil menghadap kepada mereka (yang menuduh), \u201cApa yang hilang darimu?\u201d"
             },
             "labels": {
-                "id": "Mereka/O bertanya/O ,/O sambil/O menghadap/O kepada/O mereka/O (/O yang/O menuduh/O )/O ,/O \u201c/O Apa/O yang/O hilang/O darimu/O ?/O\u201d/O"
+                "id": "Mereka/O bertanya/O ,/O sambil/O menghadap/O kepada/O mereka/O (/O yang/O menuduh/O )/O ,/O \u201c/O Apa/O yang/O hilang/O darimu/O ?/O \u201d/O"
             }
         },
         "72": {
@@ -727,7 +727,7 @@
                 "id": "Mereka (saudara-saudara Yusuf) menjawab, \u201cDemi Allah, sungguh kamu mengetahui bahwa kami datang bukan untuk berbuat kerusakan di negeri ini dan kami bukanlah para pencuri.\u201d"
             },
             "labels": {
-                "id": "Mereka/O (/O saudara-saudara Yusuf/HistoricPeople )/O menjawab/O ,/O \u201c/O Demi/O Allah/Allah ,/O sungguh/O kamu/O mengetahui/O bahwa/O kami/O datang/O bukan/O untuk/O berbuat/O kerusakan/O di/O negeri/O ini/O dan/O kami/O bukanlah/O para/O pencuri/O ./O\u201d/O"
+                "id": "Mereka/O (/O saudara-saudara Yusuf/HistoricPeople )/O menjawab/O ,/O \u201c/O Demi/O Allah/Allah ,/O sungguh/O kamu/O mengetahui/O bahwa/O kami/O datang/O bukan/O untuk/O berbuat/O kerusakan/O di/O negeri/O ini/O dan/O kami/O bukanlah/O para/O pencuri/O ./O \u201d/O"
             }
         },
         "74": {
@@ -847,7 +847,7 @@
                 "id": "Mereka berkata, \u201cDemi Allah, engkau tidak henti-hentinya mengingat Yusuf sehingga engkau (mengidap) penyakit berat atau engkau termasuk orang-orang yang akan binasa (wafat).\u201d"
             },
             "labels": {
-                "id": "Mereka/O berkata/O ,/O \u201c/O Demi/O Allah/Allah ,/O engkau/O tidak/O henti-hentinya/O mengingat/O Yusuf/Messenger sehingga/O engkau/O (/O mengidap/O )/O penyakit/O berat/O atau/O engkau/O termasuk/O orang-orang/O yang/O akan/O binasa/O (/O wafat/O )/O ./O\u201d/O"
+                "id": "Mereka/O berkata/O ,/O \u201c/O Demi/O Allah/Allah ,/O engkau/O tidak/O henti-hentinya/O mengingat/O Yusuf/Messenger sehingga/O engkau/O (/O mengidap/O )/O penyakit/O berat/O atau/O engkau/O termasuk/O orang-orang/O yang/O akan/O binasa/O (/O wafat/O )/O ./O \u201d/O"
             }
         },
         "86": {
@@ -887,7 +887,7 @@
                 "id": "Dia (Yusuf) berkata, \u201cTahukah kamu (kejelekan) apa yang telah kamu perbuat terhadap Yusuf dan saudaranya karena kamu tidak mengetahui (akibat) perbuatanmu itu?\u201d"
             },
             "labels": {
-                "id": "Dia/O (/O Yusuf/Messenger )/O berkata/O ,/O \u201c/O Tahukah/O kamu/O (/O kejelekan/O )/O apa/O yang/O telah/O kamu/O perbuat/O terhadap/O Yusuf/Messenger dan/O saudaranya/O karena/O kamu/O tidak/O mengetahui/O (/O akibat/O )/O perbuatanmu/O itu/O ?/O\u201d/O"
+                "id": "Dia/O (/O Yusuf/Messenger )/O berkata/O ,/O \u201c/O Tahukah/O kamu/O (/O kejelekan/O )/O apa/O yang/O telah/O kamu/O perbuat/O terhadap/O Yusuf/Messenger dan/O saudaranya/O karena/O kamu/O tidak/O mengetahui/O (/O akibat/O )/O perbuatanmu/O itu/O ?/O \u201d/O"
             }
         },
         "90": {
@@ -907,7 +907,7 @@
                 "id": "Mereka berkata, \u201cDemi Allah, Allah benar-benar telah melebihkan engkau di atas kami dan sesungguhnya kami benar-benar orang-orang yang bersalah.\u201d"
             },
             "labels": {
-                "id": "Mereka/O berkata/O ,/O \u201c/O Demi/O Allah/Allah ,/O Allah/Allah benar-benar/O telah/O melebihkan/O engkau/O di/O atas/O kami/O dan/O sesungguhnya/O kami/O benar-benar/O orang-orang/O yang/O bersalah/O ./O\u201d/O"
+                "id": "Mereka/O berkata/O ,/O \u201c/O Demi/O Allah/Allah ,/O Allah/Allah benar-benar/O telah/O melebihkan/O engkau/O di/O atas/O kami/O dan/O sesungguhnya/O kami/O benar-benar/O orang-orang/O yang/O bersalah/O ./O \u201d/O"
             }
         },
         "92": {
@@ -937,7 +937,7 @@
                 "id": "Ketika kafilah itu telah keluar (dari Mesir dan memasuki Palestina), ayah mereka berkata, \u201cSesungguhnya aku mencium bau Yusuf seandainya kamu tidak menuduhku lemah akal.\u201d"
             },
             "labels": {
-                "id": "Ketika/O kafilah/O itu/O telah/O keluar/O (/O dari/O Mesir/GeographicalLocation dan/O memasuki/O Palestina/GeographicalLocation )/O ,/O ayah/O mereka/O berkata/O ,/O \u201c/O Sesungguhnya/O aku/O mencium/O bau/O Yusuf/Messenger seandainya/O kamu/O tidak/O menuduhku/O lemah/O akal/O ./O\u201d/O"
+                "id": "Ketika/O kafilah/O itu/O telah/O keluar/O (/O dari/O Mesir/GeographicalLocation dan/O memasuki/O Palestina/GeographicalLocation )/O ,/O ayah/O mereka/O berkata/O ,/O \u201c/O Sesungguhnya/O aku/O mencium/O bau/O Yusuf/Messenger seandainya/O kamu/O tidak/O menuduhku/O lemah/O akal/O ./O \u201d/O"
             }
         },
         "95": {
@@ -967,7 +967,7 @@
                 "id": "Mereka (anak-anak Ya\u2018qub) berkata, \u201cWahai ayah kami, mohonkanlah ampunan untuk kami atas dosa-dosa kami. Sesungguhnya kami adalah orang-orang yang bersalah.\u201d"
             },
             "labels": {
-                "id": "Mereka/O (/O anak-anak Ya\u2018qub/HistoricPeople )/O berkata/O ,/O \u201c/O Wahai/O ayah/O kami/O ,/O mohonkanlah/O ampunan/O untuk/O kami/O atas/O dosa-dosa/O kami/O ./O Sesungguhnya/O kami/O adalah/O orang-orang/O yang/O bersalah/O ./O\u201d/O"
+                "id": "Mereka/O (/O anak-anak Ya\u2018qub/HistoricPeople )/O berkata/O ,/O \u201c/O Wahai/O ayah/O kami/O ,/O mohonkanlah/O ampunan/O untuk/O kami/O atas/O dosa-dosa/O kami/O ./O Sesungguhnya/O kami/O adalah/O orang-orang/O yang/O bersalah/O ./O \u201d/O"
             }
         },
         "98": {
@@ -987,7 +987,7 @@
                 "id": "Maka ketika mereka masuk ke (tempat) Yusuf, dia merangkul ibu bapaknya seraya berkata, \u201cMasuklah ke negeri Mesir. Insyaallah dalam keadaan aman.\u201d"
             },
             "labels": {
-                "id": "Maka/O ketika/O mereka/O masuk/O ke/O (/O tempat/O )/O Yusuf/Messenger ,/O dia/O merangkul/O ibu/O bapaknya/O seraya/O berkata/O ,/O \u201c/O Masuklah/O ke/O negeri Mesir/GeographicalLocation ./O Insyaallah/O dalam/O keadaan/O aman/O ./O\u201d/O"
+                "id": "Maka/O ketika/O mereka/O masuk/O ke/O (/O tempat/O )/O Yusuf/Messenger ,/O dia/O merangkul/O ibu/O bapaknya/O seraya/O berkata/O ,/O \u201c/O Masuklah/O ke/O negeri Mesir/GeographicalLocation ./O Insyaallah/O dalam/O keadaan/O aman/O ./O \u201d/O"
             }
         },
         "100": {
@@ -1077,7 +1077,7 @@
                 "id": "Katakanlah (Nabi Muhammad), \u201cInilah jalanku, aku dan orang-orang yang mengikutiku mengajak (seluruh manusia) kepada Allah dengan bukti yang nyata. Maha Suci Allah dan aku tidak termasuk golongan orang-orang musyrik.\u201d"
             },
             "labels": {
-                "id": "Katakanlah/O (/O Nabi/O Muhammad/Messenger )/O ,/O \u201c/O Inilah/O jalanku/O ,/O aku/O dan/O orang-orang/O yang/O mengikutiku/O mengajak/O (/O seluruh/O manusia/O )/O kepada/O Allah/Allah dengan/O bukti/O yang/O nyata/O ./O Maha/O Suci/O Allah/Allah dan/O aku/O tidak/O termasuk/O golongan/O orang-orang/O musyrik/O ./O\u201d/O"
+                "id": "Katakanlah/O (/O Nabi/O Muhammad/Messenger )/O ,/O \u201c/O Inilah/O jalanku/O ,/O aku/O dan/O orang-orang/O yang/O mengikutiku/O mengajak/O (/O seluruh/O manusia/O )/O kepada/O Allah/Allah dengan/O bukti/O yang/O nyata/O ./O Maha/O Suci/O Allah/Allah dan/O aku/O tidak/O termasuk/O golongan/O orang-orang/O musyrik/O ./O \u201d/O"
             }
         },
         "109": {
