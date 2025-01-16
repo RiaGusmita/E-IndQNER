@@ -147,7 +147,7 @@
                 "id": "tentulah mereka berkata, \u201cSesungguhnya pandangan kamilah yang dikaburkan. Bahkan, kami adalah kaum yang terkena sihir.\u201d"
             },
             "labels": {
-                "id": "tentulah/O mereka/O berkata/O ,/O \u201c/O Sesungguhnya/O pandangan/O kamilah/O yang/O dikaburkan/O ./O Bahkan/O ,/O kami/O adalah/O kaum/O yang/O terkena/O sihir/O ./O\u201d/O"
+                "id": "tentulah/O mereka/O berkata/O ,/O \u201c/O Sesungguhnya/O pandangan/O kamilah/O yang/O dikaburkan/O ./O Bahkan/O ,/O kami/O adalah/O kaum/O yang/O terkena/O sihir/O ./O \u201d/O"
             }
         },
         "16": {
@@ -317,7 +317,7 @@
                 "id": "Dia (Allah) berfirman, \u201cWahai Iblis, apa yang menyebabkanmu enggan bersama mereka yang bersujud itu?\u201d"
             },
             "labels": {
-                "id": "Dia/O (/O Allah/Allah )/O berfirman/O ,/O \u201c/O Wahai/O Iblis/O ,/O apa/O yang/O menyebabkanmu/O enggan/O bersama/O mereka/O yang/O bersujud/O itu/O ?/O\u201d/O"
+                "id": "Dia/O (/O Allah/Allah )/O berfirman/O ,/O \u201c/O Wahai/O Iblis/O ,/O apa/O yang/O menyebabkanmu/O enggan/O bersama/O mereka/O yang/O bersujud/O itu/O ?/O \u201d/O"
             }
         },
         "33": {
@@ -327,7 +327,7 @@
                 "id": "Ia (Iblis) berkata, \u201cAku sekali-kali tidak akan bersujud kepada manusia yang Engkau ciptakan dari tanah liat kering dari lumpur hitam yang diberi bentuk.\u201d"
             },
             "labels": {
-                "id": "Ia/O (/O Iblis/O )/O berkata/O ,/O \u201c/O Aku/O sekali-kali/O tidak/O akan/O bersujud/O kepada/O manusia/O yang/O Engkau/O ciptakan/O dari/O tanah/O liat/O kering/O dari/O lumpur/O hitam/O yang/O diberi/O bentuk/O ./O\u201d/O"
+                "id": "Ia/O (/O Iblis/O )/O berkata/O ,/O \u201c/O Aku/O sekali-kali/O tidak/O akan/O bersujud/O kepada/O manusia/O yang/O Engkau/O ciptakan/O dari/O tanah/O liat/O kering/O dari/O lumpur/O hitam/O yang/O diberi/O bentuk/O ./O \u201d/O"
             }
         },
         "34": {
@@ -397,7 +397,7 @@
                 "id": "kecuali hamba-hamba-Mu yang terpilih (karena keikhlasannya) di antara mereka.\u201d"
             },
             "labels": {
-                "id": "kecuali/O hamba-hamba-Mu/O yang/O terpilih/O (/O karena/O keikhlasannya/O )/O di/O antara/O mereka/O ./O\u201d/O"
+                "id": "kecuali/O hamba-hamba-Mu/O yang/O terpilih/O (/O karena/O keikhlasannya/O )/O di/O antara/O mereka/O ./O \u201d/O"
             }
         },
         "41": {
@@ -527,7 +527,7 @@
                 "id": "(Mereka) berkata, \u201cJanganlah merasa takut (karena) sesungguhnya kami memberi kabar gembira kepadamu dengan (kelahiran) anak laki-laki yang alim (Ishaq).\u201d"
             },
             "labels": {
-                "id": "(/O Mereka/O )/O berkata/O ,/O \u201c/O Janganlah/O merasa/O takut/O (/O karena/O )/O sesungguhnya/O kami/O memberi/O kabar/O gembira/O kepadamu/O dengan/O (/O kelahiran/O )/O anak/O laki-laki/O yang/O alim/O (/O Ishaq/Prophet )/O ./O\u201d/O"
+                "id": "(/O Mereka/O )/O berkata/O ,/O \u201c/O Janganlah/O merasa/O takut/O (/O karena/O )/O sesungguhnya/O kami/O memberi/O kabar/O gembira/O kepadamu/O dengan/O (/O kelahiran/O )/O anak/O laki-laki/O yang/O alim/O (/O Ishaq/Prophet )/O ./O \u201d/O"
             }
         },
         "54": {
@@ -537,7 +537,7 @@
                 "id": "Dia (Ibrahim) berkata, \u201cBenarkah kamu memberi kabar gembira kepadaku, padahal usiaku telah lanjut. Maka, dengan (cara) apa kamu memberi kabar gembira?\u201d"
             },
             "labels": {
-                "id": "Dia/O (/O Ibrahim/Messenger )/O berkata/O ,/O \u201c/O Benarkah/O kamu/O memberi/O kabar/O gembira/O kepadaku/O ,/O padahal/O usiaku/O telah/O lanjut/O ./O Maka/O ,/O dengan/O (/O cara/O )/O apa/O kamu/O memberi/O kabar/O gembira/O ?/O\u201d/O"
+                "id": "Dia/O (/O Ibrahim/Messenger )/O berkata/O ,/O \u201c/O Benarkah/O kamu/O memberi/O kabar/O gembira/O kepadaku/O ,/O padahal/O usiaku/O telah/O lanjut/O ./O Maka/O ,/O dengan/O (/O cara/O )/O apa/O kamu/O memberi/O kabar/O gembira/O ?/O \u201d/O"
             }
         },
         "55": {
@@ -547,7 +547,7 @@
                 "id": "Mereka menjawab, \u201cKami menyampaikan kabar gembira kepadamu dengan benar. Maka, janganlah engkau termasuk orang yang berputus asa.\u201d"
             },
             "labels": {
-                "id": "Mereka/O menjawab/O ,/O \u201c/O Kami/O menyampaikan/O kabar/O gembira/O kepadamu/O dengan/O benar/O ./O Maka/O ,/O janganlah/O engkau/O termasuk/O orang/O yang/O berputus/O asa/O ./O\u201d/O"
+                "id": "Mereka/O menjawab/O ,/O \u201c/O Kami/O menyampaikan/O kabar/O gembira/O kepadamu/O dengan/O benar/O ./O Maka/O ,/O janganlah/O engkau/O termasuk/O orang/O yang/O berputus/O asa/O ./O \u201d/O"
             }
         },
         "56": {
@@ -557,7 +557,7 @@
                 "id": "Dia (Ibrahim) berkata, \u201cAdakah orang yang berputus asa dari rahmat Tuhannya selain orang yang sesat?\u201d"
             },
             "labels": {
-                "id": "Dia/O (/O Ibrahim/Messenger )/O berkata/O ,/O \u201c/O Adakah/O orang/O yang/O berputus/O asa/O dari/O rahmat/O Tuhannya/O selain/O orang/O yang/O sesat/O ?/O\u201d/O"
+                "id": "Dia/O (/O Ibrahim/Messenger )/O berkata/O ,/O \u201c/O Adakah/O orang/O yang/O berputus/O asa/O dari/O rahmat/O Tuhannya/O selain/O orang/O yang/O sesat/O ?/O \u201d/O"
             }
         },
         "57": {
@@ -567,7 +567,7 @@
                 "id": "Dia (Ibrahim) bertanya, \u201cApa urusan pentingmu, wahai para utusan?\u201d"
             },
             "labels": {
-                "id": "Dia/O (/O Ibrahim/Messenger )/O bertanya/O ,/O \u201c/O Apa/O urusan/O pentingmu/O ,/O wahai/O para/O utusan/O ?/O\u201d/O"
+                "id": "Dia/O (/O Ibrahim/Messenger )/O bertanya/O ,/O \u201c/O Apa/O urusan/O pentingmu/O ,/O wahai/O para/O utusan/O ?/O \u201d/O"
             }
         },
         "58": {
@@ -617,7 +617,7 @@
                 "id": "dia berkata, \u201cSesungguhnya kamu orang-orang yang tidak kami kenal.\u201d"
             },
             "labels": {
-                "id": "dia/O berkata/O ,/O \u201c/O Sesungguhnya/O kamu/O orang-orang/O yang/O tidak/O kami/O kenal/O ./O\u201d/O"
+                "id": "dia/O berkata/O ,/O \u201c/O Sesungguhnya/O kamu/O orang-orang/O yang/O tidak/O kami/O kenal/O ./O \u201d/O"
             }
         },
         "63": {
@@ -697,7 +697,7 @@
                 "id": "Mereka berkata, \u201cBukankah kami telah melarangmu (menerima) manusia (para tamu)?\u201d"
             },
             "labels": {
-                "id": "Mereka/O berkata/O ,/O \u201c/O Bukankah/O kami/O telah/O melarangmu/O (/O menerima/O )/O manusia/O (/O para/O tamu/O )/O ?/O\u201d/O"
+                "id": "Mereka/O berkata/O ,/O \u201c/O Bukankah/O kami/O telah/O melarangmu/O (/O menerima/O )/O manusia/O (/O para/O tamu/O )/O ?/O \u201d/O"
             }
         },
         "71": {
@@ -707,7 +707,7 @@
                 "id": "Dia (Lut) berkata, \u201cMereka itulah putri-putri (negeri)-ku. (Nikahilah mereka) jika kamu hendak berbuat (memenuhi nafsu syahwatmu).\u201d"
             },
             "labels": {
-                "id": "Dia/O (/O Lut/Messenger )/O berkata/O ,/O \u201c/O Mereka/O itulah/O putri-putri/O (/O negeri/O )/O -ku/O ./O (/O Nikahilah/O mereka/O )/O jika/O kamu/O hendak/O berbuat/O (/O memenuhi/O nafsu/O syahwatmu/O )/O ./O\u201d/O"
+                "id": "Dia/O (/O Lut/Messenger )/O berkata/O ,/O \u201c/O Mereka/O itulah/O putri-putri/O (/O negeri/O )/O -ku/O ./O (/O Nikahilah/O mereka/O )/O jika/O kamu/O hendak/O berbuat/O (/O memenuhi/O nafsu/O syahwatmu/O )/O ./O \u201d/O"
             }
         },
         "72": {
@@ -717,7 +717,7 @@
                 "id": "(Allah berfirman,) \u201cDemi umurmu (Nabi Muhammad), sungguh, mereka terombang-ambing dalam kemabukan (demi melampiaskan hawa nafsu).\u201d"
             },
             "labels": {
-                "id": "(/O Allah/Allah berfirman/O ,/O )/O \u201c/O Demi/O umurmu/O (/O Nabi/O Muhammad/Messenger )/O ,/O sungguh/O ,/O mereka/O terombang-ambing/O dalam/O kemabukan/O (/O demi/O melampiaskan/O hawa/O nafsu/O )/O ./O\u201d/O"
+                "id": "(/O Allah/Allah berfirman/O ,/O )/O \u201c/O Demi/O umurmu/O (/O Nabi/O Muhammad/Messenger )/O ,/O sungguh/O ,/O mereka/O terombang-ambing/O dalam/O kemabukan/O (/O demi/O melampiaskan/O hawa/O nafsu/O )/O ./O \u201d/O"
             }
         },
         "73": {
@@ -887,7 +887,7 @@
                 "id": "Katakanlah (Nabi Muhammad), \u201cSesungguhnya aku adalah pemberi peringatan yang jelas.\u201d"
             },
             "labels": {
-                "id": "Katakanlah/O (/O Nabi/O Muhammad/Messenger )/O ,/O \u201c/O Sesungguhnya/O aku/O adalah/O pemberi/O peringatan/O yang/O jelas/O ./O\u201d/O"
+                "id": "Katakanlah/O (/O Nabi/O Muhammad/Messenger )/O ,/O \u201c/O Sesungguhnya/O aku/O adalah/O pemberi/O peringatan/O yang/O jelas/O ./O \u201d/O"
             }
         },
         "90": {
